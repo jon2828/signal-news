@@ -1,297 +1,5 @@
 [
  {
-  "id": "281314b1a4c3dcd8",
-  "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
-    "summary": "The creators of 10 Pons V2 launches exempted a set of wallets from Pons' anti-sniping tax; those wallets went on to buy most of each token's supply, per onchain data.",
-    "published": "Sun, 27 Sep 2026 22:02:57 +0000"
-   }
-  ]
- },
- {
-  "id": "720f6cfcb35c3fc8",
-  "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-    "summary": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
-    "published": "Sat, 26 Sep 2026 17:24:12 +0000"
-   }
-  ]
- },
- {
-  "id": "e4028a4c08d9febd",
-  "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
-    "summary": "A federal appeals court ruled on Friday that Kalshi has not adequately shown its sports event contracts are swaps under the Commodity Exchange Act.",
-    "published": "Sat, 26 Sep 2026 15:17:34 +0000"
-   }
-  ]
- },
- {
-  "id": "005893a95801c24b",
-  "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
-    "summary": "Promoting a network\u2019s current uses generally would not create an expectation of profit, SEC staff said.",
-    "published": "Fri, 25 Sep 2026 20:32:40 +0000"
-   }
-  ]
- },
- {
-  "id": "ed4c3cd53a4f04a6",
-  "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
-    "summary": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
-    "published": "Fri, 25 Sep 2026 19:48:07 +0000"
-   }
-  ]
- },
- {
-  "id": "43ecfa4dd9893030",
-  "title": "Man charged in $16 million crypto \u2018massive pig butchering\u2019 scam",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
-    "summary": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
-    "published": "Fri, 25 Sep 2026 17:48:16 +0000"
-   }
-  ]
- },
- {
-  "id": "3dbd530ecde05589",
-  "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-    "summary": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
-    "published": "Fri, 25 Sep 2026 14:09:15 +0000"
-   }
-  ]
- },
- {
-  "id": "cd48c91af7fba6d4",
-  "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-    "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
-    "published": "Fri, 25 Sep 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e22c06e6ddc7d0d4",
-  "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-    "summary": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
-    "published": "Fri, 25 Sep 2026 13:48:57 +0000"
-   }
-  ]
- },
- {
-  "id": "907084d2159ef988",
-  "title": "Bluegraph \u2013 Explore NOAA buoy data, rebuilt in 3D from measured spectra",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://bluegraph.io/",
-    "summary": "<p>Article URL: <a href=\"https://bluegraph.io/\">https://bluegraph.io/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886901\">https://news.ycombinator.com/item?id=49886901</a></p> <p>Points: 15</p> <p># Comments: 2</p>",
-    "published": "Tue, 29 Sep 2026 01:29:31 +0000"
-   }
-  ]
- },
- {
-  "id": "361555630eb3b4fc",
-  "title": "Tank Body Problem",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "http://www.jimsitu.com",
-    "summary": "<p>Article URL: <a href=\"http://www.jimsitu.com\">http://www.jimsitu.com</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886482\">https://news.ycombinator.com/item?id=49886482</a></p> <p>Points: 57</p> <p># Comments: 12</p>",
-    "published": "Tue, 29 Sep 2026 00:41:45 +0000"
-   }
-  ]
- },
- {
-  "id": "fac69221532b24cb",
-  "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://lolchat.rip/",
-    "summary": "<p>Article URL: <a href=\"https://lolchat.rip/\">https://lolchat.rip/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886195\">https://news.ycombinator.com/item?id=49886195</a></p> <p>Points: 80</p> <p># Comments: 41</p>",
-    "published": "Tue, 29 Sep 2026 00:06:48 +0000"
-   }
-  ]
- },
- {
-  "id": "a560b1cffb145136",
-  "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://jonclegg.github.io/pacman-bakeoff/",
-    "summary": "<p>Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:<p>\u201cCreate a Pac-Man game in a single HTML page\u201d<p>Each model gets one shot \u2014 no follow-up prompts or fixes.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49885493\">https://news.ycombinator.com/item?id=49885493</a></p> <p>Points: 24</p> <p># Comments: 17</p>",
-    "published": "Mon, 28 Sep 2026 22:43:12 +0000"
-   }
-  ]
- },
- {
-  "id": "7ec804ad60bde441",
-  "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884625\">https://news.ycombinator.com/item?id=49884625</a></p> <p>Points: 65</p> <p># Comments: 9</p>",
-    "published": "Mon, 28 Sep 2026 21:26:41 +0000"
-   }
-  ]
- },
- {
-  "id": "5e33c235053c0e89",
-  "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/firelex/jeff",
-    "summary": "<p>Article URL: <a href=\"https://github.com/firelex/jeff\">https://github.com/firelex/jeff</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883844\">https://news.ycombinator.com/item?id=49883844</a></p> <p>Points: 414</p> <p># Comments: 156</p>",
-    "published": "Mon, 28 Sep 2026 20:23:36 +0000"
-   }
-  ]
- },
- {
-  "id": "a7a3b674e644c9d6",
-  "title": "World Labs Is Joining AMD",
-  "topic": "both",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.worldlabs.ai/blog/amd-announcement",
-    "summary": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/amd-announcement\">https://www.worldlabs.ai/blog/amd-announcement</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883760\">https://news.ycombinator.com/item?id=49883760</a></p> <p>Points: 245</p> <p># Comments: 100</p>",
-    "published": "Mon, 28 Sep 2026 20:18:05 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-    "published": "Mon, 28 Sep 2026 20:39:33 +0000"
-   },
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-09-29",
-    "summary": "",
-    "published": "Tue, 29 Sep 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "dd4ff024e415c2bd",
-  "title": "California farmers are struggling to sell grapes as demand for wine drops",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-    "summary": "<p>Article URL: <a href=\"https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops\">https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883539\">https://news.ycombinator.com/item?id=49883539</a></p> <p>Points: 132</p> <p># Comments: 307</p>",
-    "published": "Mon, 28 Sep 2026 20:00:06 +0000"
-   }
-  ]
- },
- {
-  "id": "4bc875ebcfd3251d",
-  "title": "Scientists solve 1840s space weather mystery",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/\">https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883536\">https://news.ycombinator.com/item?id=49883536</a></p> <p>Points: 94</p> <p># Comments: 42</p>",
-    "published": "Mon, 28 Sep 2026 20:00:03 +0000"
-   }
-  ]
- },
- {
-  "id": "2cef15b9c2c661a1",
-  "title": "It's Time to Investigate the AI Labs",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-    "summary": "<p>Article URL: <a href=\"https://calnewport.com/its-time-to-investigate-the-ai-labs/\">https://calnewport.com/its-time-to-investigate-the-ai-labs/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883471\">https://news.ycombinator.com/item?id=49883471</a></p> <p>Points: 391</p> <p># Comments: 140</p>",
-    "published": "Mon, 28 Sep 2026 19:53:35 +0000"
-   }
-  ]
- },
- {
-  "id": "09231f3d34fb224e",
-  "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://stateofutopia.com/experiments/microllmlab/",
-    "summary": "<p>Article URL: <a href=\"https://stateofutopia.com/experiments/microllmlab/\">https://stateofutopia.com/experiments/microllmlab/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882781\">https://news.ycombinator.com/item?id=49882781</a></p> <p>Points: 193</p> <p># Comments: 71</p>",
-    "published": "Mon, 28 Sep 2026 18:58:53 +0000"
-   }
-  ]
- },
- {
   "id": "50e18c5419845c26",
   "title": "Sonnet 5.5",
   "topic": "both",
@@ -580,298 +288,6 @@
     "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
     "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
     "published": "Mon, 28 Sep 2026 16:52:38 +0000"
-   }
-  ]
- },
- {
-  "id": "04b0c0bb2c90d3db",
-  "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-    "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-    "published": "Mon, 28 Sep 2026 16:47:49 +0000"
-   }
-  ]
- },
- {
-  "id": "eb2524f2e41527a4",
-  "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "published": "Mon, 28 Sep 2026 15:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "31bd347e7df03950",
-  "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-    "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-    "published": "Mon, 28 Sep 2026 15:29:21 +0000"
-   }
-  ]
- },
- {
-  "id": "c2ec0060054e6613",
-  "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-    "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
-    "published": "Mon, 28 Sep 2026 15:26:46 +0000"
-   }
-  ]
- },
- {
-  "id": "ddea09bd560a3a7f",
-  "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-    "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "31ac3c58c3d5df5e",
-  "title": "Commonwealth Fusion Systems\u2019 Brandon Sorbom and Helion\u2019s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-    "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
-    "published": "Mon, 28 Sep 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "1eadd5627184a89f",
-  "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "published": "Mon, 28 Sep 2026 19:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "8a86c97089bb6492",
-  "title": "Google Beam expands with new regions, partners, and customers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp\">We\u2019re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "published": "Wed, 23 Sep 2026 18:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "079e661c04cec0b0",
-  "title": "New experts join Google\u2019s AI & Economy team",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp\">We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-    "published": "Fri, 18 Sep 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "13d62ca6fcfd55d7",
-  "title": "Co-creating the future of fashion with Google",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp\">Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-    "published": "Fri, 18 Sep 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e7b9d12d1b3a7eb0",
-  "title": "Making global data easier to explore",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp\">Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-    "published": "Thu, 17 Sep 2026 20:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "18592959ad29d5e2",
-  "title": "AI for Societal Impact",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\">Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-    "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models",
-    "summary": "",
-    "published": "Thu, 04 Feb 2021 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b86d9a766fb72b73",
-  "title": "Building AI to accelerate science and improve lives",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp\">The true measure of AI is who it helps. Here\u2019s how it\u2019s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress \u2026",
-    "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "a243976a4aeffe78",
-  "title": "AI for everyone in every language",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp\">We\u2019re moving beyond traditional text translation to build models that understand the world\u2019s rich, living languages exactly as they are expressed.",
-    "published": "Tue, 15 Sep 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "00e29a681a6f5e3b",
-  "title": "New insights from Google\u2019s AI & Economy ATLAS",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp\">We\u2019ve translated ATLAS\u2019s millions of global data points into an interactive, open-access experience.",
-    "published": "Tue, 15 Sep 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "b49b47db0b359f67",
-  "title": "Watch astronaut Christina Koch and Google\u2019s James Manyika discuss space, technology, and discovery.",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\">Christina Koch sits down with James Manyika, Google\u2019s Senior Vice President of Research, Labs, Technology & Society.",
-    "published": "Mon, 14 Sep 2026 19:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "bf70dc826a65d37e",
-  "title": "DevFest is back",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp\">DevFest 2026 is back and here\u2019s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-    "published": "Mon, 14 Sep 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "1852061b5cf6950b",
-  "title": "3 ways to prep for your next big race with Search",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp\">Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-    "published": "Thu, 10 Sep 2026 16:00:00 +0000"
-   },
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp\">Here\u2019s how you can use Google Search tools to study for classes and standardized tests.",
-    "published": "Wed, 19 Aug 2026 19:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "b0dd0e34ba0b936c",
-  "title": "Get ready for the game with new football features in Search",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-    "published": "Wed, 09 Sep 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e8269fc9a10961e9",
-  "title": "Recreating a 70-year love story frame by frame",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp\">Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-    "published": "Wed, 09 Sep 2026 16:00:00 +0000"
    }
   ]
  },
@@ -10929,13 +10345,19 @@
   "id": "c29128dea28e476e",
   "title": "Elon Musk wanted an OpenAI for-profit",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "openai",
     "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
     "summary": "Elon Musk\u2019s latest legal filing against OpenAI marks his fourth attempt in less than a year to reframe his claims. However, his own words and actions speak for themselves\u2014in 2017, Elon not only wanted, but actually created, a for-profit as OpenAI\u2019s proposed new structure.",
     "published": "Fri, 13 Dec 2024 00:00:00 GMT"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "published": "Tue, 29 Sep 2026 22:20:59 +0000"
    }
   ]
  },
@@ -16572,6 +15994,174 @@
     "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
     "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
     "published": "Tue, 29 Sep 2026 12:45:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9448793ea837001c",
+  "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "summary": "<p>Article URL: <a href=\"https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49899090\">https://news.ycombinator.com/item?id=49899090</a></p> <p>Points: 108</p> <p># Comments: 53</p>",
+    "published": "Tue, 29 Sep 2026 19:30:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "04246642d8ec58cc",
+  "title": "Galaxy Game \u2013 Interim Computer Museum",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://icm.museum/blog/?p=698",
+    "summary": "<p>Article URL: <a href=\"https://icm.museum/blog/?p=698\">https://icm.museum/blog/?p=698</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49899004\">https://news.ycombinator.com/item?id=49899004</a></p> <p>Points: 8</p> <p># Comments: 0</p>",
+    "published": "Tue, 29 Sep 2026 19:24:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bcff759e04d7b8d7",
+  "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/lostmsu/TurboGPT",
+    "summary": "<p>Inspired by minGPT for home experiments.<p>Requires CUDA 13.4; build script is Windows only.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898931\">https://news.ycombinator.com/item?id=49898931</a></p> <p>Points: 33</p> <p># Comments: 4</p>",
+    "published": "Tue, 29 Sep 2026 19:20:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "21009051c68bf9c9",
+  "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://space.bl2.net/",
+    "summary": "<p>Article URL: <a href=\"https://space.bl2.net/\">https://space.bl2.net/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898778\">https://news.ycombinator.com/item?id=49898778</a></p> <p>Points: 40</p> <p># Comments: 14</p>",
+    "published": "Tue, 29 Sep 2026 19:08:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "845f25dd769d4a90",
+  "title": "Show HN: NSL \u2013 WSL for Linux",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://frostyard.github.io/nsl/",
+    "summary": "<p>One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev ",
+    "published": "Tue, 29 Sep 2026 14:51:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "793741c4c0f4922e",
+  "title": "America.gov",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://america.gov/",
+    "summary": "<p>Article URL: <a href=\"https://america.gov/\">https://america.gov/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893509\">https://news.ycombinator.com/item?id=49893509</a></p> <p>Points: 194</p> <p># Comments: 152</p>",
+    "published": "Tue, 29 Sep 2026 14:04:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e457d860c6261757",
+  "title": "Ask HN: What are you reading?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://news.ycombinator.com/item?id=49893157",
+    "summary": "<p>I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough. I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working...</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893157\">https://news.ycombinator.com/item?id=49893157</a></p> <p>Points: 79</p> <p># Comments: 209</p>",
+    "published": "Tue, 29 Sep 2026 13:44:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "31a2fbf94abebee1",
+  "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "summary": "<p>Article URL: <a href=\"https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890226\">https://news.ycombinator.com/item?id=49890226</a></p> <p>Points: 398</p> <p># Comments: 126</p>",
+    "published": "Tue, 29 Sep 2026 09:03:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8f289d0766df24d6",
+  "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+    "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+    "published": "Tue, 29 Sep 2026 22:18:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "88f5918d95eb6093",
+  "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+    "summary": "EliseAI raises $350M, doubles valuation in a year.",
+    "published": "Tue, 29 Sep 2026 21:51:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e70171cd9779c623",
+  "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+    "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+    "published": "Tue, 29 Sep 2026 21:20:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6421ca855574f79a",
+  "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "published": "Tue, 29 Sep 2026 20:15:47 +0000"
    }
   ]
  }

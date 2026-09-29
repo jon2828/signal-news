@@ -1,18 +1,18 @@
 [
  {
-  "id": "bd9265d374061c66",
-  "title": "Tether\u2019s USDT at center of Iran\u2019s shadow banking network, new Senate Report says",
+  "id": "005893a95801c24b",
+  "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
   "topic": "bitcoin",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "A Senate report linking USDT to Iran's shadow banking network is a major geopolitical and compliance risk for stablecoins.",
+  "reason": "SEC guidance clarifying the regulatory status of token buybacks and network upgrades is a significant compliance development for the crypto industry.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
-    "summary": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
-    "published": "Mon, 28 Sep 2026 19:10:42 +0000"
+    "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+    "summary": "Promoting a network\u2019s current uses generally would not create an expectation of profit, SEC staff said.",
+    "published": "Fri, 25 Sep 2026 20:32:40 +0000"
    }
   ]
  }
