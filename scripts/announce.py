@@ -28,7 +28,7 @@ def oauth1_header(method: str, url: str, creds: dict) -> str:
     params = {
         "oauth_consumer_key": creds["api_key"],
         "oauth_nonce": base64.b64encode(hashlib.sha256(
-            (creds["token"] + str(hash(url))).encode()).digest()).decode()[:32],
+            (creds["access_token"] + str(__import__("time").time_ns())).encode()).digest()).decode()[:32],
         "oauth_signature_method": "HMAC-SHA256",
         "oauth_timestamp": str(int(__import__("time").time())),
         "oauth_token": creds["access_token"],
