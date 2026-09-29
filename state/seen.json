@@ -6948,5 +6948,385 @@
   "url": "https://hn.watch/",
   "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
   "first_seen": "2026-09-29T05:54:42.061653+00:00"
+ },
+ "19db7cc5ca5cc5ea": {
+  "url": "https://openai.com/index/devday-2026-recap",
+  "title": "DevDay 2026 Recap",
+  "first_seen": "2026-09-29T20:08:44.951054+00:00"
+ },
+ "dd66acaed2a04b44": {
+  "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "title": "Introducing GPT-6.1 Sol",
+  "first_seen": "2026-09-29T20:08:44.951073+00:00"
+ },
+ "884977ecb8004cb3": {
+  "url": "https://openai.com/index/introducing-dots",
+  "title": "Introducing dots",
+  "first_seen": "2026-09-29T20:08:44.951076+00:00"
+ },
+ "cf468ec39dd67f09": {
+  "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "title": "Towards safety cases for frontier AI training",
+  "first_seen": "2026-09-29T20:08:44.951078+00:00"
+ },
+ "92fde6fef6194997": {
+  "url": "https://tldr.tech/ai/2026-09-29",
+  "title": "Claude Sonnet 5.5 \ud83e\udde0, Anthropic IPO leaks \ud83d\udcdd, AMD buys World Labs \ud83d\udcb0",
+  "first_seen": "2026-09-29T20:08:45.127722+00:00"
+ },
+ "3aad9b02b668f852": {
+  "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+  "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+  "first_seen": "2026-09-29T20:08:45.979744+00:00"
+ },
+ "23a65202f51e92bd": {
+  "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+  "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+  "first_seen": "2026-09-29T20:08:45.979758+00:00"
+ },
+ "f53db0fda4f59d2f": {
+  "url": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+  "title": "Democrats killed the Clarity Act",
+  "first_seen": "2026-09-29T20:08:45.979761+00:00"
+ },
+ "eb0fe23f4b97aca4": {
+  "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+  "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
+  "first_seen": "2026-09-29T20:08:45.979763+00:00"
+ },
+ "8b1a72a715bba06d": {
+  "url": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+  "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+  "first_seen": "2026-09-29T20:08:45.979765+00:00"
+ },
+ "384a7743e6fd4015": {
+  "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+  "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+  "first_seen": "2026-09-29T20:08:45.979767+00:00"
+ },
+ "cc86f477914dc462": {
+  "url": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
+  "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
+  "first_seen": "2026-09-29T20:08:45.979769+00:00"
+ },
+ "b43456cf99f22cad": {
+  "url": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
+  "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
+  "first_seen": "2026-09-29T20:08:45.979771+00:00"
+ },
+ "fe57c6c927883ebf": {
+  "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+  "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+  "first_seen": "2026-09-29T20:08:45.979774+00:00"
+ },
+ "8ac18adce8c1b5b4": {
+  "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+  "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+  "first_seen": "2026-09-29T20:08:45.979775+00:00"
+ },
+ "e3cb1b24358a6245": {
+  "url": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+  "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+  "first_seen": "2026-09-29T20:08:45.979777+00:00"
+ },
+ "936c1a6d2da678fd": {
+  "url": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+  "first_seen": "2026-09-29T20:08:46.105252+00:00"
+ },
+ "4394602629ac33c7": {
+  "url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+  "first_seen": "2026-09-29T20:08:46.105263+00:00"
+ },
+ "ac95cba3d6958f33": {
+  "url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+  "first_seen": "2026-09-29T20:08:46.105265+00:00"
+ },
+ "a0fe825f28ff6d11": {
+  "url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitwise launches first US spot NEAR ETF after token\u2019s recent surge",
+  "first_seen": "2026-09-29T20:08:46.105269+00:00"
+ },
+ "417a68ab28997e06": {
+  "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+  "first_seen": "2026-09-29T20:08:46.105271+00:00"
+ },
+ "aeb1d9a539a256a8": {
+  "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitget CEO \u2018not very optimistic\u2019 on recovering funds from $388M breach",
+  "first_seen": "2026-09-29T20:08:46.105273+00:00"
+ },
+ "356d3b0f8fabfb1d": {
+  "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a \u2018fool coin\u2019",
+  "first_seen": "2026-09-29T20:08:46.105275+00:00"
+ },
+ "2daebd10518e9d24": {
+  "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+  "first_seen": "2026-09-29T20:08:46.105277+00:00"
+ },
+ "c0142a1b82f405c0": {
+  "url": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "ECB puts AI agent payments on the digital euro drawing board",
+  "first_seen": "2026-09-29T20:08:46.105279+00:00"
+ },
+ "93b0573e36e25bfc": {
+  "url": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+  "first_seen": "2026-09-29T20:08:46.105281+00:00"
+ },
+ "86e0249fecdae3aa": {
+  "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+  "first_seen": "2026-09-29T20:08:46.105284+00:00"
+ },
+ "eefa720ac70cca0d": {
+  "url": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+  "first_seen": "2026-09-29T20:08:46.105286+00:00"
+ },
+ "60062f447904c133": {
+  "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+  "first_seen": "2026-09-29T20:08:46.105288+00:00"
+ },
+ "7f557d56985d547c": {
+  "url": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "BitMine could hit its 5% Ether supply target within weeks \u2014 then what?",
+  "first_seen": "2026-09-29T20:08:46.105290+00:00"
+ },
+ "ef23a75783a5631b": {
+  "url": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
+  "title": "CryptoQuant says bitcoin correction could be near as traders\u2019 unrealized profit hits 21-month high",
+  "first_seen": "2026-09-29T20:08:46.211467+00:00"
+ },
+ "bd39ecd01864ee5b": {
+  "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
+  "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
+  "first_seen": "2026-09-29T20:08:46.211478+00:00"
+ },
+ "62eb48f8195f4811": {
+  "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+  "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
+  "first_seen": "2026-09-29T20:08:46.211481+00:00"
+ },
+ "ce11c0fb894cbf54": {
+  "url": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
+  "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
+  "first_seen": "2026-09-29T20:08:46.211483+00:00"
+ },
+ "03f047c3268b7a0e": {
+  "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
+  "title": "Bitwise launches first US spot NEAR ETF with staking rewards",
+  "first_seen": "2026-09-29T20:08:46.211485+00:00"
+ },
+ "061547b541576988": {
+  "url": "https://www.theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125",
+  "title": "Ondo Perps CEO sees \u2018huge opportunity\u2019 for perps in US market, under different model",
+  "first_seen": "2026-09-29T20:08:46.211487+00:00"
+ },
+ "b5c0f035b149f1b7": {
+  "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+  "title": "Memory Companies Have Destroyed the Consumer Market",
+  "first_seen": "2026-09-29T20:08:47.450390+00:00"
+ },
+ "0303671394374f55": {
+  "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+  "title": "AI needs $6T in annual revenue to justify data centre boom",
+  "first_seen": "2026-09-29T20:08:47.450406+00:00"
+ },
+ "1396bae2bd70b74f": {
+  "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+  "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+  "first_seen": "2026-09-29T20:08:47.450409+00:00"
+ },
+ "8f87e236f7dcecb8": {
+  "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
+  "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "first_seen": "2026-09-29T20:08:47.450411+00:00"
+ },
+ "80e4ef842b12917f": {
+  "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+  "first_seen": "2026-09-29T20:08:47.450413+00:00"
+ },
+ "7f3ada3c2a261391": {
+  "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+  "title": "ChatGPT Pro 500",
+  "first_seen": "2026-09-29T20:08:47.450415+00:00"
+ },
+ "ff45c3d479d2cf69": {
+  "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+  "title": "Tcl/Tk 9.1 Released",
+  "first_seen": "2026-09-29T20:08:47.450417+00:00"
+ },
+ "443642623d579c04": {
+  "url": "https://openai.com/index/introducing-dots/",
+  "title": "Dots: Always-on agents",
+  "first_seen": "2026-09-29T20:08:47.450420+00:00"
+ },
+ "cb195e3aeb7c44ef": {
+  "url": "https://openai.com/index/devday-2026-recap/",
+  "title": "DevDay 2026 Recap",
+  "first_seen": "2026-09-29T20:08:47.450421+00:00"
+ },
+ "f8bd68ff7b9a2503": {
+  "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+  "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "first_seen": "2026-09-29T20:08:47.450423+00:00"
+ },
+ "0a51a0bd84cd0332": {
+  "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+  "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+  "first_seen": "2026-09-29T20:08:47.450425+00:00"
+ },
+ "e911851901eb11e2": {
+  "url": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+  "title": "What if Jev spoke Arrow?",
+  "first_seen": "2026-09-29T20:08:47.450428+00:00"
+ },
+ "6ef9a3c62bc4021c": {
+  "url": "https://github.com/ntfargo/Relapse-Exploit",
+  "title": "PS5 Relapse Exploit",
+  "first_seen": "2026-09-29T20:08:47.450429+00:00"
+ },
+ "87be46c6f9247b1d": {
+  "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+  "title": "Google ending ChromeOS support two years early",
+  "first_seen": "2026-09-29T20:08:47.450432+00:00"
+ },
+ "f6300592734effec": {
+  "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+  "title": "How Delhi cut electricity loss from 50 to 5 percent",
+  "first_seen": "2026-09-29T20:08:47.450434+00:00"
+ },
+ "877e7662cd2b960b": {
+  "url": "https://www.withouthotair.com/",
+  "title": "Without the Hot Air",
+  "first_seen": "2026-09-29T20:08:47.450436+00:00"
+ },
+ "4b5ac64aecfccf42": {
+  "url": "https://www.cbc.ca/lite/story/9.7361622",
+  "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+  "first_seen": "2026-09-29T20:08:47.450438+00:00"
+ },
+ "c11db1f66b183e67": {
+  "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+  "title": "Show HN: Jevstiller \u2013 Distill Jev into a local model, with a disagreement bound",
+  "first_seen": "2026-09-29T20:08:47.450440+00:00"
+ },
+ "3317c556e9003437": {
+  "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+  "title": "You are no longer invited to dinner",
+  "first_seen": "2026-09-29T20:08:47.450442+00:00"
+ },
+ "0892593e4f8a926b": {
+  "url": "https://github.com/PostHog/jeeves",
+  "title": "Jeeves. Reasoning improves Jev-like decision models",
+  "first_seen": "2026-09-29T20:08:47.450443+00:00"
+ },
+ "943491695bf72b00": {
+  "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+  "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+  "first_seen": "2026-09-29T20:08:47.596792+00:00"
+ },
+ "0bcc431eb8e7e1b1": {
+  "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+  "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+  "first_seen": "2026-09-29T20:08:47.596804+00:00"
+ },
+ "66cf3fca4ff1585e": {
+  "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+  "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+  "first_seen": "2026-09-29T20:08:47.596806+00:00"
+ },
+ "447bf1aab0079f2b": {
+  "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+  "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+  "first_seen": "2026-09-29T20:08:47.596808+00:00"
+ },
+ "b6f078daefc5deb8": {
+  "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+  "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+  "first_seen": "2026-09-29T20:08:47.596811+00:00"
+ },
+ "cbc20ec61d8d4369": {
+  "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+  "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+  "first_seen": "2026-09-29T20:08:47.596813+00:00"
+ },
+ "7880523c2dd78f58": {
+  "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+  "title": "AI-powered app maker Wabi pivots to a messaging experience",
+  "first_seen": "2026-09-29T20:08:47.596815+00:00"
+ },
+ "572dce99347eb8d4": {
+  "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+  "title": "OpenAI launches Dots, its bubbly agentic avatar",
+  "first_seen": "2026-09-29T20:08:47.596817+00:00"
+ },
+ "e2bf069c3bf035a2": {
+  "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+  "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+  "first_seen": "2026-09-29T20:08:47.596819+00:00"
+ },
+ "914354df00745e7d": {
+  "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+  "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+  "first_seen": "2026-09-29T20:08:47.596821+00:00"
+ },
+ "e277d681e1977582": {
+  "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+  "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+  "first_seen": "2026-09-29T20:08:47.596823+00:00"
+ },
+ "d012ac1e215ca72e": {
+  "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+  "title": "Can a chatbot fix the government maze? The White House is about to find out",
+  "first_seen": "2026-09-29T20:08:47.596824+00:00"
+ },
+ "8be5080985a2f61e": {
+  "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+  "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+  "first_seen": "2026-09-29T20:08:47.596826+00:00"
+ },
+ "c1b93576189ec687": {
+  "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+  "title": "After losing his voice to cancer, this founder is building \u2018glasses for voice\u2019",
+  "first_seen": "2026-09-29T20:08:47.596828+00:00"
+ },
+ "6d9b6862c1262388": {
+  "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+  "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market",
+  "first_seen": "2026-09-29T20:08:47.596830+00:00"
+ },
+ "08e650677bc16834": {
+  "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+  "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+  "first_seen": "2026-09-29T20:08:47.596831+00:00"
+ },
+ "16c4b876e19df62b": {
+  "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+  "title": "Meta is expanding its AI agent Muse to small businesses",
+  "first_seen": "2026-09-29T20:08:47.596833+00:00"
+ },
+ "3ad0f7209405214b": {
+  "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+  "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
+  "first_seen": "2026-09-29T20:08:47.596835+00:00"
+ },
+ "f92368dd830680f5": {
+  "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+  "title": "Fireflies adds dictation to its desktop notetaking apps",
+  "first_seen": "2026-09-29T20:08:47.596837+00:00"
+ },
+ "617867c64b2ecae6": {
+  "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+  "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+  "first_seen": "2026-09-29T20:08:47.596838+00:00"
  }
 }

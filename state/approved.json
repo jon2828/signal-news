@@ -1,18 +1,18 @@
 [
  {
-  "id": "5e193b644c8bf636",
-  "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+  "id": "bd9265d374061c66",
+  "title": "Tether\u2019s USDT at center of Iran\u2019s shadow banking network, new Senate Report says",
   "topic": "bitcoin",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "Original reporting tracing $6M in stolen funds from a $387.5M hack moving through THORChain despite blocking requests.",
+  "reason": "A Senate report linking USDT to Iran's shadow banking network is a major geopolitical and compliance risk for stablecoins.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
-    "summary": "CoinDesk found 27 successful swaps moving about 2,390 ETH into 75.2 BTC, even as Bitget urged THORChain to stop serving addresses tied to the $387.5 million theft.",
-    "published": "Mon, 28 Sep 2026 12:13:09 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+    "summary": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
+    "published": "Mon, 28 Sep 2026 19:10:42 +0000"
    }
   ]
  }
