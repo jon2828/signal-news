@@ -1,0 +1,65 @@
+{
+  "_comment": "Signal pipeline configuration. pipeline_enabled=false is the one-click kill switch: the workflow and every script check it first and exit without posting. The edit model must differ from the write model (independent check).",
+  "pipeline_enabled": true,
+  "provider_chain": [
+    "nvidia",
+    "groq",
+    "openrouter"
+  ],
+  "env_keys": {
+    "nvidia": "NVIDIA_API_KEY",
+    "groq": "GROQ_API_KEY",
+    "openrouter": "OPENROUTER_API_KEY"
+  },
+  "models": {
+    "triage": {
+      "groq": "llama-3.3-70b-versatile",
+      "openrouter": "nvidia/nemotron-3.5-lightning:free",
+      "nvidia": "moonshotai/kimi-k3"
+    },
+    "write": {
+      "groq": "openai/gpt-oss-120b",
+      "openrouter": "qwen/qwen3.8-27b:free",
+      "nvidia": "moonshotai/kimi-k3"
+    },
+    "edit": {
+      "groq": "llama-3.3-70b-versatile",
+      "openrouter": "qwen/qwen3.8-27b:free",
+      "nvidia": "moonshotai/kimi-k3"
+    }
+  },
+  "caps": {
+    "posts_per_day": 2,
+    "posts_per_run": 2,
+    "min_triage_score": 7,
+    "max_words_per_post": 1000
+  },
+  "fetch": {
+    "timeout_seconds": 20,
+    "max_bytes_per_feed": 2000000,
+    "user_agent": "Mozilla/5.0 (compatible; SignalBot/1.0; +https://github.com/jon/signal-news)"
+  },
+  "triage": {
+    "prompt_file": "prompts/triage.md",
+    "score_scale": "1-10, 10 = market-moving or frontier-shifting, 7+ = publishable"
+  },
+  "write": {
+    "prompt_file": "prompts/write.md"
+  },
+  "edit": {
+    "prompt_file": "prompts/edit.md"
+  },
+  "lint": {
+    "script": "scripts/lint.py",
+    "max_hits_per_post": 2
+  },
+  "temperature": {
+    "triage": 0.0,
+    "write": 0.2,
+    "edit": 0.0
+  },
+  "schedule_cron_utc": [
+    "0 6 * * *",
+    "0 18 * * *"
+  ]
+}

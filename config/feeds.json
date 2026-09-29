@@ -1,0 +1,106 @@
+{
+  "_comment": "Feed sources for the Signal pipeline. enabled=false means the URL failed the live test on 2026-09-29; retest before re-enabling. weight multiplies the triage score (capped at 10).",
+  "feeds": [
+    {
+      "enabled": true,
+      "name": "openai",
+      "topic": "ai",
+      "url": "https://openai.com/news/rss.xml",
+      "weight": 1.0
+    },
+    {
+      "enabled": true,
+      "name": "tldr-ai",
+      "topic": "ai",
+      "url": "https://tldr.tech/api/rss/ai",
+      "weight": 0.9
+    },
+    {
+      "enabled": true,
+      "name": "optech",
+      "topic": "bitcoin",
+      "url": "https://bitcoinops.org/feed.xml",
+      "weight": 1.1
+    },
+    {
+      "enabled": true,
+      "name": "coindesk",
+      "topic": "bitcoin",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "weight": 1.0
+    },
+    {
+      "enabled": true,
+      "name": "cointelegraph",
+      "topic": "bitcoin",
+      "url": "https://cointelegraph.com/rss",
+      "weight": 0.9
+    },
+    {
+      "enabled": true,
+      "name": "theblock",
+      "topic": "bitcoin",
+      "url": "https://www.theblock.co/rss.xml",
+      "weight": 1.0
+    },
+    {
+      "enabled": true,
+      "name": "hn",
+      "topic": "both",
+      "url": "https://hnrss.org/frontpage",
+      "weight": 0.9
+    },
+    {
+      "enabled": true,
+      "name": "techcrunch",
+      "topic": "ai",
+      "url": "https://techcrunch.com/feed/",
+      "weight": 0.9
+    },
+    {
+      "enabled": true,
+      "name": "venturebeat-ai",
+      "topic": "ai",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "weight": 0.9
+    },
+    {
+      "enabled": true,
+      "name": "simonwillison",
+      "topic": "ai",
+      "url": "https://simonwillison.net/atom/everything/",
+      "weight": 1.1
+    },
+    {
+      "enabled": true,
+      "name": "blog-google-ai",
+      "topic": "ai",
+      "url": "https://blog.google/technology/ai/rss/",
+      "weight": 1.0
+    },
+    {
+      "enabled": false,
+      "name": "bitcoincore-releases",
+      "topic": "bitcoin",
+      "url": "https://bitcoincore.org/en/releases/rss.xml",
+      "weight": 1.1,
+      "note": "404 in live test 2026-09-29. Candidate replacement: https://github.com/bitcoin/bitcoin/releases.atom (also failed via extraction backend; retest from GitHub Actions, different network path)."
+    },
+    {
+      "enabled": false,
+      "name": "bitcoinmagazine",
+      "topic": "bitcoin",
+      "url": "https://bitcoinmagazine.com/feed",
+      "weight": 1.0,
+      "note": "fetch error in live test 2026-09-29; site may block non-browser agents. Retest with browser User-Agent from Actions."
+    },
+    {
+      "enabled": false,
+      "name": "anthropic",
+      "topic": "ai",
+      "url": "https://www.anthropic.com/rss.xml",
+      "weight": 1.1,
+      "note": "404 in live test 2026-09-29. Check anthropic.com/news for the current feed path."
+    }
+  ]
+}

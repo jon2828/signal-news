@@ -1,0 +1,19 @@
+[
+ {
+  "id": "5e193b644c8bf636",
+  "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+  "topic": "bitcoin",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Original reporting tracing $6M in stolen funds from a $387.5M hack moving through THORChain despite blocking requests.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
+    "summary": "CoinDesk found 27 successful swaps moving about 2,390 ETH into 75.2 BTC, even as Bitget urged THORChain to stop serving addresses tied to the $387.5 million theft.",
+    "published": "Mon, 28 Sep 2026 12:13:09 +0000"
+   }
+  ]
+ }
+]
