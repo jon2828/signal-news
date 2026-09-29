@@ -101,6 +101,26 @@ def main() -> int:
              f'</body></html>')
     (dist / "index.html").write_text(index)
 
+    # Per-post pages: the index links here, so they must exist.
+    posts_dir_dist = dist / "posts"
+    posts_dir_dist.mkdir(exist_ok=True)
+    for m in posts:
+        page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
+                f'<meta name="viewport" content="width=device-width,initial-scale=1">'
+                f'<title>{esc(m.get("title"))} — Signal</title>'
+                f'<style>{SITE_CSS}</style></head><body>'
+                f'<p><a href="/">← Signal</a></p>'
+                + render_post(m, base_url, full=True)
+                + '</body></html>')
+        (posts_dir_dist / f"{m['path'].stem}.html").write_text(page)
+
+    notfound = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
+                f'<meta name="viewport" content="width=device-width,initial-scale=1">'
+                f'<title>Not found — Signal</title><style>{SITE_CSS}</style></head>'
+                f'<body><h1>Not found</h1><p>The page you asked for does not exist. '
+                f'<a href="/">Back to Signal</a>.</p></body></html>')
+    (dist / "404.html").write_text(notfound)
+
     disclosure_md = (ROOT / "site" / "pages" / "disclosure.md").read_text()
     disclosure_html = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                        f'<meta name="viewport" content="width=device-width,initial-scale=1">'
