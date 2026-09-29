@@ -13,7 +13,7 @@
   },
   "models": {
     "triage": {
-      "groq": "llama-3.3-70b-versatile",
+      "groq": "qwen/qwen3.8-27b",
       "openrouter": "nvidia/nemotron-3.5-lightning:free",
       "nvidia": "moonshotai/kimi-k3"
     },
@@ -23,7 +23,7 @@
       "nvidia": "moonshotai/kimi-k3"
     },
     "edit": {
-      "groq": "llama-3.3-70b-versatile",
+      "groq": "openai/gpt-oss-120b",
       "openrouter": "qwen/qwen3.8-27b:free",
       "nvidia": "moonshotai/kimi-k3"
     }
@@ -61,5 +61,42 @@
   "schedule_cron_utc": [
     "0 6 * * *",
     "0 18 * * *"
-  ]
+  ],
+  "job_chain": {
+    "edit": [
+      "groq",
+      "nvidia",
+      "openrouter"
+    ]
+  },
+  "paid_options": {
+    "_comment": "Inert until you add a paid key or flip a slug into the live 'models' section. To use: 1) add the key to ~/.hermes/.env or repo secrets, 2) set the model slug in 'models', 3) optionally reorder provider_chain / job_chain. Billing is per-token except Cloudflare Workers Paid ($5/mo flat, 10K free neurons/day still included).",
+    "models": {
+      "nvidia": {
+        "write": "z-ai/glm-5.3",
+        "triage": "moonshotai/kimi-k3",
+        "edit": "deepseek-ai/deepseek-v4.1-flash"
+      },
+      "groq": {
+        "write": "openai/gpt-oss-120b",
+        "triage": "openai/gpt-oss-120b",
+        "edit": "openai/gpt-oss-120b"
+      },
+      "openrouter": {
+        "write": "openai/gpt-oss-120b",
+        "triage": "openai/gpt-oss-120b",
+        "edit": "openai/gpt-oss-120b"
+      },
+      "cloudflare": {
+        "write": "@cf/zai-org/glm-5.3",
+        "triage": "@cf/moonshotai/kimi-k2.7-code",
+        "edit": "@cf/deepseek-ai/deepseek-v4-pro-0813"
+      }
+    },
+    "upgrade_ladder": [
+      "1. Groq pay-per-token (~$1/mo for the whole pipeline) \u2014 removes every rate limit",
+      "2. Cloudflare Workers Paid ($5/mo flat) \u2014 unlocks glm-5.3 / kimi-k2.7 / deepseek-v4 on Workers AI, 10K free neurons/day still included",
+      "3. Cloudflare Pro ($20/mo) \u2014 not needed; bandwidth is already free"
+    ]
+  }
 }

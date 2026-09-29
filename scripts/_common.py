@@ -42,10 +42,11 @@ def provider_client(cfg: dict) -> tuple[str | None, str | None, str | None]:
     return None, None, None
 
 
-def provider_chain_clients(cfg: dict):
-    """Every available (provider, base_url, api_key), in configured order."""
+def provider_chain_clients(cfg: dict, order: list[str] | None = None):
+    """Every available (provider, base_url, api_key), in the given order
+    (default: the configured provider chain)."""
     keys = cfg.get("env_keys", {})
-    for prov in cfg.get("provider_chain", []):
+    for prov in (order or cfg.get("provider_chain", [])):
         key = os.environ.get(keys.get(prov, ""), "").strip()
         if not key:
             continue
@@ -67,7 +68,9 @@ def chat_with_fallback(cfg: dict, job: str, prompt: str, max_tokens: int = 4000,
     """
     temps = cfg.get("temperature", {})
     errors = []
-    for prov, base_url, api_key in provider_chain_clients(cfg):
+    chain = cfg.get("job_chain", {}).get(job) or cfg.get("provider_chain", [])
+    ordered = [p for p in chain if p in cfg.get("provider_chain", [])]
+    for prov, base_url, api_key in provider_chain_clients(cfg, order=ordered):
         model = cfg.get("models", {}).get(job, {}).get(prov)
         if not model:
             continue
@@ -99,7 +102,10 @@ def chat(model: str, prompt: str, user_content: str, base_url: str,
         f"{base_url}/chat/completions",
         data=body,
         headers={"Authorization": f"Bearer {api_key}",
-                 "Content-Type": "application/json"},
+                 "Content-Type": "application/json",
+                 # Groq (and other Cloudflare-fronted APIs) return error 1010
+                 # for urllib's default Python UA. A normal UA passes.
+                 "User-Agent": "SignalBot/1.0 (news pipeline; +https://github.com/jon/signal-news)"},
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         data = json.loads(r.read())

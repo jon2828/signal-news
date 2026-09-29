@@ -41,3 +41,11 @@ Two ways, both instant:
 ## Hosting
 
 Cloudflare Pages: connect the repo, build command `python3 scripts/build.py`, output directory `site/dist`. Free tier covers this easily (unlimited bandwidth, 500 builds/month against ~90 used). Set `site_base_url` in `config/pipeline.json` once the domain is live, so post links and the RSS feed use absolute URLs.
+
+## Paid models (the optionality)
+
+`config/pipeline.json` → `paid_options` holds per-provider model presets and the upgrade ladder, inert until you add a key or flip a slug into the live `models` section. Ladder, best value first: Groq pay-per-token (~$1/month for the whole pipeline), Cloudflare Workers Paid ($5/month flat, unlocks glm-5.3 / kimi-k2.7 / deepseek-v4 with 10K free neurons/day still included), Cloudflare Pro (not needed; bandwidth is already free).
+
+## Resume
+
+Everything that happened, every failure mode and fix, and the three steps to go fully live are in [RESUME.md](RESUME.md). Start there when picking this project back up.
