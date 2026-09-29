@@ -95,9 +95,9 @@ def main() -> int:
              f'<title>Signal — AI and Bitcoin news that earned its place</title>'
              f'<style>{SITE_CSS}</style></head><body>'
              f'<h1>Signal</h1><p>The AI and Bitcoin news that earned its place. '
-             f'Selected, written, and checked by software. <a href="/disclosure.html">How it works</a>.</p>'
+             f'Selected, written, and checked by software. <a href="/disclosure">How it works</a>.</p>'
              f'{items}<footer><a href="/feed.xml">RSS</a> · '
-             f'<a href="https://github.com/jon/signal-news">Open source: every decision logged</a></footer>'
+             f'<a href="https://github.com/jon2828/signal-news">Open source: every decision logged</a></footer>'
              f'</body></html>')
     (dist / "index.html").write_text(index)
 
