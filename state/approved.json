@@ -1,18 +1,108 @@
 [
  {
-  "id": "005893a95801c24b",
-  "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-  "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
+  "id": "3d48e529ad7a20b1",
+  "title": "Introducing GPT-6 Sol and Luna",
+  "topic": "ai",
+  "score": 9,
+  "raw_score": 9,
   "weight": 1.0,
-  "reason": "SEC guidance clarifying the regulatory status of token buybacks and network upgrades is a significant compliance development for the crypto industry.",
+  "reason": "Major frontier model release (GPT-6 Sol and Luna) with significant capability and access changes.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
-    "summary": "Promoting a network\u2019s current uses generally would not create an expectation of profit, SEC staff said.",
-    "published": "Fri, 25 Sep 2026 20:32:40 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "published": "Tue, 22 Sep 2026 18:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "published": "Thu, 06 Aug 2026 10:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "published": "Wed, 08 Jul 2026 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "summary": "This post introduced GPT-5.5, a model built for complex tasks like coding, research, and data analysis across tools.",
+    "published": "Thu, 23 Apr 2026 11:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+    "summary": "This 2026 launch introduced ChatGPT Images 2.0, with improved text rendering, multilingual support, and visual reasoning. See what\u2019s new in Images 2.5.",
+    "published": "Tue, 21 Apr 2026 12:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/academy/image-generation",
+    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "summary": "Introducing GPT-5.4, OpenAI\u2019s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "published": "Thu, 05 Mar 2026 10:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-chatgpt-health",
+    "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+    "published": "Wed, 07 Jan 2026 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/new-chatgpt-images-is-here",
+    "summary": "This 2025 launch introduced a faster ChatGPT Images experience and GPT\u2011Image\u20111.5 in the API. Explore the latest ChatGPT Images 2.5.",
+    "published": "Tue, 16 Dec 2025 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-chatgpt-pulse",
+    "summary": "Today we\u2019re releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
+    "published": "Thu, 25 Sep 2025 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-chatgpt-agent",
+    "summary": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance.",
+    "published": "Thu, 17 Jul 2025 10:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-4o-image-generation",
+    "summary": "This 2025 launch introduced native image generation in GPT\u20114o, including stronger text rendering and instruction following. Explore ChatGPT Images 2.5.",
+    "published": "Tue, 25 Mar 2025 11:05:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/altera",
+    "summary": "Altera uses GPT-4o to build a new area of human collaboration",
+    "published": "Tue, 01 Oct 2024 09:59:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+    "summary": "Introducing GPT-4o and more tools to ChatGPT free users We are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+    "published": "Mon, 13 May 2024 10:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/image-gpt",
+    "summary": "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image completions and samples. By establishing a correlation between sample quality and image classification accuracy, we show that our best generative model also contains features competitive with top convolutional nets in the unsupervised setting.",
+    "published": "Wed, 17 Jun 2020 07:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+    "published": "Tue, 29 Sep 2026 10:00:00 GMT"
    }
   ]
  }
