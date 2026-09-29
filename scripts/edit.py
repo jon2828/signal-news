@@ -15,7 +15,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import (ROOT, chat_with_fallback, config, extract_article,  # noqa: E402
-                     guarded_exit, kill_switch, log_decision, provider_client, slugify)
+                     guarded_exit, kill_switch, log_decision, normalize_text,
+                     provider_client, slugify)
 from lint import lint  # noqa: E402
 
 MAX_SOURCES_PER_POST = 3
@@ -105,7 +106,7 @@ def main() -> int:
             published += 1
             log_decision("published", json.dumps({"file": draft.name, "verdict": "publish", "reason": reason}))
         elif v == "rewrite" and verdict.get("revised_post"):
-            revised = str(verdict["revised_post"]).strip()
+            revised = normalize_text(str(verdict["revised_post"]).strip())
             hits = lint(revised)
             total_hits = sum(h[1] for h in hits)
             # word count on body only

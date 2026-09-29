@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers static-assets config for Signal.
+  // The GitHub Actions pipeline builds the site to site/dist and pushes;
+  // this config just serves that directory at the edge.
+  "name": "signal-news",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./site/dist",
+    "html_handling": "auto-trailing-slash"
+  }
+}

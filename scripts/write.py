@@ -13,10 +13,24 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import (ROOT, chat_with_fallback, config, extract_article,  # noqa: E402
-                     guarded_exit, kill_switch, log_decision, provider_client, slugify)
+                     guarded_exit, kill_switch, log_decision, normalize_text,
+                     provider_client, slugify)
 from lint import lint  # noqa: E402
 
 MAX_SOURCES_PER_POST = 3
+
+
+def _return_to_queue(cand: dict) -> None:
+    """A write-stage drop must not permanently lose a high scorer: put the
+    candidate back so the next triage can reconsider it."""
+    path = ROOT / "state" / "candidates.json"
+    try:
+        candidates = json.loads(path.read_text())
+        if not any(c["id"] == cand["id"] for c in candidates):
+            candidates.append(cand)
+            path.write_text(json.dumps(candidates, indent=1))
+    except Exception:
+        pass
 
 
 def parse_post(text: str) -> dict | None:
@@ -92,6 +106,7 @@ def main() -> int:
                 articles = fallback
         if not articles:
             log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": "no source article could be fetched"}))
+            _return_to_queue(cand)
             continue
 
         user_content = "\n\n".join(articles)
@@ -101,10 +116,12 @@ def main() -> int:
         except Exception as e:
             log_decision("write_failed", json.dumps({"id": cand["id"], "error": str(e)[:200]}))
             continue
+        raw = normalize_text(raw)
 
         meta = parse_post(raw)
         if not meta or not meta.get("title") or not meta.get("body"):
             log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": "model output missing frontmatter or body"}))
+            _return_to_queue(cand)
             continue
 
         hits = lint(meta["body"])
@@ -112,10 +129,12 @@ def main() -> int:
         words = len(meta["body"].split())
         if words > max_words:
             log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": f"word count {words} > {max_words}"}))
+            _return_to_queue(cand)
             continue
         if total_hits > max_hits:
             names = ", ".join(f"{h[0]}({h[1]})" for h in hits)
             log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": f"lint hits {total_hits}: {names}"}))
+            _return_to_queue(cand)
             continue
 
         meta.setdefault("date", datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d"))
