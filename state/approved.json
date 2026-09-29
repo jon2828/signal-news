@@ -1,30 +1,18 @@
 [
  {
-  "id": "587a70348a735f61",
-  "title": "GPT-6 Astra: The next generation in intelligence for work",
+  "id": "2163b413300de52f",
+  "title": "Apple is getting this wrong",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "Release of a new frontier model (GPT-6 Astra) from a major lab, which is a market-moving event.",
+  "reason": "Direct response to a lawsuit by a major tech competitor (Apple) involving legal disputes and employee claims, which is high-impact news.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "summary": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "published": "Wed, 09 Sep 2026 11:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "published": "Thu, 03 Sep 2026 11:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-3-apps",
-    "summary": "Over 300 applications are delivering GPT-3\u2013powered search, conversation, text completion, and other advanced AI features through our API.",
-    "published": "Thu, 25 Mar 2021 07:00:00 GMT"
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "published": "Mon, 03 Aug 2026 22:00:00 GMT"
    }
   ]
  }

@@ -7403,5 +7403,45 @@
   "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
   "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
   "first_seen": "2026-09-29T23:05:43.397238+00:00"
+ },
+ "13e53ce605e38fec": {
+  "url": "https://railcode.dev/blog/vibe-coded-website",
+  "title": "How our vibe coded website looks like a designer made it",
+  "first_seen": "2026-09-29T23:24:45.235292+00:00"
+ },
+ "bf2e738d2e1af5ff": {
+  "url": "https://github.com/ninjahawk/livenerf",
+  "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+  "first_seen": "2026-09-29T23:24:45.235314+00:00"
+ },
+ "171a3274eb6d311c": {
+  "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+  "title": "Deser: Rethinking Rust Serialization",
+  "first_seen": "2026-09-29T23:24:45.235321+00:00"
+ },
+ "a7b61b652d1e9e62": {
+  "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+  "title": "Vermont replacing power plants with home batteries",
+  "first_seen": "2026-09-29T23:24:45.235328+00:00"
+ },
+ "6e39dc1b2d9d40be": {
+  "url": "https://enigma.design",
+  "title": "Show HN: A working 3D model of an Enigma machine",
+  "first_seen": "2026-09-29T23:24:45.235331+00:00"
+ },
+ "de9b9b86827c3301": {
+  "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+  "title": "Needed 1+1, built a functional programming language",
+  "first_seen": "2026-09-29T23:24:45.235338+00:00"
+ },
+ "b368433ce9ce277d": {
+  "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+  "title": "Building a certificate authority for the whole Internet",
+  "first_seen": "2026-09-29T23:24:45.235347+00:00"
+ },
+ "12f47de0a8e1c5ab": {
+  "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+  "title": "Backblaze drive stats for Q2 2026",
+  "first_seen": "2026-09-29T23:24:45.235350+00:00"
  }
 }

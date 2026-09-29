@@ -1,327 +1,5 @@
 [
  {
-  "id": "b274e00978a8c030",
-  "title": "Daybreak models are now available on AWS",
-  "topic": "ai",
-  "source_count": 5,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "published": "Tue, 11 Aug 2026 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-    "published": "Mon, 01 Jun 2026 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/codex-now-generally-available",
-    "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management\u2014making Codex easier to use and manage at scale.",
-    "published": "Mon, 06 Oct 2025 10:50:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/api-no-waitlist",
-    "summary": "Wider availability made possible by safety progress.",
-    "published": "Thu, 18 Nov 2021 08:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-api",
-    "summary": "We\u2019re releasing an API for accessing new AI models developed by OpenAI.",
-    "published": "Thu, 11 Jun 2020 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "61282b7420ed0675",
-  "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "published": "Mon, 10 Aug 2026 14:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c7b962b1d9efaa2a",
-  "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/model-ml",
-    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "published": "Mon, 10 Aug 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7a678e9a26d7e264",
-  "title": "What building an AI-native finance function taught me",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-an-ai-native-finance-function",
-    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "published": "Mon, 10 Aug 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7f776d7829d07ede",
-  "title": "Putting frontier cyber models in more trusted hands",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "summary": "Approved Daybreak partners can use OpenAI\u2019s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "published": "Mon, 10 Aug 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3a8585570cab21df",
-  "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "summary": "Meet GPT-5.6-Cyber, OpenAI\u2019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "published": "Mon, 10 Aug 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ee449db47d8dff19",
-  "title": "Premium seats are coming to ChatGPT Business",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-    "published": "Mon, 10 Aug 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8f3f7b571773b5e8",
-  "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "published": "Mon, 10 Aug 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1ea3eea3d9a52b4c",
-  "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/zapier",
-    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "published": "Mon, 10 Aug 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/marketing",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, create content, analyze performance, and turn insights into action with practical AI workflows.",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "833934ee3b25f4a5",
-  "title": "Responding to the next frontier of critical cyber capabilities",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls.",
-    "published": "Fri, 07 Aug 2026 15:20:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2ee94000fec4618b",
-  "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/hsp-gruppe",
-    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "published": "Fri, 07 Aug 2026 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6da5f2d271da214d",
-  "title": "Working with the American Psychological Association on youth mental health and AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "published": "Thu, 06 Aug 2026 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "fea9ae47ebf2b0f0",
-  "title": "From asking to doing: How the world is putting ChatGPT to work",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "published": "Thu, 06 Aug 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/upwork",
-    "summary": "Upwork puts AI to work, uniting team members, operations and product development",
-    "published": "Tue, 20 Aug 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "977f60f7e5e3c697",
-  "title": "Third-party cyber evaluations involving OpenAI models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "published": "Tue, 04 Aug 2026 19:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b274d6785ee9abb7",
-  "title": "New ways to learn and teach with ChatGPT Work and Codex",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build.",
-    "published": "Tue, 04 Aug 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "published": "Tue, 10 Mar 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2163b413300de52f",
-  "title": "Apple is getting this wrong",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "published": "Mon, 03 Aug 2026 22:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d04cc35bd3ccb8a5",
-  "title": "How we built a realtime system for responsive voice AI in six months",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "published": "Mon, 03 Aug 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "54e616a32e5ede38",
-  "title": "Circles powers telco personalization with OpenAI technology",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/circles",
-    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "published": "Mon, 03 Aug 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6d58997b466ca59f",
-  "title": "Ten advances in mathematics and theoretical computer science",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "published": "Sat, 01 Aug 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b86dc435d64acf26",
-  "title": "Advancing responsible AI across Europe",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "published": "Fri, 31 Jul 2026 15:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "4879819590782b03",
   "title": "Univ\u00e9 builds an AI-ready workforce",
   "topic": "ai",
@@ -616,370 +294,6 @@
     "url": "https://openai.com/index/cars24",
     "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1e97faa490facd0c",
-  "title": "The US is advancing AI safety through state and federal action",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "published": "Wed, 15 Jul 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ee230258f27f8a0d",
-  "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "published": "Wed, 15 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "92ab1f77dd8ccf54",
-  "title": "How to manage AI investments in the agentic era",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "published": "Tue, 14 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b9a7811027c857a9",
-  "title": "Data science workflows with ChatGPT Work",
-  "topic": "ai",
-  "source_count": 7,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "summary": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
-    "published": "Tue, 14 Jul 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-    "summary": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
-    "published": "Tue, 14 Jul 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
-    "summary": "Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, decision packets, and progress reporting.",
-    "published": "Fri, 15 May 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "summary": "Learn practical ChatGPT Work workflows for reporting, variance analysis, forecasts, monthly reviews, and decision-ready finance deliverables.",
-    "published": "Tue, 12 May 2026 15:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/operations",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/finance",
-    "summary": "Learn practical ChatGPT workflows for financial analysis, reporting, planning, and decision-ready communication.",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/sales",
-    "summary": "Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution.",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "027b05f9d0faae18",
-  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/deutsche-telekom",
-    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "published": "Fri, 10 Jul 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2c539797fe263ec5",
-  "title": "Getting started with ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/academy/getting-started",
-    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "published": "Fri, 10 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e799563c0958e055",
-  "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "published": "Thu, 09 Jul 2026 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5941cef110c0f469",
-  "title": "ChatGPT is now a partner for your most ambitious work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "published": "Thu, 09 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8fd74bd3f51991b5",
-  "title": "GPT-5.5 Bio Bug Bounty",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "summary": "Details about the OpenAI Bio Bounty program",
-    "published": "Thu, 09 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "41b85c9cdb7a0122",
-  "title": "Our approach to government and national security partnerships",
-  "topic": "ai",
-  "source_count": 4,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-    "published": "Wed, 08 Jul 2026 13:30:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/approach-to-data-and-ai",
-    "summary": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It\u2019s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager for creators and content owners, and where we\u2019re headed.",
-    "published": "Tue, 07 May 2024 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/data-partnerships",
-    "summary": "Working together to create open-source and private datasets for AI training.",
-    "published": "Thu, 09 Nov 2023 08:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/our-approach-to-ai-safety",
-    "summary": "Ensuring that AI systems are built, deployed, and used safely is critical to our mission.",
-    "published": "Wed, 05 Apr 2023 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "eaad4cbcfa7f5327",
-  "title": "Separating signal from noise in coding evaluations",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-    "published": "Wed, 08 Jul 2026 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "de92863115274012",
-  "title": "Helping K\u201312 educators build practical AI skills",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/k-12-educators-practical-skills",
-    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K\u201312 educators build practical AI skills for the classroom.",
-    "published": "Wed, 08 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "cb031b5cf3e3be67",
-  "title": "MUFG aims to become AI-native with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mufg",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "60d1b56766e3b677",
-  "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/australian-payments-plus",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "published": "Tue, 07 Jul 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/cyberagent",
-    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-    "published": "Thu, 09 Apr 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "fb435a036a32d4b8",
-  "title": "How ChatGPT adoption has expanded",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "published": "Tue, 30 Jun 2026 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "200e6c5f82a034d1",
-  "title": "Inside Genebench-Pro",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "summary": "",
-    "published": "Tue, 30 Jun 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "published": "Tue, 30 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4c4d91d3ce63907b",
-  "title": "Core dump epidemiology: fixing an 18-year-old bug",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "published": "Tue, 30 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5b79476b114204df",
-  "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-    "published": "Mon, 29 Jun 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1ae317c00ced77b0",
-  "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-  "topic": "ai",
-  "source_count": 4,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "published": "Sun, 28 Jun 2026 17:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/amazon-partnership",
-    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI\u2019s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-    "published": "Fri, 27 Feb 2026 05:30:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-apple-announce-partnership",
-    "summary": "OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.",
-    "published": "Mon, 10 Jun 2024 11:55:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-reddit-partnership",
-    "summary": "OpenAI and Reddit Partnership We\u2019re bringing Reddit\u2019s unique content to ChatGPT and our products.",
-    "published": "Thu, 16 May 2024 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "adbd50c1b1db1eb7",
-  "title": "Previewing GPT-5.6 Sol: a next-generation model",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "published": "Fri, 26 Jun 2026 10:00:00 GMT"
    }
   ]
  },
@@ -14092,6 +13406,118 @@
     "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
     "summary": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
     "published": "Tue, 29 Sep 2026 23:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "13e53ce605e38fec",
+  "title": "How our vibe coded website looks like a designer made it",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://railcode.dev/blog/vibe-coded-website",
+    "summary": "<p>Article URL: <a href=\"https://railcode.dev/blog/vibe-coded-website\">https://railcode.dev/blog/vibe-coded-website</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901973\">https://news.ycombinator.com/item?id=49901973</a></p> <p>Points: 13</p> <p># Comments: 13</p>",
+    "published": "Tue, 29 Sep 2026 22:59:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bf2e738d2e1af5ff",
+  "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ninjahawk/livenerf\">https://github.com/ninjahawk/livenerf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901736\">https://news.ycombinator.com/item?id=49901736</a></p> <p>Points: 38</p> <p># Comments: 9</p>",
+    "published": "Tue, 29 Sep 2026 22:36:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "171a3274eb6d311c",
+  "title": "Deser: Rethinking Rust Serialization",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/9/29/deser/\">https://lucumr.pocoo.org/2026/9/29/deser/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901149\">https://news.ycombinator.com/item?id=49901149</a></p> <p>Points: 8</p> <p># Comments: 2</p>",
+    "published": "Tue, 29 Sep 2026 21:48:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a7b61b652d1e9e62",
+  "title": "Vermont replacing power plants with home batteries",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms\">https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49897993\">https://news.ycombinator.com/item?id=49897993</a></p> <p>Points: 18</p> <p># Comments: 9</p>",
+    "published": "Tue, 29 Sep 2026 18:19:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6e39dc1b2d9d40be",
+  "title": "Show HN: A working 3D model of an Enigma machine",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://enigma.design",
+    "summary": "<p>I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing out hundreds of extremely detailed prompts, and building my own inspection tools to ensure that every part is sized and positioned in a historically accurate way.<p>It's still a work in progress, but would love any feedback on the experience so far!<p>1. <a href=\"https://www.youtube.com/watch?v=Js",
+    "published": "Tue, 29 Sep 2026 17:15:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "de9b9b86827c3301",
+  "title": "Needed 1+1, built a functional programming language",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+    "summary": "<p>Article URL: <a href=\"https://hereticpleb.vercel.app/blog/needed-one-plus-one/\">https://hereticpleb.vercel.app/blog/needed-one-plus-one/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895864\">https://news.ycombinator.com/item?id=49895864</a></p> <p>Points: 3</p> <p># Comments: 0</p>",
+    "published": "Tue, 29 Sep 2026 16:18:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b368433ce9ce277d",
+  "title": "Building a certificate authority for the whole Internet",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cloudflare-certificate-authority/\">https://blog.cloudflare.com/cloudflare-certificate-authority/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893144\">https://news.ycombinator.com/item?id=49893144</a></p> <p>Points: 25</p> <p># Comments: 7</p>",
+    "published": "Tue, 29 Sep 2026 13:44:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "12f47de0a8e1c5ab",
+  "title": "Backblaze drive stats for Q2 2026",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+    "summary": "<p>Article URL: <a href=\"https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/\">https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893002\">https://news.ycombinator.com/item?id=49893002</a></p> <p>Points: 33</p> <p># Comments: 0</p>",
+    "published": "Tue, 29 Sep 2026 13:34:20 +0000"
    }
   ]
  }
