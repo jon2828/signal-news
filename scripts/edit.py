@@ -33,11 +33,28 @@ def front_meta(text: str) -> dict:
                         meta["sources"] = json.loads(line.split(":", 1)[1].strip().replace("'", '"'))
                     except Exception:
                         meta["sources"] = []
+                elif line.startswith("candidate_id:"):
+                    meta["candidate_id"] = line.split(":", 1)[1].strip()
                 elif line.startswith("title:"):
                     meta["title"] = line.split(":", 1)[1].strip()
         except ValueError:
             pass
     return meta
+
+
+def _requeue_by_candidate_id(candidate_id: str) -> None:
+    """Edit-stage drop with unverifiable sources: put the candidate back in
+    the queue using the entry this run's triage left in approved.json."""
+    import json as _json
+    try:
+        approved = _json.loads((ROOT / "state" / "approved.json").read_text())
+        cand = next((e for e in approved if e.get("id") == candidate_id), None)
+        if cand:
+            from _common import _return_to_queue
+            _return_to_queue({"id": cand["id"], "title": cand["title"], "topic": cand.get("topic", "both"),
+                              "source_count": len(cand.get("sources", [])), "sources": cand.get("sources", [])})
+    except Exception:
+        pass
 
 
 def main() -> int:
@@ -79,6 +96,7 @@ def main() -> int:
                 log_decision("fetch_failed", json.dumps({"url": url, "error": f"{type(e).__name__}: {e}"[:120]}))
         if not articles:
             log_decision("edit_dropped", json.dumps({"file": draft.name, "reason": "sources unreachable, cannot verify"}))
+            _requeue_by_candidate_id(meta.get("candidate_id", ""))
             shutil.move(str(draft), str(declined_dir / draft.name))
             continue
 
