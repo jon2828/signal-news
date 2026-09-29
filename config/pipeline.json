@@ -98,5 +98,6 @@
       "2. Cloudflare Workers Paid ($5/mo flat) \u2014 unlocks glm-5.3 / kimi-k2.7 / deepseek-v4 on Workers AI, 10K free neurons/day still included",
       "3. Cloudflare Pro ($20/mo) \u2014 not needed; bandwidth is already free"
     ]
-  }
+  },
+  "site_base_url": "https://signal-news.jon-22b.workers.dev"
 }
