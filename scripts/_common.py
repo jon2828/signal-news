@@ -140,6 +140,16 @@ def parse_json_blob(text: str):
     raise ValueError(f"no JSON found in model response: {text[:200]}")
 
 
+def normalize_text(text: str) -> str:
+    """Mechanical fixes the lint would otherwise reject a draft for:
+    curly quotes -> straight, em-dash -> comma, en-dash -> hyphen.
+    Deterministic and safe; editorial style is the lint's job after this."""
+    text = text.replace("\u201c", '"').replace("\u201d", '"')
+    text = text.replace("\u2018", "'").replace("\u2019", "'")
+    text = text.replace("\u2014", ", ").replace("\u2013", "-")
+    return re.sub(r"(, ){2,}", ", ", re.sub(r" ,", ",", text))
+
+
 def slugify(text: str, maxlen: int = 60) -> str:
     s = re.sub(r"[^a-z0-9\s-]", "", text.lower()).strip()
     s = re.sub(r"[\s-]+", "-", s)
