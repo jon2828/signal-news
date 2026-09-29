@@ -124,6 +124,13 @@ def main() -> int:
             _return_to_queue(cand)
             continue
 
+        # The model never gets to claim its sources: force the URLs we
+        # actually fetched, so the fact-checker verifies against ground truth.
+        real_urls = [s["url"] for s in cand["sources"][:MAX_SOURCES_PER_POST]
+                     if str(s.get("url", "")).startswith("http")]
+        if real_urls:
+            meta["sources"] = real_urls
+
         hits = lint(meta["body"])
         total_hits = sum(h[1] for h in hits)
         words = len(meta["body"].split())
@@ -146,6 +153,7 @@ def main() -> int:
                     f"date: {meta['date']}",
                     f"topic: {meta.get('topic', cand['topic'])}",
                     f"score: {meta['score']}",
+                    f"candidate_id: {cand['id']}",
                     f"sources: {json.dumps(meta['sources'])}"]
         if meta["triage_reason"]:
             safe_reason = meta["triage_reason"][:150].replace('"', "'")

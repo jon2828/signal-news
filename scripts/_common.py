@@ -35,6 +35,19 @@ def guarded_exit(script_name: str) -> int:
     return 0
 
 
+def _return_to_queue(cand: dict) -> None:
+    """A drop must not permanently lose a high scorer: put the candidate
+    back so the next triage can reconsider it."""
+    path = ROOT / "state" / "candidates.json"
+    try:
+        candidates = json.loads(path.read_text())
+        if not any(c["id"] == cand["id"] for c in candidates):
+            candidates.append(cand)
+            path.write_text(json.dumps(candidates, indent=1))
+    except Exception:
+        pass
+
+
 def provider_client(cfg: dict) -> tuple[str | None, str | None, str | None]:
     """First available (provider, base_url, api_key) from the configured chain."""
     for prov, base_url, key in provider_chain_clients(cfg):
