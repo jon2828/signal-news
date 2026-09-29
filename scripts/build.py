@@ -92,9 +92,9 @@ def main() -> int:
     items = "\n\n".join(render_post(m, base_url, full=False) for m in posts)
     index = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
              f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-             f'<title>Signal — AI and Bitcoin news that earned its place</title>'
+             f'<title>Unspent Thoughts — AI and Bitcoin news that earned its place</title>'
              f'<style>{SITE_CSS}</style></head><body>'
-             f'<h1>Signal</h1><p>The AI and Bitcoin news that earned its place. '
+             f'<h1>Unspent Thoughts</h1><p>The AI and Bitcoin news that earned its place. '
              f'Selected, written, and checked by software. <a href="/disclosure">How it works</a>.</p>'
              f'{items}<footer><a href="/feed.xml">RSS</a> · '
              f'<a href="https://github.com/jon2828/signal-news">Open source: every decision logged</a></footer>'
@@ -116,15 +116,15 @@ def main() -> int:
 
     notfound = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-                f'<title>Not found — Signal</title><style>{SITE_CSS}</style></head>'
+                f'<title>Not found — Unspent Thoughts</title><style>{SITE_CSS}</style></head>'
                 f'<body><h1>Not found</h1><p>The page you asked for does not exist. '
-                f'<a href="/">Back to Signal</a>.</p></body></html>')
+                f'<a href="/">Back to Unspent Thoughts</a>.</p></body></html>')
     (dist / "404.html").write_text(notfound)
 
     disclosure_md = (ROOT / "site" / "pages" / "disclosure.md").read_text()
     disclosure_html = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                        f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-                       f'<title>How this site works — Signal</title>'
+                       f'<title>How this site works — Unspent Thoughts</title>'
                        f'<style>{SITE_CSS}</style></head><body>'
                        f'<h1>How this site works</h1>'
                        + disclosure_md.replace("\n\n", "</p>\n<p>").join(["<p>", "</p>"])
@@ -143,7 +143,7 @@ def main() -> int:
             f"<pubDate>{esc(m.get('date'))} 00:00:00 GMT</pubDate>"
             f"<description>{esc(desc[0][:300] if desc else '')}</description></item>")
     feed = (f'<?xml version="1.0"?><rss version="2.0"><channel>'
-            f'<title>Signal</title><link>{base_url or "/"}</link>'
+            f'<title>Unspent Thoughts</title><link>{base_url or "/"}</link>'
             f'<description>The AI and Bitcoin news that earned its place</description>'
             f'<lastBuildDate>{now}</lastBuildDate>{"".join(rss_items)}</channel></rss>')
     (dist / "feed.xml").write_text(feed)
