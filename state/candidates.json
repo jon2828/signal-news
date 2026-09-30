@@ -12449,13 +12449,19 @@
   "id": "975f576532672844",
   "title": "Gemini 4 Argon",
   "topic": "both",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913571\">https://news.ycombinator.com/item?id=49913571</a></p> <p>Points: 304</p> <p># Comments: 127</p>",
     "published": "Wed, 30 Sep 2026 20:04:37 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/gemini-4-argon\">https://artificialanalysis.ai/models/gemini-4-argon</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914236\">https://news.ycombinator.com/item?id=49914236</a></p> <p>Points: 37</p> <p># Comments: 17</p>",
+    "published": "Wed, 30 Sep 2026 20:50:28 +0000"
    }
   ]
  },
@@ -12694,6 +12700,160 @@
     "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
     "published": "Wed, 30 Sep 2026 18:23:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "65062a2c1f259ee6",
+  "title": "Standard Chartered sees Ethena\u2019s USDe reaching $40B, ENA hitting $2",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SXTX0355JX9EYXHCG8DQG5/hi-usdc-onto-banking-banks-have-deeper-interest-in-digital-than-previously-thought.png\" alt=\"Standard Chartered sees Ethena\u2019s USDe reaching $40B, ENA hitting $2\" class=\"type:primaryImage\"></p><p>The bank also expects Ethena\u2019s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and token buybacks increase. </p>",
+    "published": "Wed, 30 Sep 2026 20:57:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "eb326066b0832a49",
+  "title": "Clarity Act\u2019s failure gave crypto \u2018faster\u2019 regulatory wins, Bitwise CIO says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+    "summary": "Bitwise\u2019s Matt Hougan says Clarity\u2019s defeat left crypto with fewer restrictions and faster SEC action.",
+    "published": "Wed, 30 Sep 2026 21:53:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4e134543c9e1cd0f",
+  "title": "Gitea 28.0",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.gitea.com/release-of-28.0.0/",
+    "summary": "<p>Article URL: <a href=\"https://blog.gitea.com/release-of-28.0.0/\">https://blog.gitea.com/release-of-28.0.0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913975\">https://news.ycombinator.com/item?id=49913975</a></p> <p>Points: 43</p> <p># Comments: 15</p>",
+    "published": "Wed, 30 Sep 2026 20:32:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8395a4e2d4a664b3",
+  "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "summary": "<p>Article URL: <a href=\"https://www.neuroai.science/p/functional-ultrasound-imaging-from\">https://www.neuroai.science/p/functional-ultrasound-imaging-from</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913604\">https://news.ycombinator.com/item?id=49913604</a></p> <p>Points: 9</p> <p># Comments: 1</p>",
+    "published": "Wed, 30 Sep 2026 20:06:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4f2c29510b4c35a0",
+  "title": "CS240 AI Cheating Retrospective",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://turkeyland.net/thoughts/ai.php",
+    "summary": "<p>Article URL: <a href=\"https://turkeyland.net/thoughts/ai.php\">https://turkeyland.net/thoughts/ai.php</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913458\">https://news.ycombinator.com/item?id=49913458</a></p> <p>Points: 22</p> <p># Comments: 8</p>",
+    "published": "Wed, 30 Sep 2026 19:54:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1029a8825d36e280",
+  "title": "Dear Software Makers",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/dear-software-makers/\">https://blog.jim-nielsen.com/2026/dear-software-makers/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913364\">https://news.ycombinator.com/item?id=49913364</a></p> <p>Points: 23</p> <p># Comments: 7</p>",
+    "published": "Wed, 30 Sep 2026 19:45:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8173f742261c8980",
+  "title": "Before pixels: Modular industrial dashboards",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "summary": "<p>Article URL: <a href=\"https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\">https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49912792\">https://news.ycombinator.com/item?id=49912792</a></p> <p>Points: 12</p> <p># Comments: 2</p>",
+    "published": "Wed, 30 Sep 2026 18:49:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "46ed83ebf73ae7c1",
+  "title": "Recursive `make` and `-j`",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/",
+    "summary": "<p>Article URL: <a href=\"https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/\">https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49912094\">https://news.ycombinator.com/item?id=49912094</a></p> <p>Points: 13</p> <p># Comments: 4</p>",
+    "published": "Wed, 30 Sep 2026 17:46:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1a91fd474c444d6f",
+  "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.chompiclub.com/opensource",
+    "summary": "<p>Article URL: <a href=\"https://www.chompiclub.com/opensource\">https://www.chompiclub.com/opensource</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49912048\">https://news.ycombinator.com/item?id=49912048</a></p> <p>Points: 10</p> <p># Comments: 2</p>",
+    "published": "Wed, 30 Sep 2026 17:42:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6f2cec5d2dfaff3a",
+  "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.software3d.com/MillersMonster.php",
+    "summary": "<p>Article URL: <a href=\"https://www.software3d.com/MillersMonster.php\">https://www.software3d.com/MillersMonster.php</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49911534\">https://news.ycombinator.com/item?id=49911534</a></p> <p>Points: 9</p> <p># Comments: 0</p>",
+    "published": "Wed, 30 Sep 2026 17:00:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f9953f3a0f91b814",
+  "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "published": "Wed, 30 Sep 2026 21:07:40 +0000"
    }
   ]
  }

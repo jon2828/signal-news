@@ -549,3 +549,7 @@
 {"ts": "2026-09-30T20:41:04.515827+00:00", "action": "triage_skipped", "detail": "daily cap reached (4 posts today)"}
 {"ts": "2026-09-30T20:41:04.652338+00:00", "action": "edit_skipped", "detail": "daily cap reached (4 posts today); drafts kept for tomorrow"}
 {"ts": "2026-09-30T20:41:05.045997+00:00", "action": "announced", "detail": "{\"file\": \"2026-09-30-shielded-bitcoin-proposes-private-transfers-on-bitcoin-l1-wi-shielded\", \"post_id\": \"2105397541269287387\", \"text\": \"Shielded Bitcoin proposes private transfers on Bitcoin L1 without a soft fork \\u2014 https://unspentthoughts.com/posts/2026-0\"}"}
+{"ts": "2026-09-30T22:02:36.742048+00:00", "action": "feed_failed", "detail": "{\"feed\": \"venturebeat-ai\", \"error\": \"HTTPError: HTTP Error 429: Too Many Requests\"}"}
+{"ts": "2026-09-30T22:02:36.832574+00:00", "action": "dedupe", "detail": "12 items -> 861 candidates"}
+{"ts": "2026-09-30T22:02:36.903732+00:00", "action": "triage_skipped", "detail": "daily cap reached (4 posts today)"}
+{"ts": "2026-09-30T22:02:37.041605+00:00", "action": "edit_skipped", "detail": "daily cap reached (4 posts today); drafts kept for tomorrow"}
