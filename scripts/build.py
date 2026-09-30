@@ -89,11 +89,18 @@ def main() -> int:
     dist = ROOT / "site" / "dist"
     dist.mkdir(parents=True, exist_ok=True)
 
+    # Optional privacy-first analytics: Cloudflare Web Analytics beacon.
+    analytics = ""
+    token = cfg.get("analytics_token", "")
+    if token:
+        analytics = (f"<script defer src='https://static.cloudflareinsights.com/beacon.min.js' "
+                     f"data-cf-beacon='{json.dumps({'token': token})}'></script>")
+
     items = "\n\n".join(render_post(m, base_url, full=False) for m in posts)
     index = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
              f'<meta name="viewport" content="width=device-width,initial-scale=1">'
              f'<title>Unspent Thoughts — AI and Bitcoin news that earned its place</title>'
-             f'<style>{SITE_CSS}</style></head><body>'
+             f'<style>{SITE_CSS}</style>{analytics}</head><body>'
              f'<h1>Unspent Thoughts</h1><p>The AI and Bitcoin news that earned its place. '
              f'Selected, written, and checked by software. <a href="/disclosure">How it works</a>.</p>'
              f'{items}<footer><a href="/feed.xml">RSS</a> · '
@@ -108,7 +115,7 @@ def main() -> int:
         page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                 f'<title>{esc(m.get("title"))} — Unspent Thoughts</title>'
-                f'<style>{SITE_CSS}</style></head><body>'
+                f'<style>{SITE_CSS}</style>{analytics}</head><body>'
                 f'<p><a href="/">← Unspent Thoughts</a></p>'
                 + render_post(m, base_url, full=True)
                 + '</body></html>')
@@ -125,7 +132,7 @@ def main() -> int:
     disclosure_html = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                        f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                        f'<title>How this site works — Unspent Thoughts</title>'
-                       f'<style>{SITE_CSS}</style></head><body>'
+                       f'<style>{SITE_CSS}</style>{analytics}</head><body>'
                        f'<h1>How this site works</h1>'
                        + disclosure_md.replace("\n\n", "</p>\n<p>").join(["<p>", "</p>"])
                        + '<p><a href="/">← back</a></p></body></html>')
