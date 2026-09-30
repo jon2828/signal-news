@@ -1,5 +1,5 @@
 {
-  "_comment": "Unspent Thoughts pipeline configuration. pipeline_enabled=false is the one-click kill switch: the workflow and every script check it first and exit without posting. The edit model must differ from the write model (independent check).",
+  "_comment": "Unspent Thoughts pipeline configuration. pipeline_enabled=false is the one-click kill switch: the workflow and every script check it first and exit without posting. The edit model must differ from the write model (independent check). Paid OpenRouter fallback funded Oct 2026 (~$1-6/mo at full cadence): edit=gpt-oss-120b, triage=glm-5.3-flash, write=kimi-k3.",
   "pipeline_enabled": true,
   "provider_chain": [
     "nvidia",
@@ -14,17 +14,17 @@
   "models": {
     "triage": {
       "groq": "qwen/qwen3.8-27b",
-      "openrouter": "nvidia/nemotron-3.5-lightning:free",
+      "openrouter": "z-ai/glm-5.3-flash",
       "nvidia": "moonshotai/kimi-k3"
     },
     "write": {
       "groq": "openai/gpt-oss-120b",
-      "openrouter": "qwen/qwen3.8-27b:free",
+      "openrouter": "moonshotai/kimi-k3",
       "nvidia": "moonshotai/kimi-k3"
     },
     "edit": {
       "groq": "openai/gpt-oss-120b",
-      "openrouter": "qwen/qwen3.8-27b:free",
+      "openrouter": "openai/gpt-oss-120b",
       "nvidia": "moonshotai/kimi-k3"
     }
   },
@@ -65,8 +65,8 @@
   "job_chain": {
     "edit": [
       "groq",
-      "nvidia",
-      "openrouter"
+      "openrouter",
+      "nvidia"
     ]
   },
   "paid_options": {
