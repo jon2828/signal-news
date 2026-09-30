@@ -1,315 +1,5 @@
 [
  {
-  "id": "2b6976f96bb5f02f",
-  "title": "How agents are transforming work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
-    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "published": "Thu, 25 Jun 2026 02:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1a015f5dfa42958d",
-  "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "summary": "OpenAI and Broadcom introduce Jalape\u00f1o, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "published": "Wed, 24 Jun 2026 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6507bbb3977767d1",
-  "title": "Helping build shared standards for advanced AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "published": "Tue, 23 Jun 2026 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7c36fb32c6285fc2",
-  "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "published": "Tue, 23 Jun 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0c794cbb255ff771",
-  "title": "How Omio is building the future of conversational travel",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/omio",
-    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "published": "Tue, 23 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f7e9d38ae7326e72",
-  "title": "Daybreak: Tools for securing every organization in the world",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "published": "Mon, 22 Jun 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f0ab1740b8b7f5b3",
-  "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/patch-the-planet",
-    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "published": "Mon, 22 Jun 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6fdda2fdc1d813da",
-  "title": "Codex-maxxing for long-running work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-    "published": "Mon, 22 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "eebdb7f63bb5dd4f",
-  "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts.",
-    "published": "Sun, 21 Jun 2026 23:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "217d8a1a56f1c727",
-  "title": "New usage analytics and updated spend controls for enterprises",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "published": "Thu, 18 Jun 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2155d7cb8c43e82f",
-  "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-    "published": "Thu, 18 Jun 2026 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1a8cd099cf1eaeb6",
-  "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "published": "Wed, 17 Jun 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0088b66458750462",
-  "title": "Introducing LifeSciBench",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-    "published": "Wed, 17 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b387731f4f83720d",
-  "title": "Predicting model behavior before release by simulating deployment",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/deployment-simulation",
-    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-    "published": "Tue, 16 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "888bd1de6f406f7a",
-  "title": "Introducing the OpenAI Partner Network",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "published": "Sun, 14 Jun 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e17db83823d25ce6",
-  "title": "New OpenAI Academy courses for the next era of work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "published": "Fri, 12 Jun 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "dcc2fd07a9e82426",
-  "title": "How Preply combines AI and human tutors to personalize learning",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/preply",
-    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "published": "Fri, 12 Jun 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/learning-from-human-preferences",
-    "summary": "One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with DeepMind\u2019s safety team, we\u2019ve developed an algorithm which can infer what humans want by being told which of two proposed behaviors is better.",
-    "published": "Tue, 13 Jun 2017 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8875a0080daca525",
-  "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6600f3e4b9646c4b",
-  "title": "OpenAI to acquire Ona",
-  "topic": "ai",
-  "source_count": 4,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-astral",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "published": "Thu, 19 Mar 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "published": "Mon, 09 Mar 2026 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-neptune",
-    "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-    "published": "Wed, 03 Dec 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a9f0898c4190e001",
-  "title": "BBVA puts AI at the core of banking with OpenAI",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/bbva",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/bbva-collaboration-expansion",
-    "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
-    "published": "Fri, 12 Dec 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "436a674e3bf2eef7",
   "title": "How an astrophysicist uses Codex to help simulate black holes",
   "topic": "ai",
@@ -656,138 +346,6 @@
   ]
  },
  {
-  "id": "c8b9a6b007c10efd",
-  "title": "Our views on AI policy and political advocacy",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company\u2019s behalf.",
-    "published": "Mon, 01 Jun 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "dadd123def02abdb",
-  "title": "Building the infrastructure for the Intelligence Age in Michigan",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-    "published": "Mon, 01 Jun 2026 12:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-    "published": "Wed, 29 Apr 2026 15:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b021d026b0eb12b9",
-  "title": "\u201cData Center Bandwagon\u201d Campaign: US-targeted influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
-    "summary": "OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.",
-    "published": "Mon, 01 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b365f6c426caef5e",
-  "title": "\u201cTech and Tariffs\u201d Campaign: Influence activity targeting US tech policy",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
-    "summary": "OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.",
-    "published": "Mon, 01 Jun 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e63fa88b5624cf9a",
-  "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/boston-childrens-hospital",
-    "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-    "published": "Fri, 29 May 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "507ec0fdf6297e19",
-  "title": "How Braintrust turns customer requests into code with Codex",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/braintrust",
-    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "published": "Fri, 29 May 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8337eeb248ea1830",
-  "title": "Strengthening societal resilience with Rosalind Biodefense",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-    "published": "Fri, 29 May 2026 03:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "33e1df4abe4ea5f3",
-  "title": "A shared playbook for trustworthy third party evaluations",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-    "published": "Fri, 29 May 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c4a9a577612daa8d",
-  "title": "How Endava builds an agentic organization with Codex",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/endava",
-    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "published": "Thu, 28 May 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "3e9dde27d0980f78",
   "title": "OpenAI\u2019s Frontier Governance Framework",
   "topic": "ai",
@@ -798,176 +356,6 @@
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "summary": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
     "published": "Thu, 28 May 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a1f161b6a344e4fa",
-  "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/cisco",
-    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-    "published": "Wed, 27 May 2026 11:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9da64821c60f866d",
-  "title": "Building self-improving tax agents with Codex",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-    "published": "Wed, 27 May 2026 07:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-tools-for-building-agents",
-    "summary": "",
-    "published": "Tue, 11 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b36c91942c4f0187",
-  "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/warp",
-    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-    "published": "Wed, 27 May 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "fae225528858b04c",
-  "title": "Election information and safeguards in 2026",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "summary": "Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI transparency, misuse safeguards, and bias monitoring.",
-    "published": "Wed, 27 May 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ed9f6061321c89ed",
-  "title": "AI is becoming a first hire for small businesses",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ai-first-hire-small-business",
-    "summary": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI.",
-    "published": "Mon, 25 May 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2958e44acb3bbf99",
-  "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-  "topic": "ai",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-    "published": "Mon, 25 May 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/hearst",
-    "summary": "Hearst\u2019s iconic brands bring curated lifestyle and local news content to OpenAI\u2019s products.",
-    "published": "Tue, 08 Oct 2024 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/strategic-content-partnership-with-time",
-    "summary": "We\u2019re partnering with TIME and its 101 years of archival content to enhance responses and provide links to stories on Time.com",
-    "published": "Thu, 27 Jun 2024 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4ce39150a4dcc4b8",
-  "title": "How Virgin Atlantic ships faster with Codex",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "published": "Fri, 22 May 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ef1db9edff97d09f",
-  "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-  "topic": "ai",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "published": "Fri, 22 May 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gartner-2025-emerging-leader",
-    "summary": "OpenAI has been named an Emerging Leader in Gartner\u2019s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
-    "published": "Mon, 17 Nov 2025 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/o1-coding",
-    "summary": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
-    "published": "Thu, 12 Sep 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "85a3fdb43c804c3b",
-  "title": "AdventHealth advances whole-person care with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/adventhealth",
-    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "published": "Thu, 21 May 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7f625f66633806e0",
-  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "published": "Wed, 20 May 2026 00:00:00 GMT"
    }
   ]
  },
@@ -12653,11 +12041,17 @@
   "id": "943491695bf72b00",
   "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "published": "Tue, 29 Sep 2026 19:52:37 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
     "published": "Tue, 29 Sep 2026 19:52:37 +0000"
    }
@@ -13240,6 +12634,55 @@
     "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
     "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation\">https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898050\">https://news.ycombinator.com/item?id=49898050</a></p> <p>Points: 10</p> <p># Comments: 3</p>",
     "published": "Tue, 29 Sep 2026 18:22:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2aad90a8467d644b",
+  "title": "Trump accord calls for tech firms to \u2018self police\u2019 their own frontier AI",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QVAJACC48T8ZK5QJCFWHFD/trump-sign.jpg\" alt=\"Trump accord calls for tech firms to \u2018self police\u2019 their own frontier AI\" class=\"type:primaryImage\"></p><p>The voluntary accord puts much of the responsibility for managing frontier AI risks on developers. </p>",
+    "published": "Wed, 30 Sep 2026 00:28:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6600f3e4b9646c4b",
+  "title": "OpenAI to acquire Ona",
+  "topic": "ai",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "Major acquisition of Ona (and potentially Promptfoo) to expand Codex's cloud capabilities, a significant strategic move for frontier AI infrastructure.",
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "published": "Thu, 11 Jun 2026 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-to-acquire-astral",
+    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "published": "Thu, 19 Mar 2026 00:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "published": "Mon, 09 Mar 2026 10:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-to-acquire-neptune",
+    "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "published": "Wed, 03 Dec 2025 10:00:00 GMT"
    }
   ]
  }

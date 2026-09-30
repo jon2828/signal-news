@@ -1,53 +1,53 @@
 [
  {
-  "id": "6d964f10c3337bbc",
-  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "id": "6600f3e4b9646c4b",
+  "title": "OpenAI to acquire Ona",
   "topic": "ai",
-  "score": 8,
-  "raw_score": 8,
+  "score": 9,
+  "raw_score": 9,
   "weight": 1.0,
-  "reason": "Frontier model release (GPT-5.6) with significant efficiency and capability claims, representing a major shift in AI capabilities.",
+  "reason": "Major acquisition of Ona (and potentially Promptfoo) to expand Codex's cloud capabilities, a significant strategic move for frontier AI infrastructure.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "published": "Wed, 29 Jul 2026 00:00:00 GMT"
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "published": "Thu, 11 Jun 2026 00:00:00 GMT"
    },
    {
     "source": "openai",
-    "url": "https://openai.com/index/gpt-5-6",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "published": "Thu, 09 Jul 2026 10:00:00 GMT"
+    "url": "https://openai.com/index/openai-to-acquire-astral",
+    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "published": "Thu, 19 Mar 2026 00:00:00 GMT"
    },
    {
     "source": "openai",
-    "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-    "summary": "OpenAI\u2019s business model scales with intelligence\u2014spanning subscriptions, API, ads, commerce, and compute\u2014driven by deepening ChatGPT adoption.",
-    "published": "Sun, 18 Jan 2026 10:00:00 GMT"
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "published": "Mon, 09 Mar 2026 10:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-to-acquire-neptune",
+    "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "published": "Wed, 03 Dec 2025 10:00:00 GMT"
    }
   ]
  },
  {
-  "id": "7569338ee0d35289",
-  "title": "Launching Health in ChatGPT",
+  "id": "7f625f66633806e0",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
   "topic": "ai",
-  "score": 7,
-  "raw_score": 7,
+  "score": 9,
+  "raw_score": 9,
   "weight": 1.0,
-  "reason": "Major product feature launch integrating health data, representing a significant expansion of ChatGPT's utility and data footprint.",
+  "reason": "Disproving an 80-year-old mathematical conjecture is a frontier-shifting milestone for AI capabilities.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "published": "Thu, 23 Jul 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "summary": "Learn how GPT-5.5 Instant improves ChatGPT\u2019s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "published": "Thu, 18 Jun 2026 11:00:00 GMT"
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "published": "Wed, 20 May 2026 00:00:00 GMT"
    }
   ]
  }
