@@ -1,303 +1,5 @@
 [
  {
-  "id": "4879819590782b03",
-  "title": "Univ\u00e9 builds an AI-ready workforce",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/unive",
-    "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "published": "Fri, 31 Jul 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c5ad624a6ffb30ef",
-  "title": "Disrupting a Cambodia-based criminal scam operation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "published": "Fri, 31 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9146ff1756af0f60",
-  "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/avatarin",
-    "summary": "avatarin uses OpenAI\u2019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "published": "Thu, 30 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "cc8e132c619995d1",
-  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "published": "Wed, 29 Jul 2026 15:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "14fd05ad34f9923e",
-  "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "published": "Wed, 29 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6d964f10c3337bbc",
-  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-  "topic": "ai",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "published": "Wed, 29 Jul 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-6",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "published": "Thu, 09 Jul 2026 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
-    "summary": "OpenAI\u2019s business model scales with intelligence\u2014spanning subscriptions, API, ads, commerce, and compute\u2014driven by deepening ChatGPT adoption.",
-    "published": "Sun, 18 Jan 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "df22037e3e0ff3ea",
-  "title": "Scientific computing in the age of agentic AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "published": "Tue, 28 Jul 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f143efbfe201f040",
-  "title": "How AI is expanding what people do at work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "published": "Mon, 27 Jul 2026 03:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7569338ee0d35289",
-  "title": "Launching Health in ChatGPT",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "published": "Thu, 23 Jul 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "summary": "Learn how GPT-5.5 Instant improves ChatGPT\u2019s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "published": "Thu, 18 Jun 2026 11:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "bd6ce42035f55001",
-  "title": "Building AI infrastructure with the Effingham County community",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-    "published": "Wed, 22 Jul 2026 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "130e23c4bd2f87cb",
-  "title": "How news organizations are using AI to advance their vital missions",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "published": "Wed, 22 Jul 2026 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "fc3528d001b5387a",
-  "title": "Advancing the next era of national science",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "published": "Wed, 22 Jul 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ce627deb992812da",
-  "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ntt-data",
-    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-    "published": "Wed, 22 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d42362617c640879",
-  "title": "Introducing the ChatGPT for small business program",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "published": "Tue, 21 Jul 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "40359dbf5a246645",
-  "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "summary": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "published": "Tue, 21 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d4ff9ec891b78868",
-  "title": "Safety and alignment in an era of long-horizon models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "published": "Mon, 20 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3ebda52fc80ebe33",
-  "title": "A scorecard for the AI age",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-    "published": "Fri, 17 Jul 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8fe39edff791751d",
-  "title": "Why teens deserve access to safe AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "published": "Thu, 16 Jul 2026 16:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "eeac6a04af4fa80e",
-  "title": "How Codex became a collaborator for OpenAI\u2019s creative team",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/codex-collaborator-creative-team",
-    "summary": "How OpenAI\u2019s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-    "published": "Thu, 16 Jul 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6f16a999c8ddd889",
-  "title": "How Cars24 scales conversations and builds faster with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/cars24",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "published": "Thu, 16 Jul 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "2b6976f96bb5f02f",
   "title": "How agents are transforming work",
   "topic": "ai",
@@ -13287,13 +12989,19 @@
   "id": "793741c4c0f4922e",
   "title": "America.gov",
   "topic": "both",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "hn",
     "url": "https://america.gov/",
     "summary": "<p>Article URL: <a href=\"https://america.gov/\">https://america.gov/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893509\">https://news.ycombinator.com/item?id=49893509</a></p> <p>Points: 194</p> <p># Comments: 152</p>",
     "published": "Tue, 29 Sep 2026 14:04:57 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "published": "Tue, 29 Sep 2026 23:30:55 +0000"
    }
   ]
  },
@@ -13518,6 +13226,20 @@
     "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
     "summary": "<p>Article URL: <a href=\"https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/\">https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893002\">https://news.ycombinator.com/item?id=49893002</a></p> <p>Points: 33</p> <p># Comments: 0</p>",
     "published": "Tue, 29 Sep 2026 13:34:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a6e8f9e0cedd1fcc",
+  "title": "We\u2019re forgetting what darkness feels like",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation\">https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898050\">https://news.ycombinator.com/item?id=49898050</a></p> <p>Points: 10</p> <p># Comments: 3</p>",
+    "published": "Tue, 29 Sep 2026 18:22:40 +0000"
    }
   ]
  }
