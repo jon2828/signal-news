@@ -1,53 +1,18 @@
 [
  {
-  "id": "6600f3e4b9646c4b",
-  "title": "OpenAI to acquire Ona",
+  "id": "41e74c1497e421b7",
+  "title": "Confidential submission of draft S-1 to the SEC",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "Major acquisition of Ona (and potentially Promptfoo) to expand Codex's cloud capabilities, a significant strategic move for frontier AI infrastructure.",
+  "reason": "A confidential S-1 submission is a major regulatory and financial milestone indicating a potential IPO.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-astral",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "published": "Thu, 19 Mar 2026 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "published": "Mon, 09 Mar 2026 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-neptune",
-    "summary": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-    "published": "Wed, 03 Dec 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7f625f66633806e0",
-  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-  "topic": "ai",
-  "score": 9,
-  "raw_score": 9,
-  "weight": 1.0,
-  "reason": "Disproving an 80-year-old mathematical conjecture is a frontier-shifting milestone for AI capabilities.",
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "published": "Wed, 20 May 2026 00:00:00 GMT"
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "published": "Mon, 08 Jun 2026 14:00:00 GMT"
    }
   ]
  }
