@@ -9,6 +9,7 @@ a news site and slop.
 """
 import datetime
 import json
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -119,6 +120,15 @@ def main() -> int:
         reason = str(verdict.get("reason", ""))[:250]
 
         if v == "publish":
+            # Publish verdict is not a lint exemption: mechanical checks still apply.
+            hits = lint(text)
+            total_hits = sum(h[1] for h in hits)
+            words = len(re.sub(r"^---.*?---\s*", "", text, flags=re.S).split())
+            if total_hits > max_hits or words > max_words:
+                log_decision("edit_dropped", json.dumps({"file": draft.name, "reason": f"publish verdict but failed checks: words={words}, lint={total_hits}"}))
+                _requeue_by_candidate_id(meta.get("candidate_id", ""))
+                shutil.move(str(draft), str(declined_dir / draft.name))
+                continue
             (posts_dir / draft.name).write_text(text)
             draft.unlink()
             published += 1

@@ -1,5 +1,19 @@
 [
  {
+  "id": "6d964f10",
+  "title": "OpenAI rolls out GPT-5.6 with bold cost cuts and self-optimizing tricks",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/gpt-5-6-cost-cuts/",
+    "summary": "",
+    "published": ""
+   }
+  ]
+ },
+ {
   "id": "3e9dde27d0980f78",
   "title": "OpenAI\u2019s Frontier Governance Framework",
   "topic": "ai",
