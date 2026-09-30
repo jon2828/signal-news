@@ -77,6 +77,24 @@ def main() -> int:
     declined_dir = ROOT / "state" / "declined"
     posts_dir.mkdir(exist_ok=True)
     declined_dir.mkdir(parents=True, exist_ok=True)
+
+    # The daily cap applies to edit-stage publishing too: a backlog of old
+    # drafts must not bypass the 2/day promise made on the disclosure page.
+    import datetime
+    today = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d")
+    already = 0
+    for p in posts_dir.glob("*.md"):
+        for line in p.read_text().splitlines()[:10]:
+            if line.startswith("date:"):
+                if line.split(":", 1)[1].strip() == today:
+                    already += 1
+                break
+    room = max(0, cfg["caps"]["posts_per_day"] - already)
+    if room == 0:
+        log_decision("edit_skipped", f"daily cap reached ({already} posts today); drafts kept for tomorrow")
+        print(f"[edit] daily cap reached ({already} today). Drafts kept for the next run.")
+        return 0
+
     prompt_tpl = (ROOT / cfg["edit"]["prompt_file"]).read_text()
     write_model = cfg["models"]["write"][prov]
     edit_model = cfg["models"]["edit"][prov]
@@ -85,6 +103,9 @@ def main() -> int:
 
     published = 0
     for draft in drafts:
+        if published >= room:
+            print(f"[edit] daily cap: {published} published this run; remaining drafts kept for tomorrow.")
+            break
         text = draft.read_text()
         meta = front_meta(text)
         articles = []
