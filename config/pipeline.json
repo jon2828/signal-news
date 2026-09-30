@@ -37,7 +37,7 @@
   "fetch": {
     "timeout_seconds": 20,
     "max_bytes_per_feed": 2000000,
-    "user_agent": "Mozilla/5.0 (compatible; SignalBot/1.0; +https://github.com/jon/signal-news)"
+    "user_agent": "Mozilla/5.0 (compatible; UnspentThoughtsBot/1.0; +https://github.com/jon/signal-news)"
   },
   "triage": {
     "prompt_file": "prompts/triage.md",
