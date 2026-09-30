@@ -9,6 +9,7 @@ a news site and slop.
 """
 import datetime
 import json
+import os
 import re
 import shutil
 import sys
@@ -90,6 +91,10 @@ def main() -> int:
                     already += 1
                 break
     room = max(0, cfg["caps"]["posts_per_day"] - already)
+    if os.environ.get("EDIT_CAP_OVERRIDE") == "1":
+        log_decision("owner_override", "EDIT_CAP_OVERRIDE: cap bypassed for owner-commissioned post")
+        print("[edit] EDIT_CAP_OVERRIDE set: cap bypassed (logged as owner_override).")
+        room = len(drafts)
     if room == 0:
         log_decision("edit_skipped", f"daily cap reached ({already} posts today); drafts kept for tomorrow")
         print(f"[edit] daily cap reached ({already} today). Drafts kept for the next run.")
