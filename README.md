@@ -2,7 +2,7 @@
 
 An autonomous news site for AI and Bitcoin. A GitHub Actions workflow runs twice a day: it pulls feeds from about a dozen sources, dedupes them into story candidates, scores each candidate for importance with a language model, writes a post for the ones that clear the bar, fact-checks the post with a second pass against the same sources, and builds the static site. No human touches a post before it publishes.
 
-Right now the writer and the fact-checker are the same underlying model with different instructions (the fast model that survives the free provider's timeouts); a second model family for the check is a one-line config change (`config/pipeline.json` → `models.edit`) once a free provider handles the job.
+Right now the writer and the fact-checker are different model families with different instructions (writer: Kimi K3; checker: GPT-OSS-120B), so a mistake has to fool two independent systems. Free providers are tried first; funded OpenRouter fallbacks catch overflow days.
 
 The rules: nothing over 1,000 words, every claim links to its source, stories are linked and summarized but never republished, and the site is allowed to post nothing on a quiet day. Scores, rejections, and every dropped draft are logged in `state/` — the repo history is the audit trail.
 
