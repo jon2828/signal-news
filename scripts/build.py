@@ -128,6 +128,22 @@ def main() -> int:
                 f'<a href="/">Back to Unspent Thoughts</a>.</p></body></html>')
     (dist / "404.html").write_text(notfound)
 
+    # Crawler files: robots.txt + sitemap.xml (regenerated every build, so
+    # new posts are always discoverable).
+    (dist / "robots.txt").write_text(
+        "User-agent: *\nAllow: /\n\n"
+        f"Sitemap: {base_url}/sitemap.xml\n")
+    today = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d")
+    urls = [f"{base_url}/", f"{base_url}/disclosure"] + [
+        f"{base_url}/posts/{esc(m['path'].stem)}.html" for m in posts]
+    sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+               + "\n".join(
+                   f"  <url><loc>{esc(u)}</loc><changefreq>daily</changefreq></url>"
+                   for u in urls)
+               + "\n</urlset>\n")
+    (dist / "sitemap.xml").write_text(sitemap)
+
     disclosure_md = (ROOT / "site" / "pages" / "disclosure.md").read_text()
     disclosure_html = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                        f'<meta name="viewport" content="width=device-width,initial-scale=1">'
