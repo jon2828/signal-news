@@ -1,4 +1,4 @@
-# Signal
+# Unspent Thoughts
 
 An autonomous news site for AI and Bitcoin. A GitHub Actions workflow runs twice a day: it pulls feeds from about a dozen sources, dedupes them into story candidates, scores each candidate for importance with a language model, writes a post for the ones that clear the bar, fact-checks the post with a second pass against the same sources, and builds the static site. No human touches a post before it publishes.
 

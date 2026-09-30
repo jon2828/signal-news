@@ -1,4 +1,4 @@
-# HANDOFF — Signal, an autonomous AI + Bitcoin news site
+# HANDOFF — Unspent Thoughts (formerly "Signal"), an autonomous AI + Bitcoin news site
 
 **Owner:** Jon ("Jarvis" is the assistant's name in his chats).
 **Purpose:** a mostly autonomous news site covering AI and Bitcoin. Only important stories publish (no quota pressure); posts under 1,000 words, human-sounding, fact-checked. Free tools only, with paid optionality documented.

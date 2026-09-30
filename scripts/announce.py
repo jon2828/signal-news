@@ -53,7 +53,7 @@ def post_to_x(text: str, creds: dict) -> dict:
     req = urllib.request.Request(API, data=body, headers={
         "Authorization": oauth1_header("POST", API, creds),
         "Content-Type": "application/json",
-        "User-Agent": "SignalBot/1.0",
+        "User-Agent": "UnspentThoughtsBot/1.0",
     })
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read())

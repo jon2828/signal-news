@@ -1,5 +1,5 @@
 {
-  "_comment": "Feed sources for the Signal pipeline. enabled=false means the URL failed the live test on 2026-09-29; retest before re-enabling. weight multiplies the triage score (capped at 10).",
+  "_comment": "Feed sources for the Unspent Thoughts pipeline. enabled=false means the URL failed the live test on 2026-09-29; retest before re-enabling. weight multiplies the triage score (capped at 10).",
   "feeds": [
     {
       "enabled": true,

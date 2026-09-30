@@ -1,5 +1,5 @@
 {
-  "_comment": "Signal pipeline configuration. pipeline_enabled=false is the one-click kill switch: the workflow and every script check it first and exit without posting. The edit model must differ from the write model (independent check).",
+  "_comment": "Unspent Thoughts pipeline configuration. pipeline_enabled=false is the one-click kill switch: the workflow and every script check it first and exit without posting. The edit model must differ from the write model (independent check).",
   "pipeline_enabled": true,
   "provider_chain": [
     "nvidia",

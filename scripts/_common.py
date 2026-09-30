@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shared helpers for the Signal pipeline scripts."""
+"""Shared helpers for the Unspent Thoughts pipeline scripts."""
 import html.parser
 import json
 import os
@@ -118,7 +118,7 @@ def chat(model: str, prompt: str, user_content: str, base_url: str,
                  "Content-Type": "application/json",
                  # Groq (and other Cloudflare-fronted APIs) return error 1010
                  # for urllib's default Python UA. A normal UA passes.
-                 "User-Agent": "SignalBot/1.0 (news pipeline; +https://github.com/jon/signal-news)"},
+                 "User-Agent": "UnspentThoughtsBot/1.0 (news pipeline; +https://github.com/jon/signal-news)"},
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         data = json.loads(r.read())
@@ -204,7 +204,7 @@ def _jina_fetch(url: str, cfg: dict, max_chars: int = 8000) -> str:
     markdown, no API key needed at low volume."""
     timeout = cfg.get("fetch", {}).get("timeout_seconds", 20)
     req = urllib.request.Request(f"https://r.jina.ai/{url}",
-                                 headers={"User-Agent": "Mozilla/5.0 (compatible; SignalBot/1.0)"})
+                                 headers={"User-Agent": "Mozilla/5.0 (compatible; UnspentThoughtsBot/1.0)"})
     with urllib.request.urlopen(req, timeout=timeout + 40) as r:
         text = r.read(200000).decode("utf-8", "replace")
     marker = "Markdown Content:"
@@ -227,7 +227,7 @@ def extract_article(url: str, cfg: dict, max_chars: int = 6000) -> str:
     """Fetch a full article: direct (trafilatura) first, r.jina.ai fallback
     for pages that render empty without a browser."""
     timeout = cfg.get("fetch", {}).get("timeout_seconds", 20)
-    ua = cfg.get("fetch", {}).get("user_agent", "Mozilla/5.0 (compatible; SignalBot/1.0)")
+    ua = cfg.get("fetch", {}).get("user_agent", "Mozilla/5.0 (compatible; UnspentThoughtsBot/1.0)")
     req = urllib.request.Request(url, headers={"User-Agent": ua})
     text = ""
     try:
