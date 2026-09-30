@@ -1,4 +1,6 @@
-# Signal: an autonomous AI + Bitcoin news site
+# BLUEPRINT (historical — written when the project was called "Signal")
+
+# Unspent Thoughts: an autonomous AI + Bitcoin news site
 
 ## The verdict
 

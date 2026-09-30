@@ -23,7 +23,7 @@ RSS_TITLE = ["title", "link", "description", "pubDate", "updated", "published", 
 
 def fetch(url: str, cfg: dict) -> bytes:
     timeout = cfg.get("fetch", {}).get("timeout_seconds", 20)
-    ua = cfg.get("fetch", {}).get("user_agent", "Mozilla/5.0 (compatible; SignalBot/1.0)")
+    ua = cfg.get("fetch", {}).get("user_agent", "Mozilla/5.0 (compatible; UnspentThoughtsBot/1.0)")
     req = urllib.request.Request(url, headers={"User-Agent": ua})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(cfg.get("fetch", {}).get("max_bytes_per_feed", 300000))

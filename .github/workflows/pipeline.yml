@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: signal-pipeline
+  group: unspentthoughts-pipeline
   cancel-in-progress: false
 
 jobs:
@@ -50,7 +50,7 @@ jobs:
 
       - name: Commit and push (the public audit trail)
         run: |
-          git config user.name "signal-bot"
+          git config user.name "unspentthoughts-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then

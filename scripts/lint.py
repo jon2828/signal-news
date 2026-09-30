@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Anti-AI tell checker for Signal posts.
+"""Anti-AI tell checker for Unspent Thoughts posts.
 
 Usage: python3 lint.py <post.md> [--max-hits N]
 Prints every hit with a count and pattern name. Exits 1 when total hits

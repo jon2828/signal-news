@@ -107,9 +107,9 @@ def main() -> int:
     for m in posts:
         page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-                f'<title>{esc(m.get("title"))} — Signal</title>'
+                f'<title>{esc(m.get("title"))} — Unspent Thoughts</title>'
                 f'<style>{SITE_CSS}</style></head><body>'
-                f'<p><a href="/">← Signal</a></p>'
+                f'<p><a href="/">← Unspent Thoughts</a></p>'
                 + render_post(m, base_url, full=True)
                 + '</body></html>')
         (posts_dir_dist / f"{m['path'].stem}.html").write_text(page)
