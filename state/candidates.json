@@ -10965,7 +10965,7 @@
   "id": "793741c4c0f4922e",
   "title": "America.gov",
   "topic": "both",
-  "source_count": 2,
+  "source_count": 3,
   "sources": [
    {
     "source": "hn",
@@ -10978,6 +10978,12 @@
     "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
     "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
     "published": "Tue, 29 Sep 2026 23:30:55 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://america.gov/chat",
+    "summary": "<p>Article URL: <a href=\"https://america.gov/chat\">https://america.gov/chat</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913255\">https://news.ycombinator.com/item?id=49913255</a></p> <p>Points: 39</p> <p># Comments: 13</p>",
+    "published": "Wed, 30 Sep 2026 19:34:03 +0000"
    }
   ]
  },
@@ -11675,13 +11681,19 @@
   "id": "623051ee1e6e1741",
   "title": "RSS Feeds for Last.fm",
   "topic": "both",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "hn",
     "url": "https://lfm.xiffy.nl/",
     "summary": "<p>Article URL: <a href=\"https://lfm.xiffy.nl/\">https://lfm.xiffy.nl/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903862\">https://news.ycombinator.com/item?id=49903862</a></p> <p>Points: 87</p> <p># Comments: 21</p>",
     "published": "Wed, 30 Sep 2026 03:00:05 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "published": "Wed, 30 Sep 2026 17:45:00 +0000"
    }
   ]
  },
@@ -12318,6 +12330,370 @@
     "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
     "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
     "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6a91381a429232e7",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "published": "Wed, 30 Sep 2026 10:30:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "12558bd18c790549",
+  "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SP0XZZ2FXWPN060VSWSTWV/voteblokchain.jpg\" alt=\"Crypto advocacy group announces picks for US Congress as midterms loom\" class=\"type:primaryImage\"></p><p>The organization\u2019s endorsements in the House and Senate came as many polls showed Democrats favored to regain control of both chambers in 2027.</p>",
+    "published": "Wed, 30 Sep 2026 19:11:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b8333d9e3b9cd3f8",
+  "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RM1RHGZ8GVHFDEWSR01F8Q/base-coinbase.png\" alt=\"Base completes Cobalt upgrade, adds new tools for tokenized assets\" class=\"type:primaryImage\"></p><p>Base\u2019s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.</p>",
+    "published": "Wed, 30 Sep 2026 19:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2372e9b275b1f0fc",
+  "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SSH74MAM24NXDA35RM1XB4/hi-how-to-improve-your-coding-skills-using-bloomberg.jpg\" alt=\"Bloomberg brings onchain stablecoin data to its Terminal\" class=\"type:primaryImage\"></p><p>Bloomberg\u2019s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks. </p>",
+    "published": "Wed, 30 Sep 2026 18:49:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "776392bcddd4d0da",
+  "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+    "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.",
+    "published": "Wed, 30 Sep 2026 20:37:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ab91d221da188642",
+  "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
+    "summary": "Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard.",
+    "published": "Wed, 30 Sep 2026 19:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a0d1ad73bd1a3da1",
+  "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+    "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.",
+    "published": "Wed, 30 Sep 2026 18:23:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e0f87b53ed618574",
+  "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
+    "summary": "The White House is weighing two proposed rules from the CFTC tied to prediction markets as the agency seeks to assert its jurisdiction.",
+    "published": "Wed, 30 Sep 2026 17:54:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "975f576532672844",
+  "title": "Gemini 4 Argon",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913571\">https://news.ycombinator.com/item?id=49913571</a></p> <p>Points: 304</p> <p># Comments: 127</p>",
+    "published": "Wed, 30 Sep 2026 20:04:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7b8aef4d2a362c12",
+  "title": "Halfspace experimental IDE for solid modeling with distance fields",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.mattkeeter.com/projects/halfspace/",
+    "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/projects/halfspace/\">https://www.mattkeeter.com/projects/halfspace/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913350\">https://news.ycombinator.com/item?id=49913350</a></p> <p>Points: 17</p> <p># Comments: 1</p>",
+    "published": "Wed, 30 Sep 2026 19:44:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "569ebf06173bca2b",
+  "title": "EDG C++ front-end goes public",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://edgcpp.org/#transition",
+    "summary": "<p>Article URL: <a href=\"https://edgcpp.org/#transition\">https://edgcpp.org/#transition</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913192\">https://news.ycombinator.com/item?id=49913192</a></p> <p>Points: 51</p> <p># Comments: 19</p>",
+    "published": "Wed, 30 Sep 2026 19:26:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f41f56016b4ee594",
+  "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\">https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49912955\">https://news.ycombinator.com/item?id=49912955</a></p> <p>Points: 42</p> <p># Comments: 9</p>",
+    "published": "Wed, 30 Sep 2026 19:04:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8fcdcbd735f5521d",
+  "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "summary": "<p>Article URL: <a href=\"https://www.netlify.com/blog/edge-functions-firecracker-microvms/\">https://www.netlify.com/blog/edge-functions-firecracker-microvms/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49912444\">https://news.ycombinator.com/item?id=49912444</a></p> <p>Points: 50</p> <p># Comments: 14</p>",
+    "published": "Wed, 30 Sep 2026 18:17:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7daefb16eb8ae3dc",
+  "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+    "summary": "<p>Article URL: <a href=\"https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model\">https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49912318\">https://news.ycombinator.com/item?id=49912318</a></p> <p>Points: 4</p> <p># Comments: 5</p>",
+    "published": "Wed, 30 Sep 2026 18:06:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "20b52029e3604190",
+  "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "summary": "<p>Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.<p>Inference engines today all make a performance tradeoff. They are either:<p>- Built for batched inference on datacenter ha",
+    "published": "Wed, 30 Sep 2026 17:37:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "da2f7f26dcd1d082",
+  "title": "Claude Says",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://ohhfishal.net/Posts/claude",
+    "summary": "<p>Article URL: <a href=\"https://ohhfishal.net/Posts/claude\">https://ohhfishal.net/Posts/claude</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49911928\">https://news.ycombinator.com/item?id=49911928</a></p> <p>Points: 34</p> <p># Comments: 8</p>",
+    "published": "Wed, 30 Sep 2026 17:32:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "33cb500330704cd6",
+  "title": "Commit description as a thinking tool",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "summary": "<p>Article URL: <a href=\"https://yedhu.me/posts/commit-description-as-a-thinking-tool/\">https://yedhu.me/posts/commit-description-as-a-thinking-tool/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49911757\">https://news.ycombinator.com/item?id=49911757</a></p> <p>Points: 85</p> <p># Comments: 48</p>",
+    "published": "Wed, 30 Sep 2026 17:18:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2c607e0a7a179f1e",
+  "title": "The last time my family was replaced by technology",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "summary": "<p>Article URL: <a href=\"https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/\">https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49908394\">https://news.ycombinator.com/item?id=49908394</a></p> <p>Points: 131</p> <p># Comments: 288</p>",
+    "published": "Wed, 30 Sep 2026 13:06:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fb8b6a20df39aa49",
+  "title": "LinkedIn Larpmaxxing",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+    "summary": "<p>Article URL: <a href=\"https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\">https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49904314\">https://news.ycombinator.com/item?id=49904314</a></p> <p>Points: 108</p> <p># Comments: 120</p>",
+    "published": "Wed, 30 Sep 2026 04:19:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d76d029e92f179f8",
+  "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+    "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+    "published": "Wed, 30 Sep 2026 20:39:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8f5f6c134c4e5fa3",
+  "title": "Is Neko Health\u2019s body scan worth it? Spotify billionaire\u2019s startup has come to America",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+    "summary": "Spotify founder Daniel Ek\u2019s Neko Health raised $700 million to build a business around scanning your body, but it\u2019s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]",
+    "published": "Wed, 30 Sep 2026 20:20:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d95f3d7ee3904f4f",
+  "title": "Hackers stole millions of US military personnel records during months-long data breach",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "published": "Wed, 30 Sep 2026 19:29:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cfb779b11c0aff99",
+  "title": "DoorDash\u2019s drone strategy started on the ground",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+    "published": "Wed, 30 Sep 2026 19:22:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ea58d7db60516ee6",
+  "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+    "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+    "published": "Wed, 30 Sep 2026 19:19:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c2747f33753d29b6",
+  "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "published": "Wed, 30 Sep 2026 19:00:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6e1523d27751ae55",
+  "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "published": "Wed, 30 Sep 2026 18:23:57 +0000"
    }
   ]
  }

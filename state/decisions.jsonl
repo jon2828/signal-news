@@ -544,3 +544,8 @@
 {"ts": "2026-09-30T20:39:40.355219+00:00", "action": "owner_override", "detail": "EDIT_CAP_OVERRIDE: cap bypassed for owner-commissioned post"}
 {"ts": "2026-09-30T20:39:42.799998+00:00", "action": "published", "detail": "{\"file\": \"2025-06-09-shielded-bitcoin-proposes-private-transfers-on-bitcoin-l1-wi-shielded.md\", \"verdict\": \"publish\", \"reason\": \"All factual claims are supported by the source, no missing attribution or quote issues, and the voice is appropriate.\"}"}
 {"ts": "2026-09-30T20:39:49.108132+00:00", "action": "edit_failed", "detail": "{\"file\": \"2026-09-29-apples-lawsuit-against-openai-reveals-sloppy-handling-of-exe-2163b413.md\", \"error\": \"unparseable verdict; kept for next run\"}"}
+{"ts": "2026-09-30T20:41:04.354771+00:00", "action": "feed_failed", "detail": "{\"feed\": \"venturebeat-ai\", \"error\": \"HTTPError: HTTP Error 429: Too Many Requests\"}"}
+{"ts": "2026-09-30T20:41:04.448321+00:00", "action": "dedupe", "detail": "28 items -> 850 candidates"}
+{"ts": "2026-09-30T20:41:04.515827+00:00", "action": "triage_skipped", "detail": "daily cap reached (4 posts today)"}
+{"ts": "2026-09-30T20:41:04.652338+00:00", "action": "edit_skipped", "detail": "daily cap reached (4 posts today); drafts kept for tomorrow"}
+{"ts": "2026-09-30T20:41:05.045997+00:00", "action": "announced", "detail": "{\"file\": \"2026-09-30-shielded-bitcoin-proposes-private-transfers-on-bitcoin-l1-wi-shielded\", \"post_id\": \"2105397541269287387\", \"text\": \"Shielded Bitcoin proposes private transfers on Bitcoin L1 without a soft fork \\u2014 https://unspentthoughts.com/posts/2026-0\"}"}

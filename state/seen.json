@@ -7853,5 +7853,145 @@
   "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
   "title": "Airbnb adds AI search, more social features",
   "first_seen": "2026-09-30T17:33:00.587975+00:00"
+ },
+ "6a91381a429232e7": {
+  "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "first_seen": "2026-09-30T20:41:02.440790+00:00"
+ },
+ "12558bd18c790549": {
+  "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+  "first_seen": "2026-09-30T20:41:03.707394+00:00"
+ },
+ "b8333d9e3b9cd3f8": {
+  "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+  "first_seen": "2026-09-30T20:41:03.707409+00:00"
+ },
+ "2372e9b275b1f0fc": {
+  "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+  "first_seen": "2026-09-30T20:41:03.707430+00:00"
+ },
+ "776392bcddd4d0da": {
+  "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+  "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+  "first_seen": "2026-09-30T20:41:03.763694+00:00"
+ },
+ "ab91d221da188642": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
+  "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
+  "first_seen": "2026-09-30T20:41:03.763708+00:00"
+ },
+ "a0d1ad73bd1a3da1": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+  "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
+  "first_seen": "2026-09-30T20:41:03.763712+00:00"
+ },
+ "e0f87b53ed618574": {
+  "url": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
+  "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
+  "first_seen": "2026-09-30T20:41:03.763716+00:00"
+ },
+ "975f576532672844": {
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "title": "Gemini 4 Argon",
+  "first_seen": "2026-09-30T20:41:03.852384+00:00"
+ },
+ "7b8aef4d2a362c12": {
+  "url": "https://www.mattkeeter.com/projects/halfspace/",
+  "title": "Halfspace experimental IDE for solid modeling with distance fields",
+  "first_seen": "2026-09-30T20:41:03.852398+00:00"
+ },
+ "293e3bb22ad0880b": {
+  "url": "https://america.gov/chat",
+  "title": "America.gov goes crazy on \"play Minecraft\"",
+  "first_seen": "2026-09-30T20:41:03.852402+00:00"
+ },
+ "569ebf06173bca2b": {
+  "url": "https://edgcpp.org/#transition",
+  "title": "EDG C++ front-end goes public",
+  "first_seen": "2026-09-30T20:41:03.852406+00:00"
+ },
+ "f41f56016b4ee594": {
+  "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+  "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+  "first_seen": "2026-09-30T20:41:03.852410+00:00"
+ },
+ "8fcdcbd735f5521d": {
+  "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+  "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+  "first_seen": "2026-09-30T20:41:03.852412+00:00"
+ },
+ "7daefb16eb8ae3dc": {
+  "url": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+  "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
+  "first_seen": "2026-09-30T20:41:03.852416+00:00"
+ },
+ "20b52029e3604190": {
+  "url": "https://github.com/magnitudedev/magnitude",
+  "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+  "first_seen": "2026-09-30T20:41:03.852437+00:00"
+ },
+ "da2f7f26dcd1d082": {
+  "url": "https://ohhfishal.net/Posts/claude",
+  "title": "Claude Says",
+  "first_seen": "2026-09-30T20:41:03.852440+00:00"
+ },
+ "33cb500330704cd6": {
+  "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+  "title": "Commit description as a thinking tool",
+  "first_seen": "2026-09-30T20:41:03.852444+00:00"
+ },
+ "2c607e0a7a179f1e": {
+  "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+  "title": "The last time my family was replaced by technology",
+  "first_seen": "2026-09-30T20:41:03.852453+00:00"
+ },
+ "fb8b6a20df39aa49": {
+  "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+  "title": "LinkedIn Larpmaxxing",
+  "first_seen": "2026-09-30T20:41:03.852459+00:00"
+ },
+ "d76d029e92f179f8": {
+  "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+  "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+  "first_seen": "2026-09-30T20:41:03.869060+00:00"
+ },
+ "8f5f6c134c4e5fa3": {
+  "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+  "title": "Is Neko Health\u2019s body scan worth it? Spotify billionaire\u2019s startup has come to America",
+  "first_seen": "2026-09-30T20:41:03.869070+00:00"
+ },
+ "d95f3d7ee3904f4f": {
+  "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+  "title": "Hackers stole millions of US military personnel records during months-long data breach",
+  "first_seen": "2026-09-30T20:41:03.869075+00:00"
+ },
+ "cfb779b11c0aff99": {
+  "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+  "title": "DoorDash\u2019s drone strategy started on the ground",
+  "first_seen": "2026-09-30T20:41:03.869079+00:00"
+ },
+ "ea58d7db60516ee6": {
+  "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+  "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+  "first_seen": "2026-09-30T20:41:03.869082+00:00"
+ },
+ "c2747f33753d29b6": {
+  "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+  "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+  "first_seen": "2026-09-30T20:41:03.869085+00:00"
+ },
+ "6e1523d27751ae55": {
+  "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+  "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+  "first_seen": "2026-09-30T20:41:03.869088+00:00"
+ },
+ "8b112c5c21900141": {
+  "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+  "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+  "first_seen": "2026-09-30T20:41:03.869091+00:00"
  }
 }
