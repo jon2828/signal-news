@@ -135,6 +135,11 @@ def main() -> int:
             log_decision("published", json.dumps({"file": draft.name, "verdict": "publish", "reason": reason}))
         elif v == "rewrite" and verdict.get("revised_post"):
             revised = normalize_text(str(verdict["revised_post"]).strip())
+            # The checker may return body-only: strip any model frontmatter and
+            # re-attach the ORIGINAL draft's frontmatter (real sources, ids).
+            revised = re.sub(r"^---\s*\n.*?\n---\s*\n?", "", revised, count=1, flags=re.S)
+            fm_match = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, re.S)
+            revised = f"---\n{fm_match.group(1)}\n---\n\n{revised}" if fm_match else revised
             hits = lint(revised)
             total_hits = sum(h[1] for h in hits)
             # word count on body only

@@ -1,3 +1,12 @@
+---
+title: OpenAI files confidential S-1, hints at public-market timing
+date: 2026-09-30
+topic: ai
+score: 9
+candidate_id: 41e74c14
+sources: ["https://openai.com/index/openai-submits-confidential-s-1"]
+---
+
 # OpenAI files confidential S‑1, hints at public‑market timing
 
 *Date: September 30, 2026*
