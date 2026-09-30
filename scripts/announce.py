@@ -21,7 +21,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import ROOT, config, guarded_exit, kill_switch, log_decision  # noqa: E402
 
-API = "https://api.x.com/2/tweets.json"
+API = "https://api.x.com/2/tweets"
 
 
 def oauth1_header(method: str, url: str, creds: dict) -> str:
