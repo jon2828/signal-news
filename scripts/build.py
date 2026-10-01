@@ -15,14 +15,55 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import ROOT, guarded_exit, kill_switch  # noqa: E402
 
 SITE_CSS = """
-body{max-width:720px;margin:0 auto;padding:2rem 1rem;font-family:Georgia,serif;line-height:1.6;color:#1a1a1a;background:#fafaf8}
-a{color:#0a6e4f}
+:root{--bg:#0a0a0a;--panel:#141414;--text:#e8e6e3;--muted:#9a958e;--accent:#f59e0b;--accent-dim:#b97a2a;--line:#26241f}
+*{box-sizing:border-box}
+body{max-width:680px;margin:0 auto;padding:0 1.2rem 3rem;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.65;color:var(--text);background:var(--bg)}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{padding:2.2rem 0 1.4rem;border-bottom:1px solid var(--line);margin-bottom:1.8rem}
+.logo{display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:var(--panel);border:1px solid var(--line);font-family:Georgia,serif;font-size:1.7rem;color:var(--text);margin-bottom:1rem}
+.logo span{color:var(--accent);font-size:1.9rem;line-height:0}
+h1{font-size:1.55rem;font-weight:700;letter-spacing:-.02em;margin:0 0 .4rem}
+h1 a{color:var(--text)}
+.tagline{font-size:1.02rem;color:var(--muted);margin:0 0 1rem;max-width:34ch}
+nav{display:flex;gap:1.1rem;font-size:.88rem}
+nav a{color:var(--muted)}
+nav a:hover{color:var(--accent);text-decoration:none}
+h2{font-size:1.05rem;margin:0 0 .5rem;font-weight:600}
+.post{margin:0 0 1.4rem;padding:1.2rem 1.3rem;background:var(--panel);border:1px solid var(--line);border-radius:14px}
+.post h2 a{color:var(--text)}
+.post h2 a:hover{color:var(--accent)}
+.meta{font-size:.78rem;color:var(--muted);margin-bottom:.65rem;display:flex;gap:.45rem;align-items:center;flex-wrap:wrap}
+.badge{border:1px solid var(--line);border-radius:99px;padding:.1rem .55rem;font-size:.72rem}
+.badge.score{color:var(--accent);border-color:var(--accent-dim)}
+.excerpt{color:var(--muted);font-size:.93rem;margin:0}
+.article h2{margin-top:1.8rem}
+.article p{margin:0 0 1.1rem}
+.article .meta{margin-bottom:1.4rem}
+.back{display:inline-block;margin:1.4rem 0;font-size:.88rem;color:var(--muted)}
+h1.article-title{font-size:1.6rem;line-height:1.3;margin:.8rem 0 .6rem}
+.disclosure h1{margin-bottom:1.2rem}
+footer{font-size:.82rem;color:var(--muted);margin-top:2.6rem;padding-top:1.4rem;border-top:1px solid var(--line)}
+hr{border:none;border-top:1px solid var(--line);margin:2rem 0}
+ul{padding-left:1.2rem}
+/* Simple editorial layout: original rhythm, profile palette, sans-serif. */
+:root{--bg:#0a0b0d;--panel:#111216;--text:#e8e6e3;--muted:#a5a29d;--accent:#eea02b;--line:#303033}
+body{max-width:720px;padding:2rem 1rem;line-height:1.6}
+header.site{padding:0 0 1rem;border-bottom:0;margin-bottom:2rem}
 h1{font-size:1.9rem;line-height:1.25;margin-bottom:.3rem}
-h2{font-size:1.25rem;margin-top:1.6rem}
-.post{margin-bottom:2.5rem;padding-bottom:2rem;border-bottom:1px solid #ddd}
-.meta{font-size:.85rem;color:#666;margin-bottom:.8rem}
-.badge{display:inline-block;border:1px solid #ccc;border-radius:3px;padding:0 .4rem;margin-right:.5rem;font-size:.75rem}
-footer{font-size:.85rem;color:#666;margin-top:3rem}
+.tagline{max-width:none;font-size:1rem}
+nav{flex-wrap:wrap;gap:.3rem 1.1rem}
+nav a{display:inline-flex;align-items:center;min-height:44px}
+h2{font-size:1.25rem;line-height:1.35;margin:0 0 .7rem}
+.post{margin:0 0 2.5rem;padding:0 0 2rem;background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0}
+.post h2 a{color:var(--accent)}
+.meta{font-size:.85rem;margin-bottom:.8rem;gap:.5rem}
+.badge{border-radius:3px;padding:0 .4rem;font-size:.75rem}
+.badge.score{color:var(--muted);border-color:var(--line)}
+.article>.post,.disclosure{border-bottom:0;margin-bottom:0;padding-bottom:0}
+footer{font-size:.85rem;margin-top:3rem;padding-top:0;border-top:0}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+@media(max-width:480px){body{padding:1.5rem 1rem}h1{font-size:1.65rem}}
 """
 
 
@@ -58,13 +99,15 @@ def esc(s) -> str:
     return html.escape(str(s), quote=True)
 
 
-def render_post(meta: dict, base_url: str, full: bool) -> str:
+def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
     url = f"{base_url}/posts/{esc(meta['path'].stem)}.html"
     paras = [p.strip() for p in re.split(r"\n\s*\n", meta["body"]) if p.strip()]
     excerpt = esc(paras[0][:280]) if paras else ""
-    out = [f'<div class="post">',
-           f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>',
-           f'<div class="meta"><span class="badge">score {meta.get("score", "?")}/10</span>'
+    title_html = (f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>'
+                  if heading else "")
+    out = ['<div class="post">',
+           title_html,
+           f'<div class="meta"><span class="badge score">score {meta.get("score", "?")}/10</span>'
            f'<span class="badge">{esc(meta.get("topic", "?"))}</span>{esc(meta.get("date", ""))}</div>']
     if full:
         out.append(meta["body"].replace("\n\n", "</p>\n<p>").join(["<p>", "</p>"]))
@@ -101,10 +144,16 @@ def main() -> int:
              f'<meta name="viewport" content="width=device-width,initial-scale=1">'
              f'<title>Unspent Thoughts — AI and Bitcoin news that earned its place</title>'
              f'<style>{SITE_CSS}</style>{analytics}</head><body>'
-             f'<h1>Unspent Thoughts</h1><p>The AI and Bitcoin news that earned its place. '
-             f'Selected, written, and checked by software. <a href="/disclosure">How it works</a>.</p>'
-             f'{items}<footer><a href="/feed.xml">RSS</a> · '
-             f'<a href="https://github.com/jon2828/signal-news">Open source: every decision logged</a></footer>'
+             f'<header class="site">'
+             f'<div class="logo">U<span>.</span></div>'
+             f'<h1><a href="/">Unspent Thoughts</a></h1>'
+             f'<p class="tagline">Bitcoin is scarce. Intelligence is becoming abundant. Time remains finite.</p>'
+             f'<nav><a href="/">Posts</a><a href="/disclosure">How it works</a><a href="/feed.xml">RSS</a>'
+             f'<a href="https://x.com/UnspentThoughts">𝕏</a></nav>'
+             f'</header>'
+             f'{items}'
+             f'<footer>Selected, written, and checked by software. '
+             f'<a href="https://github.com/jon2828/signal-news">Every decision logged</a>.</footer>'
              f'</body></html>')
     (dist / "index.html").write_text(index)
 
@@ -112,19 +161,29 @@ def main() -> int:
     posts_dir_dist = dist / "posts"
     posts_dir_dist.mkdir(exist_ok=True)
     for m in posts:
+        title = esc(m.get("title"))
         page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-                f'<title>{esc(m.get("title"))} — Unspent Thoughts</title>'
+                f'<title>{title} — Unspent Thoughts</title>'
                 f'<style>{SITE_CSS}</style>{analytics}</head><body>'
-                f'<p><a href="/">← Unspent Thoughts</a></p>'
-                + render_post(m, base_url, full=True)
+                f'<header class="site">'
+                f'<div class="logo">U<span>.</span></div>'
+                f'<h1><a href="/">Unspent Thoughts</a></h1>'
+                f'<nav><a href="/">← All posts</a><a href="/disclosure">How it works</a></nav>'
+                f'</header>'
+                f'<article class="post article">'
+                f'<h1 class="article-title">{title}</h1>'
+                + render_post(m, base_url, full=True, heading=False)
+                + '</article>'
                 + '</body></html>')
         (posts_dir_dist / f"{m['path'].stem}.html").write_text(page)
 
     notfound = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                 f'<title>Not found — Unspent Thoughts</title><style>{SITE_CSS}</style></head>'
-                f'<body><h1>Not found</h1><p>The page you asked for does not exist. '
+                f'<body><header class="site"><div class="logo">U<span>.</span></div>'
+                f'<h1>Not found</h1></header>'
+                f'<p>The page you asked for does not exist. '
                 f'<a href="/">Back to Unspent Thoughts</a>.</p></body></html>')
     (dist / "404.html").write_text(notfound)
 
@@ -149,9 +208,14 @@ def main() -> int:
                        f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                        f'<title>How this site works — Unspent Thoughts</title>'
                        f'<style>{SITE_CSS}</style>{analytics}</head><body>'
-                       f'<h1>How this site works</h1>'
+                       f'<header class="site">'
+                       f'<div class="logo">U<span>.</span></div>'
+                       f'<h1><a href="/">Unspent Thoughts</a></h1>'
+                       f'<nav><a href="/">← All posts</a></nav>'
+                       f'</header>'
+                       f'<div class="post disclosure"><h1 style="font-size:1.3rem;margin-top:0">How this site works</h1>'
                        + disclosure_md.replace("\n\n", "</p>\n<p>").join(["<p>", "</p>"])
-                       + '<p><a href="/">← back</a></p></body></html>')
+                       + '</div></body></html>')
     (dist / "disclosure.html").write_text(disclosure_html)
 
     now = datetime.datetime.now(datetime.UTC).strftime("%a, %d %b %Y %H:%M:%S GMT")
