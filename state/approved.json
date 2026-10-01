@@ -1,1 +1,36 @@
-[]
+[
+ {
+  "id": "7fc87634da57c097",
+  "title": "Our agreement with the Department of War",
+  "topic": "ai",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "Major regulatory and geopolitical development involving a contract with the Department of War, with significant safety and deployment implications.",
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "summary": "Details on OpenAI\u2019s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "published": "Sat, 28 Feb 2026 12:30:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "794d4515e72219ef",
+  "title": "Scaling AI for everyone",
+  "topic": "ai",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "A $110B raise at a $730B valuation with named investors SoftBank, NVIDIA, and Amazon is a market-moving funding event of historic scale.",
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we\u2019re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "published": "Fri, 27 Feb 2026 05:30:00 GMT"
+   }
+  ]
+ }
+]
