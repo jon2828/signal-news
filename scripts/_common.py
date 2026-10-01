@@ -136,7 +136,9 @@ def chat(model: str, prompt: str, user_content: str, base_url: str,
 
 def parse_json_blob(text: str):
     """Tolerant JSON extraction: strips markdown fences, finds the first
-    array or object in the text."""
+    array or object in the text. A single-key object whose value is a list
+    (e.g. {"scores": [...]}) is unwrapped to the list, since models like
+    to wrap bare arrays in named objects."""
     text = re.sub(r"```(?:json)?", "", text).strip().strip("`").strip()
     for opener, closer in (("[", "]"), ("{", "}")):
         start = text.find(opener)
@@ -149,7 +151,12 @@ def parse_json_blob(text: str):
             elif text[i] == closer:
                 depth -= 1
                 if depth == 0:
-                    return json.loads(text[start:i + 1])
+                    parsed = json.loads(text[start:i + 1])
+                    if isinstance(parsed, dict) and len(parsed) == 1:
+                        only = next(iter(parsed.values()))
+                        if isinstance(only, list):
+                            return only
+                    return parsed
     raise ValueError(f"no JSON found in model response: {text[:200]}")
 
 
