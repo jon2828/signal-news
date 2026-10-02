@@ -1,47 +1,24 @@
 [
  {
-  "id": "a9f97454d62e09aa",
-  "title": "AWS and OpenAI announce multi-year strategic partnership",
+  "id": "f2bc43a6d7e74461",
+  "title": "Samsung and SK join OpenAI\u2019s Stargate initiative to advance global AI infrastructure",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "A $38 billion multi-year AWS-OpenAI compute partnership is market-moving infrastructure news reshaping AI supply chains.",
+  "reason": "Major infrastructure expansion involving top-tier hardware partners (Samsung/SK) for the Stargate initiative is market-moving for the AI sector.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/aws-and-openai-partnership",
-    "summary": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI\u2019s next generation of models.",
-    "published": "Mon, 03 Nov 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "96f43ed00389e366",
-  "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-  "topic": "ai",
-  "score": 9,
-  "raw_score": 9,
-  "weight": 1.0,
-  "reason": "Multi-gigawatt hardware partnerships with Broadcom, AMD, and NVIDIA are massive infrastructure commitments that define the next phase of AI scaling.",
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
-    "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-    "published": "Mon, 13 Oct 2025 06:00:00 GMT"
+    "url": "https://openai.com/index/samsung-and-sk-join-stargate",
+    "summary": "Samsung and SK join OpenAI\u2019s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+    "published": "Wed, 01 Oct 2025 03:00:00 GMT"
    },
    {
     "source": "openai",
-    "url": "https://openai.com/index/openai-amd-strategic-partnership",
-    "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI\u2019s next-generation AI infrastructure and accelerate global AI innovation.",
-    "published": "Mon, 06 Oct 2025 06:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-nvidia-systems-partnership",
-    "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
-    "published": "Mon, 22 Sep 2025 08:45:00 GMT"
+    "url": "https://openai.com/form/stargate-infrastructure",
+    "summary": "OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.",
+    "published": "Tue, 21 Jan 2025 13:30:00 GMT"
    }
   ]
  }

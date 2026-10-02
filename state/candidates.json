@@ -1,983 +1,5 @@
 [
  {
-  "id": "a3e0671889992401",
-  "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/wrtn",
-    "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating \u2018Lifestyle AI\u2019 that blends productivity, creativity, and learning\u2014now expanding across East Asia.",
-    "published": "Thu, 02 Oct 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e93a3b209d30b0b0",
-  "title": "OpenAI announces strategic collaboration with Japan\u2019s Digital Agency",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
-    "summary": "OpenAI and Japan\u2019s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
-    "published": "Thu, 02 Oct 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f2bc43a6d7e74461",
-  "title": "Samsung and SK join OpenAI\u2019s Stargate initiative to advance global AI infrastructure",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/samsung-and-sk-join-stargate",
-    "summary": "Samsung and SK join OpenAI\u2019s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
-    "published": "Wed, 01 Oct 2025 03:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/form/stargate-infrastructure",
-    "summary": "OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.",
-    "published": "Tue, 21 Jan 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "44b600d30fee10f4",
-  "title": "Cyber Operation: Phishing and scripting support",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
-    "summary": "OpenAI banned accounts involved in activity that overlapped with publicly reported threat groups and displayed hallmarks consistent with PRC intelligence requirements, using AI to support phishing and scripting workflows.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-korean-language-malware-support",
-    "summary": "OpenAI banned Korean-language accounts using AI for malware development support, debugging, phishing, and credential-theft workflows.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ccc2e1335b03991e",
-  "title": "Scam operations: Online fraud networks",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations",
-    "summary": "OpenAI banned accounts tied to online fraud networks using AI to support scam scripts, impersonation, translation, and victim engagement.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b144ef9f087e21be",
-  "title": "Operation \u201cStop News\u201d: Recidivist influence activity",
-  "topic": "ai",
-  "source_count": 4,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025",
-    "summary": "OpenAI banned accounts linked to a Russia-origin operation we dubbed \u201cStop News\u201d, using AI to generate recidivist influence content targeting Africa and the UK.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2025",
-    "summary": "OpenAI banned accounts associated with the likely Iran-linked STORM-2035 operation using AI to create influence content about US, UK, Irish, and Venezuelan politics.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024",
-    "summary": "OpenAI banned Russia-origin \u201cStop News\u201d accounts using AI to generate multilingual articles and posts targeting Ukraine and the West.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
-    "summary": "OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content and publish it across sites.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2723c023fed104de",
-  "title": "PRC-linked abuse: Surveillance and influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse",
-    "summary": "OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted profiling, and research on critics and other individuals.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9c6276c956e0246f",
-  "title": "Cyber Operation: Russian-speaking malware tooling",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling",
-    "summary": "OpenAI banned accounts likely linked to Russian-speaking criminal groups, using AI to build malware loaders, evasion layers, credential-theft scripts, and C2 infrastructure.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-scopecreep",
-    "summary": "OpenAI banned Russian-language accounts using AI to build malware, refine loaders, and troubleshoot cyber tooling.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6f47a8de778c4393",
-  "title": "Operation \u201cNine\u2013emdash Line\u201d: Regional influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-nine-emdash-line",
-    "summary": "OpenAI banned accounts linked to a previously unreported PRC-origin operation we dubbed \"Nine-emdash Line\", using AI to create regional influence content about the South China Sea, Hong Kong, and US politics.",
-    "published": "Wed, 01 Oct 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c8d63ee49a3a03a3",
-  "title": "Sora 2 is here",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sora-2",
-    "summary": "This post introduced Sora 2, a video generation model with synchronized dialogue and sound effects. The Sora product is no longer available.",
-    "published": "Tue, 30 Sep 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sora-is-here",
-    "summary": "Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You can bring your own assets to extend, remix, and blend, or generate entirely new content from text.",
-    "published": "Mon, 09 Dec 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9d1687ef7ccddd17",
-  "title": "Launching Sora responsibly",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/launching-sora-responsibly",
-    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we\u2019ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-    "published": "Tue, 30 Sep 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e3fe5d35b19aaa81",
-  "title": "Improving support with every interaction at OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-support-model",
-    "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-    "published": "Mon, 29 Sep 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0b6540ce52f43b31",
-  "title": "Converting inbound leads into customers at OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-inbound-sales-assistant",
-    "summary": "Learn how OpenAI used an internal AI sales assistant to qualify inbound leads, personalize responses, and help sales teams convert customer interest.",
-    "published": "Mon, 29 Sep 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ad27f15fcf1ee9ee",
-  "title": "Empowering teams to unlock insights faster at OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-research-assistant",
-    "summary": "OpenAI\u2019s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
-    "published": "Mon, 29 Sep 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c504932dbc29a362",
-  "title": "Turning contracts into searchable data at OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-contract-data-agent",
-    "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
-    "published": "Mon, 29 Sep 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "cf61ac28a05fdddc",
-  "title": "Building OpenAI with OpenAI",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-openai-with-openai",
-    "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
-    "published": "Mon, 29 Sep 2025 13:30:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/microsoft-invests-in-and-partners-with-openai",
-    "summary": "Microsoft is investing $1 billion in OpenAI to support us building artificial general intelligence (AGI) with widely distributed economic benefits. We\u2019re partnering to develop a hardware and software platform within Microsoft Azure which will scale to AGI. We\u2019ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider\u2014so we\u2019ll be working hard together to further extend Microsoft Azure\u2019s capabilities in large-scale AI systems.",
-    "published": "Mon, 22 Jul 2019 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "cc8c12188af83ba4",
-  "title": "Driving sales productivity and customer success at OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-gtm-assistant",
-    "summary": "See how OpenAI built an internal AI sales assistant to automate account research, meeting preparation, product knowledge, and customer follow-up.",
-    "published": "Mon, 29 Sep 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "547b61e7f3995152",
-  "title": "Introducing parental controls",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-parental-controls",
-    "summary": "We\u2019re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
-    "published": "Mon, 29 Sep 2025 03:00:00 GMT"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
-    "summary": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
-    "published": "Wed, 30 Sep 2026 13:50:16 +0000"
-   }
-  ]
- },
- {
-  "id": "01b4df8f20314117",
-  "title": "Combating online child sexual exploitation & abuse",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
-    "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
-    "published": "Mon, 29 Sep 2025 03:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "feac9f29d2c8661a",
-  "title": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/buy-it-in-chatgpt",
-    "summary": "We\u2019re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
-    "published": "Mon, 29 Sep 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3e28c88dca269869",
-  "title": "Partnering with AARP to help keep older adults safe online",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
-    "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS\u2019s Senior Planet initiative.",
-    "published": "Fri, 26 Sep 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6a247e1bdfa57a4d",
-  "title": "More ways to work with your team and tools in ChatGPT",
-  "topic": "ai",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/more-ways-to-work-with-your-team",
-    "summary": "New shared projects, smarter connectors, and compliance and security updates help teams get more done.",
-    "published": "Thu, 25 Sep 2025 11:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
-    "summary": "Put AI to work for your product team",
-    "published": "Mon, 09 Dec 2024 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt",
-    "summary": "ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models.",
-    "published": "Tue, 25 Apr 2023 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4335714f4d0c2f7f",
-  "title": "Measuring the performance of our models on real-world tasks",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gdpval",
-    "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
-    "published": "Thu, 25 Sep 2025 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c70a231e612f960d",
-  "title": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/eneos-materials",
-    "summary": "ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design safety, and cut HR analysis time by 90%, with 80% reporting better workflows.",
-    "published": "Wed, 24 Sep 2025 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "becdb7a47715517f",
-  "title": "SAP and OpenAI partner to launch sovereign \u2018OpenAI for Germany\u2019",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/openai-for-germany",
-    "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany\u2019s public sector, enabling safe, efficient public services.",
-    "published": "Wed, 24 Sep 2025 04:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "201fb5865e32dbca",
-  "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
-  "topic": "ai",
-  "source_count": 4,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/five-new-stargate-sites",
-    "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
-    "published": "Tue, 23 Sep 2025 14:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-five-finals",
-    "summary": "We\u2019ll be holding our final live event for OpenAI Five at 11:30am PT on April 13.",
-    "published": "Tue, 26 Mar 2019 07:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-five-benchmark",
-    "summary": "The OpenAI Five Benchmark match is now over!",
-    "published": "Wed, 18 Jul 2018 07:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-five",
-    "summary": "Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.",
-    "published": "Mon, 25 Jun 2018 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e43c93fa3bad334a",
-  "title": "CNA is transforming its newsroom with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/cna-walter-fernandez",
-    "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
-    "published": "Mon, 22 Sep 2025 17:17:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6fac7cba1c718f02",
-  "title": "SchoolAI builds an AI platform that empowers teachers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/schoolai",
-    "summary": "SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.",
-    "published": "Mon, 22 Sep 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e177fee34cfb5d2d",
-  "title": "Detecting and reducing scheming in AI models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
-    "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (\u201cscheming\u201d) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
-    "published": "Wed, 17 Sep 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "312a656946d6aac3",
-  "title": "Introducing Stargate UK",
-  "topic": "ai",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-stargate-uk",
-    "summary": "",
-    "published": "Tue, 16 Sep 2025 14:30:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-stargate-norway",
-    "summary": "We\u2019re launching Stargate Norway\u2014OpenAI\u2019s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI\u2019s overarching infrastructure platform and is a critical part of our long-term vision to deliver the benefits of AI to everyone.",
-    "published": "Thu, 31 Jul 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-stargate-uae",
-    "summary": "We\u2019re launching Stargate UAE \u2013 the first international deployment of Stargate, OpenAI\u2019s AI infrastructure platform.",
-    "published": "Thu, 22 May 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b295661bec9202b1",
-  "title": "Building towards age prediction",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-towards-age-prediction",
-    "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
-    "published": "Tue, 16 Sep 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4db07a829f8c4602",
-  "title": "Teen safety, freedom, and privacy",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
-    "summary": "Explore OpenAI\u2019s approach to balancing teen safety, freedom, and privacy in AI use.",
-    "published": "Tue, 16 Sep 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c161d286b7c19f29",
-  "title": "How people are using ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-people-are-using-chatgpt",
-    "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
-    "published": "Mon, 15 Sep 2025 03:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "379d43668b44a888",
-  "title": "Working with US CAISI and UK AISI to build more secure AI systems",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
-    "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
-    "published": "Fri, 12 Sep 2025 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "20f5e2677ea34945",
-  "title": "Statement on OpenAI\u2019s Nonprofit and PBC",
-  "topic": "ai",
-  "source_count": 5,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
-    "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
-    "published": "Thu, 11 Sep 2025 14:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
-    "summary": "At OpenAI, we build tools to help people solve hard problems\u2014including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam\u2014a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
-    "published": "Thu, 17 Jul 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/nonprofit-commission-report",
-    "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
-    "published": "Thu, 17 Jul 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/nonprofit-commission-advisors",
-    "summary": "OpenAI is appointing four new advisors to help inform OpenAI\u2019s philanthropic efforts.",
-    "published": "Tue, 15 Apr 2025 13:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
-    "summary": "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board",
-    "published": "Fri, 08 Mar 2024 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "00474c9a0aa5f9d1",
-  "title": "SafetyKit scales risk agents with OpenAI\u2019s most capable models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/safetykit",
-    "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
-    "published": "Tue, 09 Sep 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a4096f68bad352b0",
-  "title": "A People-First AI Fund: $50M to support nonprofits",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/people-first-ai-fund",
-    "summary": "Applications are now open for OpenAI\u2019s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
-    "published": "Mon, 08 Sep 2025 14:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2a2cd101885ec198",
-  "title": "OpenAI and Greek Government launch \u2018OpenAI for Greece\u2019",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/openai-for-greece",
-    "summary": "OpenAI and the Greek Government have launched \u201cOpenAI for Greece\u201d to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
-    "published": "Fri, 05 Sep 2025 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "551c8dbfe7f61509",
-  "title": "Expanding economic opportunity with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/expanding-economic-opportunity-with-ai",
-    "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we\u2019re expanding economic opportunity and making AI skills more accessible.",
-    "published": "Thu, 04 Sep 2025 11:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "bcd181f7199941e1",
-  "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
-    "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
-    "published": "Tue, 02 Sep 2025 11:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "07d34a91448890de",
-  "title": "Building more helpful ChatGPT experiences for everyone",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
-    "summary": "We\u2019re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
-    "published": "Tue, 02 Sep 2025 04:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "dd6e5d1b40b21eae",
-  "title": "Introducing gpt-realtime and Realtime API updates",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-gpt-realtime",
-    "summary": "We\u2019re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
-    "published": "Thu, 28 Aug 2025 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/genspark",
-    "summary": "Learn how Genspark built a $36M ARR AI product in 45 days\u2014with no-code agents powered by GPT-4.1 and OpenAI Realtime API.",
-    "published": "Tue, 01 Jul 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "876a61a8813fc7fc",
-  "title": "Supporting nonprofit and community innovation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
-    "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8\u2013Oct 8, 2025 for grants in education, healthcare, research, and more.",
-    "published": "Thu, 28 Aug 2025 05:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b62df9776d1d3510",
-  "title": "Collective alignment: public input on our Model Spec",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
-    "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
-    "published": "Wed, 27 Aug 2025 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "811b4103ccadc34f",
-  "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
-    "summary": "OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other\u2019s models for misalignment, instruction following, hallucinations, jailbreaking, and more\u2014highlighting progress, challenges, and the value of cross-lab collaboration.",
-    "published": "Wed, 27 Aug 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "df242e3d3177ce69",
-  "title": "Helping people when they need it most",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/helping-people-when-they-need-it-most",
-    "summary": "How we think about safety for users experiencing mental or emotional distress, the limits of today\u2019s systems, and the work underway to refine them.",
-    "published": "Tue, 26 Aug 2025 04:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a08c1851721b5d3a",
-  "title": "Announcing the OpenAI Learning Accelerator",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/learning-accelerator",
-    "summary": "",
-    "published": "Mon, 25 Aug 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3415711b26c6a534",
-  "title": "Blue J\u2019s approach for scaling fast in complex, regulated domains",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/blue-j",
-    "summary": "Blue J scaled to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model.",
-    "published": "Thu, 21 Aug 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "dca5e1de215898de",
-  "title": "Mixi reimagines communication with ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mixi",
-    "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.",
-    "published": "Wed, 20 Aug 2025 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d0a3ac936090d729",
-  "title": "Q&A with DoorDash\u2019s CPO, Mariana Garavaglia",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/doordash-mariana-garavaglia",
-    "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
-    "published": "Mon, 18 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "fd78855f062f561c",
-  "title": "Scaling accounting capacity with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/basis",
-    "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis\u2019 AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
-    "published": "Tue, 12 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "63e32264deb3228e",
-  "title": "OpenAI\u2019s letter to Governor Newsom on harmonized regulation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
-    "summary": "We\u2019ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national\u2014and, by virtue of US leadership, emerging global\u2014standards.",
-    "published": "Tue, 12 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0c5c0a6f1172afbc",
-  "title": "Coding and design with GPT-5",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-coding-design",
-    "summary": "Learn how GPT-5 unlocks new possibilities in coding and design.",
-    "published": "Thu, 07 Aug 2025 00:03:00 GMT"
-   },
-   {
-    "source": "hn",
-    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "summary": "<p>Article URL: <a href=\"https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design\">https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49919910\">https://news.ycombinator.com/item?id=49919910</a></p> <p>Points: 45</p> <p># Comments: 15</p>",
-    "published": "Thu, 01 Oct 2026 10:21:36 +0000"
-   }
-  ]
- },
- {
-  "id": "5fa81cf74ab3fd2f",
-  "title": "Creative writing with GPT-5",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-creative-writing",
-    "summary": "Learn how GPT-5 assists with creative writing.",
-    "published": "Thu, 07 Aug 2025 00:02:00 GMT"
-   }
-  ]
- },
- {
-  "id": "55aca24799f4a301",
-  "title": "From hard refusals to safe-completions: toward output-centric safety training",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-safe-completions",
-    "summary": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses\u2014moving beyond hard refusals to nuanced, output-centric safety training for handling dual-use prompts.",
-    "published": "Thu, 07 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c3e0bb4191c3b0ad",
-  "title": "How Amgen uses GPT-5",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-amgen",
-    "summary": "Learn how Amgen uses GPT-5.",
-    "published": "Thu, 07 Aug 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-5-cursor",
-    "summary": "Learn how Cursor uses GPT-5.",
-    "published": "Thu, 07 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "62a1b8ad0947fbe4",
-  "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
-    "summary": "Today, OpenAI for Government is announcing a new partnership with the U.S. General Services Administration (GSA) to launch a transformative initiative. For the next year, ChatGPT Enterprise will be available to the entire federal executive branch workforce at essentially no cost.",
-    "published": "Wed, 06 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d353aa2cab38fd2b",
-  "title": "gpt-oss-120b & gpt-oss-20b Model Card",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-oss-model-card",
-    "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.",
-    "published": "Tue, 05 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7021f30af85ddd32",
-  "title": "Estimating worst case frontier risks of open weight LLMs",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
-    "summary": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as capable as possible in two domains: biology and cybersecurity.",
-    "published": "Tue, 05 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b6151d8b4eef5c0f",
-  "title": "Open Weights and AI for All",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
-    "summary": "AI\u2019s next frontier isn\u2019t just about capability\u2014it\u2019s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what drives us. Today\u2019s release of our most capable open-weights models is a major step forward that makes advanced AI more open, flexible, and accessible worldwide.",
-    "published": "Tue, 05 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "3d92a323d89417bc",
   "title": "What we\u2019re optimizing ChatGPT for",
   "topic": "ai",
@@ -11866,6 +10888,838 @@
     "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
     "published": "Fri, 02 Oct 2026 00:03:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8e206c4d9ed6ea5b",
+  "title": "A model guide for the GPT-6 family",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "published": "Fri, 02 Oct 2026 16:15:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "a97398f76ee518bf",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/chatham-financial",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "published": "Fri, 02 Oct 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "fc3783d230944cbf",
+  "title": "Decision models \ud83e\udd16, Claude-shaped science \ud83e\uddea, OpenAI safety firings \ud83d\udea8",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-10-02",
+    "summary": "",
+    "published": "Fri, 02 Oct 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "19424cd759f01a6d",
+  "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+    "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
+    "published": "Fri, 02 Oct 2026 21:23:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c53aa91d733ca2bd",
+  "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+    "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
+    "published": "Fri, 02 Oct 2026 17:34:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "77fb54b2523787e3",
+  "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+    "summary": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.",
+    "published": "Fri, 02 Oct 2026 17:15:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "231a9c042bab08dd",
+  "title": "Trump\u2019s potential AI czar, Jay Clayton, helped pioneer the SEC\u2019s crypto crackdown",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+    "summary": "The former SEC chairman who may be tapped to oversee the Trump administration's AI work has a potentially divisive history as a watchdog of tech innovation.",
+    "published": "Fri, 02 Oct 2026 17:12:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8d84b9deebb5f089",
+  "title": "America at a crossroads: Commissioner Peirce\u2019s parting challenge",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+    "summary": "It is incumbent upon us to continue Commissioner Peirce\u2019s mission, writes Will Schwartz, policy associate at the Blockchain Association.",
+    "published": "Fri, 02 Oct 2026 13:22:19 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1284ab1e9209e674",
+  "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+    "summary": "Bitcoin held earlier gains following the report, up more than 2% over the past 24 hours and just below $87,000.",
+    "published": "Fri, 02 Oct 2026 12:31:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b5a2fbd7ed42a121",
+  "title": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png\" alt=\"European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO\" class=\"type:primaryImage\"></p><p>Speaking on Cointelegraph\u2019s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.</p>",
+    "published": "Fri, 02 Oct 2026 20:40:47 +0000"
+   }
+  ]
+ },
+ {
+  "id": "91e1825fd1577986",
+  "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg\" alt=\"$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report\" class=\"type:primaryImage\"></p><p>The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.</p>",
+    "published": "Fri, 02 Oct 2026 18:41:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "eb77263740358b55",
+  "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+  "topic": "bitcoin",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png\" alt=\"Blast to wind down Ethereum L2 after costs outpace revenue\" class=\"type:primaryImage\"></p><p>Once among Ethereum\u2019s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.</p>",
+    "published": "Fri, 02 Oct 2026 18:24:05 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
+    "summary": "Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw via the app.",
+    "published": "Fri, 02 Oct 2026 16:54:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c88b2981c85d7c46",
+  "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKMQ9ZKPKNFEAPV81NBPWJ/blockchainweek2020uk1.png\" alt=\"71% of UK finance leaders expect tokenization to reshape financial services: Lloyds\" class=\"type:primaryImage\"></p><p>A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.</p>",
+    "published": "Fri, 02 Oct 2026 16:20:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "19f713aa32ba0a09",
+  "title": "Crypto\u2019s billions are back, but the premiums aren\u2019t",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKXXV4WP8TTTRPX217ZDQQ/bitcoin-investment-pump-1.jpg\" alt=\"Crypto\u2019s billions are back, but the premiums aren\u2019t\" class=\"type:primaryImage\"></p><p>Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.</p>",
+    "published": "Fri, 02 Oct 2026 15:32:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f915611c29592e8c",
+  "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YJCPAEGNQQMRKZHXC717XH/hi-bitcoins-hidden-messages-bitcoin-price-960x640.webp\" alt=\"Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower\" class=\"type:primaryImage\"></p><p>Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.</p>",
+    "published": "Fri, 02 Oct 2026 15:27:31 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ef5de2d6e2d9fe2b",
+  "title": "\u2018Euro stablecoin isn\u2019t enough\u2019: EU issuers make case for USD tokens",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YC9K50TRYWAJRWVJW83TNN/euro-and-dollar-characters-1.png\" alt=\"\u2018Euro stablecoin isn\u2019t enough\u2019: EU issuers make case for USD tokens\" class=\"type:primaryImage\"></p><p>European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.</p>",
+    "published": "Fri, 02 Oct 2026 14:12:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9dec7e528b263544",
+  "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8TZXTY569YW4G499PZ1BJ/magazine-bi-weekly-cybersecurity2.jpg\" alt=\"Furious debate about THORChain vs NEAR shows idealism has limits\" class=\"type:primaryImage\"></p><p>The furious debate over Bitget\u2019s $387.7M of hacked funds comes down to whether ideals around \u201cpermissionless and decentralized\u201d tech means never intervening \u2014 even if you could.</p>",
+    "published": "Fri, 02 Oct 2026 13:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6f71d83973031b98",
+  "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg\" alt=\"Circle urges EU to revise stablecoin reserve rules in MiCA review\" class=\"type:primaryImage\"></p><p>Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.</p>",
+    "published": "Fri, 02 Oct 2026 12:25:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c3cbaebb84e564b8",
+  "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+    "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.",
+    "published": "Fri, 02 Oct 2026 17:10:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "aee9c6e41f435069",
+  "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
+    "summary": "Bitcoin climbed back toward $87,000 on Friday as sellers cleared out around $85,000, according to Glassnode.",
+    "published": "Fri, 02 Oct 2026 13:34:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4c65e125d7921b03",
+  "title": "BitGo CEO says Clarity\u2019s failure left capital markets exposed to risk potentially worse than Lehman",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
+    "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.",
+    "published": "Fri, 02 Oct 2026 12:28:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d59de4d941f93650",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://allenai.org/blog/astabrief",
+    "summary": "<p>Article URL: <a href=\"https://allenai.org/blog/astabrief\">https://allenai.org/blog/astabrief</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938783\">https://news.ycombinator.com/item?id=49938783</a></p> <p>Points: 3</p> <p># Comments: 0</p>",
+    "published": "Fri, 02 Oct 2026 21:25:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8ae48c8dd8c51ab3",
+  "title": "The Harness Is the Company",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "summary": "<p>Article URL: <a href=\"https://blog.sshh.io/p/the-harness-is-the-company\">https://blog.sshh.io/p/the-harness-is-the-company</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938616\">https://news.ycombinator.com/item?id=49938616</a></p> <p>Points: 7</p> <p># Comments: 0</p>",
+    "published": "Fri, 02 Oct 2026 21:06:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0a4cfd02f5729f8d",
+  "title": "Zig v0.17.0",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "summary": "<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p> <p>Points: 85</p> <p># Comments: 36</p>",
+    "published": "Fri, 02 Oct 2026 20:56:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9a27e93d48c55ce4",
+  "title": "Everyone's Packing Up",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://widdershins.verja.net/everyones-packing-up/",
+    "summary": "<p>Article URL: <a href=\"https://widdershins.verja.net/everyones-packing-up/\">https://widdershins.verja.net/everyones-packing-up/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938047\">https://news.ycombinator.com/item?id=49938047</a></p> <p>Points: 63</p> <p># Comments: 33</p>",
+    "published": "Fri, 02 Oct 2026 20:13:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e35138269f8b51f6",
+  "title": "Show HN: Made an open-source Lego AI generator",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "summary": "<p>Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.<p>When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc.<p>Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to o",
+    "published": "Fri, 02 Oct 2026 20:00:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4b5d6955afd18843",
+  "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression\">https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937718\">https://news.ycombinator.com/item?id=49937718</a></p> <p>Points: 76</p> <p># Comments: 17</p>",
+    "published": "Fri, 02 Oct 2026 19:45:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "001fe0e442611222",
+  "title": "Muse Gadgets",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://gadgets.muse.ai",
+    "summary": "<p>Article URL: <a href=\"https://gadgets.muse.ai\">https://gadgets.muse.ai</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937504\">https://news.ycombinator.com/item?id=49937504</a></p> <p>Points: 51</p> <p># Comments: 32</p>",
+    "published": "Fri, 02 Oct 2026 19:26:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e2b7dd86df615798",
+  "title": "\"The only intuitive interface is the nipple\" (2012)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+    "summary": "<p>Article URL: <a href=\"https://www.greenend.org.uk/rjk/misc/nipple.html\">https://www.greenend.org.uk/rjk/misc/nipple.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937387\">https://news.ycombinator.com/item?id=49937387</a></p> <p>Points: 25</p> <p># Comments: 27</p>",
+    "published": "Fri, 02 Oct 2026 19:18:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e8d957fb2b0c73ef",
+  "title": "Apple Pass Designer",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://developer.apple.com/pass-designer/",
+    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p> <p>Points: 219</p> <p># Comments: 140</p>",
+    "published": "Fri, 02 Oct 2026 19:06:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c307e47225512228",
+  "title": "From the creator of Redis; run LLM locally with ds4",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://dwarfstar.sh/",
+    "summary": "<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p> <p>Points: 84</p> <p># Comments: 15</p>",
+    "published": "Fri, 02 Oct 2026 18:01:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "413e2d937799e836",
+  "title": "STS-51-F Abort-to-Orbit (1985)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/STS-51-F",
+    "summary": "<p>Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.<p>Some 2015 coverage of this mission:<p><a href=\"https://www.americaspace.com/2015/07/25/going-to-spain-30-years-since-the-unlucky-success-of-mission-51f-part-1/\" rel=\"nofollow\">https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...</a><p><a href=\"https://www.americaspa",
+    "published": "Fri, 02 Oct 2026 16:56:47 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d6a0782fbe478ef7",
+  "title": "One month coding with GLM 5.3 Flash",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+    "summary": "<p>Article URL: <a href=\"https://wagtail.org/blog/one-month-on-glm-53-flash/\">https://wagtail.org/blog/one-month-on-glm-53-flash/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934620\">https://news.ycombinator.com/item?id=49934620</a></p> <p>Points: 69</p> <p># Comments: 50</p>",
+    "published": "Fri, 02 Oct 2026 15:29:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "decb5d86e7448725",
+  "title": "With most information hidden, the game Stratego had stumped AI until now",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "summary": "<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p> <p>Points: 114</p> <p># Comments: 44</p>",
+    "published": "Fri, 02 Oct 2026 14:11:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c8d6ca0fb18eef9b",
+  "title": "The Legend of von Neumann (1973) [pdf]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p> <p>Points: 222</p> <p># Comments: 129</p>",
+    "published": "Fri, 02 Oct 2026 13:18:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3f678e16ec149247",
+  "title": "Venice\u2019s failed war against Constantinople led to the first bond market",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://bigthink.com/books/a-fabulous-debt/",
+    "summary": "<p>Article URL: <a href=\"https://bigthink.com/books/a-fabulous-debt/\">https://bigthink.com/books/a-fabulous-debt/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933230\">https://news.ycombinator.com/item?id=49933230</a></p> <p>Points: 48</p> <p># Comments: 14</p>",
+    "published": "Fri, 02 Oct 2026 13:17:47 +0000"
+   }
+  ]
+ },
+ {
+  "id": "40252d9527e99957",
+  "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+    "summary": "<p>Article URL: <a href=\"https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216\">https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932911\">https://news.ycombinator.com/item?id=49932911</a></p> <p>Points: 26</p> <p># Comments: 2</p>",
+    "published": "Fri, 02 Oct 2026 12:46:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c143b7ce0502fe6c",
+  "title": "On social reality in China",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+    "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\">https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932402\">https://news.ycombinator.com/item?id=49932402</a></p> <p>Points: 95</p> <p># Comments: 97</p>",
+    "published": "Fri, 02 Oct 2026 11:42:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2756b49f16389bfd",
+  "title": "Blogging with Gleam, Org-Mode and Pandoc",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+    "summary": "<p>Article URL: <a href=\"https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/\">https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932340\">https://news.ycombinator.com/item?id=49932340</a></p> <p>Points: 32</p> <p># Comments: 6</p>",
+    "published": "Fri, 02 Oct 2026 11:34:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b486b939d4aa529b",
+  "title": "Our Project Suncatcher prototype satellite is in orbit",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\">https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932191\">https://news.ycombinator.com/item?id=49932191</a></p> <p>Points: 35</p> <p># Comments: 35</p>",
+    "published": "Fri, 02 Oct 2026 11:13:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1ba30ffb2175dd23",
+  "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+    "summary": "<p>Article URL: <a href=\"https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\">https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932147\">https://news.ycombinator.com/item?id=49932147</a></p> <p>Points: 117</p> <p># Comments: 21</p>",
+    "published": "Fri, 02 Oct 2026 11:07:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3cc6542c47eb9be7",
+  "title": "Sean Parker is rebuilding Stability AI around music",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "published": "Fri, 02 Oct 2026 21:09:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c73e8583724730e3",
+  "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "published": "Fri, 02 Oct 2026 19:15:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8931b830d8ddf5c9",
+  "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "summary": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier.",
+    "published": "Fri, 02 Oct 2026 18:11:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fcd1b322a9ec5b0c",
+  "title": "It\u2019s not AI anymore, it\u2019s \u2018super intelligence\u2019 (according to the White House)",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called \u201cmorally binding.\u201d&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as \u201csuper intelligence,\u201d and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+    "published": "Fri, 02 Oct 2026 17:48:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0e0757d37a99a075",
+  "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "published": "Fri, 02 Oct 2026 17:32:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2e0c293fdeeb9b01",
+  "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+    "published": "Fri, 02 Oct 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "30a598ac210852e2",
+  "title": "Paramount and Warner Bros. Discovery to become Skydance",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+    "summary": "The roughly $110 billion deal is expected to close October 6.",
+    "published": "Fri, 02 Oct 2026 15:53:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0a4d2fa92a2dd8e7",
+  "title": "Pope Leo XIV is not a fan of AI-generated art",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "published": "Fri, 02 Oct 2026 15:39:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "63feebcc14c779d4",
+  "title": "Laytr\u2019s new app lets you save anything you find online, not just articles to read",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+    "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+    "published": "Fri, 02 Oct 2026 15:31:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "25be8601d34033e7",
+  "title": "Slovenia\u2019s .si domain sees a surge in registrations after Trump\u2019s \u2018super intelligence\u2019 order",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+    "summary": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
+    "published": "Fri, 02 Oct 2026 14:47:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "57b183de48bd6b4f",
+  "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "published": "Fri, 02 Oct 2026 14:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e527bfa9070eba77",
+  "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13\u201315, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco\u2019s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
+    "published": "Fri, 02 Oct 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "448b0636d3441ad1",
+  "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+    "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1\u20137 by hosting your own Side Event. Bring your community, start an impactful conversation that\u2019ll push the [&#8230;]",
+    "published": "Fri, 02 Oct 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "752a07db75983eac",
+  "title": "Tesla sustains its EV sales momentum despite US troubles",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+    "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
+    "published": "Fri, 02 Oct 2026 13:39:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0c700f498103aa21",
+  "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients\u2019 data",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+    "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
+    "published": "Fri, 02 Oct 2026 13:23:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cddf45be080dd0a6",
+  "title": "Rivian\u2019s R2 just helped it set a new sales record",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+    "summary": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
+    "published": "Fri, 02 Oct 2026 13:17:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "338a8c2e17733b6e",
+  "title": "Rivian issues R2 recall for poorly tightened battery packs",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+    "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
+    "published": "Fri, 02 Oct 2026 12:50:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1122627a66dfc215",
+  "title": "The latest AI news we announced in September 2026",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "blog-google-ai",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp\">Here are Google\u2019s latest AI updates from September 2026",
+    "published": "Fri, 02 Oct 2026 15:00:00 +0000"
    }
   ]
  }
