@@ -1,18 +1,47 @@
 [
  {
-  "id": "b219e69539472b90",
-  "title": "Advancing science and math with GPT-5.2",
+  "id": "a9f97454d62e09aa",
+  "title": "AWS and OpenAI announce multi-year strategic partnership",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "GPT-5.2 frontier model release with new state-of-the-art results on GPQA Diamond and FrontierMath is a frontier-shifting model release.",
+  "reason": "A $38 billion multi-year AWS-OpenAI compute partnership is market-moving infrastructure news reshaping AI supply chains.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
-    "summary": "GPT-5.2 is OpenAI\u2019s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
-    "published": "Thu, 11 Dec 2025 10:00:00 GMT"
+    "url": "https://openai.com/index/aws-and-openai-partnership",
+    "summary": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI\u2019s next generation of models.",
+    "published": "Mon, 03 Nov 2025 06:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "96f43ed00389e366",
+  "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+  "topic": "ai",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "Multi-gigawatt hardware partnerships with Broadcom, AMD, and NVIDIA are massive infrastructure commitments that define the next phase of AI scaling.",
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+    "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+    "published": "Mon, 13 Oct 2025 06:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-amd-strategic-partnership",
+    "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI\u2019s next-generation AI infrastructure and accelerate global AI innovation.",
+    "published": "Mon, 06 Oct 2025 06:00:00 GMT"
+   },
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-nvidia-systems-partnership",
+    "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
+    "published": "Mon, 22 Sep 2025 08:45:00 GMT"
    }
   ]
  }
