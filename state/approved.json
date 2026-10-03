@@ -1,35 +1,24 @@
 [
  {
-  "id": "9e186a738c0f5499",
-  "title": "New funding to build towards AGI",
+  "id": "8946837d5a54dbde",
+  "title": "The court rejects Elon\u2019s latest attempt to slow OpenAI down",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "$40B raise at a $300B valuation is a historic, market-moving funding round for a frontier lab.",
+  "reason": "Major regulatory verdict rejecting Elon Musk's lawsuit against OpenAI is a significant legal and corporate development.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/march-funding-updates",
-    "summary": "Today we\u2019re announcing new funding\u2014$40B at a $300B post-money valuation, which enables us to push the frontiers of AI research even further, scale our compute infrastructure, and deliver increasingly powerful tools for the 500 million people who use ChatGPT every week.",
-    "published": "Mon, 31 Mar 2025 15:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1f499c60214af59e",
-  "title": "Stargate advances with 4.5 GW partnership with Oracle",
-  "topic": "ai",
-  "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "A 4.5 GW Stargate expansion with Oracle is a major, named infrastructure commitment with significant compute-market implications.",
-  "sources": [
+    "url": "https://openai.com/index/court-rejects-elon",
+    "summary": "We welcome the court\u2019s March 4, 2025, decision rejecting Elon Musk\u2019s latest attempt to slow down OpenAI for his personal benefit.",
+    "published": "Fri, 14 Mar 2025 09:00:00 GMT"
+   },
    {
     "source": "openai",
-    "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
-    "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America\u2019s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI\u2019s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
-    "published": "Tue, 22 Jul 2025 00:00:00 GMT"
+    "url": "https://openai.com/index/openai-elon-musk",
+    "summary": "We are dedicated to the OpenAI mission and have pursued it every step of the way.",
+    "published": "Tue, 05 Mar 2024 08:00:00 GMT"
    }
   ]
  }

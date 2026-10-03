@@ -1,33 +1,5 @@
 [
  {
-  "id": "93ab52ac25cc47f2",
-  "title": "Security on the path to AGI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/security-on-the-path-to-agi",
-    "summary": "At OpenAI, we proactively adapt, including by building comprehensive security measures directly into our infrastructure and models.",
-    "published": "Wed, 26 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3ba0084eaf4437f3",
-  "title": "Automating 90% of finance and legal work with agents",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/hebbia",
-    "summary": "Hebbia\u2019s deep research automates 90% of finance and legal work, powered by OpenAI",
-    "published": "Tue, 25 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "7c6a8942986f8680",
   "title": "Leadership updates",
   "topic": "ai",
@@ -38,894 +10,6 @@
     "url": "https://openai.com/index/leadership-updates-march-2025",
     "summary": "OpenAI has grown a lot. We remain focused on the same core\u2014pursuing frontier AI research that accelerates human progress\u2013but we now also deliver products used by hundreds of millions of people.",
     "published": "Mon, 24 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ae6f9b081876c8b8",
-  "title": "Early methods for studying affective use and emotional well-being on ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/affective-use-study",
-    "summary": "An OpenAI and MIT Media Lab Research collaboration.",
-    "published": "Fri, 21 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6895bef8954708af",
-  "title": "Personalizing travel at scale with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/booking-com",
-    "summary": "By integrating its data systems with OpenAI\u2019s LLMs, Booking.com delivers smarter search, faster support, and intent-driven travel experiences.",
-    "published": "Thu, 20 Mar 2025 23:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4fc436a4d689d1f4",
-  "title": "Introducing next-generation audio models in the API",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-our-next-generation-audio-models",
-    "summary": "For the first time, developers can also instruct the text-to-speech model to speak in a specific way\u2014for example, \u201ctalk like a sympathetic customer service agent\u201d\u2014unlocking a new level of customization for voice agents.",
-    "published": "Thu, 20 Mar 2025 11:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d3cb5d4d8166dd4b",
-  "title": "EliseAI improves housing and healthcare efficiency with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/eliseai-minna-song",
-    "summary": "A conversation with Minna Song, CEO & Co-founder of EliseAI.",
-    "published": "Tue, 18 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8946837d5a54dbde",
-  "title": "The court rejects Elon\u2019s latest attempt to slow OpenAI down",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/court-rejects-elon",
-    "summary": "We welcome the court\u2019s March 4, 2025, decision rejecting Elon Musk\u2019s latest attempt to slow down OpenAI for his personal benefit.",
-    "published": "Fri, 14 Mar 2025 09:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-elon-musk",
-    "summary": "We are dedicated to the OpenAI mission and have pursued it every step of the way.",
-    "published": "Tue, 05 Mar 2024 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9460450fee4d4a1b",
-  "title": "Detecting misbehavior in frontier reasoning models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/chain-of-thought-monitoring",
-    "summary": "Frontier reasoning models exploit loopholes when given the chance. We show we can detect exploits using an LLM to monitor their chains-of-thought. Penalizing their \u201cbad thoughts\u201d doesn\u2019t stop the majority of misbehavior\u2014it makes them hide their intent.",
-    "published": "Mon, 10 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a02f59fcc6f5670a",
-  "title": "Nubank elevates customer experiences with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/nubank",
-    "summary": "Nubank elevates customer experiences with OpenAI",
-    "published": "Fri, 07 Mar 2025 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "974b565f4d1f15b7",
-  "title": "Accelerating engineering cycles 20% with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/factory",
-    "summary": "Accelerating engineering cycles 20% with OpenAI.",
-    "published": "Thu, 06 Mar 2025 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c6f928dc2138b2a3",
-  "title": "LaunchDarkly's approach to AI-powered product management",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/launchdarkly-claire-vo",
-    "summary": "A conversation with Claire Vo, Chief Product Officer of LaunchDarkly, about the changing role of product managers, her anti-to-do list, and building AI-native teams.",
-    "published": "Tue, 04 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "876e271deeb27561",
-  "title": "Introducing NextGenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-nextgenai",
-    "summary": "OpenAI commits $50M in funding and tools to leading institutions.",
-    "published": "Tue, 04 Mar 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c78303eb1fdcfefb",
-  "title": "1,000 Scientist AI Jam Session",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/1000-scientist-ai-jam-session",
-    "summary": "OpenAI and nine national labs bring together leading scientists for first-of-its kind event.",
-    "published": "Fri, 28 Feb 2025 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2d46d96a3cffa420",
-  "title": "Supporting sellers with enhanced product listings",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mercari",
-    "summary": "Mercari leverages GPT-4o mini and GPT-4 to streamline selling, enhance product listings, and boost sales, transforming the online marketplace with features like AI Listing Support and Mercari AI Assistant.",
-    "published": "Thu, 27 Feb 2025 14:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5a1983ba0060fda1",
-  "title": "Building an autonomous financial analyst with o1 and o3-mini",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/endex",
-    "summary": "Endex builds the future of financial analysis, powered by OpenAI\u2019s reasoning models.",
-    "published": "Thu, 27 Feb 2025 09:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e388114476e15d10",
-  "title": "Deep research System Card",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/deep-research-system-card",
-    "summary": "This report outlines the safety work carried out prior to releasing deep research including external red teaming, frontier risk evaluations according to our Preparedness Framework, and an overview of the mitigations we built in to address key risk areas.",
-    "published": "Tue, 25 Feb 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "433eac4e7f1f6b64",
-  "title": "Uber enables outstanding on-demand experiences with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/uber-enables-outstanding-experiences",
-    "summary": "A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at Uber.",
-    "published": "Thu, 20 Feb 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "dbe2e8dc6cd990b6",
-  "title": "Introducing the SWE-Lancer benchmark",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/swe-lancer",
-    "summary": "Can frontier LLMs earn $1 million from real-world freelance software engineering?",
-    "published": "Tue, 18 Feb 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0f0a75108bb5d236",
-  "title": "OpenAI and Guardian Media Group launch content partnership",
-  "topic": "ai",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-guardian-media-group-launch-content-partnership",
-    "summary": "OpenAI and Guardian Media Group announce content partnership to bring Guardian news content to ChatGPT.",
-    "published": "Fri, 14 Feb 2025 07:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-partners-with-schibsted-media-group",
-    "summary": "OpenAI and Schibsted Media Group announce content partnership to bring Guardian news and archive content to ChatGPT.",
-    "published": "Mon, 10 Feb 2025 06:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/a-content-and-product-partnership-with-vox-media",
-    "summary": "In a multi-faceted agreement, Vox Media\u2019s content will enhance the output of OpenAI\u2019s ChatGPT, and the company will build on OpenAI\u2019s technology to develop products to better serve its audiences and advertisers.",
-    "published": "Wed, 29 May 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6cdda88f9f16304b",
-  "title": "Fanatics Betting and Gaming uses AI to focus on the big picture",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/fanatics-betting-gaming-andrea-ellis",
-    "summary": "A conversation with Andrea Ellis, Chief Financial Officer of Fanatics Betting and Gaming.",
-    "published": "Thu, 13 Feb 2025 10:01:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0a07f65b04c0e059",
-  "title": "Wayfair is shaping the future of retail with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/wayfair-fiona-tan",
-    "summary": "A conversation with Fiona Tan, Chief Technology Officer of Wayfair.",
-    "published": "Thu, 13 Feb 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a36a33e04a8fe56a",
-  "title": "Using OpenAI o1 for financial analysis",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/rogo",
-    "summary": "Rogo scales AI-driven financial research with OpenAI o1",
-    "published": "Thu, 13 Feb 2025 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a03d9320e2091b45",
-  "title": "Sharing the latest Model Spec",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sharing-the-latest-model-spec",
-    "summary": "",
-    "published": "Wed, 12 Feb 2025 13:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "261796568ea6bab5",
-  "title": "OpenAI and the CSU system bring AI to 500,000 students & faculty",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-the-csu-system",
-    "summary": "The largest deployment of ChatGPT to date will expand the use of AI in education and help the United States build an AI-ready workforce.",
-    "published": "Tue, 04 Feb 2025 11:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f9592b007e3f00ab",
-  "title": "Building a custom math tutor powered by ChatGPT",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/my-dog-the-math-tutor",
-    "summary": "ChatGPT and personal tutoring",
-    "published": "Tue, 04 Feb 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/custom-instructions-for-chatgpt",
-    "summary": "We\u2019re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations.",
-    "published": "Thu, 20 Jul 2023 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5c4c8bfd6560f3ba",
-  "title": "Creating nail art with ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ten-tiny-canvases",
-    "summary": "Using ChatGPT to find inspiration for nail art",
-    "published": "Tue, 04 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d8f4408a6f288a41",
-  "title": "Catching halibut with ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/fishing-for-first-timers",
-    "summary": "Using ChatGPT to catch halibut",
-    "published": "Tue, 04 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b32a92d3591e7c2f",
-  "title": "Understanding complex trends with deep research",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/deep-research",
-    "summary": "How OpenAI deep research helps Bain & Company understand complex industry trends.",
-    "published": "Sun, 02 Feb 2025 16:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "941a4bcb57e81c4f",
-  "title": "Cyber threat actors: AI-assisted intrusion research",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-threat-actors",
-    "summary": "OpenAI banned accounts potentially associated with publicly reported DPRK-affiliated threat actors using AI to research intrusion tooling, phishing, malware, and cryptocurrency targeting.",
-    "published": "Sat, 01 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4663de50b3d4939d",
-  "title": "Operation \u201cPeer Review\u201d: AI-assisted surveillance planning",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-peer-review",
-    "summary": "OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze documents, and debug code.",
-    "published": "Sat, 01 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "7d51e7b59c413b82",
-  "title": "Iranian influence nexus: Cross-platform activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus",
-    "summary": "OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM and STORM-2035 influence activity.",
-    "published": "Sat, 01 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "55c83a67b3b29684",
-  "title": "Task scam: AI-assisted fake review jobs",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-task-scam",
-    "summary": "OpenAI banned accounts that appeared to originate in Cambodia and used AI to translate messages for fake-review job scams that asked victims to pay fees.",
-    "published": "Sat, 01 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "786479ee2f250617",
-  "title": "Covert influence operation: Ghana election activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-ghana-election",
-    "summary": "OpenAI banned accounts using AI to generate articles, posts, and fake engagement around Ghana\u2019s 2024 presidential election.",
-    "published": "Sat, 01 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b3798d3ee5e7f970",
-  "title": "Strengthening America\u2019s AI leadership with the U.S. National Laboratories",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories",
-    "summary": "OpenAI\u2019s latest line of reasoning models will be used by nation\u2019s leading scientists to drive scientific breakthroughs.",
-    "published": "Thu, 30 Jan 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0e052780eb1188ca",
-  "title": "Introducing Operator",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-operator",
-    "summary": "",
-    "published": "Thu, 23 Jan 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0ded8438ecb7cb3b",
-  "title": "Bertelsmann powers creativity and productivity with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai",
-    "summary": "Bertelsmann, the global media, services, and education company headquartered in Germany, will integrate OpenAI\u2019s technology across multiple brands around the world.",
-    "published": "Wed, 22 Jan 2025 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f8e7b424c6852d6e",
-  "title": "Trading inference-time compute for adversarial robustness",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness",
-    "summary": "Trading Inference-Time Compute for Adversarial Robustness",
-    "published": "Wed, 22 Jan 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "87d22916dcc49975",
-  "title": "Announcing The Stargate Project",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/announcing-the-stargate-project",
-    "summary": "Announcing The Stargate Project",
-    "published": "Tue, 21 Jan 2025 13:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ba02d4c89f8349d4",
-  "title": "Partnering with Axios expands OpenAI\u2019s work with the news industry",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry",
-    "summary": "Publishers representing hundreds of newsrooms and content brands are using OpenAI partnerships and grant programs to adopt AI tools and strengthen the news ecosystem, while ChatGPT users gain access to information from leading, reliable publications.",
-    "published": "Wed, 15 Jan 2025 03:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e28fa80cc148bc13",
-  "title": "Adebayo Ogunlesi joins OpenAI\u2019s Board of Directors",
-  "topic": "ai",
-  "source_count": 4,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors",
-    "summary": "Adebayo Ogunlesi Joins OpenAI\u2019s Board of Directors",
-    "published": "Tue, 14 Jan 2025 09:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/zico-kolter-joins-openais-board-of-directors",
-    "summary": "Zico Kolter Joins OpenAI\u2019s Board of Directors We\u2019re strengthening our governance with expertise in AI safety and alignment. Zico will also join the Safety & Security Committee",
-    "published": "Thu, 08 Aug 2024 12:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/helen-toner-joins",
-    "summary": "Today, we\u2019re excited to announce the appointment of Helen Toner to our board of directors.",
-    "published": "Wed, 08 Sep 2021 07:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/will-hurd-joins",
-    "summary": "OpenAI is committed to developing general-purpose artificial intelligence that benefits all humanity, and we believe that achieving our goal requires expertise in public policy as well as technology. So, we\u2019re delighted to announce that Congressman Will Hurd has joined our board of directors.",
-    "published": "Mon, 03 May 2021 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ae7c3b838807b773",
-  "title": "Deliberative alignment: reasoning enables safer language models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/deliberative-alignment",
-    "summary": "Deliberative alignment: reasoning enables safer language models Introducing our new alignment strategy for o1 models, which are directly taught safety specifications and how to reason over them.",
-    "published": "Fri, 20 Dec 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c29128dea28e476e",
-  "title": "Elon Musk wanted an OpenAI for-profit",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
-    "summary": "Elon Musk\u2019s latest legal filing against OpenAI marks his fourth attempt in less than a year to reframe his claims. However, his own words and actions speak for themselves\u2014in 2017, Elon not only wanted, but actually created, a for-profit as OpenAI\u2019s proposed new structure.",
-    "published": "Fri, 13 Dec 2024 00:00:00 GMT"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "published": "Tue, 29 Sep 2026 22:20:59 +0000"
-   }
-  ]
- },
- {
-  "id": "5d33a0fa502d7579",
-  "title": "Animator Lyndon Barrois creates new worlds with Sora",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sora-lyndon-barrois",
-    "summary": "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.",
-    "published": "Mon, 09 Dec 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "104dd14a420609e2",
-  "title": "Minne Atairu & Sora",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sora-minne-atairu",
-    "summary": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
-    "published": "Mon, 09 Dec 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4d8be5b9e1083231",
-  "title": "Vall\u00e9e Duhamel & Sora",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sora-vallee-duhamel",
-    "summary": "Filmmaking duo Vall\u00e9e Duhamel explains how Sora helps build new worlds.",
-    "published": "Mon, 09 Dec 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "64c03056d5d5650b",
-  "title": "OpenAI and Future partner on specialist content",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-future-partner-on-specialist-content",
-    "summary": "OpenAI and Future, the global platform for specialist media, have today announced a strategic partnership to bring content from Future\u2019s 200 plus media brands to OpenAI\u2019s users.",
-    "published": "Wed, 04 Dec 2024 23:30:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gedi",
-    "summary": "OpenAI and GEDI announce strategic partnership to bring Italian-language news content to ChatGPT.",
-    "published": "Thu, 26 Sep 2024 04:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0cf5fccdfe1ca353",
-  "title": "Morgan Stanley is shaping the future of financial services",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/morgan-stanley",
-    "summary": "Morgan Stanley uses AI evals to shape the future of financial services",
-    "published": "Wed, 04 Dec 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6413abe87063192d",
-  "title": "Advancing red teaming with people and AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/advancing-red-teaming-with-people-and-ai",
-    "summary": "Advancing red teaming with people and AI",
-    "published": "Thu, 21 Nov 2024 10:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "17312c41fe4b74aa",
-  "title": "Building smarter maps with GPT-4o vision fine-tuning",
-  "topic": "ai",
-  "source_count": 5,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/grab",
-    "summary": "Building smarter maps with GPT-4o vision fine-tuning",
-    "published": "Wed, 20 Nov 2024 17:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
-    "summary": "Developers can now fine-tune GPT-4o with images and text to improve vision capabilities",
-    "published": "Tue, 01 Oct 2024 10:04:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-4o-fine-tuning",
-    "summary": "",
-    "published": "Tue, 20 Aug 2024 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates",
-    "summary": "Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.",
-    "published": "Tue, 22 Aug 2023 07:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/fine-tuning-gpt-2",
-    "summary": "We\u2019ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we\u2019d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required only 5k. Our motivation is to move safety techniques closer to the general task of \u201cmachines talkin",
-    "published": "Thu, 19 Sep 2019 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "6c8896366812d8b6",
-  "title": "Rox goes \u201call in\u201d on OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/rox",
-    "summary": "By combining commercial experience and deep LLM expertise with OpenAI\u2019s models, Rox makes every seller a top 1% seller.",
-    "published": "Tue, 19 Nov 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "be681ac41f2f4ab0",
-  "title": "OpenAI en France",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-en-france",
-    "summary": "Our first office in continental Europe",
-    "published": "Fri, 15 Nov 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5015204e780990ef",
-  "title": "Data-driven beauty and creativity with ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/estee-lauder",
-    "summary": "See how The Est\u00e9e Lauder Companies uses ChatGPT Enterprise and custom GPTs to analyze consumer data, uncover insights, and accelerate beauty innovation.",
-    "published": "Wed, 13 Nov 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ac069c8d3ad4e69f",
-  "title": "Promega\u2019s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/promega",
-    "summary": "Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
-    "published": "Thu, 31 Oct 2024 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "080a790521a93ae8",
-  "title": "Introducing SimpleQA",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-simpleqa",
-    "summary": "A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.",
-    "published": "Wed, 30 Oct 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0d847de42ceb3085",
-  "title": "Delivering high-performance customer support",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/decagon",
-    "summary": "Decagon and OpenAI deliver high-performance, fully automated customer support at scale",
-    "published": "Tue, 29 Oct 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "757eb5c942d19055",
-  "title": "Simplifying, stabilizing, and scaling continuous-time consistency models",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models",
-    "summary": "We\u2019ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.",
-    "published": "Wed, 23 Oct 2024 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/consistency-models",
-    "summary": "Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation.",
-    "published": "Thu, 20 Jun 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3d70566d39d9ab2a",
-  "title": "Evaluating fairness in ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/evaluating-fairness-in-chatgpt",
-    "summary": "We\u2019ve analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.",
-    "published": "Tue, 15 Oct 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "55ef171ae2b46857",
-  "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mle-bench",
-    "summary": "We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.",
-    "published": "Thu, 10 Oct 2024 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/machine-learning-unconference",
-    "summary": "The latest information about the Unconference is now available at the Unconference wiki, which will be periodically updated with more information for attendees.",
-    "published": "Thu, 18 Aug 2016 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4437308427a14435",
-  "title": "Introducing canvas, a new way to write and code with ChatGPT.",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-canvas",
-    "summary": "Introducing canvas",
-    "published": "Thu, 03 Oct 2024 10:00:00 GMT"
    }
   ]
  },
@@ -8047,13 +7131,19 @@
   "id": "8f5f6c134c4e5fa3",
   "title": "Is Neko Health\u2019s body scan worth it? Spotify billionaire\u2019s startup has come to America",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
     "summary": "Spotify founder Daniel Ek\u2019s Neko Health raised $700 million to build a business around scanning your body, but it\u2019s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category? On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]",
     "published": "Wed, 30 Sep 2026 20:20:02 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+    "published": "Sat, 03 Oct 2026 14:00:00 +0000"
    }
   ]
  },
@@ -11066,6 +10156,398 @@
     "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
     "summary": "The proposed legislation would extend to all automotica license plate readers.",
     "published": "Sat, 03 Oct 2026 00:21:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d9f256a9b1c59d52",
+  "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+    "published": "Sat, 03 Oct 2026 16:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fbc5efccc31374fb",
+  "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+    "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
+    "published": "Sat, 03 Oct 2026 16:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ea7fdea44ee94edc",
+  "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+    "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
+    "published": "Sat, 03 Oct 2026 15:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "80e221a7dd89522c",
+  "title": "Crypto's Sisyphean struggle",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+    "summary": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.",
+    "published": "Sat, 03 Oct 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3c14a220aa9e2154",
+  "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+    "summary": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
+    "published": "Sat, 03 Oct 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "22b7a390f2f0c263",
+  "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40T1J9CWEBBB07G6QG02X27/hi-5-greatest-hacks-in-the-cryptocurrency-industry.png\" alt=\"NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter\" class=\"type:primaryImage\"></p><p>The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.</p>",
+    "published": "Sat, 03 Oct 2026 11:59:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7b804092fff7efeb",
+  "title": "We want you to build the next Git platform on Cloudflare",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/next-git-platform-on-cloudflare/\">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947051\">https://news.ycombinator.com/item?id=49947051</a></p> <p>Points: 14</p> <p># Comments: 16</p>",
+    "published": "Sat, 03 Oct 2026 19:33:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9d6f5059688b244a",
+  "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+    "summary": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/\">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947050\">https://news.ycombinator.com/item?id=49947050</a></p> <p>Points: 12</p> <p># Comments: 9</p>",
+    "published": "Sat, 03 Oct 2026 19:33:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7d102ed4173686ce",
+  "title": "Our AI Midwife",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+    "summary": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/our-ai-midwife\">https://www.astralcodexten.com/p/our-ai-midwife</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946873\">https://news.ycombinator.com/item?id=49946873</a></p> <p>Points: 23</p> <p># Comments: 1</p>",
+    "published": "Sat, 03 Oct 2026 19:12:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c2e71ca7dcf7345a",
+  "title": "RSS Feed Best Practices (2022)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+    "summary": "<p>Article URL: <a href=\"https://kevincox.ca/2022/05/06/rss-feed-best-practices/\">https://kevincox.ca/2022/05/06/rss-feed-best-practices/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946845\">https://news.ycombinator.com/item?id=49946845</a></p> <p>Points: 7</p> <p># Comments: 0</p>",
+    "published": "Sat, 03 Oct 2026 19:09:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b4375628050b7d1a",
+  "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+    "summary": "<p>Article URL: <a href=\"https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/\">https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946827\">https://news.ycombinator.com/item?id=49946827</a></p> <p>Points: 26</p> <p># Comments: 12</p>",
+    "published": "Sat, 03 Oct 2026 19:07:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "979d52d891bbb2f4",
+  "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\">https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946567\">https://news.ycombinator.com/item?id=49946567</a></p> <p>Points: 25</p> <p># Comments: 1</p>",
+    "published": "Sat, 03 Oct 2026 18:29:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9c709ff004b77b06",
+  "title": "ADHD, autism or complex trauma? [pdf]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+    "summary": "<p>Article URL: <a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946403\">https://news.ycombinator.com/item?id=49946403</a></p> <p>Points: 164</p> <p># Comments: 135",
+    "published": "Sat, 03 Oct 2026 18:08:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "49f39eb866552197",
+  "title": "Hole Punch: Sling your spaceship around gravitational fields",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "summary": "<p>Article URL: <a href=\"https://notoriousbfg.com/hole-punch/\">https://notoriousbfg.com/hole-punch/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946393\">https://news.ycombinator.com/item?id=49946393</a></p> <p>Points: 88</p> <p># Comments: 28</p>",
+    "published": "Sat, 03 Oct 2026 18:06:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "febcfecb3b485a0b",
+  "title": "Pop!_OS bans AI-generated code from much of its codebase",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "summary": "<p>Article URL: <a href=\"https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/\">https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946321\">https://news.ycombinator.com/item?id=49946321</a></p> <p>Points: 81</p> <p># Comments: 89</p>",
+    "published": "Sat, 03 Oct 2026 17:57:03 +0000"
+   }
+  ]
+ },
+ {
+  "id": "970fe36e94cb40b9",
+  "title": "Vx \u2013 One Language, Every Chip",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://vxlang.org/",
+    "summary": "<p>Article URL: <a href=\"https://vxlang.org/\">https://vxlang.org/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946076\">https://news.ycombinator.com/item?id=49946076</a></p> <p>Points: 31</p> <p># Comments: 15</p>",
+    "published": "Sat, 03 Oct 2026 17:23:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6615bd5e0f118f91",
+  "title": "Kolibri \u2013 Tech Report [pdf]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
+    "summary": "<p>Article URL: <a href=\"https://aleph-alpha.com/downloads/tech-report.pdf\">https://aleph-alpha.com/downloads/tech-report.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946069\">https://news.ycombinator.com/item?id=49946069</a></p> <p>Points: 94</p> <p># Comments: 4</p>",
+    "published": "Sat, 03 Oct 2026 17:22:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "934d482dc14bb8c7",
+  "title": "RetailReady (YC W24) Is Hiring",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945904\">https://news.ycombinator.com/item?id=49945904</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
+    "published": "Sat, 03 Oct 2026 17:00:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b63ecfe68a1ace91",
+  "title": "FTL: A new operating system for clouds",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://ftl-os.org/",
+    "summary": "<p><a href=\"https://github.com/nuta/ftl\" rel=\"nofollow\">https://github.com/nuta/ftl</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944912\">https://news.ycombinator.com/item?id=49944912</a></p> <p>Points: 117</p> <p># Comments: 49</p>",
+    "published": "Sat, 03 Oct 2026 15:02:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "40c51d5055993c51",
+  "title": "Kolibri: A Sovereign Open-Weight Model",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "summary": "<p><a href=\"https://tej.as/blog/aleph-alpha-kolibri\" rel=\"nofollow\">https://tej.as/blog/aleph-alpha-kolibri</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p> <p>Points: 392</p> <p># Comments: 253</p>",
+    "published": "Sat, 03 Oct 2026 09:36:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9df85a477b26590b",
+  "title": "Woking Electrical Control Room (2016)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+    "summary": "<p>Article URL: <a href=\"http://www.darbiansphotography.com/woking-electrical-control-room-urbex\">http://www.darbiansphotography.com/woking-electrical-control-room-urbex</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938399\">https://news.ycombinator.com/item?id=49938399</a></p> <p>Points: 107</p> <p># Comments: 18</p>",
+    "published": "Fri, 02 Oct 2026 20:44:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "884bedec01232db7",
+  "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://pipod.dev/",
+    "summary": "<p>pi pod runs sessions of the pi coding agent in isolated sandboxes (\"pods\") on a server you run, in composable environments.<p>----<p>Since moving my company towards AI-native work, I have been really frustrated by the state of \"agentic engineering\" environments. Products by the labs (claude code, codex) lock you into a single provider for your tokens. Agnostic solutions (factory, devin, arguably cursor) make you pay per-token costs. None of these products allow you to fully customize the harness, and of course they all run on someone else's infrastructure.<p>I've been an early and fervent u",
+    "published": "Fri, 02 Oct 2026 19:10:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7d68a08898b4a0bb",
+  "title": "Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "summary": "A federal judge ruled that a sheriff\u2019s deputy violated a woman\u2019s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+    "published": "Sat, 03 Oct 2026 19:33:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f8ba7ef564870c95",
+  "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "published": "Sat, 03 Oct 2026 18:43:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a17db24aed38baa7",
+  "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "published": "Sat, 03 Oct 2026 16:30:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7c974d415cd4edb5",
+  "title": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+    "published": "Sat, 03 Oct 2026 15:02:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "559aae7bd25c5841",
+  "title": "Vessev built an electric ferry that almost flies",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+    "published": "Sat, 03 Oct 2026 14:42:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "41a7e440548d1d8c",
+  "title": "All the AI agents that can live in your text messages",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published": "Sat, 03 Oct 2026 14:00:00 +0000"
    }
   ]
  }
