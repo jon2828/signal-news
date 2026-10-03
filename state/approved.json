@@ -1,24 +1,35 @@
 [
  {
-  "id": "f2bc43a6d7e74461",
-  "title": "Samsung and SK join OpenAI\u2019s Stargate initiative to advance global AI infrastructure",
+  "id": "9e186a738c0f5499",
+  "title": "New funding to build towards AGI",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "Major infrastructure expansion involving top-tier hardware partners (Samsung/SK) for the Stargate initiative is market-moving for the AI sector.",
+  "reason": "$40B raise at a $300B valuation is a historic, market-moving funding round for a frontier lab.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/samsung-and-sk-join-stargate",
-    "summary": "Samsung and SK join OpenAI\u2019s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
-    "published": "Wed, 01 Oct 2025 03:00:00 GMT"
-   },
+    "url": "https://openai.com/index/march-funding-updates",
+    "summary": "Today we\u2019re announcing new funding\u2014$40B at a $300B post-money valuation, which enables us to push the frontiers of AI research even further, scale our compute infrastructure, and deliver increasingly powerful tools for the 500 million people who use ChatGPT every week.",
+    "published": "Mon, 31 Mar 2025 15:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "1f499c60214af59e",
+  "title": "Stargate advances with 4.5 GW partnership with Oracle",
+  "topic": "ai",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "A 4.5 GW Stargate expansion with Oracle is a major, named infrastructure commitment with significant compute-market implications.",
+  "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/form/stargate-infrastructure",
-    "summary": "OpenAI, and our strategic partners, are thrilled about our shared vision for the Infrastructure of AGI. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms across the built data center infrastructure landscape, from power and land to construction to equipment, and everything in between.",
-    "published": "Tue, 21 Jan 2025 13:30:00 GMT"
+    "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+    "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America\u2019s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI\u2019s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
+    "published": "Tue, 22 Jul 2025 00:00:00 GMT"
    }
   ]
  }

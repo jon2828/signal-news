@@ -1,875 +1,5 @@
 [
  {
-  "id": "3d92a323d89417bc",
-  "title": "What we\u2019re optimizing ChatGPT for",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/optimizing-chatgpt",
-    "summary": "We build ChatGPT to help you thrive in all the ways you want. Learn how we\u2019re improving support for tough moments, have rolled out reminders to take breaks, and are working on better life advice, all guided by expert input.",
-    "published": "Mon, 04 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5150e505fc82fe33",
-  "title": "Figma uses AI to transform digital design",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/figma-david-kossnick",
-    "summary": "Discover how Figma is transforming digital design with AI. David Kossnick shares how tools like Figma Make empower teams to prototype, collaborate, and build with AI\u2014reshaping workflows for designers, developers, and non-technical creators alike.",
-    "published": "Fri, 01 Aug 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "37d83405ef1db654",
-  "title": "Three lessons for creating a sustainable AI advantage",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/intercom",
-    "summary": "Discover how Intercom built a scalable AI platform with 3 key lessons\u2014from evaluations to architecture\u2014to lead the future of customer support.",
-    "published": "Wed, 30 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b8bbbc5ed338cec7",
-  "title": "Resolving digital threats 100x faster with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/outtake",
-    "summary": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
-    "published": "Thu, 24 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c3b523229c46266a",
-  "title": "Model ML is helping financial firms rebuild with AI from the ground up",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/model-ml-chaz-englander",
-    "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-    "published": "Wed, 23 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "420cfdad49cb7a00",
-  "title": "Announcing OpenAI DevDay 2025",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/announcing-devday-2025",
-    "summary": "We\u2019re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-    "published": "Wed, 23 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "aaa1cddeccd89b21",
-  "title": "Pioneering an AI clinical copilot with Penda Health",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
-    "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare.",
-    "published": "Tue, 22 Jul 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1f499c60214af59e",
-  "title": "Stargate advances with 4.5 GW partnership with Oracle",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
-    "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America\u2019s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI\u2019s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
-    "published": "Tue, 22 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f9a9f0e1fd72dc80",
-  "title": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
-    "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
-    "published": "Mon, 21 Jul 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3409c3b08dd6a04d",
-  "title": "AI as the greatest source of empowerment for all",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
-    "summary": "I\u2019ve always considered myself a pragmatic technologist\u2014someone who loves technology not for its own sake, but for the direct impact it can have on people\u2019s lives. That\u2019s what makes this job so exciting, since I believe AI will unlock more opportunities for more people than any other technology in history. If we get this right, AI can give everyone more power than ever.",
-    "published": "Mon, 21 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "bd042ee2aadf09d5",
-  "title": "A $50 million fund to build with communities",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/50-million-fund-to-build-with-communities",
-    "summary": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
-    "published": "Fri, 18 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b3fee526474fcf62",
-  "title": "ChatGPT agent System Card",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/chatgpt-agent-system-card",
-    "summary": "ChatGPT agent System Card: OpenAI\u2019s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
-    "published": "Thu, 17 Jul 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c5d2f95d076bc978",
-  "title": "Invideo AI uses OpenAI models to create videos 10x faster",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/invideo-ai",
-    "summary": "Invideo AI uses OpenAI\u2019s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
-    "published": "Thu, 17 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "900ebdfcfb394ebd",
-  "title": "Intellectual freedom by design",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
-    "summary": "ChatGPT is designed to be useful, trustworthy, and adaptable\u2014so you can make it your own.",
-    "published": "Tue, 15 Jul 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8399d74a6541400f",
-  "title": "The EU Code of Practice and future of AI in Europe",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/eu-code-of-practice",
-    "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
-    "published": "Fri, 11 Jul 2025 09:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e4d54c0adef75179",
-  "title": "Working with 400,000 teachers to shape the future of AI in schools",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/aft",
-    "summary": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
-    "published": "Tue, 08 Jul 2025 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d42fb1eb3362412f",
-  "title": "Customizable, no-code voice agent automation with GPT-4o",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/retell-ai",
-    "summary": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations\u2014without scripts or hold times.",
-    "published": "Thu, 26 Jun 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "feaffe4451179806",
-  "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/unify",
-    "summary": "Unify, an AI-powered GTM platform, uses OpenAI\u2019s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.",
-    "published": "Tue, 24 Jun 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ly-corporation",
-    "summary": "LY Corporation: Driving growth and \u2018WOW\u2019 moments with OpenAI",
-    "published": "Wed, 12 Mar 2025 18:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0962d4aa67a98c13",
-  "title": "Preparing for future AI risks in biology",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
-    "summary": "Advanced AI can transform biology and medicine\u2014but also raises biosecurity risks. We\u2019re proactively assessing capabilities and implementing safeguards to prevent misuse.",
-    "published": "Wed, 18 Jun 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e0c68f21f48fb5da",
-  "title": "Toward understanding and preventing misalignment generalization",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/emergent-misalignment",
-    "summary": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior\u2014one that can be reversed with minimal fine-tuning.",
-    "published": "Wed, 18 Jun 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c0a6c0b2e87568d0",
-  "title": "Bringing the magic of AI to Mattel\u2019s iconic brands",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mattels-iconic-brands",
-    "summary": "OpenAI and Mattel are partnering to integrate AI into iconic brands such as Barbie and Hot Wheels, aiming to enhance creative development, streamline workflows, and create new ways for fans to engage.",
-    "published": "Thu, 12 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "01654d4b5caeb532",
-  "title": "Scaling security with responsible disclosure",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/scaling-coordinated-vulnerability-disclosure",
-    "summary": "OpenAI introduces its Outbound Coordinated Disclosure Policy to guide how it responsibly reports vulnerabilities in third-party software\u2014emphasizing integrity, collaboration, and proactive security at scale.",
-    "published": "Mon, 09 Jun 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "982b29288ceb8047",
-  "title": "Operation \u201cHelgoland Bite\u201d: German-language influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-helgoland-bite",
-    "summary": "OpenAI banned accounts that appeared to originate in Russia and used AI to generate German-language political content about Ukraine, NATO, and domestic issues.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c0cd8ee75b958832",
-  "title": "Operation \u201cVAGue Focus\u201d: Social engineering and influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-vague-focus",
-    "summary": "OpenAI banned accounts using AI for social engineering, surveillance-themed research, and influence activity targeting critics.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0b8561ecadcf7479",
-  "title": "Vixen and Keyhole Panda: China-linked cyber operations",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda",
-    "summary": "OpenAI banned accounts associated with threat actors publicly attributed to the PRC, using AI to support vulnerability research, scripting, translation, and operational troubleshooting.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "14a128ef38bf5856",
-  "title": "Deceptive Employment Scheme: IT worker activity",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-it-workers",
-    "summary": "OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to develop materials for potentially fraudulent remote-job applications.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme",
-    "summary": "OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with characteristics of publicly reported North Korea-linked IT-worker activity.",
-    "published": "Sat, 01 Feb 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "880ce1f1931015c1",
-  "title": "Operation \u201cHigh Five\u201d: Philippines political comments",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-high-five",
-    "summary": "OpenAI banned accounts using AI to generate comments about Philippine politics and public officials across social platforms.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3a99acbf664254fa",
-  "title": "Operation \u201cUncle Spam\u201d: US polarization influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-uncle-spam",
-    "summary": "OpenAI banned China-origin accounts using AI to generate US political content and research people, movements, and online communities.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e8926a6e9f91a807",
-  "title": "Operation \u201cWrong Number\u201d: AI-assisted task scam",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-wrong-number",
-    "summary": "OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows targeting people in the UK.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8b71360e58637c94",
-  "title": "Operation \u201cSneer Review\u201d: China-origin influence activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-sneer-review",
-    "summary": "OpenAI banned accounts using AI to generate posts criticizing a Taiwanese social media influencer and related US topics.",
-    "published": "Sun, 01 Jun 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e9e9bdd19909c86f",
-  "title": "Creating websites in minutes with AI Website Builder",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/wix",
-    "summary": "Wix\u2019s AI Website Builder, powered by OpenAI, lets anyone create a full website in minutes\u2014just by describing their idea in a conversation.",
-    "published": "Thu, 29 May 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "98351ead9546d5bc",
-  "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3",
-    "summary": "We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.",
-    "published": "Fri, 23 May 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c8ce04da54948718",
-  "title": "OpenAI Deutschland",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-deutschland",
-    "summary": "",
-    "published": "Thu, 22 May 2025 23:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4de88fe3ca16def5",
-  "title": "Shipping code faster with o3, o4-mini, and GPT-4.1",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/coderabbit",
-    "summary": "CodeRabbit uses OpenAI models to revolutionize code reviews\u2014boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI.",
-    "published": "Thu, 22 May 2025 10:25:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c40dd41a773bf7a9",
-  "title": "New tools and features in the Responses API",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-tools-and-features-in-the-responses-api",
-    "summary": "",
-    "published": "Wed, 21 May 2025 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2478e4b32441a98b",
-  "title": "AI powers Expedia\u2019s marketing evolution",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/expedia-jochen-koedijk",
-    "summary": "A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group.",
-    "published": "Wed, 14 May 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "369ce4879d1487a8",
-  "title": "Introducing HealthBench",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/healthbench",
-    "summary": "HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model performance and safety in health.",
-    "published": "Mon, 12 May 2025 10:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "223cbb76c9bbafde",
-  "title": "OpenAI Expands Leadership with Fidji Simo",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/leadership-expansion-with-fidji-simo",
-    "summary": "Read the message Sam shared with the company earlier today.",
-    "published": "Wed, 07 May 2025 21:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0faa617b838403bd",
-  "title": "OpenAI\u2019s response to the Department of Energy on AI infrastructure",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/response-to-department-of-energy",
-    "summary": "Why infrastructure is destiny and how the US can seize it.",
-    "published": "Wed, 07 May 2025 18:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f502b6eaec539ec3",
-  "title": "Introducing data residency in Asia",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-data-residency-in-asia",
-    "summary": "Data residency builds on OpenAI\u2019s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.",
-    "published": "Wed, 07 May 2025 18:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-data-residency-in-europe",
-    "summary": "Data residency builds on OpenAI\u2019s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.",
-    "published": "Wed, 05 Feb 2025 22:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "014b01550c52a4d5",
-  "title": "The San Antonio Spurs use ChatGPT to scale impact on and off the court",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/san-antonio-spurs",
-    "summary": "Discover how the San Antonio Spurs are using custom GPTs to enhance fan engagement, streamline operations, and drive innovation across teams.",
-    "published": "Wed, 07 May 2025 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e340960976580f86",
-  "title": "Lowe\u2019s puts project expertise into every hand",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/lowes",
-    "summary": "Lowe\u2019s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered tools that bring expert help to both customers and store associates\u2014making complex home improvement projects easier to plan, navigate, and complete.",
-    "published": "Wed, 07 May 2025 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "36ef70175e18546e",
-  "title": "Introducing AI stories: daily benefits shine a light on bigger opportunities",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities",
-    "summary": "Sam Altman has written that we are entering the Intelligence Age, a time when AI will help people become dramatically more capable. The biggest problems of today\u2014across science, medicine, education, national defense\u2014will no longer seem intractable, but will in fact be solvable. New horizons of possibility and prosperity will open up.",
-    "published": "Tue, 06 May 2025 10:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "47f1fd94c0709f4e",
-  "title": "AI helps John Deere transform agriculture",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/john-deere-justin-rose",
-    "summary": "John Deere\u2019s Justin Rose talks about transforming agriculture with AI and shares how the company is scaling innovation to help farmers work smarter, more efficiently, and sustainably.",
-    "published": "Tue, 06 May 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "2b722a5f62b988df",
-  "title": "Evolving OpenAI\u2019s structure",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/evolving-our-structure",
-    "summary": "An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact and long-term alignment with the public good.",
-    "published": "Mon, 05 May 2025 11:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission",
-    "summary": "A stronger non-profit supported by the for-profit\u2019s success.",
-    "published": "Fri, 27 Dec 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "aff6b40789d3910d",
-  "title": "Lowe\u2019s leverages AI to power home improvement retail",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/lowes-chandhu-nair",
-    "summary": "A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation.",
-    "published": "Mon, 05 May 2025 05:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "792619a9876a16fc",
-  "title": "Expanding on what we missed with sycophancy",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/expanding-on-sycophancy",
-    "summary": "A deeper dive on our findings, what went wrong, and future changes we\u2019re making.",
-    "published": "Fri, 02 May 2025 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "05469144099f605d",
-  "title": "Sycophancy in GPT-4o: what happened and what we\u2019re doing about it",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sycophancy-in-gpt-4o",
-    "summary": "We have rolled back last week\u2019s GPT\u20114o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable\u2014often described as sycophantic.",
-    "published": "Tue, 29 Apr 2025 18:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "696967d99ef62d55",
-  "title": "New in ChatGPT for Business: April 2025",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025",
-    "summary": "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.",
-    "published": "Thu, 24 Apr 2025 00:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025",
-    "summary": "Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic.",
-    "published": "Tue, 18 Mar 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "00b78818aa65b035",
-  "title": "Introducing our latest image generation model in the API",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/image-generation-api",
-    "summary": "Our latest image generation model is now available in the API via \u2018gpt-image-1\u2019\u2014enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.",
-    "published": "Wed, 23 Apr 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3d4e9f5ad2ab9840",
-  "title": "Speak is personalizing language learning with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/speak-connor-zwick",
-    "summary": "A conversation with Connor Zwick, CEO & Co-founder of Speak.",
-    "published": "Tue, 22 Apr 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "879524d306f7d8b6",
-  "title": "The Washington Post partners with OpenAI on search content",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/the-washington-post-partners-with-openai",
-    "summary": "The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting.",
-    "published": "Tue, 22 Apr 2025 06:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3142953457b67db1",
-  "title": "Thinking with images",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/thinking-with-images",
-    "summary": "",
-    "published": "Wed, 16 Apr 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ad208f26f505bbbc",
-  "title": "Our updated Preparedness Framework",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/updating-our-preparedness-framework",
-    "summary": "Sharing our updated framework for measuring and protecting against severe harm from frontier AI capabilities.",
-    "published": "Tue, 15 Apr 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "16b1986b7bbc77db",
-  "title": "BrowseComp: a benchmark for browsing agents",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/browsecomp",
-    "summary": "BrowseComp: a benchmark for browsing agents.",
-    "published": "Thu, 10 Apr 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a250cbf7d92bd330",
-  "title": "Canva enables creativity with AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/canva-cam-adams",
-    "summary": "A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva.",
-    "published": "Mon, 07 Apr 2025 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "768bf4109bafb7c5",
-  "title": "New commission to provide insight as OpenAI builds the world\u2019s best-equipped nonprofit",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/nonprofit-commission-guidance",
-    "summary": "Already a nonprofit, and already using AI to help people solve hard problems, OpenAI aims to build the best-equipped nonprofit the world has ever seen\u2014combining potentially historic financial resources with something even more powerful: technology that can scale human ingenuity itself.",
-    "published": "Wed, 02 Apr 2025 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a2d15ea4558f6433",
-  "title": "Our response to the UK\u2019s copyright consultation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/global-affairs/response-to-uk-copyright-consultation",
-    "summary": "Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe.",
-    "published": "Wed, 02 Apr 2025 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9e186a738c0f5499",
-  "title": "New funding to build towards AGI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/march-funding-updates",
-    "summary": "Today we\u2019re announcing new funding\u2014$40B at a $300B post-money valuation, which enables us to push the frontiers of AI research even further, scale our compute infrastructure, and deliver increasingly powerful tools for the 500 million people who use ChatGPT every week.",
-    "published": "Mon, 31 Mar 2025 15:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1546edff0e082a82",
-  "title": "Moving from intent-based bots to proactive AI agents",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/zendesk",
-    "summary": "Moving from intent-based bots to proactive AI agents.",
-    "published": "Thu, 27 Mar 2025 09:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "93ab52ac25cc47f2",
   "title": "Security on the path to AGI",
   "topic": "ai",
@@ -11503,13 +10633,19 @@
   "id": "8931b830d8ddf5c9",
   "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "summary": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier.",
     "published": "Fri, 02 Oct 2026 18:11:27 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://developer.apple.com/news/?id=p6zjojqw",
+    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p> <p>Points: 208</p> <p># Comments: 141</p>",
+    "published": "Fri, 02 Oct 2026 19:37:01 +0000"
    }
   ]
  },
@@ -11720,6 +10856,216 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp\">Here are Google\u2019s latest AI updates from September 2026",
     "published": "Fri, 02 Oct 2026 15:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "880d0910691c8ac0",
+  "title": "Community banks sue OCC over trust bank charters of crypto firms",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png\" alt=\"Community banks sue OCC over trust bank charters of crypto firms\" class=\"type:primaryImage\"></p><p>Community banking group\u2019s lawsuit claims OCC has overstepped its mandate from Congress.</p>",
+    "published": "Sat, 03 Oct 2026 09:25:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0388c675f56ef10b",
+  "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M408YEEABFWBFJG6GQ567JX7/hi-china-own-ai.png\" alt=\"Trump is expected to appoint Jay Clayton as new AI czar: Reports\" class=\"type:primaryImage\"></p><p>US intel chief Clayton may be asked to also oversee AI innovation and development along with \u201cself policing\u201d tech CEOs.</p>",
+    "published": "Sat, 03 Oct 2026 07:06:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c4c7bfb7bc3b6cb1",
+  "title": "An AI agent emailed researchers for help. It told us why",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why\">https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942865\">https://news.ycombinator.com/item?id=49942865</a></p> <p>Points: 17</p> <p># Comments: 27</p>",
+    "published": "Sat, 03 Oct 2026 10:07:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bf41612daaa7ebc8",
+  "title": "GitHub's new dashboard experience now the default",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/\">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942818\">https://news.ycombinator.com/item?id=49942818</a></p> <p>Points: 4</p> <p># Comments: 1</p>",
+    "published": "Sat, 03 Oct 2026 09:59:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7c6018f63ac913ba",
+  "title": "Gemini ending free use of Flash and Pro models",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/\">https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942592\">https://news.ycombinator.com/item?id=49942592</a></p> <p>Points: 16</p> <p># Comments: 6</p>",
+    "published": "Sat, 03 Oct 2026 09:13:19 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bb63587cc0f223cd",
+  "title": "An Update on Orion for Linux and Windows",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.kagi.com/update-orion-linux-windows",
+    "summary": "<p>Article URL: <a href=\"https://blog.kagi.com/update-orion-linux-windows\">https://blog.kagi.com/update-orion-linux-windows</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941447\">https://news.ycombinator.com/item?id=49941447</a></p> <p>Points: 58</p> <p># Comments: 25</p>",
+    "published": "Sat, 03 Oct 2026 04:53:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "101e89adb12303ae",
+  "title": "Extra Big Ass Intelligence",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.extrabigassintelligence.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p> <p>Points: 311</p> <p># Comments: 67</p>",
+    "published": "Sat, 03 Oct 2026 03:19:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ddac069f8d064138",
+  "title": "Cloudflare OHTTP gateway",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941091\">https://news.ycombinator.com/item?id=49941091</a></p> <p>Points: 88</p> <p># Comments: 22</p>",
+    "published": "Sat, 03 Oct 2026 03:15:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "37ad16bccc5be2c3",
+  "title": "Newgrounds.com \u2013 A community of games, music, and art",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.newgrounds.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p> <p>Points: 242</p> <p># Comments: 64</p>",
+    "published": "Sat, 03 Oct 2026 00:55:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9f51a04962c0570a",
+  "title": "Barcodes are about to go extinct",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+    "summary": "<p>Article URL: <a href=\"https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\">https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938306\">https://news.ycombinator.com/item?id=49938306</a></p> <p>Points: 49</p> <p># Comments: 75</p>",
+    "published": "Fri, 02 Oct 2026 20:37:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fcf5a587f197e5e9",
+  "title": "The Nintendo 64 Partner-N64 Development Kit",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+    "summary": "<p><a href=\"https://archive.is/WCnLA\" rel=\"nofollow\">https://archive.is/WCnLA</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937146\">https://news.ycombinator.com/item?id=49937146</a></p> <p>Points: 43</p> <p># Comments: 5</p>",
+    "published": "Fri, 02 Oct 2026 18:53:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "47992b567ab443c4",
+  "title": "The Forgetful CPU (Linux on M4)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "summary": "<p>Article URL: <a href=\"https://yuka.dev/blog-2026-10-02-linux-m4.html\">https://yuka.dev/blog-2026-10-02-linux-m4.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933869\">https://news.ycombinator.com/item?id=49933869</a></p> <p>Points: 222</p> <p># Comments: 149</p>",
+    "published": "Fri, 02 Oct 2026 14:22:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8d49687049425d90",
+  "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NnV_cWeoo5Q\">https://www.youtube.com/watch?v=NnV_cWeoo5Q</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929391\">https://news.ycombinator.com/item?id=49929391</a></p> <p>Points: 244</p> <p># Comments: 75</p>",
+    "published": "Fri, 02 Oct 2026 02:51:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "83485a4ee257ce39",
+  "title": "Meta wants your next gadget to be Muse-infused",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "published": "Sat, 03 Oct 2026 00:45:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a88bd58bf22974f4",
+  "title": "Sanders introduces bill to ban the federal government from using Flock",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+    "summary": "The proposed legislation would extend to all automotica license plate readers.",
+    "published": "Sat, 03 Oct 2026 00:21:57 +0000"
    }
   ]
  }
