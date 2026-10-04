@@ -208,14 +208,19 @@ def blocks_html(blocks: list[tuple[str, str]]) -> str:
     return "\n".join(out)
 
 
+def excerpt_of(meta: dict) -> str:
+    """Plain-text summary of a post: first paragraph of real prose, markdown
+    stripped. Used by the index cards AND the RSS descriptions, so neither can
+    leak '[text](url)' syntax into a reader."""
+    paras = [t for kind, t in md_blocks(meta["body"]) if kind == "p"]
+    first = next((t for t in paras if len(t) >= 70), paras[0] if paras else "")
+    return plain_md(first)[:280]
+
+
 def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
     url = f"{base_url}/posts/{esc(meta['path'].stem)}.html"
     blocks = md_blocks(meta["body"])
-    # Excerpt = first paragraph long enough to read like prose, so a stray
-    # header or one-line stub never becomes the summary on the index page.
-    paras = [t for kind, t in blocks if kind == "p"]
-    first_para = next((t for t in paras if len(t) >= 70), paras[0] if paras else "")
-    excerpt = esc(plain_md(first_para)[:280])
+    excerpt = esc(excerpt_of(meta))
     title_html = (f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>'
                   if heading else "")
     out = ['<div class="post">',
@@ -350,13 +355,12 @@ def main() -> int:
     rss_items = []
     for m in live[:30]:
         link = f"{base_url}/posts/{esc(m['path'].stem)}.html" if base_url else f"/posts/{esc(m['path'].stem)}.html"
-        desc = [p.strip() for p in re.split(r"\n\s*\n", m["body"]) if p.strip()]
         rss_items.append(
             f"<item><title>{esc(m.get('title'))}</title>"
             f"<link>{link}</link>"
             f"<guid>{link}</guid>"
             f"<pubDate>{esc(m.get('date'))} 00:00:00 GMT</pubDate>"
-            f"<description>{esc(desc[0][:300] if desc else '')}</description></item>")
+            f"<description>{esc(excerpt_of(m))}</description></item>")
     feed = (f'<?xml version="1.0"?><rss version="2.0"><channel>'
             f'<title>Unspent Thoughts</title><link>{base_url or "/"}</link>'
             f'<description>The AI and Bitcoin news that earned its place</description>'
