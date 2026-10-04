@@ -1,36 +1,41 @@
 [
  {
-  "id": "975f576532672844",
-  "title": "Gemini 4 Argon",
-  "topic": "both",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "A new frontier model release from Google, corroborated by four sources including independent benchmarks, is frontier-shifting for AI readers.",
+  "id": "ef4dc7cf64ffab87",
+  "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "SEC custody proposal for advisers and funds, corroborated by two outlets and tied to a named commissioner, is clearly publishable crypto regulatory news, though a proposal rather than a final verdict.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913571\">https://news.ycombinator.com/item?id=49913571</a></p> <p>Points: 304</p> <p># Comments: 127</p>",
-    "published": "Wed, 30 Sep 2026 20:04:37 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+    "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
+    "published": "Thu, 01 Oct 2026 20:20:04 +0000"
    },
    {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/gemini-4-argon\">https://artificialanalysis.ai/models/gemini-4-argon</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914236\">https://news.ycombinator.com/item?id=49914236</a></p> <p>Points: 37</p> <p># Comments: 17</p>",
-    "published": "Wed, 30 Sep 2026 20:50:28 +0000"
-   },
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+    "summary": "SEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
+    "published": "Thu, 01 Oct 2026 21:00:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "154ffdc2035ab790",
+  "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Named major companies (Circle, Hyperliquid) making concrete regulatory filings in the EU MiCA review is clearly publishable crypto-policy news.",
+  "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "published": "Wed, 30 Sep 2026 23:43:07 +0000"
-   },
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-10-01",
-    "summary": "",
-    "published": "Thu, 01 Oct 2026 00:00:00 GMT"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+    "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
+    "published": "Thu, 01 Oct 2026 19:10:36 +0000"
    }
   ]
  }
