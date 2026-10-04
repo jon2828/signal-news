@@ -106,10 +106,116 @@ def is_retracted(meta: dict) -> bool:
     return str(meta.get("retracted", "")).strip().lower() in ("true", "1", "yes")
 
 
+INLINE_MD = (
+    (re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)"), r'<a href="\2">\1</a>'),
+    (re.compile(r"\*\*([^*]+)\*\*"), r"<strong>\1</strong>"),
+    (re.compile(r"(?<!\*)\*([^*\n]+)\*(?!\*)"), r"<em>\1</em>"),
+    (re.compile(r"`([^`\n]+)`"), r"<code>\1</code>"),
+)
+
+
+def inline_md(text: str) -> str:
+    out = esc(text)
+    for pat, rep in INLINE_MD:
+        out = pat.sub(rep, out)
+    return out
+
+
+def plain_md(text: str) -> str:
+    """Markdown stripped to readable text, for excerpts: '[a](u)' -> 'a'."""
+    text = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", r"\1", text)
+    text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
+    text = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"\1", text)
+    text = re.sub(r"`([^`\n]+)`", r"\1", text)
+    return text
+
+
+def md_blocks(md: str) -> list[tuple[str, str]]:
+    """Split a post body into ('p' | 'hN' | 'li', text) blocks, line by line.
+
+    The writer sometimes leaves its own '# Title' heading and a '*Date:*' line
+    in the body, plus stray '### x' headings. The page renders the title and
+    date itself, so those lines are dropped: no post should ever print a
+    literal '#' or '*Date*' on the site.
+    """
+    blocks: list[tuple[str, str]] = []
+    para: list[str] = []
+    seen_content = 0
+
+    def flush() -> None:
+        if para:
+            blocks.append(("p", " ".join(para)))
+            para.clear()
+
+    # Metadata the writer sometimes leaves at the top of a body: a bare
+    # '*Date: ...*' line, or a 'Topic: AI / Score: 9' header block. Only the
+    # opening lines are stripped, so a legitimate mid-article sentence that
+    # happens to start with 'Score:' is never touched.
+    meta_line = re.compile(
+        r"^\*{0,2}(?:Date|Topic|Score|Sources?|Author|Published)\s*:\s*.{0,60}\*{0,2}$", re.I)
+
+    for raw in md.splitlines():
+        line = raw.strip()
+        if not line:
+            flush()
+            continue
+        if re.match(r"^#\s+", line):
+            flush()
+            continue
+        if seen_content < 4 and meta_line.match(line):
+            flush()
+            continue
+        if re.match(r"^\*{0,2}Date:\s*\d{4}\D\d{1,2}\D\d{1,2}\*{0,2}$", line, re.I):
+            flush()
+            continue
+        h = re.match(r"^(#{2,6})\s+(.+)$", line)
+        if h:
+            flush()
+            seen_content += 1
+            blocks.append((f"h{min(6, len(h.group(1)))}", h.group(2).strip()))
+            continue
+        if re.match(r"^[-*]\s+", line):
+            flush()
+            seen_content += 1
+            blocks.append(("li", re.sub(r"^[-*]\s+", "", line)))
+            continue
+        seen_content += 1
+        para.append(line)
+    flush()
+    return blocks
+
+
+def blocks_html(blocks: list[tuple[str, str]]) -> str:
+    out: list[str] = []
+    in_list = False
+    for kind, text in blocks:
+        if kind == "li":
+            if not in_list:
+                out.append("<ul>")
+                in_list = True
+            out.append(f"<li>{inline_md(text)}</li>")
+            continue
+        if in_list:
+            out.append("</ul>")
+            in_list = False
+        if kind.startswith("h"):
+            lvl = kind[1]
+            out.append(f"<h{lvl}>{inline_md(text)}</h{lvl}>")
+        else:
+            out.append(f"<p>{inline_md(text)}</p>")
+    if in_list:
+        out.append("</ul>")
+    return "\n".join(out)
+
+
 def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
     url = f"{base_url}/posts/{esc(meta['path'].stem)}.html"
-    paras = [p.strip() for p in re.split(r"\n\s*\n", meta["body"]) if p.strip()]
-    excerpt = esc(paras[0][:280]) if paras else ""
+    blocks = md_blocks(meta["body"])
+    # Excerpt = first paragraph long enough to read like prose, so a stray
+    # header or one-line stub never becomes the summary on the index page.
+    paras = [t for kind, t in blocks if kind == "p"]
+    first_para = next((t for t in paras if len(t) >= 70), paras[0] if paras else "")
+    excerpt = esc(plain_md(first_para)[:280])
     title_html = (f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>'
                   if heading else "")
     out = ['<div class="post">',
@@ -117,7 +223,7 @@ def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> 
            f'<div class="meta"><span class="badge score">score {meta.get("score", "?")}/10</span>'
            f'<span class="badge">{esc(meta.get("topic", "?"))}</span>{esc(meta.get("date", ""))}</div>']
     if full:
-        out.append(meta["body"].replace("\n\n", "</p>\n<p>").join(["<p>", "</p>"]))
+        out.append(blocks_html(blocks))
         srcs = meta.get("sources") or []
         if srcs:
             out.append("<h2>Sources</h2><ul>" + "".join(
@@ -141,6 +247,11 @@ def main() -> int:
 
     dist = ROOT / "site" / "dist"
     dist.mkdir(parents=True, exist_ok=True)
+    # Wipe first: dist is fully generated, and stale files from earlier builds
+    # (renamed or retracted posts) would otherwise keep shipping to production.
+    for old in dist.rglob("*"):
+        if old.is_file():
+            old.unlink()
 
     # Optional privacy-first analytics: Cloudflare Web Analytics beacon.
     analytics = ""
@@ -229,8 +340,9 @@ def main() -> int:
                        f'<h1><a href="/">Unspent Thoughts</a></h1>'
                        f'<nav><a href="/">← All posts</a></nav>'
                        f'</header>'
-                       f'<div class="post disclosure"><h1 style="font-size:1.3rem;margin-top:0">How this site works</h1>'
-                       + disclosure_md.replace("\n\n", "</p>\n<p>").join(["<p>", "</p>"])
+                       f'<div class="post disclosure">'
+                       f'<h1 class="article-title">How this site works</h1>'
+                       + blocks_html(md_blocks(disclosure_md))
                        + '</div></body></html>')
     (dist / "disclosure.html").write_text(disclosure_html)
 
