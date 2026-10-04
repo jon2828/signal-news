@@ -1,10 +1,10 @@
 {
-  "_comment": "Unspent Thoughts pipeline configuration. pipeline_enabled=false is the one-click kill switch: the workflow and every script check it first and exit without posting. The edit model must differ from the write model (independent check). Paid OpenRouter fallback funded Oct 2026 (~$1-6/mo at full cadence): edit=gpt-oss-120b, triage=glm-5.3-flash, write=kimi-k3.",
+  "_comment": "Unspent Thoughts pipeline configuration. pipeline_enabled=false is the one-click kill switch. OpenRouter leads the chain (paid, funded Oct 2026: edit=gpt-oss-120b, triage=glm-5.3-flash, write=kimi-k3); Groq and NVIDIA free tiers are the fallback. caps.max_source_age_days rejects candidates whose newest source is older than N days. caps.catchup_posts_per_day + catchup_until let a backlog of gate-blocked drafts drain at the daily pace instead of being lost.",
   "pipeline_enabled": true,
   "provider_chain": [
-    "nvidia",
+    "openrouter",
     "groq",
-    "openrouter"
+    "nvidia"
   ],
   "env_keys": {
     "nvidia": "NVIDIA_API_KEY",
@@ -32,7 +32,10 @@
     "posts_per_day": 2,
     "posts_per_run": 2,
     "min_triage_score": 7,
-    "max_words_per_post": 1000
+    "max_words_per_post": 1000,
+    "max_source_age_days": 3,
+    "catchup_posts_per_day": 2,
+    "catchup_until": "2026-10-08"
   },
   "fetch": {
     "timeout_seconds": 20,
@@ -64,8 +67,8 @@
   ],
   "job_chain": {
     "edit": [
-      "groq",
       "openrouter",
+      "groq",
       "nvidia"
     ]
   },

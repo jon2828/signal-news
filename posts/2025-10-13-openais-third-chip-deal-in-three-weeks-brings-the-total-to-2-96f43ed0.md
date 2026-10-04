@@ -6,6 +6,8 @@ score: 9
 candidate_id: 96f43ed00389e366
 sources: ["https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration", "https://openai.com/index/openai-amd-strategic-partnership", "https://openai.com/index/openai-nvidia-systems-partnership"]
 triage_reason: "Multi-gigawatt hardware partnerships with Broadcom, AMD, and NVIDIA are massive infrastructure commitments that define the next phase of AI scaling."
+retracted: true
+retracted_reason: "Source material dated October 2025; published as news in error."
 ---
 
 OpenAI and Broadcom announced a deal on Monday to deploy 10 gigawatts of custom AI accelerators, with OpenAI designing the chips and systems and Broadcom co-developing and deploying the racks, all networked with Broadcom's Ethernet and connectivity gear. It is the third gigawatt-scale announcement from OpenAI in three weeks, and it brings the company's announced total to 26 gigawatts of future compute.

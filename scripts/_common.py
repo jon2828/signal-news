@@ -135,28 +135,56 @@ def chat(model: str, prompt: str, user_content: str, base_url: str,
 
 
 def parse_json_blob(text: str):
-    """Tolerant JSON extraction: strips markdown fences, finds the first
-    array or object in the text. A single-key object whose value is a list
-    (e.g. {"scores": [...]}) is unwrapped to the list, since models like
-    to wrap bare arrays in named objects."""
+    """Tolerant JSON extraction.
+
+    Models emit reasoning prose, markdown fences, and JSON in varying shapes
+    (bare array, single-key wrapper, verdict object). Instead of trusting the
+    first brace in the text, scan every balanced top-level blob (ignoring
+    braces inside strings) and return the most useful one: a dict carrying a
+    'verdict' key if present, else the first array (unwrapping single-key
+    objects whose value is a list), else the first object.
+    """
     text = re.sub(r"```(?:json)?", "", text).strip().strip("`").strip()
-    for opener, closer in (("[", "]"), ("{", "}")):
-        start = text.find(opener)
-        if start == -1:
+    blobs: list = []
+    stack: list[str] = []
+    start = None
+    in_str = False
+    escaped = False
+    for i, ch in enumerate(text):
+        if in_str:
+            if escaped:
+                escaped = False
+            elif ch == "\\":
+                escaped = True
+            elif ch == '"':
+                in_str = False
             continue
-        depth = 0
-        for i in range(start, len(text)):
-            if text[i] == opener:
-                depth += 1
-            elif text[i] == closer:
-                depth -= 1
-                if depth == 0:
-                    parsed = json.loads(text[start:i + 1])
-                    if isinstance(parsed, dict) and len(parsed) == 1:
-                        only = next(iter(parsed.values()))
-                        if isinstance(only, list):
-                            return only
-                    return parsed
+        if ch == '"':
+            in_str = True
+        elif ch in "[{":
+            if not stack:
+                start = i
+            stack.append("]" if ch == "[" else "}")
+        elif stack and ch == stack[-1]:
+            stack.pop()
+            if not stack and start is not None:
+                try:
+                    blobs.append(json.loads(text[start:i + 1]))
+                except Exception:
+                    pass
+                start = None
+    for blob in blobs:
+        if isinstance(blob, dict) and "verdict" in blob:
+            return blob
+    for blob in blobs:
+        if isinstance(blob, list):
+            return blob
+        if isinstance(blob, dict) and len(blob) == 1:
+            only = next(iter(blob.values()))
+            if isinstance(only, list):
+                return only
+    if blobs:
+        return blobs[0]
     raise ValueError(f"no JSON found in model response: {text[:200]}")
 
 
