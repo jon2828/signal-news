@@ -11,6 +11,7 @@ from pathlib import Path
 
 dist = Path("site/dist")
 pages = sorted(list(dist.glob("*.html")) + list((dist / "posts").glob("*.html")))
+pages += [dist / "feed.xml"] if (dist / "feed.xml").is_file() else []
 assert pages, "no built pages found - run scripts/build.py first"
 
 LEAKS = (
