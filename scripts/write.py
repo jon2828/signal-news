@@ -14,7 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import (ROOT, chat_with_fallback, config, extract_article,  # noqa: E402
                      guarded_exit, kill_switch, log_decision, normalize_text,
-                     provider_client, slugify)
+                     provider_client, rewrite_for_lint, slugify)
 from lint import lint  # noqa: E402
 
 MAX_SOURCES_PER_POST = 3
@@ -134,15 +134,28 @@ def main() -> int:
         hits = lint(meta["body"])
         total_hits = sum(h[1] for h in hits)
         words = len(meta["body"].split())
+        # Style is a flag, not a veto, and word count is the one hard limit.
+        # Over either: one rewrite attempt (facts preserved), then judge again.
+        if total_hits > max_hits or words > max_words:
+            before = (total_hits, words)
+            rewritten = rewrite_for_lint(cfg, meta["body"], hits, max_words, meta.get("title", ""))
+            if rewritten:
+                meta["body"] = rewritten
+                hits = lint(rewritten)
+                total_hits = sum(h[1] for h in hits)
+                words = len(rewritten.split())
+                log_decision("lint_rewrite", json.dumps(
+                    {"id": cand["id"], "before": f"lint={before[0]},words={before[1]}",
+                     "after": f"lint={total_hits},words={words}"}))
         if words > max_words:
-            log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": f"word count {words} > {max_words}"}))
+            log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": f"word count {words} > {max_words} after rewrite"}))
             _return_to_queue(cand)
             continue
         if total_hits > max_hits:
+            # Published anyway (owner decision): flag it for the audit trail.
             names = ", ".join(f"{h[0]}({h[1]})" for h in hits)
-            log_decision("write_dropped", json.dumps({"id": cand["id"], "reason": f"lint hits {total_hits}: {names}"}))
-            _return_to_queue(cand)
-            continue
+            log_decision("lint_flagged", json.dumps({"id": cand["id"], "hits": total_hits, "patterns": names}))
+            print(f"[write] lint flagged, publishing anyway: {total_hits} hits ({names})")
 
         meta.setdefault("date", datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d"))
         meta.setdefault("sources", [s["url"] for s in cand["sources"][:MAX_SOURCES_PER_POST]])

@@ -134,6 +134,39 @@ def chat(model: str, prompt: str, user_content: str, base_url: str,
     return content
 
 
+def rewrite_for_lint(cfg: dict, body: str, hits: list, max_words: int, title: str = "") -> str | None:
+    """One rewrite attempt to clear the anti-AI lint, preserving every fact.
+
+    Jon's call: a story that scored well should not be thrown away over style.
+    The writer model rephrases the flagged patterns; facts, numbers, quotes and
+    source links must survive untouched. Returns the new body, or None when the
+    attempt itself fails (the caller then publishes with a lint_flags note
+    rather than dropping the story).
+    """
+    prompt_file = cfg.get("lint", {}).get("rewrite_prompt_file", "prompts/lint_rewrite.md")
+    try:
+        tpl = (ROOT / prompt_file).read_text()
+    except OSError as e:
+        log_decision("lint_rewrite_failed", json.dumps({"error": f"prompt missing: {e}"}[:160]))
+        return None
+    flagged = "\n".join(f"- {name} ({count}x): {'; '.join(examples)}" for name, count, examples in hits) or "- (word count only)"
+    prompt = (tpl.replace("<<FLAGGED>>", flagged)
+              .replace("<<MAX_WORDS>>", str(max_words))
+              .replace("<<TITLE>>", title or "(untitled)")
+              .replace("<<POST>>", body))
+    try:
+        raw, _prov = chat_with_fallback(cfg, "write", prompt, max_tokens=6000, timeout=420)
+    except Exception as e:
+        log_decision("lint_rewrite_failed", json.dumps({"error": f"{type(e).__name__}: {e}"[:160]}))
+        return None
+    text = re.sub(r"```[a-zA-Z]*", "", raw).strip()
+    text = re.sub(r"^---\s*\n.*?\n---\s*\n", "", text, count=1, flags=re.S).strip()
+    if len(text) < 200:
+        log_decision("lint_rewrite_failed", json.dumps({"error": f"rewrite too short ({len(text)} chars)"}))
+        return None
+    return text
+
+
 def parse_json_blob(text: str):
     """Tolerant JSON extraction.
 
