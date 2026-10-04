@@ -99,6 +99,13 @@ def esc(s) -> str:
     return html.escape(str(s), quote=True)
 
 
+def is_retracted(meta: dict) -> bool:
+    """A withdrawn post stays online, marked, but leaves the index/feed/sitemap.
+    Deleting it would break the link already announced on X and erase the
+    record of the correction."""
+    return str(meta.get("retracted", "")).strip().lower() in ("true", "1", "yes")
+
+
 def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
     url = f"{base_url}/posts/{esc(meta['path'].stem)}.html"
     paras = [p.strip() for p in re.split(r"\n\s*\n", meta["body"]) if p.strip()]
@@ -128,6 +135,9 @@ def main() -> int:
     base_url = cfg.get("site_base_url", "").rstrip("/") or ""
     posts = [m for p in (ROOT / "posts").glob("*.md") if (m := parse_post(p))]
     posts.sort(key=lambda m: (m.get("date", ""), m.get("score", 0)), reverse=True)
+    # Withdrawn posts keep their page (the X link stays alive) but drop out of
+    # the index, feed, and sitemap so they are not presented as news.
+    live = [m for m in posts if not is_retracted(m)]
 
     dist = ROOT / "site" / "dist"
     dist.mkdir(parents=True, exist_ok=True)
@@ -139,7 +149,7 @@ def main() -> int:
         analytics = (f"<script defer src='https://static.cloudflareinsights.com/beacon.min.js' "
                      f"data-cf-beacon='{json.dumps({'token': token})}'></script>")
 
-    items = "\n\n".join(render_post(m, base_url, full=False) for m in posts)
+    items = "\n\n".join(render_post(m, base_url, full=False) for m in live)
     index = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
              f'<meta name="viewport" content="width=device-width,initial-scale=1">'
              f'<title>Unspent Thoughts — AI and Bitcoin news that earned its place</title>'
@@ -172,7 +182,13 @@ def main() -> int:
                 f'<nav><a href="/">← All posts</a><a href="/disclosure">How it works</a></nav>'
                 f'</header>'
                 f'<article class="post article">'
-                f'<h1 class="article-title">{title}</h1>'
+                + ('<p style="display:inline-block;border:1px solid var(--accent);color:var(--accent);'
+                   'border-radius:3px;padding:0 .5rem;font-size:.75rem;margin:0 0 .8rem">RETRACTED</p>'
+                   '<p><em>This post was withdrawn. Its source material was a year old when it was '
+                   'published, so it was not news. It stays online, marked, rather than deleted, because '
+                   'the mistake and the correction are part of the record.</em></p>'
+                   if is_retracted(m) else '')
+                + f'<h1 class="article-title">{title}</h1>'
                 + render_post(m, base_url, full=True, heading=False)
                 + '</article>'
                 + '</body></html>')
@@ -194,7 +210,7 @@ def main() -> int:
         f"Sitemap: {base_url}/sitemap.xml\n")
     today = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d")
     urls = [f"{base_url}/", f"{base_url}/disclosure"] + [
-        f"{base_url}/posts/{esc(m['path'].stem)}.html" for m in posts]
+        f"{base_url}/posts/{esc(m['path'].stem)}.html" for m in live]
     sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                + "\n".join(
@@ -220,7 +236,7 @@ def main() -> int:
 
     now = datetime.datetime.now(datetime.UTC).strftime("%a, %d %b %Y %H:%M:%S GMT")
     rss_items = []
-    for m in posts[:30]:
+    for m in live[:30]:
         link = f"{base_url}/posts/{esc(m['path'].stem)}.html" if base_url else f"/posts/{esc(m['path'].stem)}.html"
         desc = [p.strip() for p in re.split(r"\n\s*\n", m["body"]) if p.strip()]
         rss_items.append(
@@ -235,7 +251,8 @@ def main() -> int:
             f'<lastBuildDate>{now}</lastBuildDate>{"".join(rss_items)}</channel></rss>')
     (dist / "feed.xml").write_text(feed)
 
-    print(f"[build] {len(posts)} posts -> site/dist/ (index.html, disclosure.html, feed.xml)")
+    print(f"[build] {len(live)} live posts ({len(posts) - len(live)} retracted) "
+          f"-> site/dist/ (index.html, disclosure.html, feed.xml)")
     return 0
 
 

@@ -91,6 +91,18 @@ def main() -> int:
                     already += 1
                 break
     room = max(0, cfg["caps"]["posts_per_day"] - already)
+    # Catch-up allowance (owner-approved): when the gate fails, good stories
+    # pile up in drafts/. Rather than silently losing them or dumping them all
+    # at once, allow catchup_posts_per_day extra until catchup_until, so the
+    # backlog drains at the same 2-a-day pace the cap promised.
+    catchup = cfg["caps"].get("catchup_posts_per_day", 0)
+    until = str(cfg["caps"].get("catchup_until", ""))
+    if catchup and until and today <= until and len(drafts) > room:
+        room += catchup
+        log_decision("catchup_allowance", (
+            f"{len(drafts)} drafts waiting; room raised to {room} "
+            f"({cfg['caps']['posts_per_day']}/day + {catchup} catch-up until {until})"))
+        print(f"[edit] catch-up allowance active: room={room}, drafts waiting={len(drafts)}")
     if os.environ.get("EDIT_CAP_OVERRIDE") == "1":
         log_decision("owner_override", "EDIT_CAP_OVERRIDE: cap bypassed for owner-commissioned post")
         print("[edit] EDIT_CAP_OVERRIDE set: cap bypassed (logged as owner_override).")

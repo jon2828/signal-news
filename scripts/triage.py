@@ -33,6 +33,36 @@ def posts_published_today() -> int:
     return n
 
 
+def newest_source_age_days(cand: dict) -> int | None:
+    """Age in days of the newest source timestamp, or None when no source
+    carries a parseable date (treated as fresh, never dropped silently).
+    Feeds use RFC-822 ('Thu, 12 Sep 2024 10:02:00 GMT') and ISO-8601."""
+    import datetime as _dt
+    import email.utils
+    best = None
+    for s in cand.get("sources", []):
+        raw = (s.get("published") or "").strip()
+        if not raw:
+            continue
+        stamp = None
+        try:
+            stamp = email.utils.parsedate_to_datetime(raw)
+        except Exception:
+            try:
+                stamp = _dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
+            except Exception:
+                stamp = None
+        if stamp is None:
+            continue
+        if stamp.tzinfo is None:
+            stamp = stamp.replace(tzinfo=_dt.timezone.utc)
+        if best is None or stamp > best:
+            best = stamp
+    if best is None:
+        return None
+    return (_dt.datetime.now(_dt.UTC) - best).days
+
+
 def main() -> int:
     if kill_switch():
         return guarded_exit("triage")
@@ -56,6 +86,27 @@ def main() -> int:
         print(f"[triage] daily cap reached ({already}/{caps['posts_per_day']} posts today). Skipping.")
         return 0
     take = min(room, caps["posts_per_run"])
+
+    # Freshness gate. A story the model scores highly is worthless if the
+    # source published it years ago (an undated archive page scoring 9 got a
+    # 356-day-old item published and announced as news). Reject candidates
+    # whose newest source date is older than max_source_age_days. Undated
+    # candidates are kept, so feeds that omit dates never lose real news.
+    max_age = caps.get("max_source_age_days")
+    if max_age:
+        fresh, stale = [], []
+        for c in candidates:
+            age = newest_source_age_days(c)
+            (stale if age is not None and age > max_age else fresh).append((c, age))
+        for c, age in stale:
+            log_decision("stale_rejected", json.dumps(
+                {"id": c["id"], "age_days": age, "title": c["title"][:90]}))
+        print(f"[triage] freshness gate: {len(stale)} stale rejected "
+              f"(>{max_age}d), {len(fresh)} kept")
+        candidates = [c for c, _ in fresh]
+        if not candidates:
+            print("[triage] nothing fresh to score this run.")
+            return 0
 
     feeds_cfg = {f["name"]: f for f in json.loads((ROOT / "config" / "feeds.json").read_text())["feeds"]}
     lines = []
