@@ -3,8 +3,12 @@
 
 Usage: python3 lint.py <post.md> [--max-hits N]
 Prints every hit with a count and pattern name. Exits 1 when total hits
-exceed --max-hits (default from config/pipeline.json, fallback 2), which
-fails the pipeline step and drops the post from publishing.
+exceed --max-hits (default from config/pipeline.json, fallback 2).
+
+NOTE: since Oct 2026 this is a FLAG, not a veto. The pipeline runs one rewrite
+attempt (scripts/_common.rewrite_for_lint) and, if hits remain, publishes with a
+`lint_flagged` decision in state/decisions.jsonl. Word count stays a hard limit.
+A non-zero exit here is diagnostic only.
 
 The pattern list mirrors voice/bible.md. Keep them in sync.
 """

@@ -54,7 +54,10 @@
   },
   "lint": {
     "script": "scripts/lint.py",
-    "max_hits_per_post": 2
+    "max_hits_per_post": 2,
+    "rewrite_attempts": 1,
+    "flag_instead_of_drop": true,
+    "rewrite_prompt_file": "prompts/lint_rewrite.md"
   },
   "temperature": {
     "triage": 0.0,

@@ -18,10 +18,23 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import (ROOT, chat_with_fallback, config, extract_article,  # noqa: E402
                      guarded_exit, kill_switch, log_decision, normalize_text,
-                     provider_client, slugify)
+                     provider_client, rewrite_for_lint, slugify)
 from lint import lint  # noqa: E402
 
 MAX_SOURCES_PER_POST = 3
+
+
+def _body_of(text: str) -> str:
+    """Post body without its frontmatter."""
+    m = re.match(r"^---\s*\n.*?\n---\s*\n", text, re.S)
+    return text[m.end():] if m else text
+
+
+def _with_frontmatter(original: str, body: str) -> str:
+    """Re-attach the ORIGINAL draft's frontmatter (real sources, ids, score)."""
+    m = re.match(r"^---\s*\n(.*?)\n---\s*\n", original, re.S)
+    body = re.sub(r"^---\s*\n.*?\n---\s*\n?", "", body, count=1, flags=re.S).strip()
+    return f"---\n{m.group(1)}\n---\n\n{body}\n" if m else body + "\n"
 
 
 def front_meta(text: str) -> dict:
@@ -157,45 +170,50 @@ def main() -> int:
         v = str(verdict.get("verdict", "")).lower()
         reason = str(verdict.get("reason", ""))[:250]
 
-        if v == "publish":
-            # Publish verdict is not a lint exemption: mechanical checks still apply.
-            hits = lint(text)
+        def finalize(candidate_text: str, label: str, why: str) -> bool:
+            """Apply the mechanical gates, then publish. Style is a flag; word
+            count is the hard limit. Over either: one rewrite attempt with every
+            fact preserved, then re-judge rather than throwing the story away."""
+            hits = lint(candidate_text)
             total_hits = sum(h[1] for h in hits)
-            words = len(re.sub(r"^---.*?---\s*", "", text, flags=re.S).split())
+            words = len(_body_of(candidate_text).split())
             if total_hits > max_hits or words > max_words:
-                log_decision("edit_dropped", json.dumps({"file": draft.name, "reason": f"publish verdict but failed checks: words={words}, lint={total_hits}"}))
+                before = f"lint={total_hits},words={words}"
+                rewritten = rewrite_for_lint(cfg, _body_of(candidate_text), hits,
+                                             max_words, meta.get("title", ""))
+                if rewritten:
+                    candidate_text = _with_frontmatter(candidate_text, rewritten)
+                    hits = lint(candidate_text)
+                    total_hits = sum(h[1] for h in hits)
+                    words = len(_body_of(candidate_text).split())
+                    log_decision("lint_rewrite", json.dumps(
+                        {"file": draft.name, "before": before,
+                         "after": f"lint={total_hits},words={words}"}))
+            if words > max_words:
+                log_decision("edit_dropped", json.dumps(
+                    {"file": draft.name, "reason": f"word count {words} > {max_words} after rewrite"}))
                 _requeue_by_candidate_id(meta.get("candidate_id", ""))
                 shutil.move(str(draft), str(declined_dir / draft.name))
-                continue
-            (posts_dir / draft.name).write_text(text)
+                return False
+            if total_hits > max_hits:
+                names = ", ".join(f"{h[0]}({h[1]})" for h in hits)
+                log_decision("lint_flagged", json.dumps(
+                    {"file": draft.name, "hits": total_hits, "patterns": names}))
+                print(f"[edit] lint flagged, publishing anyway: {total_hits} hits ({names})")
+            (posts_dir / draft.name).write_text(candidate_text if candidate_text.endswith("\n") else candidate_text + "\n")
             draft.unlink()
-            published += 1
-            log_decision("published", json.dumps({"file": draft.name, "verdict": "publish", "reason": reason}))
+            log_decision("published", json.dumps({"file": draft.name, "verdict": label, "reason": why}))
+            return True
+
+        if v == "publish":
+            if finalize(text, "publish", reason):
+                published += 1
         elif v == "rewrite" and verdict.get("revised_post"):
             revised = normalize_text(str(verdict["revised_post"]).strip())
-            # The checker may return body-only: strip any model frontmatter and
-            # re-attach the ORIGINAL draft's frontmatter (real sources, ids).
-            revised = re.sub(r"^---\s*\n.*?\n---\s*\n?", "", revised, count=1, flags=re.S)
-            fm_match = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, re.S)
-            revised = f"---\n{fm_match.group(1)}\n---\n\n{revised}" if fm_match else revised
-            hits = lint(revised)
-            total_hits = sum(h[1] for h in hits)
-            # word count on body only
-            body = revised
-            if revised.startswith("---"):
-                try:
-                    body = "---".join(revised[3:].split("---")[1:])
-                except IndexError:
-                    pass
-            words = len(body.split())
-            if words <= max_words and total_hits <= max_hits:
-                (posts_dir / draft.name).write_text(revised + "\n")
-                draft.unlink()
+            # The checker may return body-only: _with_frontmatter puts the
+            # ORIGINAL draft's frontmatter (real sources, ids) back on it.
+            if finalize(_with_frontmatter(text, revised), "rewrite", reason):
                 published += 1
-                log_decision("published", json.dumps({"file": draft.name, "verdict": "rewrite", "reason": reason}))
-            else:
-                log_decision("edit_dropped", json.dumps({"file": draft.name, "reason": f"rewrite failed checks: words={words}, lint={total_hits}"}))
-                shutil.move(str(draft), str(declined_dir / draft.name))
         else:
             log_decision("edit_dropped", json.dumps({"file": draft.name, "verdict": v or "unknown", "reason": reason}))
             shutil.move(str(draft), str(declined_dir / draft.name))
