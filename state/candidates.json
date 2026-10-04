@@ -1,571 +1,5 @@
 [
  {
-  "id": "fdadf99fae2beb47",
-  "title": "Brian Chesky interview: AI agents need their own operating system",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-    "published": "Thu, 01 Oct 2026 15:12:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2be59ecee0ce4c21",
-  "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "published": "Thu, 01 Oct 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "498d9d05d6fce327",
-  "title": "Hearing tech startup Legato launches its AI hearing glasses",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "summary": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "9c4c914fd84388a2",
-  "title": "Audible\u2019s new features let you explore book worlds \u2014 and use AI to talk to characters",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-    "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-    "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "c5ee5c81864866e7",
-  "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-    "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
-    "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "c51c7f89c098293f",
-  "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
-    "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
-    "published": "Thu, 01 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "09eda265504a3831",
-  "title": "Cboe wants to turn VIX into a never-ending trade",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-    "summary": "Your day-ahead look for Oct. 2, 2026",
-    "published": "Fri, 02 Oct 2026 11:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "19021c00711e60b5",
-  "title": "Live updates: Bitcoin rises, re-taking $86,000 ahead of key U.S. jobs data",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-    "summary": "U.S. stock index futures were also gaining as oil fell more than 3% and yields continued to ease from recent highs.",
-    "published": "Fri, 02 Oct 2026 11:22:40 +0000"
-   },
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-    "summary": "Bitcoin is up roughly 3% in October as traders await September\u2019s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.",
-    "published": "Fri, 02 Oct 2026 08:11:54 +0000"
-   }
-  ]
- },
- {
-  "id": "c5ce2633208cdf87",
-  "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-    "summary": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.",
-    "published": "Fri, 02 Oct 2026 10:31:16 +0000"
-   }
-  ]
- },
- {
-  "id": "3e7f3d5c14292bdd",
-  "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-    "summary": "Rising open interest and funding rates signal renewed demand for bullish bitcoin exposure.",
-    "published": "Fri, 02 Oct 2026 09:14:21 +0000"
-   }
-  ]
- },
- {
-  "id": "5ffa32649fc16c41",
-  "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-    "summary": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and loans backed by BTC, while keeping most transaction data off Bitcoin\u2019s public ledger.",
-    "published": "Fri, 02 Oct 2026 08:28:19 +0000"
-   }
-  ]
- },
- {
-  "id": "fb56448819e3b464",
-  "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg\" alt=\"BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B\" class=\"type:primaryImage\"></p><p>Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network\u2019s share at roughly 30%.</p>",
-    "published": "Fri, 02 Oct 2026 11:40:21 +0000"
-   }
-  ]
- },
- {
-  "id": "29c23d1050a12a71",
-  "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2FGXJEE6QVA6ZCTS/saifedean-ammous.png\" alt=\"Bitcoin treasuries may struggle to match Strategy, says Ammous\" class=\"type:primaryImage\"></p><p>Strategy\u2019s scale and cash reserves give it an edge over treasury rivals, according to Saifedean Ammous, author of \u201cThe Bitcoin Standard.\u201d</p>",
-    "published": "Fri, 02 Oct 2026 10:54:33 +0000"
-   }
-  ]
- },
- {
-  "id": "ad649fb835543055",
-  "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XMMJ91ZBREX0A7R5A5AHXT/connect-text-on-seoul-1.png\" alt=\"CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain\" class=\"type:primaryImage\"></p><p>Arthur Hayes said money printing could lift crypto prices, while CONNECT Seoul speakers examined Wall Street\u2019s competitive edge onchain.</p>",
-    "published": "Fri, 02 Oct 2026 10:29:35 +0000"
-   }
-  ]
- },
- {
-  "id": "8ebe66aa0a15b225",
-  "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVAAGW8Q0D84XWS8J7794K/behind-bitcoins-1k-bounce-1-1280x853.webp\" alt=\"Bitcoin reaches for $87K as short liquidations top $120M \" class=\"type:primaryImage\"></p><p>Bitcoin buyers broke through a wall of ask liquidity to reach new October BTC price highs near $87,800, with the area immediately above now a new resistance hurdle.</p>",
-    "published": "Fri, 02 Oct 2026 09:37:06 +0000"
-   }
-  ]
- },
- {
-  "id": "b5a8c33cf13ea4ee",
-  "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png\" alt=\"Aave founder says V3 unaffected after third-party adapter exploit drains $305K\" class=\"type:primaryImage\"></p><p>Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.</p>",
-    "published": "Fri, 02 Oct 2026 09:30:49 +0000"
-   }
-  ]
- },
- {
-  "id": "17bd5e779788af62",
-  "title": "Porsche\u2019s \u2018long haul\u2019 Web3 project ends in less than four years",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg\" alt=\"Porsche\u2019s \u2018long haul\u2019 Web3 project ends in less than four years\" class=\"type:primaryImage\"></p><p>Porsche is winding down its Web3 project and Pioneers Circle community as trading activity in its 911 NFT collection falls sharply from early levels.</p>",
-    "published": "Fri, 02 Oct 2026 09:18:52 +0000"
-   }
-  ]
- },
- {
-  "id": "78f8b72a1fbe020c",
-  "title": "Bitcoin ETFs kick off \u2018Uptober\u2019 with $103M inflow",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XRGDB871CK08HQ8XV7P478/hi-is-the-bitcoin-halving-likely-to-change-perception-around-crypto.jpg\" alt=\"Bitcoin ETFs kick off \u2018Uptober\u2019 with $103M inflow\" class=\"type:primaryImage\"></p><p>Bitcoin ETFs returned to inflows with $103 million, while Ether funds recorded a third straight day of net outflows.</p>",
-    "published": "Fri, 02 Oct 2026 08:20:08 +0000"
-   }
-  ]
- },
- {
-  "id": "8d3441730ea813cc",
-  "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XHV0FC144KSRRK1DF5EHGE/south-korea-flag-stocks.png\" alt=\"South Korea crypto exchange profits fall 78% in H1 amid trading slump\" class=\"type:primaryImage\"></p><p>South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined.</p>",
-    "published": "Fri, 02 Oct 2026 05:53:27 +0000"
-   }
-  ]
- },
- {
-  "id": "744f405fa7633b74",
-  "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png\" alt=\"South Korea advances tokenized securities rules ahead of 2027 rollout \" class=\"type:primaryImage\"></p><p>South Korea\u2019s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits.</p>",
-    "published": "Fri, 02 Oct 2026 05:08:32 +0000"
-   }
-  ]
- },
- {
-  "id": "81a694d98b01dd31",
-  "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XFTC4Y1X9C4TEN43SCBMC8/coins.jpg\" alt=\"Zano exploiter minted more than a quadrillion fUSD before blockchain rollback\" class=\"type:primaryImage\"></p><p>The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain. </p>",
-    "published": "Fri, 02 Oct 2026 05:02:23 +0000"
-   }
-  ]
- },
- {
-  "id": "732a3bd835d195dc",
-  "title": "Core Lightning warns attackers are targeting unpatched nodes",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg\" alt=\"Core Lightning warns attackers are targeting unpatched nodes\" class=\"type:primaryImage\"></p><p>Node operators running version 26.06.7 or earlier were told to upgrade immediately.</p>",
-    "published": "Fri, 02 Oct 2026 04:18:43 +0000"
-   }
-  ]
- },
- {
-  "id": "04777932a05785c4",
-  "title": "Ethereum\u2019s zkAPI brings privacy-preserving API payments to mainnet",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X972EWX5K7AHE6FH5F9MX3/privacy-ai.png\" alt=\"Ethereum\u2019s zkAPI brings privacy-preserving API payments to mainnet\" class=\"type:primaryImage\"></p><p>Ethereum\u2019s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.</p>",
-    "published": "Fri, 02 Oct 2026 03:34:25 +0000"
-   }
-  ]
- },
- {
-  "id": "663d4e2d1ffac04a",
-  "title": "NEAR Intents says it\u2019s identified the hacker, gives 48-hour ultimatum",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg\" alt=\"NEAR Intents says it\u2019s identified the hacker, gives 48-hour ultimatum\" class=\"type:primaryImage\"></p><p>\u201cWe have identified you, sir,\u201d NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million. </p>",
-    "published": "Fri, 02 Oct 2026 02:02:13 +0000"
-   }
-  ]
- },
- {
-  "id": "456480a2ff33df1e",
-  "title": "SEC moves to clear custody hurdle for advisers offering crypto",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg\" alt=\"SEC moves to clear custody hurdle for advisers offering crypto \" class=\"type:primaryImage\"></p><p>Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC\u2019s proposal could remove. </p>",
-    "published": "Fri, 02 Oct 2026 01:07:08 +0000"
-   }
-  ]
- },
- {
-  "id": "5ffbeb77a3b105f0",
-  "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg\" alt=\"China warns foreign spies about crypto, Singapore dominates Asia: Asia Express\" class=\"type:primaryImage\"></p><p>Singapore\u2019s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it\u2019s watching the blockchain. </p>",
-    "published": "Thu, 01 Oct 2026 23:17:47 +0000"
-   }
-  ]
- },
- {
-  "id": "fc7a963fa1ccf4de",
-  "title": "ECB outlines three models for putting central bank money onchain",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
-    "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
-    "published": "Fri, 02 Oct 2026 10:17:39 +0000"
-   }
-  ]
- },
- {
-  "id": "80f5921d7893ad32",
-  "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-    "summary": "US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025.",
-    "published": "Fri, 02 Oct 2026 05:50:41 +0000"
-   }
-  ]
- },
- {
-  "id": "bb5aa12edf160c46",
-  "title": "SEC\u2019s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-    "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
-    "published": "Fri, 02 Oct 2026 05:04:41 +0000"
-   }
-  ]
- },
- {
-  "id": "a6def03b3d7e14ef",
-  "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-    "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-    "published": "Fri, 02 Oct 2026 00:22:58 +0000"
-   }
-  ]
- },
- {
-  "id": "b8d1e43a3d433aad",
-  "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl\">https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932048\">https://news.ycombinator.com/item?id=49932048</a></p> <p>Points: 34</p> <p># Comments: 25</p>",
-    "published": "Fri, 02 Oct 2026 10:50:08 +0000"
-   }
-  ]
- },
- {
-  "id": "3f1fcb05cb0cfdc2",
-  "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/kvoltmer/Audionaut",
-    "summary": "<p>Article URL: <a href=\"https://github.com/kvoltmer/Audionaut\">https://github.com/kvoltmer/Audionaut</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49931031\">https://news.ycombinator.com/item?id=49931031</a></p> <p>Points: 30</p> <p># Comments: 9</p>",
-    "published": "Fri, 02 Oct 2026 08:05:48 +0000"
-   }
-  ]
- },
- {
-  "id": "ecfcfba62a4d0edc",
-  "title": "Shimano Bicycle Museum Review",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-    "summary": "<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p> <p>Points: 141</p> <p># Comments: 24</p>",
-    "published": "Fri, 02 Oct 2026 05:12:58 +0000"
-   }
-  ]
- },
- {
-  "id": "ef05aea17ef0559f",
-  "title": "DeepSeek Harness Desktop for macOS and Windows",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.deepseek.com/en/harness/",
-    "summary": "<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p> <p>Points: 258</p> <p># Comments: 131</p>",
-    "published": "Fri, 02 Oct 2026 03:11:20 +0000"
-   }
-  ]
- },
- {
-  "id": "04514bbe0c596130",
-  "title": "How Singapore's government-run dating service works",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-    "summary": "<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p> <p>Points: 187</p> <p># Comments: 163</p>",
-    "published": "Fri, 02 Oct 2026 01:56:52 +0000"
-   }
-  ]
- },
- {
-  "id": "4e9e0b4e298ee6dd",
-  "title": "Butterflies use optical illusions to dodge predators",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-    "summary": "<p>Article URL: <a href=\"https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\">https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928152\">https://news.ycombinator.com/item?id=49928152</a></p> <p>Points: 53</p> <p># Comments: 11</p>",
-    "published": "Thu, 01 Oct 2026 23:15:24 +0000"
-   }
-  ]
- },
- {
-  "id": "18060f9d56370072",
-  "title": "Several vulnerabilities have been discovered in the Linux kernel",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://lwn.net/Articles/1097401/",
-    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p> <p>Points: 351</p> <p># Comments: 257</p>",
-    "published": "Thu, 01 Oct 2026 23:10:44 +0000"
-   }
-  ]
- },
- {
-  "id": "c69dce2def450a54",
-  "title": "Frog and Toad and the Increasingly Capable Machines",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.frogandtoad.ai/",
-    "summary": "<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p> <p>Points: 213</p> <p># Comments: 45</p>",
-    "published": "Thu, 01 Oct 2026 22:23:38 +0000"
-   }
-  ]
- },
- {
-  "id": "9f58bc056c1dcfa3",
-  "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.gitbutler.com/git-3-sha-256",
-    "summary": "<p>Article URL: <a href=\"https://blog.gitbutler.com/git-3-sha-256\">https://blog.gitbutler.com/git-3-sha-256</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924179\">https://news.ycombinator.com/item?id=49924179</a></p> <p>Points: 403</p> <p># Comments: 380</p>",
-    "published": "Thu, 01 Oct 2026 16:57:03 +0000"
-   }
-  ]
- },
- {
-  "id": "7f60e1034f6d98d5",
-  "title": "Robotaxi operators will face fines for blocking first responders",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-    "summary": "A new California law places new rules on autonomous vehicles operators",
-    "published": "Fri, 02 Oct 2026 00:57:57 +0000"
-   }
-  ]
- },
- {
   "id": "0fd54409a646f895",
   "title": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
   "topic": "ai",
@@ -2516,6 +1950,216 @@
     "url": "https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d",
     "summary": "<p>Article URL: <a href=\"https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d\">https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955626\">https://news.ycombinator.com/item?id=49955626</a></p> <p>Points: 6</p> <p># Comments: 1</p>",
     "published": "Sun, 04 Oct 2026 16:58:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a31307f9803d1e05",
+  "title": "There's an election next month: State of Crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+    "summary": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November.",
+    "published": "Sun, 04 Oct 2026 18:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4cb361ff85a497c5",
+  "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://island-three.gruberbuilds.workers.dev/",
+    "summary": "<p>Article URL: <a href=\"https://island-three.gruberbuilds.workers.dev/\">https://island-three.gruberbuilds.workers.dev/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957191\">https://news.ycombinator.com/item?id=49957191</a></p> <p>Points: 6</p> <p># Comments: 4</p>",
+    "published": "Sun, 04 Oct 2026 19:49:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d137deb1e0200686",
+  "title": "Homa: The End of TCP for AI Clusters [video]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "summary": "<p>Related: <a href=\"https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629\" rel=\"nofollow\">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957117\">https://news.ycombinator.com/item?id=49957117</a></p> <p>Points: 14</p> <p># Comments: 1</p>",
+    "published": "Sun, 04 Oct 2026 19:42:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "60650629a12a0158",
+  "title": "Remove and Disable Apple Macos27 AI Models Tool",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p> <p>Points: 81</p> <p># Comments: 37</p>",
+    "published": "Sun, 04 Oct 2026 19:42:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1954cb720f757c28",
+  "title": "Improper redaction reveals Google Data Center water and electricity usage",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+    "summary": "<p>Article URL: <a href=\"https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957068\">https://news.ycombinator.com/item?id=49957068</a></p> <p>Points: 73</p> <p># Comments: 54</p>",
+    "published": "Sun, 04 Oct 2026 19:37:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "025aa73f337c5fc0",
+  "title": "Show HN: Build with Python \u2013 a beginner course where your code draws",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+    "summary": "<p>Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc.<p>The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output.<p>The course has 13 modules, with the first 6 foundation modules free, module 7-13 with free readings but guide labs for a one-time price o",
+    "published": "Sun, 04 Oct 2026 18:59:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "386b999fc2245249",
+  "title": "Incentives in Academic Research",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+    "summary": "<p>Article URL: <a href=\"https://www.msoos.org/2026/10/incentives-in-academic-research/\">https://www.msoos.org/2026/10/incentives-in-academic-research/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49956035\">https://news.ycombinator.com/item?id=49956035</a></p> <p>Points: 12</p> <p># Comments: 2</p>",
+    "published": "Sun, 04 Oct 2026 17:42:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "15746db54804c4ef",
+  "title": "How effective altruism conquered the world (and might yet end it)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+    "summary": "<p><a href=\"https://archive.ph/3gSCc\" rel=\"nofollow\">https://archive.ph/3gSCc</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953777\">https://news.ycombinator.com/item?id=49953777</a></p> <p>Points: 30</p> <p># Comments: 29</p>",
+    "published": "Sun, 04 Oct 2026 13:30:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3c92fbe773b50bd8",
+  "title": "Bill Draper has died",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+    "summary": "<p><a href=\"https://archive.ph/YRgDY\" rel=\"nofollow\">https://archive.ph/YRgDY</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953288\">https://news.ycombinator.com/item?id=49953288</a></p> <p>Points: 35</p> <p># Comments: 10</p>",
+    "published": "Sun, 04 Oct 2026 12:21:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1871bf8316a5b929",
+  "title": "How to scale intent, quality, and artistry with AI [video]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GLvFTMtw4Jk\">https://www.youtube.com/watch?v=GLvFTMtw4Jk</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951891\">https://news.ycombinator.com/item?id=49951891</a></p> <p>Points: 19</p> <p># Comments: 5</p>",
+    "published": "Sun, 04 Oct 2026 08:41:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "423e6f2ebbc06090",
+  "title": "Fog-Bank: Archiving the oldest webcam feed",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://fog-bank.org/net",
+    "summary": "<p>See also <a href=\"https://hackaday.com/2026/10/01/archiving-the-worlds-oldest-webcam-feed/\" rel=\"nofollow\">https://hackaday.com/2026/10/01/archiving-the-worlds-oldest-...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950818\">https://news.ycombinator.com/item?id=49950818</a></p> <p>Points: 9</p> <p># Comments: 1</p>",
+    "published": "Sun, 04 Oct 2026 05:06:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c15d405a2a5a3c9c",
+  "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
+    "summary": "<p>Article URL: <a href=\"https://birdshistory.com/how-long-to-declare-a-bird-extinct/\">https://birdshistory.com/how-long-to-declare-a-bird-extinct/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49948738\">https://news.ycombinator.com/item?id=49948738</a></p> <p>Points: 8</p> <p># Comments: 4</p>",
+    "published": "Sat, 03 Oct 2026 23:16:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e02f1784b9f19673",
+  "title": "'Neanderthals Among Us' review",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+    "summary": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review\">https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947565\">https://news.ycombinator.com/item?id=49947565</a></p> <p>Points: 37</p> <p># Comments: 26</p>",
+    "published": "Sat, 03 Oct 2026 20:41:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "00aaae6618c75196",
+  "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "published": "Sun, 04 Oct 2026 20:31:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bbc50510cd13d4d1",
+  "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "published": "Sun, 04 Oct 2026 20:08:34 +0000"
    }
   ]
  }

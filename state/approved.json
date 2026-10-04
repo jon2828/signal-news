@@ -1,41 +1,18 @@
 [
  {
-  "id": "ef4dc7cf64ffab87",
-  "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+  "id": "81a694d98b01dd31",
+  "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
   "topic": "bitcoin",
   "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "SEC custody proposal for advisers and funds, corroborated by two outlets and tied to a named commissioner, is clearly publishable crypto regulatory news, though a proposal rather than a final verdict.",
+  "raw_score": 8,
+  "weight": 0.9,
+  "reason": "A quadrillion-token mint followed by a blockchain rollback is a major security breach and protocol-level event, though single-source coverage keeps it below the top band.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-    "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
-    "published": "Thu, 01 Oct 2026 20:20:04 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-    "summary": "SEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
-    "published": "Thu, 01 Oct 2026 21:00:53 +0000"
-   }
-  ]
- },
- {
-  "id": "154ffdc2035ab790",
-  "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-  "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Named major companies (Circle, Hyperliquid) making concrete regulatory filings in the EU MiCA review is clearly publishable crypto-policy news.",
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-    "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
-    "published": "Thu, 01 Oct 2026 19:10:36 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XFTC4Y1X9C4TEN43SCBMC8/coins.jpg\" alt=\"Zano exploiter minted more than a quadrillion fUSD before blockchain rollback\" class=\"type:primaryImage\"></p><p>The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain. </p>",
+    "published": "Fri, 02 Oct 2026 05:02:23 +0000"
    }
   ]
  }
