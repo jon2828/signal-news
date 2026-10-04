@@ -4,7 +4,12 @@ on:
   schedule:
     - cron: "0 6 * * *"
     - cron: "0 18 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      validate_only:
+        description: "Test runner, build and Git authentication without publishing"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -17,16 +22,29 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7.0.1
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7.0.0
         with:
           python-version: "3.12"
 
       - name: Install article extractor
         run: pip install trafilatura
 
+      - name: Validate upgrade without publishing
+        if: ${{ inputs.validate_only == true }}
+        run: |
+          set -e
+          python --version
+          python -m compileall -q scripts
+          python scripts/build.py
+          python tests/test_render.py
+          git fetch origin main
+          # Authenticate against receive-pack without writing a commit or ref.
+          git push --dry-run origin HEAD
+
       - name: Run pipeline (kill switch checked inside every script)
+        if: ${{ inputs.validate_only != true }}
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
@@ -52,6 +70,7 @@ jobs:
           python3 scripts/announce.py
 
       - name: Commit and push (the public audit trail)
+        if: ${{ inputs.validate_only != true }}
         run: |
           git config user.name "unspentthoughts-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
