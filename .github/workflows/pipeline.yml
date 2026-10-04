@@ -46,6 +46,9 @@ jobs:
           python3 scripts/write.py
           python3 scripts/edit.py
           python3 scripts/build.py
+          # Fail the run loudly if any page ships raw markdown (literal '#'
+          # headings, '*Date*' lines, unconverted links) instead of publishing it.
+          python3 tests/test_render.py
           python3 scripts/announce.py
 
       - name: Commit and push (the public audit trail)
