@@ -1,35 +1,36 @@
 [
  {
-  "id": "48d7bf77c4ddbe37",
-  "title": "Hello GPT-4o",
-  "topic": "ai",
-  "score": 9,
-  "raw_score": 9,
-  "weight": 1.0,
-  "reason": "GPT-4o is a flagship multimodal model release from a frontier lab, squarely market-moving for the AI space.",
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/hello-gpt-4o",
-    "summary": "We\u2019re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
-    "published": "Mon, 13 May 2024 10:05:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5ee5a182017e644a",
-  "title": "New Credit Facility Enhances Financial Flexibility",
-  "topic": "ai",
+  "id": "975f576532672844",
+  "title": "Gemini 4 Argon",
+  "topic": "both",
   "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Significant financial infrastructure change involving a $4B credit facility and $6.6B funding round.",
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "A new frontier model release from Google, corroborated by four sources including independent benchmarks, is frontier-shifting for AI readers.",
   "sources": [
    {
-    "source": "openai",
-    "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
-    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.",
-    "published": "Thu, 03 Oct 2024 07:00:00 GMT"
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913571\">https://news.ycombinator.com/item?id=49913571</a></p> <p>Points: 304</p> <p># Comments: 127</p>",
+    "published": "Wed, 30 Sep 2026 20:04:37 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/gemini-4-argon\">https://artificialanalysis.ai/models/gemini-4-argon</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914236\">https://news.ycombinator.com/item?id=49914236</a></p> <p>Points: 37</p> <p># Comments: 17</p>",
+    "published": "Wed, 30 Sep 2026 20:50:28 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "published": "Wed, 30 Sep 2026 23:43:07 +0000"
+   },
+   {
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-10-01",
+    "summary": "",
+    "published": "Thu, 01 Oct 2026 00:00:00 GMT"
    }
   ]
  }
