@@ -1,235 +1,5 @@
 [
  {
-  "id": "7c6a8942986f8680",
-  "title": "Leadership updates",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/leadership-updates-march-2025",
-    "summary": "OpenAI has grown a lot. We remain focused on the same core\u2014pursuing frontier AI research that accelerates human progress\u2013but we now also deliver products used by hundreds of millions of people.",
-    "published": "Mon, 24 Mar 2025 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5ee5a182017e644a",
-  "title": "New Credit Facility Enhances Financial Flexibility",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
-    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.",
-    "published": "Thu, 03 Oct 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "38ff4e3667fc29b1",
-  "title": "New funding to scale the benefits of AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/scale-the-benefits-of-ai",
-    "summary": "We are making progress on our mission to ensure that artificial general intelligence benefits all of humanity.",
-    "published": "Wed, 02 Oct 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "eb3231c265ab9c40",
-  "title": "Corrupt Comment: Anti-corruption foundation criticism",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment",
-    "summary": "OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption foundation and related figures.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8290eb142e507184",
-  "title": "CyberAv3ngers: Iran-linked cyber research activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyberav3ngers",
-    "summary": "OpenAI banned accounts that appeared to belong to CyberAv3ngers using AI to research industrial control systems, default credentials, and targets.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d3230d5e7a6afe96",
-  "title": "Tort Report: Abusive reporting activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report",
-    "summary": "OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese public figures and platforms.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a2f1f6824da41440",
-  "title": "Hoax: Fake Russian \u201ctroll\u201d error message",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
-    "summary": "OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT error message claiming to detect \u201cRussian troll\u201d activity.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c7d3bce094f3664c",
-  "title": "Rwandan election content: Political commenting network",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content",
-    "summary": "OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the country\u2019s elections.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ec24b4182804256f",
-  "title": "Bet Bot: Gambling spam network",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot",
-    "summary": "OpenAI banned accounts that accessed its models through an Israel-based startup to generate conversations and send links to gambling sites on X.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "42848a69a51e4fd8",
-  "title": "STORM-0817: Iran-linked malware and scraping activity",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
-    "summary": "OpenAI banned Iran-linked STORM-0817 accounts using AI to debug Android malware, scrape social platforms, and translate tooling.",
-    "published": "Tue, 01 Oct 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "abb8fd1e143df4cd",
-  "title": "Upgrading the Moderation API with our new multimodal moderation model",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model",
-    "summary": "We\u2019re introducing a new model built on GPT-4o that is more accurate at detecting harmful text and images, enabling developers to build more robust moderation systems.",
-    "published": "Thu, 26 Sep 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "03a79607f866e74a",
-  "title": "Minnesota\u2019s Enterprise Translation Office uses ChatGPT to bridge language gaps",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/state-of-minnesota",
-    "summary": "Minnesota\u2019s Enterprise Translation Office uses ChatGPT to bridge language gaps",
-    "published": "Thu, 26 Sep 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9502d89ca4e45c17",
-  "title": "Introducing Verdi, an AI dev platform powered by GPT-4o",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mercado-libre",
-    "summary": "Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o",
-    "published": "Tue, 24 Sep 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "acc1f938acdefe3a",
-  "title": "Genmab launches \u201cAI Everywhere\u201d",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/genmab",
-    "summary": "Genmab embraces ChatGPT Enterprise, supported by OpenAI\u2019s commitment to security and privacy",
-    "published": "Thu, 19 Sep 2024 04:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "decdc62c4c76b7ad",
-  "title": "Using GPT-4 to improve teaching and learning in Brazil",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/arco-education",
-    "summary": "Improving teaching and learning in Brazil",
-    "published": "Tue, 17 Sep 2024 05:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/teaching-with-ai",
-    "summary": "We\u2019re releasing a guide for teachers using ChatGPT in their classroom\u2014including suggested prompts, an explanation of how ChatGPT works and its limitations, the efficacy of AI detectors, and bias.",
-    "published": "Thu, 31 Aug 2023 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "53383094fec4e242",
-  "title": "An update on our safety & security practices",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/update-on-safety-and-security-practices",
-    "summary": "An update on our safety & security practices",
-    "published": "Mon, 16 Sep 2024 13:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "a6af93974c6099df",
   "title": "Learning to reason with LLMs",
   "topic": "ai",
@@ -244,174 +14,6 @@
   ]
  },
  {
-  "id": "08a142e9e8325d5c",
-  "title": "OpenAI o1 Contributions",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/openai-o1-contributions",
-    "summary": "OpenAI o1 Contributions",
-    "published": "Thu, 12 Sep 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ac1ddfae974e91b8",
-  "title": "Decoding genetics with OpenAI o1",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/o1-genetics",
-    "summary": "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges.",
-    "published": "Thu, 12 Sep 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "06c69c6d5cd70c72",
-  "title": "Economics and reasoning with OpenAI o1",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/o1-economics",
-    "summary": "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.",
-    "published": "Thu, 12 Sep 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "43bf13985be463be",
-  "title": "Answering quantum physics questions with OpenAI o1",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/o1-quantum-physics",
-    "summary": "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.",
-    "published": "Thu, 12 Sep 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "308aee57d8dc1bc7",
-  "title": "Using GPT-4 to deliver a new customer service standard",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/ada",
-    "summary": "Ada uses GPT-4 to deliver a new customer service standard",
-    "published": "Thu, 05 Sep 2024 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "62323fc1a4d03753",
-  "title": "OpenAI partners with Cond\u00e9 Nast",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/conde-nast",
-    "summary": "Cond\u00e9 Nast",
-    "published": "Tue, 20 Aug 2024 11:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "765715a20e5372a1",
-  "title": "Delivering contextual job matching for millions with OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/indeed",
-    "summary": "Indeed, whose mission is to help people get jobs, is the world\u2019s #1 job site. Over 350 million unique visitors come to Indeed every month to connect with more than 3.5 million employers and over 32 million jobs. But what\u2019s more is that every three seconds someone gets hired on Indeed.",
-    "published": "Thu, 15 Aug 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "231a75fce4e748e8",
-  "title": "Awakening Sleeping Beauties at The Met",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/the-met-museum",
-    "summary": "AI can enrich lives through beauty and creativity, and its artistic potential shines in \"Sleeping Beauties: Reawakening Fashion,\" a collaborative exhibit from The Met's Costume Institute.",
-    "published": "Wed, 14 Aug 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "5c2ecde556bc6dc1",
-  "title": "Pairing data with APIs to unlock customer value",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/rakuten-2024",
-    "summary": "Rakuten Pairs Data with AI to Unlock Customer Insights and Value",
-    "published": "Wed, 07 Aug 2024 16:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "9bc150ba3bbc5bf1",
-  "title": "Introducing Structured Outputs in the API",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-structured-outputs-in-the-api",
-    "summary": "We are introducing Structured Outputs in the API\u2014model outputs now reliably adhere to developer-supplied JSON Schemas.",
-    "published": "Tue, 06 Aug 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a3f765197bcf57f4",
-  "title": "SearchGPT is a prototype of new AI search features",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/searchgpt-prototype",
-    "summary": "We\u2019re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources.",
-    "published": "Thu, 25 Jul 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "33dcf0f1015cee80",
-  "title": "Improving Model Safety Behavior with Rule-Based Rewards",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards",
-    "summary": "We\u2019ve developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.",
-    "published": "Wed, 24 Jul 2024 09:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "2987cc143046955b",
   "title": "GPT-4o mini: advancing cost-efficient intelligence",
   "topic": "ai",
@@ -422,432 +24,6 @@
     "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
     "summary": "",
     "published": "Thu, 18 Jul 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1c5891b46b52c3a2",
-  "title": "New compliance and administrative tools for ChatGPT Enterprise",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-tools-for-chatgpt-enterprise",
-    "summary": "Compliance API integrations, SCIM, and GPT controls to support compliance programs, data security, and user access at scale",
-    "published": "Thu, 18 Jul 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "01264bddb065a045",
-  "title": "Prover-Verifier Games improve legibility of language model outputs",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/prover-verifier-games-improve-legibility",
-    "summary": "Discover how prover-verifier games improve the legibility of language model outputs, making AI solutions clearer, easier to verify, and more trustworthy for both humans and machines.",
-    "published": "Wed, 17 Jul 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "503c865ee1277553",
-  "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
-    "summary": "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models.",
-    "published": "Wed, 10 Jul 2024 06:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "586e2d1dc4a8ca93",
-  "title": "Finding GPT-4\u2019s mistakes with GPT-4",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4",
-    "summary": "CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF",
-    "published": "Thu, 27 Jun 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d318dbcf77452cb2",
-  "title": "Empowering defenders through our Cybersecurity Grant Program",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program",
-    "summary": "Highlighting innovative research and AI integration in cybersecurity",
-    "published": "Thu, 20 Jun 2024 10:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-cybersecurity-grant-program",
-    "summary": "Our goal is to facilitate the development of AI-powered cybersecurity capabilities for defenders through grants and other support.",
-    "published": "Thu, 01 Jun 2023 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "19921ba6f541de0e",
-  "title": "A Holistic Approach to Undesired Content Detection in the Real World",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
-    "summary": "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.",
-    "published": "Thu, 20 Jun 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c7eeee4e02f32316",
-  "title": "Improved Techniques for Training Consistency Models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
-    "summary": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.",
-    "published": "Thu, 20 Jun 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "0b59ef730f52fbf6",
-  "title": "Surging developer productivity with custom GPTs",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/paf",
-    "summary": "Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning business teams like finance, HR, marketing, and customer support.",
-    "published": "Tue, 18 Jun 2024 08:45:00 GMT"
-   }
-  ]
- },
- {
-  "id": "99c118a374b5118b",
-  "title": "Achieving 10x growth with agentic sales prospecting",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/clay",
-    "summary": "",
-    "published": "Tue, 18 Jun 2024 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "313f2036a6cc70b1",
-  "title": "Using GPT-4o reasoning to transform cancer care",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/color-health",
-    "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients\u2019 access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup plans, enabling healthcare providers to make evidence-based decisions about cancer screening and treatment.",
-    "published": "Mon, 17 Jun 2024 04:15:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8b64c1062bcaa99b",
-  "title": "OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-appoints-retired-us-army-general",
-    "summary": "Nakasone brings cybersecurity experience to growing Board of Directors; will join the Board\u2019s Safety and Security Committee",
-    "published": "Thu, 13 Jun 2024 14:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "22aff6059e899abb",
-  "title": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-welcomes-cfo-cpo",
-    "summary": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
-    "published": "Mon, 10 Jun 2024 10:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f390fff570dfee11",
-  "title": "Expanding on how Voice Engine works and our safety research",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research",
-    "summary": "Exploring the technology behind our text-to-speech model.",
-    "published": "Fri, 07 Jun 2024 17:45:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a5a24cc52f7be219",
-  "title": "Improving India\u2019s critical care infrastructure",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/10bedicu",
-    "summary": "",
-    "published": "Thu, 06 Jun 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "37a3a556202dc504",
-  "title": "Extracting Concepts from GPT-4",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/extracting-concepts-from-gpt-4",
-    "summary": "Using new techniques for scaling sparse autoencoders, we automatically identified 16 million patterns in GPT-4's computations.",
-    "published": "Thu, 06 Jun 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f829da8c2a903190",
-  "title": "Disrupting deceptive uses of AI by covert influence operations",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations",
-    "summary": "We\u2019ve terminated accounts linked to covert influence operations; no significant audience increase due to our services.",
-    "published": "Thu, 30 May 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "28fe747db59cd5fa",
-  "title": "Automating customer support agents",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/mavenagi",
-    "summary": "MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.",
-    "published": "Wed, 29 May 2024 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "53cbf5445754a475",
-  "title": "The Newsroom AI Catalyst: a global program with WAN-IFRA",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra",
-    "summary": "",
-    "published": "Wed, 29 May 2024 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "869f8b41da18ddf4",
-  "title": "Enhancing news in ChatGPT with The Atlantic",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic",
-    "summary": "The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic\u2019s articles will be discoverable within OpenAI\u2019s products, including ChatGPT, and as a partner, The Atlantic will help to shape how news is surfaced and presented in future real-time discovery products.",
-    "published": "Wed, 29 May 2024 07:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b390858fc4b3eca2",
-  "title": "OpenAI Board Forms Safety and Security Committee",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-board-forms-safety-and-security-committee",
-    "summary": "",
-    "published": "Tue, 28 May 2024 03:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1def834b23074e09",
-  "title": "A landmark multi-year global partnership with News Corp",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership",
-    "summary": "Companies Join Forces to Enrich OpenAI\u2019s Generative AI Products and Platforms with Premium Journalism",
-    "published": "Wed, 22 May 2024 13:15:00 GMT"
-   }
-  ]
- },
- {
-  "id": "4434e0d66fa801c9",
-  "title": "How the voices for ChatGPT were chosen",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen",
-    "summary": "How the voices for ChatGPT were chosen We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices.",
-    "published": "Sun, 19 May 2024 23:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "349c468c534ac9b1",
-  "title": "Improvements to data analysis in ChatGPT",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt",
-    "summary": "Improvements to data analysis in ChatGPT Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive.",
-    "published": "Thu, 16 May 2024 15:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "107576c2b5190733",
-  "title": "Creating an AI-powered Magic Studio",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/canva",
-    "summary": "Canva is a visual communication platform, enjoyed by more than 175 million people monthly to make presentations, videos, documents, websites, social media graphics and more. A majority of the world\u2019s knowledge workers lack design training, but Canva\u2019s combination of an easy-to-use interface, vast libraries, and time-saving tools allows anyone to create visually compelling content.",
-    "published": "Thu, 16 May 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ab01dc4f64c9179e",
-  "title": "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
-    "summary": "",
-    "published": "Tue, 14 May 2024 18:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "48d7bf77c4ddbe37",
-  "title": "Hello GPT-4o",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/hello-gpt-4o",
-    "summary": "We\u2019re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
-    "published": "Mon, 13 May 2024 10:05:00 GMT"
-   }
-  ]
- },
- {
-  "id": "aa2d58515fae6a7e",
-  "title": "Spring Update",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/spring-update",
-    "summary": "Introducing GPT-4o and making more capabilities available for free in ChatGPT.",
-    "published": "Mon, 13 May 2024 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b892768070f1e674",
-  "title": "Understanding the source of what we see and hear online",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
-    "summary": "Today we\u2019re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote industry standards.",
-    "published": "Tue, 07 May 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3e0f83d7ab49533d",
-  "title": "API Partnership with Stack Overflow",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-    "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world\u2019s leading knowledge platform for highly technical content with the world\u2019s most popular LLM models for AI development.",
-    "published": "Mon, 06 May 2024 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "49b303d6c9525715",
-  "title": "Operation \"Doppelganger\": Russian influence activity targeting Ukraine",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger",
-    "summary": "OpenAI banned accounts associated with the Russia-origin operation \"Doppelganger\", using AI to generate anti-Ukraine social media comments, translations, and website copy across several languages.",
-    "published": "Wed, 01 May 2024 00:00:00 GMT"
    }
   ]
  },
@@ -10548,6 +9724,289 @@
     "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "published": "Sat, 03 Oct 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a67c51cc83b19bfe",
+  "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png\" alt=\"El Salvador receives $138 million from IMF after Bitcoin waivers granted\" class=\"type:primaryImage\"></p><p>Efforts will continue to reduce the state\u2019s involvement in Bitcoin-related activities and to strengthen crypto\u2011asset regulation and governance, the IMF said.</p>",
+    "published": "Sun, 04 Oct 2026 09:39:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d689510cce275901",
+  "title": "Russia\u2019s Finance Ministry pays wages in digital rubles for first time",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png\" alt=\"Russia\u2019s Finance Ministry pays wages in digital rubles for first time\" class=\"type:primaryImage\"></p><p>Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.</p>",
+    "published": "Sun, 04 Oct 2026 07:16:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "061014b44bca9a6e",
+  "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://gamehistory.org/5k-magazines/",
+    "summary": "<p>Article URL: <a href=\"https://gamehistory.org/5k-magazines/\">https://gamehistory.org/5k-magazines/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952029\">https://news.ycombinator.com/item?id=49952029</a></p> <p>Points: 33</p> <p># Comments: 3</p>",
+    "published": "Sun, 04 Oct 2026 09:07:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "563f4b80a34124c8",
+  "title": "In Ukraine, distributed renewables foil Russia's assaults",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "summary": "<p>Article URL: <a href=\"https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/\">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951881\">https://news.ycombinator.com/item?id=49951881</a></p> <p>Points: 99</p> <p># Comments: 79</p>",
+    "published": "Sun, 04 Oct 2026 08:39:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bc77d135aa126e87",
+  "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/PowderworksCode/headstart",
+    "summary": "<p>Article URL: <a href=\"https://github.com/PowderworksCode/headstart\">https://github.com/PowderworksCode/headstart</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951218\">https://news.ycombinator.com/item?id=49951218</a></p> <p>Points: 12</p> <p># Comments: 1</p>",
+    "published": "Sun, 04 Oct 2026 06:26:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6419cdc1f601fb95",
+  "title": "Why don't more developers \u201cuse the platform\u201d?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "summary": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p> <p>Points: 161</p> <p># Comments: 133</p>",
+    "published": "Sun, 04 Oct 2026 04:10:47 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c83b565fc25116a8",
+  "title": "Religious scholars met with Anthropic",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "summary": "<p><a href=\"https://archive.is/y8FW0\" rel=\"nofollow\">https://archive.is/y8FW0</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950052\">https://news.ycombinator.com/item?id=49950052</a></p> <p>Points: 87</p> <p># Comments: 205</p>",
+    "published": "Sun, 04 Oct 2026 02:34:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fb9af1d81b348295",
+  "title": "We're working on a new RuneScape MMO",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://play.runescape.com/4",
+    "summary": "<p>Article URL: <a href=\"https://play.runescape.com/4\">https://play.runescape.com/4</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949588\">https://news.ycombinator.com/item?id=49949588</a></p> <p>Points: 85</p> <p># Comments: 31</p>",
+    "published": "Sun, 04 Oct 2026 01:12:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ee1071d66dee3580",
+  "title": "Tell HN: Bob Cringely has died",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://news.ycombinator.com/item?id=49949438",
+    "summary": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p> <p>Points: 509</p> <p># Comments: 103</p>",
+    "published": "Sun, 04 Oct 2026 00:50:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "36ead0f2eea40ca6",
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949235\">https://news.ycombinator.com/item?id=49949235</a></p> <p>Points: 463</p> <p># Comments: 228</p>",
+    "published": "Sun, 04 Oct 2026 00:20:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fba68aebf2d4d751",
+  "title": "Reasons I didn't become an EMT, ranked",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "summary": "<p>Article URL: <a href=\"https://ben.stolovitz.com/posts/reasons-not-emt-ranked/\">https://ben.stolovitz.com/posts/reasons-not-emt-ranked/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947631\">https://news.ycombinator.com/item?id=49947631</a></p> <p>Points: 161</p> <p># Comments: 78</p>",
+    "published": "Sat, 03 Oct 2026 20:49:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9f8bb1200b2552c4",
+  "title": "Surely you have ultra-wideband radios on your bins too?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "summary": "<p>Article URL: <a href=\"https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/\">https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947472\">https://news.ycombinator.com/item?id=49947472</a></p> <p>Points: 86</p> <p># Comments: 42</p>",
+    "published": "Sat, 03 Oct 2026 20:27:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c3f49d02ab53f8ed",
+  "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU\">https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946895\">https://news.ycombinator.com/item?id=49946895</a></p> <p>Points: 318</p> <p># Comments: 50</p>",
+    "published": "Sat, 03 Oct 2026 19:14:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b7accd4f6d9f6588",
+  "title": "How to hack time, with C2PA",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "summary": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/hacking-time.html\">https://www.da.vidbuchanan.co.uk/blog/hacking-time.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946707\">https://news.ycombinator.com/item?id=49946707</a></p> <p>Points: 43</p> <p># Comments: 4</p>",
+    "published": "Sat, 03 Oct 2026 18:52:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c6ffb2f15ccedb33",
+  "title": "What Meta got right with Muse",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "summary": "<p>Article URL: <a href=\"https://metedata.substack.com/p/what-meta-got-right-with-muse\">https://metedata.substack.com/p/what-meta-got-right-with-muse</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946526\">https://news.ycombinator.com/item?id=49946526</a></p> <p>Points: 54</p> <p># Comments: 76</p>",
+    "published": "Sat, 03 Oct 2026 18:23:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "549bdd288f9a970c",
+  "title": "Treachery in the Rodin Museum 3D scan verdict",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "summary": "<p>Article URL: <a href=\"https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict\">https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946355\">https://news.ycombinator.com/item?id=49946355</a></p> <p>Points: 215</p> <p># Comments: 93</p>",
+    "published": "Sat, 03 Oct 2026 18:01:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "260f481c2a62124d",
+  "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "summary": "<p><a href=\"https://archive.ph/TyDPf\" rel=\"nofollow\">https://archive.ph/TyDPf</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946228\">https://news.ycombinator.com/item?id=49946228</a></p> <p>Points: 166</p> <p># Comments: 229</p>",
+    "published": "Sat, 03 Oct 2026 17:44:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2ad697ead091eb32",
+  "title": "Agents don't need memory, they need documentation",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "summary": "<p>Article URL: <a href=\"https://liao.gg/blog/agents-dont-need-memory\">https://liao.gg/blog/agents-dont-need-memory</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945933\">https://news.ycombinator.com/item?id=49945933</a></p> <p>Points: 204</p> <p># Comments: 111</p>",
+    "published": "Sat, 03 Oct 2026 17:03:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d080964459e91db4",
+  "title": "City building games have a Soul Problem pt.2",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+    "summary": "<p>Article URL: <a href=\"https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2\">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945323\">https://news.ycombinator.com/item?id=49945323</a></p> <p>Points: 139</p> <p># Comments: 136</p>",
+    "published": "Sat, 03 Oct 2026 15:52:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "48d7bf77c4ddbe37",
+  "title": "Hello GPT-4o",
+  "topic": "ai",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "GPT-4o is a flagship multimodal model release from a frontier lab, squarely market-moving for the AI space.",
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/hello-gpt-4o",
+    "summary": "We\u2019re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
+    "published": "Mon, 13 May 2024 10:05:00 GMT"
    }
   ]
  }

@@ -1,24 +1,35 @@
 [
  {
-  "id": "8946837d5a54dbde",
-  "title": "The court rejects Elon\u2019s latest attempt to slow OpenAI down",
+  "id": "48d7bf77c4ddbe37",
+  "title": "Hello GPT-4o",
   "topic": "ai",
   "score": 9,
   "raw_score": 9,
   "weight": 1.0,
-  "reason": "Major regulatory verdict rejecting Elon Musk's lawsuit against OpenAI is a significant legal and corporate development.",
+  "reason": "GPT-4o is a flagship multimodal model release from a frontier lab, squarely market-moving for the AI space.",
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/court-rejects-elon",
-    "summary": "We welcome the court\u2019s March 4, 2025, decision rejecting Elon Musk\u2019s latest attempt to slow down OpenAI for his personal benefit.",
-    "published": "Fri, 14 Mar 2025 09:00:00 GMT"
-   },
+    "url": "https://openai.com/index/hello-gpt-4o",
+    "summary": "We\u2019re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
+    "published": "Mon, 13 May 2024 10:05:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "5ee5a182017e644a",
+  "title": "New Credit Facility Enhances Financial Flexibility",
+  "topic": "ai",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Significant financial infrastructure change involving a $4B credit facility and $6.6B funding round.",
+  "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/openai-elon-musk",
-    "summary": "We are dedicated to the OpenAI mission and have pursued it every step of the way.",
-    "published": "Tue, 05 Mar 2024 08:00:00 GMT"
+    "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
+    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morgan Stanley, Santander, Wells Fargo, SMBC, UBS, and HSBC.",
+    "published": "Thu, 03 Oct 2024 07:00:00 GMT"
    }
   ]
  }
