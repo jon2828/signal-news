@@ -6,6 +6,8 @@ The whole thing runs on free tiers first. When those run dry, it falls back to p
 
 The rules the software follows: nothing over 1,000 words, every factual claim links to its source, and stories are linked and summarized, never republished. On a day without important news, nothing gets posted. That is deliberate. A quota is the enemy of relevance, so the site is allowed to be quiet.
 
-The score on each post is the triage rating, 1 to 10, that the story earned when it was picked. Anything that scored too low was dropped, and the rejections are logged with the reason. All of it lives in the site's open source repository, along with every draft the system ever declined to publish. If a post turns out to be wrong, the correction shows up in the repo history the same way the mistake does.
+The score on each post is a software-assigned editorial importance rating from 1 to 10: how relevant and consequential the story appears for readers following AI and Bitcoin. It is not a fact-check score, a probability that the story is true, an endorsement, or investment advice. An 8/10 story was judged important enough to cover; it is not “80% verified.” Fact-checking is a separate step, and both the selection and checking systems can make mistakes.
+
+Stories that scored too low were dropped, and the rejections are logged with the reason. The decisions live in the site's open source repository, along with the drafts the system declined to publish. Corrections and retractions are recorded transparently; already-published URLs are retained with a notice where appropriate.
 
 The infrastructure is nearly free on purpose: GitHub Actions for scheduling, free language-model tiers tried first, and Cloudflare for hosting. The paid API fallbacks only kick in on busy days. The site never needs to chase traffic to pay for itself.

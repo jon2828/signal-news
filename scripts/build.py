@@ -183,7 +183,7 @@ def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> 
     title_html = (f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>'
                   if heading else "")
     out = ['<div class="post">',
-           f'<div class="meta">{esc(meta.get("topic", "?"))} · {esc(meta.get("date", ""))}</div>',
+           f'<div class="meta">{esc(str(meta.get("topic", "?")).upper())} · score {esc(meta.get("score", "?"))}/10 · {esc(meta.get("date", ""))}</div>',
            title_html]
     if full:
         out.append(blocks_html(blocks))
