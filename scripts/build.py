@@ -15,55 +15,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _common import ROOT, guarded_exit, kill_switch  # noqa: E402
 
 SITE_CSS = """
-:root{--bg:#0a0a0a;--panel:#141414;--text:#e8e6e3;--muted:#9a958e;--accent:#f59e0b;--accent-dim:#b97a2a;--line:#26241f}
+:root{--accent:#333;--line:#ececec}
 *{box-sizing:border-box}
-body{max-width:680px;margin:0 auto;padding:0 1.2rem 3rem;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.65;color:var(--text);background:var(--bg)}
-a{color:var(--accent);text-decoration:none}
-a:hover{text-decoration:underline}
-header.site{padding:2.2rem 0 1.4rem;border-bottom:1px solid var(--line);margin-bottom:1.8rem}
-.logo{display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:var(--panel);border:1px solid var(--line);font-family:Georgia,serif;font-size:1.7rem;color:var(--text);margin-bottom:1rem}
-.logo span{color:var(--accent);font-size:1.9rem;line-height:0}
-h1{font-size:1.55rem;font-weight:700;letter-spacing:-.02em;margin:0 0 .4rem}
-h1 a{color:var(--text)}
-.tagline{font-size:1.02rem;color:var(--muted);margin:0 0 1rem;max-width:34ch}
-nav{display:flex;gap:1.1rem;font-size:.88rem}
-nav a{color:var(--muted)}
-nav a:hover{color:var(--accent);text-decoration:none}
-h2{font-size:1.05rem;margin:0 0 .5rem;font-weight:600}
-.post{margin:0 0 1.4rem;padding:1.2rem 1.3rem;background:var(--panel);border:1px solid var(--line);border-radius:14px}
-.post h2 a{color:var(--text)}
-.post h2 a:hover{color:var(--accent)}
-.meta{font-size:.78rem;color:var(--muted);margin-bottom:.65rem;display:flex;gap:.45rem;align-items:center;flex-wrap:wrap}
-.badge{border:1px solid var(--line);border-radius:99px;padding:.1rem .55rem;font-size:.72rem}
-.badge.score{color:var(--accent);border-color:var(--accent-dim)}
-.excerpt{color:var(--muted);font-size:.93rem;margin:0}
-.article h2{margin-top:1.8rem}
-.article p{margin:0 0 1.1rem}
-.article .meta{margin-bottom:1.4rem}
-.back{display:inline-block;margin:1.4rem 0;font-size:.88rem;color:var(--muted)}
-h1.article-title{font-size:1.6rem;line-height:1.3;margin:.8rem 0 .6rem}
-.disclosure h1{margin-bottom:1.2rem}
-footer{font-size:.82rem;color:var(--muted);margin-top:2.6rem;padding-top:1.4rem;border-top:1px solid var(--line)}
-hr{border:none;border-top:1px solid var(--line);margin:2rem 0}
-ul{padding-left:1.2rem}
-/* Simple editorial layout: original rhythm, profile palette, sans-serif. */
-:root{--bg:#0a0b0d;--panel:#111216;--text:#e8e6e3;--muted:#a5a29d;--accent:#eea02b;--line:#303033}
-body{max-width:720px;padding:2rem 1rem;line-height:1.6}
-header.site{padding:0 0 1rem;border-bottom:0;margin-bottom:2rem}
-h1{font-size:1.9rem;line-height:1.25;margin-bottom:.3rem}
-.tagline{max-width:none;font-size:1rem}
-nav{flex-wrap:wrap;gap:.3rem 1.1rem}
-nav a{display:inline-flex;align-items:center;min-height:44px}
-h2{font-size:1.25rem;line-height:1.35;margin:0 0 .7rem}
-.post{margin:0 0 2.5rem;padding:0 0 2rem;background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0}
-.post h2 a{color:var(--accent)}
-.meta{font-size:.85rem;margin-bottom:.8rem;gap:.5rem}
-.badge{border-radius:3px;padding:0 .4rem;font-size:.75rem}
-.badge.score{color:var(--muted);border-color:var(--line)}
-.article>.post,.disclosure{border-bottom:0;margin-bottom:0;padding-bottom:0}
-footer{font-size:.85rem;margin-top:3rem;padding-top:0;border-top:0}
-a:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
-@media(max-width:480px){body{padding:1.5rem 1rem}h1{font-size:1.65rem}}
+body{margin:0 auto;max-width:920px;padding:68px 40px 48px;background:#fff;color:#262626;font-family:Arial,Helvetica,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}a:hover{color:#111;text-decoration:underline;text-underline-offset:5px}a:focus-visible{outline:2px solid #555;outline-offset:5px}
+header.site{margin-bottom:60px}header h1{font-size:25px;font-weight:400;letter-spacing:-.5px;margin:0 0 10px}.tagline{font-size:15px;color:#777;max-width:530px;margin:0 0 22px}nav{display:flex;gap:25px;flex-wrap:wrap;font-size:13px;color:#777}nav a{padding:8px 0}
+.post{padding:0 0 48px;margin:0 0 48px;border-bottom:1px solid var(--line)}.meta{font-size:13px;color:#777;margin-bottom:16px}.post h2{font-size:26px;line-height:1.35;font-weight:400;letter-spacing:-.4px;margin:0 0 14px}.post>p{font-size:18px;color:#777;line-height:1.65;margin:0;max-width:760px}
+footer{font-size:12px;color:#888;padding-top:10px}.article{border:0}.article .post{border:0;margin:0;padding:0}.article-title{font-size:36px;font-weight:400;line-height:1.3;letter-spacing:-.7px;margin:0 0 22px}.article .post>p{color:#444;font-size:18px;margin:0 0 24px}.article h2,.article h3{font-weight:400;margin:32px 0 16px}.article li{margin:10px 0;color:#555}.article a{text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}.disclosure p{margin:20px 0}.disclosure h1{font-size:30px;font-weight:400}
+@media(max-width:600px){body{padding:34px 24px}header.site{margin-bottom:46px}header h1{font-size:23px}.post{padding-bottom:34px;margin-bottom:34px}.post h2{font-size:23px}.post>p{font-size:16px}.article-title{font-size:29px}.article .post>p{font-size:17px}nav{gap:22px}}
 """
 
 
@@ -224,9 +183,8 @@ def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> 
     title_html = (f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>'
                   if heading else "")
     out = ['<div class="post">',
-           title_html,
-           f'<div class="meta"><span class="badge score">score {meta.get("score", "?")}/10</span>'
-           f'<span class="badge">{esc(meta.get("topic", "?"))}</span>{esc(meta.get("date", ""))}</div>']
+           f'<div class="meta">{esc(meta.get("topic", "?"))} · {esc(meta.get("date", ""))}</div>',
+           title_html]
     if full:
         out.append(blocks_html(blocks))
         srcs = meta.get("sources") or []
@@ -271,11 +229,10 @@ def main() -> int:
              f'<title>Unspent Thoughts — AI and Bitcoin news that earned its place</title>'
              f'<style>{SITE_CSS}</style>{analytics}</head><body>'
              f'<header class="site">'
-             f'<div class="logo">U<span>.</span></div>'
              f'<h1><a href="/">Unspent Thoughts</a></h1>'
              f'<p class="tagline">Bitcoin is scarce. Intelligence is becoming abundant. Time remains finite.</p>'
              f'<nav><a href="/">Posts</a><a href="/disclosure">How it works</a><a href="/feed.xml">RSS</a>'
-             f'<a href="https://x.com/UnspentThoughts">𝕏</a></nav>'
+             f'<a href="https://x.com/UnspentThoughts">X</a></nav>'
              f'</header>'
              f'{items}'
              f'<footer>Selected, written, and checked by software. '
@@ -293,8 +250,7 @@ def main() -> int:
                 f'<title>{title} — Unspent Thoughts</title>'
                 f'<style>{SITE_CSS}</style>{analytics}</head><body>'
                 f'<header class="site">'
-                f'<div class="logo">U<span>.</span></div>'
-                f'<h1><a href="/">Unspent Thoughts</a></h1>'
+                   f'<h1><a href="/">Unspent Thoughts</a></h1>'
                 f'<nav><a href="/">← All posts</a><a href="/disclosure">How it works</a></nav>'
                 f'</header>'
                 f'<article class="post article">'
@@ -313,7 +269,7 @@ def main() -> int:
     notfound = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                 f'<title>Not found — Unspent Thoughts</title><style>{SITE_CSS}</style></head>'
-                f'<body><header class="site"><div class="logo">U<span>.</span></div>'
+                f'<body><header class="site">'
                 f'<h1>Not found</h1></header>'
                 f'<p>The page you asked for does not exist. '
                 f'<a href="/">Back to Unspent Thoughts</a>.</p></body></html>')
@@ -341,7 +297,6 @@ def main() -> int:
                        f'<title>How this site works — Unspent Thoughts</title>'
                        f'<style>{SITE_CSS}</style>{analytics}</head><body>'
                        f'<header class="site">'
-                       f'<div class="logo">U<span>.</span></div>'
                        f'<h1><a href="/">Unspent Thoughts</a></h1>'
                        f'<nav><a href="/">← All posts</a></nav>'
                        f'</header>'
