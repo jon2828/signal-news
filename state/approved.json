@@ -1,41 +1,53 @@
 [
  {
-  "id": "f0882987a192e582",
-  "title": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
+  "id": "c1030202a4f41970",
+  "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
   "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "Stall of the Clarity Act in the Senate is a significant regulatory development directly affecting crypto dealmaking.",
+  "reason": "SEC filing by a major exchange-NYSE-parent joint venture for tokenized US stock trading is a significant regulatory and market-structure development, corroborated by three sources.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-    "summary": "Crypto M&A has hit record levels, but the Clarity Act\u2019s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
-    "published": "Sun, 04 Oct 2026 13:00:00 +0000"
+    "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+    "summary": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+    "published": "Mon, 05 Oct 2026 04:45:03 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4525XQ0CWP5J7P1KKQ3CD7J/stock-trading.jpg\" alt=\"OKX, NYSE parent file to launch tokenized US stock platform\" class=\"type:primaryImage\"></p><p>The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC\u2019s recently introduced innovation exemption.</p>",
+    "published": "Mon, 05 Oct 2026 03:44:09 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
+    "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption.",
+    "published": "Mon, 05 Oct 2026 06:38:24 +0000"
    }
   ]
  },
  {
-  "id": "07e8663eb0dc62b8",
-  "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+  "id": "589e7faa539e6f13",
+  "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
   "topic": "bitcoin",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Presidential creation of a new AI task force led by a named official, corroborated by two sources, is a significant government AI policy move.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Named-partner infrastructure launch for 24/7 institutional settlement, corroborated by two sources, clearly publishable.",
   "sources": [
    {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png\" alt=\"Trump taps intel chief Jay Clayton to lead new Super Intelligence Force\" class=\"type:primaryImage\"></p><p>President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles. </p>",
-    "published": "Sun, 04 Oct 2026 13:48:48 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+    "summary": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
+    "published": "Mon, 05 Oct 2026 09:26:24 +0000"
    },
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "published": "Sun, 04 Oct 2026 15:15:10 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg\" alt=\"Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank\" class=\"type:primaryImage\"></p><p>The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank\u2019s SGB Net</p>",
+    "published": "Mon, 05 Oct 2026 08:56:10 +0000"
    }
   ]
  }
