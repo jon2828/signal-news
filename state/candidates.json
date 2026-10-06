@@ -1,863 +1,5 @@
 [
  {
-  "id": "40c51d5055993c51",
-  "title": "Kolibri: A Sovereign Open-Weight Model",
-  "topic": "both",
-  "source_count": 3,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "summary": "<p><a href=\"https://tej.as/blog/aleph-alpha-kolibri\" rel=\"nofollow\">https://tej.as/blog/aleph-alpha-kolibri</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p> <p>Points: 392</p> <p># Comments: 253</p>",
-    "published": "Sat, 03 Oct 2026 09:36:04 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "summary": "<p>Article URL: <a href=\"https://reflection.ai/blog/introducing-beam\">https://reflection.ai/blog/introducing-beam</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49969183\">https://news.ycombinator.com/item?id=49969183</a></p> <p>Points: 263</p> <p># Comments: 66</p>",
-    "published": "Mon, 05 Oct 2026 19:16:35 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI system by training Reflection\u2019s AI models on their own proprietary data.",
-    "published": "Mon, 05 Oct 2026 19:33:53 +0000"
-   }
-  ]
- },
- {
-  "id": "7c974d415cd4edb5",
-  "title": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-    "published": "Sat, 03 Oct 2026 15:02:01 +0000"
-   }
-  ]
- },
- {
-  "id": "559aae7bd25c5841",
-  "title": "Vessev built an electric ferry that almost flies",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
-    "published": "Sat, 03 Oct 2026 14:42:00 +0000"
-   }
-  ]
- },
- {
-  "id": "41a7e440548d1d8c",
-  "title": "All the AI agents that can live in your text messages",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "published": "Sat, 03 Oct 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "a67c51cc83b19bfe",
-  "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png\" alt=\"El Salvador receives $138 million from IMF after Bitcoin waivers granted\" class=\"type:primaryImage\"></p><p>Efforts will continue to reduce the state\u2019s involvement in Bitcoin-related activities and to strengthen crypto\u2011asset regulation and governance, the IMF said.</p>",
-    "published": "Sun, 04 Oct 2026 09:39:51 +0000"
-   }
-  ]
- },
- {
-  "id": "d689510cce275901",
-  "title": "Russia\u2019s Finance Ministry pays wages in digital rubles for first time",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png\" alt=\"Russia\u2019s Finance Ministry pays wages in digital rubles for first time\" class=\"type:primaryImage\"></p><p>Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.</p>",
-    "published": "Sun, 04 Oct 2026 07:16:53 +0000"
-   }
-  ]
- },
- {
-  "id": "061014b44bca9a6e",
-  "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://gamehistory.org/5k-magazines/",
-    "summary": "<p>Article URL: <a href=\"https://gamehistory.org/5k-magazines/\">https://gamehistory.org/5k-magazines/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952029\">https://news.ycombinator.com/item?id=49952029</a></p> <p>Points: 33</p> <p># Comments: 3</p>",
-    "published": "Sun, 04 Oct 2026 09:07:11 +0000"
-   }
-  ]
- },
- {
-  "id": "563f4b80a34124c8",
-  "title": "In Ukraine, distributed renewables foil Russia's assaults",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-    "summary": "<p>Article URL: <a href=\"https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/\">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951881\">https://news.ycombinator.com/item?id=49951881</a></p> <p>Points: 99</p> <p># Comments: 79</p>",
-    "published": "Sun, 04 Oct 2026 08:39:58 +0000"
-   }
-  ]
- },
- {
-  "id": "bc77d135aa126e87",
-  "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/PowderworksCode/headstart",
-    "summary": "<p>Article URL: <a href=\"https://github.com/PowderworksCode/headstart\">https://github.com/PowderworksCode/headstart</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951218\">https://news.ycombinator.com/item?id=49951218</a></p> <p>Points: 12</p> <p># Comments: 1</p>",
-    "published": "Sun, 04 Oct 2026 06:26:57 +0000"
-   }
-  ]
- },
- {
-  "id": "6419cdc1f601fb95",
-  "title": "Why don't more developers \u201cuse the platform\u201d?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-    "summary": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p> <p>Points: 161</p> <p># Comments: 133</p>",
-    "published": "Sun, 04 Oct 2026 04:10:47 +0000"
-   }
-  ]
- },
- {
-  "id": "c83b565fc25116a8",
-  "title": "Religious scholars met with Anthropic",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-    "summary": "<p><a href=\"https://archive.is/y8FW0\" rel=\"nofollow\">https://archive.is/y8FW0</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950052\">https://news.ycombinator.com/item?id=49950052</a></p> <p>Points: 87</p> <p># Comments: 205</p>",
-    "published": "Sun, 04 Oct 2026 02:34:22 +0000"
-   }
-  ]
- },
- {
-  "id": "fb9af1d81b348295",
-  "title": "We're working on a new RuneScape MMO",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://play.runescape.com/4",
-    "summary": "<p>Article URL: <a href=\"https://play.runescape.com/4\">https://play.runescape.com/4</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949588\">https://news.ycombinator.com/item?id=49949588</a></p> <p>Points: 85</p> <p># Comments: 31</p>",
-    "published": "Sun, 04 Oct 2026 01:12:22 +0000"
-   }
-  ]
- },
- {
-  "id": "ee1071d66dee3580",
-  "title": "Tell HN: Bob Cringely has died",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://news.ycombinator.com/item?id=49949438",
-    "summary": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p> <p>Points: 509</p> <p># Comments: 103</p>",
-    "published": "Sun, 04 Oct 2026 00:50:52 +0000"
-   }
-  ]
- },
- {
-  "id": "36ead0f2eea40ca6",
-  "title": "We're going to need default hard budget caps on pretty much everything",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949235\">https://news.ycombinator.com/item?id=49949235</a></p> <p>Points: 463</p> <p># Comments: 228</p>",
-    "published": "Sun, 04 Oct 2026 00:20:16 +0000"
-   }
-  ]
- },
- {
-  "id": "fba68aebf2d4d751",
-  "title": "Reasons I didn't become an EMT, ranked",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-    "summary": "<p>Article URL: <a href=\"https://ben.stolovitz.com/posts/reasons-not-emt-ranked/\">https://ben.stolovitz.com/posts/reasons-not-emt-ranked/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947631\">https://news.ycombinator.com/item?id=49947631</a></p> <p>Points: 161</p> <p># Comments: 78</p>",
-    "published": "Sat, 03 Oct 2026 20:49:15 +0000"
-   }
-  ]
- },
- {
-  "id": "9f8bb1200b2552c4",
-  "title": "Surely you have ultra-wideband radios on your bins too?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-    "summary": "<p>Article URL: <a href=\"https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/\">https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947472\">https://news.ycombinator.com/item?id=49947472</a></p> <p>Points: 86</p> <p># Comments: 42</p>",
-    "published": "Sat, 03 Oct 2026 20:27:44 +0000"
-   }
-  ]
- },
- {
-  "id": "c3f49d02ab53f8ed",
-  "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-    "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU\">https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946895\">https://news.ycombinator.com/item?id=49946895</a></p> <p>Points: 318</p> <p># Comments: 50</p>",
-    "published": "Sat, 03 Oct 2026 19:14:48 +0000"
-   }
-  ]
- },
- {
-  "id": "b7accd4f6d9f6588",
-  "title": "How to hack time, with C2PA",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-    "summary": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/hacking-time.html\">https://www.da.vidbuchanan.co.uk/blog/hacking-time.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946707\">https://news.ycombinator.com/item?id=49946707</a></p> <p>Points: 43</p> <p># Comments: 4</p>",
-    "published": "Sat, 03 Oct 2026 18:52:06 +0000"
-   }
-  ]
- },
- {
-  "id": "c6ffb2f15ccedb33",
-  "title": "What Meta got right with Muse",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-    "summary": "<p>Article URL: <a href=\"https://metedata.substack.com/p/what-meta-got-right-with-muse\">https://metedata.substack.com/p/what-meta-got-right-with-muse</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946526\">https://news.ycombinator.com/item?id=49946526</a></p> <p>Points: 54</p> <p># Comments: 76</p>",
-    "published": "Sat, 03 Oct 2026 18:23:48 +0000"
-   }
-  ]
- },
- {
-  "id": "549bdd288f9a970c",
-  "title": "Treachery in the Rodin Museum 3D scan verdict",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-    "summary": "<p>Article URL: <a href=\"https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict\">https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946355\">https://news.ycombinator.com/item?id=49946355</a></p> <p>Points: 215</p> <p># Comments: 93</p>",
-    "published": "Sat, 03 Oct 2026 18:01:27 +0000"
-   }
-  ]
- },
- {
-  "id": "260f481c2a62124d",
-  "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "summary": "<p><a href=\"https://archive.ph/TyDPf\" rel=\"nofollow\">https://archive.ph/TyDPf</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946228\">https://news.ycombinator.com/item?id=49946228</a></p> <p>Points: 166</p> <p># Comments: 229</p>",
-    "published": "Sat, 03 Oct 2026 17:44:29 +0000"
-   }
-  ]
- },
- {
-  "id": "2ad697ead091eb32",
-  "title": "Agents don't need memory, they need documentation",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://liao.gg/blog/agents-dont-need-memory",
-    "summary": "<p>Article URL: <a href=\"https://liao.gg/blog/agents-dont-need-memory\">https://liao.gg/blog/agents-dont-need-memory</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945933\">https://news.ycombinator.com/item?id=49945933</a></p> <p>Points: 204</p> <p># Comments: 111</p>",
-    "published": "Sat, 03 Oct 2026 17:03:37 +0000"
-   }
-  ]
- },
- {
-  "id": "d080964459e91db4",
-  "title": "City building games have a Soul Problem pt.2",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-    "summary": "<p>Article URL: <a href=\"https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2\">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945323\">https://news.ycombinator.com/item?id=49945323</a></p> <p>Points: 139</p> <p># Comments: 136</p>",
-    "published": "Sat, 03 Oct 2026 15:52:07 +0000"
-   }
-  ]
- },
- {
-  "id": "807633870f836998",
-  "title": "Crypto poured years into new products. The next challenge is keeping users",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-    "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them \u2014 and keep using them \u2014 is becoming the next challenge.",
-    "published": "Sun, 04 Oct 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "f0882987a192e582",
-  "title": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-    "summary": "Crypto M&A has hit record levels, but the Clarity Act\u2019s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
-    "published": "Sun, 04 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "07e8663eb0dc62b8",
-  "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png\" alt=\"Trump taps intel chief Jay Clayton to lead new Super Intelligence Force\" class=\"type:primaryImage\"></p><p>President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles. </p>",
-    "published": "Sun, 04 Oct 2026 13:48:48 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "published": "Sun, 04 Oct 2026 15:15:10 +0000"
-   }
-  ]
- },
- {
-  "id": "44ac7f390a170a3a",
-  "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43EQ7PEEE3Z1JRGK2E12RMJ/hi-crypto-offers-russia-no-way-out-from-western-sanctions2.png\" alt=\"Japan adds Garantex to list of Russia sanctions over Ukraine war\" class=\"type:primaryImage\"></p><p>Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions.</p>",
-    "published": "Sun, 04 Oct 2026 12:42:00 +0000"
-   }
-  ]
- },
- {
-  "id": "dcc9dd2f3d94431f",
-  "title": "Blindsight (Watts Novel)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
-    "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955297\">https://news.ycombinator.com/item?id=49955297</a></p> <p>Points: 5</p> <p># Comments: 0</p>",
-    "published": "Sun, 04 Oct 2026 16:25:17 +0000"
-   }
-  ]
- },
- {
-  "id": "43b0ee8883681051",
-  "title": "Car is a smartphone on wheels. Here's who's listening",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://automatictransmission.khoury.northeastern.edu/",
-    "summary": "<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/\">https://automatictransmission.khoury.northeastern.edu/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49954882\">https://news.ycombinator.com/item?id=49954882</a></p> <p>Points: 91</p> <p># Comments: 36</p>",
-    "published": "Sun, 04 Oct 2026 15:43:14 +0000"
-   }
-  ]
- },
- {
-  "id": "9eb41457d9efb273",
-  "title": "RuneScape's Position on Gen AI",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
-    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/\">https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49954745\">https://news.ycombinator.com/item?id=49954745</a></p> <p>Points: 13</p> <p># Comments: 23</p>",
-    "published": "Sun, 04 Oct 2026 15:29:14 +0000"
-   }
-  ]
- },
- {
-  "id": "6c8faad5b1f93037",
-  "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/Niko1221/Strata",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Niko1221/Strata\">https://github.com/Niko1221/Strata</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953495\">https://news.ycombinator.com/item?id=49953495</a></p> <p>Points: 282</p> <p># Comments: 142</p>",
-    "published": "Sun, 04 Oct 2026 12:51:53 +0000"
-   }
-  ]
- },
- {
-  "id": "373590dedb56a61a",
-  "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-    "summary": "<p>Article URL: <a href=\"https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and\">https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953116\">https://news.ycombinator.com/item?id=49953116</a></p> <p>Points: 89</p> <p># Comments: 40</p>",
-    "published": "Sun, 04 Oct 2026 11:58:47 +0000"
-   }
-  ]
- },
- {
-  "id": "a68633ec7937a6d4",
-  "title": "Show HN: AI search for every photo and every frame of video on macOS",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/allenv0/SCM",
-    "summary": "<p>Article URL: <a href=\"https://github.com/allenv0/SCM\">https://github.com/allenv0/SCM</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952111\">https://news.ycombinator.com/item?id=49952111</a></p> <p>Points: 70</p> <p># Comments: 38</p>",
-    "published": "Sun, 04 Oct 2026 09:24:52 +0000"
-   }
-  ]
- },
- {
-  "id": "778a42f69a53697e",
-  "title": "What's the Future for Pure Math Research in the Age of AI?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/\">https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951641\">https://news.ycombinator.com/item?id=49951641</a></p> <p>Points: 27</p> <p># Comments: 5</p>",
-    "published": "Sun, 04 Oct 2026 07:53:45 +0000"
-   }
-  ]
- },
- {
-  "id": "cafdfc2c960e648b",
-  "title": "TechCrunch Mobility: Reining in robotaxis",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "published": "Sun, 04 Oct 2026 16:05:00 +0000"
-   }
-  ]
- },
- {
-  "id": "12568f624fd63cb9",
-  "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
-    "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and\">https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955839\">https://news.ycombinator.com/item?id=49955839</a></p> <p>Points: 9</p> <p># Comments: 1</p>",
-    "published": "Sun, 04 Oct 2026 17:21:26 +0000"
-   }
-  ]
- },
- {
-  "id": "4edf0e2731c29eb8",
-  "title": "Background Passive FTP with No GUI Control Survives Apple Store DFU",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d",
-    "summary": "<p>Article URL: <a href=\"https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d\">https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955626\">https://news.ycombinator.com/item?id=49955626</a></p> <p>Points: 6</p> <p># Comments: 1</p>",
-    "published": "Sun, 04 Oct 2026 16:58:54 +0000"
-   }
-  ]
- },
- {
-  "id": "a31307f9803d1e05",
-  "title": "There's an election next month: State of Crypto",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-    "summary": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November.",
-    "published": "Sun, 04 Oct 2026 18:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "4cb361ff85a497c5",
-  "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://island-three.gruberbuilds.workers.dev/",
-    "summary": "<p>Article URL: <a href=\"https://island-three.gruberbuilds.workers.dev/\">https://island-three.gruberbuilds.workers.dev/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957191\">https://news.ycombinator.com/item?id=49957191</a></p> <p>Points: 6</p> <p># Comments: 4</p>",
-    "published": "Sun, 04 Oct 2026 19:49:12 +0000"
-   }
-  ]
- },
- {
-  "id": "d137deb1e0200686",
-  "title": "Homa: The End of TCP for AI Clusters [video]",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-    "summary": "<p>Related: <a href=\"https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629\" rel=\"nofollow\">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957117\">https://news.ycombinator.com/item?id=49957117</a></p> <p>Points: 14</p> <p># Comments: 1</p>",
-    "published": "Sun, 04 Oct 2026 19:42:25 +0000"
-   }
-  ]
- },
- {
-  "id": "60650629a12a0158",
-  "title": "Remove and Disable Apple Macos27 AI Models Tool",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/omlahore/RemoveMacAI",
-    "summary": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p> <p>Points: 81</p> <p># Comments: 37</p>",
-    "published": "Sun, 04 Oct 2026 19:42:25 +0000"
-   }
-  ]
- },
- {
-  "id": "1954cb720f757c28",
-  "title": "Improper redaction reveals Google Data Center water and electricity usage",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-    "summary": "<p>Article URL: <a href=\"https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957068\">https://news.ycombinator.com/item?id=49957068</a></p> <p>Points: 73</p> <p># Comments: 54</p>",
-    "published": "Sun, 04 Oct 2026 19:37:05 +0000"
-   }
-  ]
- },
- {
-  "id": "025aa73f337c5fc0",
-  "title": "Show HN: Build with Python \u2013 a beginner course where your code draws",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-    "summary": "<p>Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc.<p>The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output.<p>The course has 13 modules, with the first 6 foundation modules free, module 7-13 with free readings but guide labs for a one-time price o",
-    "published": "Sun, 04 Oct 2026 18:59:25 +0000"
-   }
-  ]
- },
- {
-  "id": "386b999fc2245249",
-  "title": "Incentives in Academic Research",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-    "summary": "<p>Article URL: <a href=\"https://www.msoos.org/2026/10/incentives-in-academic-research/\">https://www.msoos.org/2026/10/incentives-in-academic-research/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49956035\">https://news.ycombinator.com/item?id=49956035</a></p> <p>Points: 12</p> <p># Comments: 2</p>",
-    "published": "Sun, 04 Oct 2026 17:42:38 +0000"
-   }
-  ]
- },
- {
-  "id": "15746db54804c4ef",
-  "title": "How effective altruism conquered the world (and might yet end it)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-    "summary": "<p><a href=\"https://archive.ph/3gSCc\" rel=\"nofollow\">https://archive.ph/3gSCc</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953777\">https://news.ycombinator.com/item?id=49953777</a></p> <p>Points: 30</p> <p># Comments: 29</p>",
-    "published": "Sun, 04 Oct 2026 13:30:49 +0000"
-   }
-  ]
- },
- {
-  "id": "3c92fbe773b50bd8",
-  "title": "Bill Draper has died",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-    "summary": "<p><a href=\"https://archive.ph/YRgDY\" rel=\"nofollow\">https://archive.ph/YRgDY</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953288\">https://news.ycombinator.com/item?id=49953288</a></p> <p>Points: 35</p> <p># Comments: 10</p>",
-    "published": "Sun, 04 Oct 2026 12:21:35 +0000"
-   }
-  ]
- },
- {
-  "id": "1871bf8316a5b929",
-  "title": "How to scale intent, quality, and artistry with AI [video]",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GLvFTMtw4Jk\">https://www.youtube.com/watch?v=GLvFTMtw4Jk</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951891\">https://news.ycombinator.com/item?id=49951891</a></p> <p>Points: 19</p> <p># Comments: 5</p>",
-    "published": "Sun, 04 Oct 2026 08:41:58 +0000"
-   }
-  ]
- },
- {
-  "id": "423e6f2ebbc06090",
-  "title": "Fog-Bank: Archiving the oldest webcam feed",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://fog-bank.org/net",
-    "summary": "<p>See also <a href=\"https://hackaday.com/2026/10/01/archiving-the-worlds-oldest-webcam-feed/\" rel=\"nofollow\">https://hackaday.com/2026/10/01/archiving-the-worlds-oldest-...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950818\">https://news.ycombinator.com/item?id=49950818</a></p> <p>Points: 9</p> <p># Comments: 1</p>",
-    "published": "Sun, 04 Oct 2026 05:06:58 +0000"
-   }
-  ]
- },
- {
-  "id": "c15d405a2a5a3c9c",
-  "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
-    "summary": "<p>Article URL: <a href=\"https://birdshistory.com/how-long-to-declare-a-bird-extinct/\">https://birdshistory.com/how-long-to-declare-a-bird-extinct/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49948738\">https://news.ycombinator.com/item?id=49948738</a></p> <p>Points: 8</p> <p># Comments: 4</p>",
-    "published": "Sat, 03 Oct 2026 23:16:45 +0000"
-   }
-  ]
- },
- {
-  "id": "e02f1784b9f19673",
-  "title": "'Neanderthals Among Us' review",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-    "summary": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review\">https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947565\">https://news.ycombinator.com/item?id=49947565</a></p> <p>Points: 37</p> <p># Comments: 26</p>",
-    "published": "Sat, 03 Oct 2026 20:41:15 +0000"
-   }
-  ]
- },
- {
-  "id": "00aaae6618c75196",
-  "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "published": "Sun, 04 Oct 2026 20:31:07 +0000"
-   }
-  ]
- },
- {
-  "id": "bbc50510cd13d4d1",
-  "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "published": "Sun, 04 Oct 2026 20:08:34 +0000"
-   }
-  ]
- },
- {
-  "id": "3cbec84de8bf6155",
-  "title": "Building advertising for the way people use AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "published": "Mon, 05 Oct 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "64101f540719ff9a",
-  "title": "Prime Inference \ud83d\udcc8, agent population \ud83d\udcc8, Claude academy \ud83c\udf93",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-10-05",
-    "summary": "",
-    "published": "Mon, 05 Oct 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1f0fee0d2d520764",
-  "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-    "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company.",
-    "published": "Mon, 05 Oct 2026 12:28:35 +0000"
-   }
-  ]
- },
- {
-  "id": "4e1d52b175c67632",
-  "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "summary": "Your day-ahead look for Oct. 5, 2026",
-    "published": "Mon, 05 Oct 2026 11:14:35 +0000"
-   }
-  ]
- },
- {
-  "id": "60feb3dc8cba5037",
-  "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-    "summary": "The Treasury Department said the network raised more than $2 million through purported humanitarian charities, including hundreds of thousands of dollars sent in crypto.",
-    "published": "Mon, 05 Oct 2026 11:08:03 +0000"
-   }
-  ]
- },
- {
-  "id": "91c289008bcd1099",
-  "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-    "summary": "The Japanese firm sold 10,000 BTC before buying 11,000 BTC, demonstrating liquidity as it seeks recurring income from preferred securities.",
-    "published": "Mon, 05 Oct 2026 10:58:03 +0000"
-   }
-  ]
- },
- {
-  "id": "3e99242bc9cfbedf",
-  "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-    "summary": "A stronger dollar and rising bond yields could be headwinds as fiscal concerns in France and political uncertainty in Spain weigh on the euro.",
-    "published": "Mon, 05 Oct 2026 10:44:55 +0000"
-   }
-  ]
- },
- {
-  "id": "6ba5b2ab63c6fa53",
-  "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-    "summary": "A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below $87,000, with FOMC minutes due Wednesday.",
-    "published": "Mon, 05 Oct 2026 10:39:57 +0000"
-   }
-  ]
- },
- {
   "id": "d9f9f32cd919a0d9",
   "title": "Cardano's ADA leads gains in narrow range-bound market",
   "topic": "bitcoin",
@@ -1990,6 +1132,510 @@
     "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
     "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
     "published": "Mon, 05 Oct 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4cb028207899ad75",
+  "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+    "summary": "Adam Iza\u2019s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.",
+    "published": "Tue, 06 Oct 2026 12:31:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b939ee982ecfb8c2",
+  "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+    "summary": "Your day-ahead look for Oct. 6, 2026",
+    "published": "Tue, 06 Oct 2026 11:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6fe69e0fc017eb9f",
+  "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+    "summary": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
+    "published": "Tue, 06 Oct 2026 10:35:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7d294ff47a0dc8e7",
+  "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+    "summary": "Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer-1, which jumped 25% in the past 24 hours and is up 170% over the past 30 days.",
+    "published": "Tue, 06 Oct 2026 10:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1b9a9c860b28342d",
+  "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+    "summary": "DeepSeek and Moonshot attract fresh capital ahead of planned listings, while OpenAI courts major investors.",
+    "published": "Tue, 06 Oct 2026 09:25:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fc94c644ee0541e4",
+  "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+    "summary": "he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards.",
+    "published": "Tue, 06 Oct 2026 09:02:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5141614c60603dcc",
+  "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+    "summary": "This shallower decline isn\u2019t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%.",
+    "published": "Tue, 06 Oct 2026 08:27:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "50a861e15ed1931e",
+  "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+    "summary": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
+    "published": "Tue, 06 Oct 2026 04:55:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f3eef30a9f59914b",
+  "title": "Ethereum\u2019s Glamsterdam test gets last-minute fix before major capacity jump",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "summary": "One of Ethereum\u2019s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 200 million gas.",
+    "published": "Tue, 06 Oct 2026 04:49:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c346ad9b7c459666",
+  "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "summary": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasury yields kept climbing.",
+    "published": "Tue, 06 Oct 2026 04:41:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1977d6f25ec6002a",
+  "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "summary": "Solana Foundation launched an open-source program that lets institutions settle trades in seconds, not days. JPMorgan provided key inputs.",
+    "published": "Tue, 06 Oct 2026 04:23:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "522abfa0d1b4a1c3",
+  "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg\" alt=\"Hong Kong officials double down on end-2026 deadline for crypto licensing bill\" class=\"type:primaryImage\"></p><p>Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.</p>",
+    "published": "Tue, 06 Oct 2026 10:16:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "38a5e041b0547a17",
+  "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489V6KADJ5PEVWVG55W2YFF/hi-quantum-threat-to-bitcoin-80000-btc-just-moved-after-14-years.jpg\" alt=\"Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins\" class=\"type:primaryImage\"></p><p>Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.</p>",
+    "published": "Tue, 06 Oct 2026 09:59:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e7fc9539ff6df80f",
+  "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M487HXC16SDNYAD6KJFE3J4V/paper-document-man-office-rwa-1.jpg\" alt=\"Ondo opens private markets with tokenized pre-IPO AI exposure\" class=\"type:primaryImage\"></p><p>Ondo\u2019s tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company.</p>",
+    "published": "Tue, 06 Oct 2026 09:21:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "69b9965058a997c8",
+  "title": "Solana Foundation targets settlement in seconds with DvP launch",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4860PG9THHFYD42RP00GSN1/hi-solana-sol-ecosystem-1.jpg\" alt=\"Solana Foundation targets settlement in seconds with DvP launch\" class=\"type:primaryImage\"></p><p>Solana DvP offers financial institutions an open-source settlement program designed to complete asset transfers and payments in seconds.</p>",
+    "published": "Tue, 06 Oct 2026 09:11:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b63f970a88afdff9",
+  "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4824V2PK2P4PSFCXS89MPH7/hi-time-is-our-best-friend-bitcoins-12-month-trajectory-to-etf.jpg\" alt=\"Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH\" class=\"type:primaryImage\"></p><p>US spot Bitcoin ETFs reversed two days of inflows as Bitcoin slipped below $86,000, trading roughly 32% below its October 2025 all-time high.</p>",
+    "published": "Tue, 06 Oct 2026 08:14:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f5545243b7903337",
+  "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47YM6VN7TYVESK6R60XKC5Z/hi-ethereum-2.jpg\" alt=\"EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum\" class=\"type:primaryImage\"></p><p>An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a framework to connect Ethereum mainnet and its rollups.</p>",
+    "published": "Tue, 06 Oct 2026 07:09:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4aeca4b6e7b59f3f",
+  "title": "Better Markets says CFTC is \u2018wrong agency\u2019 to regulate retail crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47QJ5TB4Q35P193XFF67NQJ/better-markets-vs-cftc.png\" alt=\"Better Markets says CFTC is \u2018wrong agency\u2019 to regulate retail crypto\" class=\"type:primaryImage\"></p><p>Better Markets said the CFTC\u2019s proposed framework to bring certain cryptocurrency transactions and exchanges under its oversight will leave investors less protected than under the SEC. </p>",
+    "published": "Tue, 06 Oct 2026 05:43:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "efa270ba5d296f9c",
+  "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg\" alt=\"Rain seeks US trust bank charter days after OCC sued over crypto charters \" class=\"type:primaryImage\"></p><p>Rain joins a growing queue of crypto firms seeking federal trust charters, while community banks have just asked a court to overturn the OCC rules underpinning them. </p>",
+    "published": "Tue, 06 Oct 2026 03:45:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e2469ef63d15fc63",
+  "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MMRBBBCCYARXBC1TB2KW8/coins-analytics-new-stablecoin.jpg\" alt=\"OKX eyes emerging markets with yield-offering stablecoin savings and payments app\" class=\"type:primaryImage\"></p><p>OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.</p>",
+    "published": "Tue, 06 Oct 2026 03:40:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6c2e83b52adbcad0",
+  "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47E98M7WF0617YMCEA467EH/laundering.jpg\" alt=\"Chinese crime network laundered over $1B for Lazarus: ZachXBT\" class=\"type:primaryImage\"></p><p>ZachXBT says he infiltrated the network by posing as a customer, gaining information that helped trace funds from the $1.5 billion Bybit hack. </p>",
+    "published": "Tue, 06 Oct 2026 01:47:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "aaa3538d7623bcae",
+  "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
+    "summary": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.",
+    "published": "Tue, 06 Oct 2026 11:36:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bfcca813fafab6ab",
+  "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
+    "summary": "Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.",
+    "published": "Tue, 06 Oct 2026 10:58:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a90fd9734a57c330",
+  "title": "ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
+    "summary": "Posing as a client, ZachXBT said he gathered intelligence that helped freeze funds tied to the $1.5 billion Bybit hack.",
+    "published": "Tue, 06 Oct 2026 09:51:47 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5a1cb532df7d8c40",
+  "title": "Ondo launches onchain private-company exposure, starting with AI",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
+    "summary": "Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.",
+    "published": "Tue, 06 Oct 2026 09:38:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "daa1eaa0558ada46",
+  "title": "JetBrains reported a net financial loss first time in its tracked history",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "summary": "<p>Article URL: <a href=\"https://www.helgilibrary.com/companies/jetbrains\">https://www.helgilibrary.com/companies/jetbrains</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49977072\">https://news.ycombinator.com/item?id=49977072</a></p> <p>Points: 55</p> <p># Comments: 38</p>",
+    "published": "Tue, 06 Oct 2026 11:45:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "05d7fb535e0b841d",
+  "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+    "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html\">https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49976823\">https://news.ycombinator.com/item?id=49976823</a></p> <p>Points: 30</p> <p># Comments: 4</p>",
+    "published": "Tue, 06 Oct 2026 11:11:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2e97bcbac4760df9",
+  "title": "ASOS app users receive push notifications apparently sent by hackers",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o\">https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49976468\">https://news.ycombinator.com/item?id=49976468</a></p> <p>Points: 42</p> <p># Comments: 23</p>",
+    "published": "Tue, 06 Oct 2026 10:15:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "aaf355056ba133d0",
+  "title": "Nobel Prize in Physics goes to Francis Halzen",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.nobelprize.org/prizes/physics/2026/",
+    "summary": "<p>Article URL: <a href=\"https://www.nobelprize.org/prizes/physics/2026/\">https://www.nobelprize.org/prizes/physics/2026/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49976265\">https://news.ycombinator.com/item?id=49976265</a></p> <p>Points: 180</p> <p># Comments: 52</p>",
+    "published": "Tue, 06 Oct 2026 09:48:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6ba11f32fc4277ac",
+  "title": "Gleam doesn't compile to Erlang source anymore",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+    "summary": "<p>Article URL: <a href=\"https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/\">https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49975619\">https://news.ycombinator.com/item?id=49975619</a></p> <p>Points: 85</p> <p># Comments: 13</p>",
+    "published": "Tue, 06 Oct 2026 08:08:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f914e433c082ccf7",
+  "title": "Resurrecting iChat Audio and Video Conferencing",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+    "summary": "<p>Article URL: <a href=\"https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973878\">https://news.ycombinator.com/item?id=49973878</a></p> <p>Points: 71</p> <p># Comments: 14</p>",
+    "published": "Tue, 06 Oct 2026 03:39:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5dba9a1449b9dfef",
+  "title": "Why Common Lisp is now the best programming language",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.vivienhenz.com/common-lisp",
+    "summary": "<p>Article URL: <a href=\"https://www.vivienhenz.com/common-lisp\">https://www.vivienhenz.com/common-lisp</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973598\">https://news.ycombinator.com/item?id=49973598</a></p> <p>Points: 224</p> <p># Comments: 283</p>",
+    "published": "Tue, 06 Oct 2026 02:51:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "64676d7c057ef8ec",
+  "title": "Samon: Designing a Zen Garden Raking Puzzle",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/doc/design/2026-10-03-gwern-samon.html\">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972211\">https://news.ycombinator.com/item?id=49972211</a></p> <p>Points: 49</p> <p># Comments: 23</p>",
+    "published": "Mon, 05 Oct 2026 23:35:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "02e8755cd9c6fdfe",
+  "title": "Friendship ended with Deno, now Node is my best friend",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+    "summary": "<p>Article URL: <a href=\"https://dbushell.com/2026/10/03/deno-to-node/\">https://dbushell.com/2026/10/03/deno-to-node/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971719\">https://news.ycombinator.com/item?id=49971719</a></p> <p>Points: 213</p> <p># Comments: 129</p>",
+    "published": "Mon, 05 Oct 2026 22:30:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cad32c65a11acdff",
+  "title": "Facebook tests going Reels-first in India",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+    "summary": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+    "published": "Tue, 06 Oct 2026 12:38:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bdcb8f51bd292b09",
+  "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+    "summary": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+    "published": "Tue, 06 Oct 2026 12:00:00 +0000"
    }
   ]
  }

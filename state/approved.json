@@ -1,35 +1,41 @@
 [
  {
-  "id": "19424cd759f01a6d",
-  "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+  "id": "f0882987a192e582",
+  "title": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Named banking group suing the OCC over crypto trust charters is a significant regulatory fight with clear parties.",
+  "reason": "Stall of the Clarity Act in the Senate is a significant regulatory development directly affecting crypto dealmaking.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-    "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
-    "published": "Fri, 02 Oct 2026 21:23:20 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+    "summary": "Crypto M&A has hit record levels, but the Clarity Act\u2019s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
+    "published": "Sun, 04 Oct 2026 13:00:00 +0000"
    }
   ]
  },
  {
-  "id": "c53aa91d733ca2bd",
-  "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+  "id": "07e8663eb0dc62b8",
+  "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
   "topic": "bitcoin",
   "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Talks between BNY and Kraken's parent over custody and payments infrastructure would be a major TradFi-crypto integration if confirmed.",
+  "raw_score": 8,
+  "weight": 0.9,
+  "reason": "Presidential creation of a new AI task force led by a named official, corroborated by two sources, is a significant government AI policy move.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-    "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
-    "published": "Fri, 02 Oct 2026 17:34:40 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png\" alt=\"Trump taps intel chief Jay Clayton to lead new Super Intelligence Force\" class=\"type:primaryImage\"></p><p>President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles. </p>",
+    "published": "Sun, 04 Oct 2026 13:48:48 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "published": "Sun, 04 Oct 2026 15:15:10 +0000"
    }
   ]
  }
