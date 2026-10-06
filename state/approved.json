@@ -1,1 +1,36 @@
-[]
+[
+ {
+  "id": "19424cd759f01a6d",
+  "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Named banking group suing the OCC over crypto trust charters is a significant regulatory fight with clear parties.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+    "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
+    "published": "Fri, 02 Oct 2026 21:23:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c53aa91d733ca2bd",
+  "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Talks between BNY and Kraken's parent over custody and payments infrastructure would be a major TradFi-crypto integration if confirmed.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+    "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
+    "published": "Fri, 02 Oct 2026 17:34:40 +0000"
+   }
+  ]
+ }
+]
