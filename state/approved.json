@@ -1,35 +1,41 @@
 [
  {
-  "id": "dfb231c34b69f857",
-  "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+  "id": "0ca1450969b5beb5",
+  "title": "GPT-6 and Intelligent UI for everyone",
   "topic": "ai",
-  "score": 8,
+  "score": 9,
   "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Major 1T-parameter multimodal model release from Mistral, a notable lab, directly in the frontier model race.",
+  "weight": 1.0,
+  "reason": "Global rollout of GPT-6 from a frontier lab, confirmed by OpenAI and independently discussed on HN, is a frontier-shifting model release.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-    "published": "Tue, 06 Oct 2026 14:33:16 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "published": "Wed, 07 Oct 2026 00:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-6-for-everyone/\">https://openai.com/index/gpt-6-for-everyone/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996425\">https://news.ycombinator.com/item?id=49996425</a></p> <p>Points: 405</p> <p># Comments: 208</p>",
+    "published": "Wed, 07 Oct 2026 18:00:58 +0000"
    }
   ]
  },
  {
-  "id": "768a7624bee710f7",
-  "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+  "id": "1c8acf5ddb5eb980",
+  "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major exchange raising capital from named institutions (StanChart, Circle, Ripple) marks a significant funding and strategic milestone.",
+  "reason": "A stablecoin payments company seeking a national trust bank charter is an important regulatory and infrastructure milestone with a named company.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-    "summary": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.",
-    "published": "Tue, 06 Oct 2026 15:20:30 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+    "summary": "The stablecoin payments company\u2019s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens.",
+    "published": "Wed, 07 Oct 2026 09:09:06 +0000"
    }
   ]
  }
