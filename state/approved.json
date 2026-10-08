@@ -1,41 +1,41 @@
 [
  {
-  "id": "0ca1450969b5beb5",
-  "title": "GPT-6 and Intelligent UI for everyone",
-  "topic": "ai",
-  "score": 9,
+  "id": "4bb428a07b2a9a89",
+  "title": "Claude Haiku 5.5",
+  "topic": "both",
+  "score": 8,
   "raw_score": 9,
-  "weight": 1.0,
-  "reason": "Global rollout of GPT-6 from a frontier lab, confirmed by OpenAI and independently discussed on HN, is a frontier-shifting model release.",
+  "weight": 0.9,
+  "reason": "Frontier-lab model release from Anthropic, confirmed by the official page and multiple sources, squarely in the 9-10 band.",
   "sources": [
    {
-    "source": "openai",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "published": "Wed, 07 Oct 2026 00:00:00 GMT"
+    "source": "hn",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">https://www.anthropic.com/claude-haiku-5-5</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996437\">https://news.ycombinator.com/item?id=49996437</a></p> <p>Points: 566</p> <p># Comments: 270</p>",
+    "published": "Wed, 07 Oct 2026 18:01:32 +0000"
    },
    {
-    "source": "hn",
-    "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-6-for-everyone/\">https://openai.com/index/gpt-6-for-everyone/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996425\">https://news.ycombinator.com/item?id=49996425</a></p> <p>Points: 405</p> <p># Comments: 208</p>",
-    "published": "Wed, 07 Oct 2026 18:00:58 +0000"
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-10-08",
+    "summary": "",
+    "published": "Thu, 08 Oct 2026 00:00:00 GMT"
    }
   ]
  },
  {
-  "id": "1c8acf5ddb5eb980",
-  "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+  "id": "d2cc1e4d023520db",
+  "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "A stablecoin payments company seeking a national trust bank charter is an important regulatory and infrastructure milestone with a named company.",
+  "reason": "Talks between a major bank and a top exchange for trading liquidity is significant institutional infrastructure news with named parties, though unconfirmed.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
-    "summary": "The stablecoin payments company\u2019s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens.",
-    "published": "Wed, 07 Oct 2026 09:09:06 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+    "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+    "published": "Wed, 07 Oct 2026 18:59:32 +0000"
    }
   ]
  }
