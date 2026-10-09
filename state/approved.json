@@ -1,41 +1,53 @@
 [
  {
-  "id": "4bb428a07b2a9a89",
-  "title": "Claude Haiku 5.5",
-  "topic": "both",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Frontier-lab model release from Anthropic, confirmed by the official page and multiple sources, squarely in the 9-10 band.",
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">https://www.anthropic.com/claude-haiku-5-5</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996437\">https://news.ycombinator.com/item?id=49996437</a></p> <p>Points: 566</p> <p># Comments: 270</p>",
-    "published": "Wed, 07 Oct 2026 18:01:32 +0000"
-   },
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-10-08",
-    "summary": "",
-    "published": "Thu, 08 Oct 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d2cc1e4d023520db",
-  "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+  "id": "305ee26b012cbbba",
+  "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Talks between a major bank and a top exchange for trading liquidity is significant institutional infrastructure news with named parties, though unconfirmed.",
+  "reason": "Major global bank expanding institutional crypto custody to a new jurisdiction, corroborated by three sources.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-    "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
-    "published": "Wed, 07 Oct 2026 18:59:32 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+    "summary": "The bank would offer the service to institutions and accredited corporate investors, subject to regulatory requirements.",
+    "published": "Thu, 08 Oct 2026 09:32:13 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D5M8YGHAPX4VAG5QCCZDDF/sponsored-marina-bay-sand-singapore-light-water-stablecoin.jpg\" alt=\"Standard Chartered plans institutional crypto custody in Singapore\" class=\"type:primaryImage\"></p><p>Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.</p>",
+    "published": "Thu, 08 Oct 2026 08:08:03 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+    "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
+    "published": "Thu, 08 Oct 2026 07:55:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "277a0c6ad7ab464b",
+  "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Named senator probing the Tether-Cantor Fitzgerald partnership is significant regulatory scrutiny with two independent sources.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+    "summary": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership.",
+    "published": "Thu, 08 Oct 2026 21:22:58 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg\" alt=\"Cantor Fitzgerald faces Senate Democrat\u2019s questions over Tether ties \" class=\"type:primaryImage\"></p><p>The letter follows a report by the Democratic investigators last month alleging Tether\u2019s USDT has become a key tool for Iran\u2019s shadow banking network.</p>",
+    "published": "Fri, 09 Oct 2026 00:46:27 +0000"
    }
   ]
  }
