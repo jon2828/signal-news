@@ -21,7 +21,7 @@ body{margin:0 auto;max-width:920px;padding:68px 40px 48px;background:#fff;color:
 a{color:inherit;text-decoration:none}a:hover{color:#111;text-decoration:underline;text-underline-offset:5px}a:focus-visible{outline:2px solid #555;outline-offset:5px}
 header.site{margin-bottom:60px}header h1{font-size:25px;font-weight:400;letter-spacing:-.5px;margin:0 0 10px}.tagline{font-size:15px;color:#777;max-width:530px;margin:0 0 22px}nav{display:flex;gap:25px;flex-wrap:wrap;font-size:13px;color:#777}nav a{padding:8px 0}
 .post{padding:0 0 48px;margin:0 0 48px;border-bottom:1px solid var(--line)}.meta{font-size:13px;color:#777;margin-bottom:16px}.post h2{font-size:26px;line-height:1.35;font-weight:400;letter-spacing:-.4px;margin:0 0 14px}.post>p{font-size:18px;color:#777;line-height:1.65;margin:0;max-width:760px}
-footer{font-size:12px;color:#888;padding-top:10px}.article{border:0}.article .post{border:0;margin:0;padding:0}.article-title{font-size:36px;font-weight:400;line-height:1.3;letter-spacing:-.7px;margin:0 0 22px}.article .post>p{color:#444;font-size:18px;margin:0 0 24px}.article h2,.article h3{font-weight:400;margin:32px 0 16px}.article li{margin:10px 0;color:#555}.article a{text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}.disclosure p{margin:20px 0}.disclosure h1{font-size:30px;font-weight:400}
+footer{font-size:12px;color:#888;padding-top:10px}.article{border:0}.article .post{border:0;margin:0;padding:0}.article-title{font-size:36px;font-weight:400;line-height:1.3;letter-spacing:-.7px;margin:0 0 22px}.article .post>p{color:#444;font-size:18px;margin:0 0 24px}.article h2,.article h3{font-weight:400;margin:32px 0 16px}.article li{margin:10px 0;color:#555}.article a{text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}.article blockquote{margin:24px 0;padding:0 0 0 18px;border-left:2px solid #ddd;color:#555}.article blockquote p{margin:0;color:#555}.disclosure p{margin:20px 0}.disclosure h1{font-size:30px;font-weight:400}
 @media(max-width:600px){body{padding:34px 24px}header.site{margin-bottom:46px}header h1{font-size:23px}.post{padding-bottom:34px;margin-bottom:34px}.post h2{font-size:23px}.post>p{font-size:16px}.article-title{font-size:29px}.article .post>p{font-size:17px}nav{gap:22px}}
 """
 
@@ -95,16 +95,20 @@ def md_blocks(md: str) -> list[tuple[str, str]]:
     The writer sometimes leaves its own '# Title' heading and a '*Date:*' line
     in the body, plus stray '### x' headings. The page renders the title and
     date itself, so those lines are dropped: no post should ever print a
-    literal '#' or '*Date*' on the site.
+    literal '#' or '*Date*' on the site. '> quote' lines become blockquotes.
     """
     blocks: list[tuple[str, str]] = []
     para: list[str] = []
+    quote: list[str] = []
     seen_content = 0
 
     def flush() -> None:
         if para:
             blocks.append(("p", " ".join(para)))
             para.clear()
+        if quote:
+            blocks.append(("quote", " ".join(quote)))
+            quote.clear()
 
     # Metadata the writer sometimes leaves at the top of a body: a bare
     # '*Date: ...*' line, or a 'Topic: AI / Score: 9' header block. Only the
@@ -138,6 +142,12 @@ def md_blocks(md: str) -> list[tuple[str, str]]:
             seen_content += 1
             blocks.append(("li", re.sub(r"^[-*]\s+", "", line)))
             continue
+        q = re.match(r"^>\s?(.*)$", line)
+        if q:
+            flush()
+            seen_content += 1
+            quote.append(q.group(1).strip())
+            continue
         seen_content += 1
         para.append(line)
     flush()
@@ -148,6 +158,12 @@ def blocks_html(blocks: list[tuple[str, str]]) -> str:
     out: list[str] = []
     in_list = False
     for kind, text in blocks:
+        if kind == "quote":
+            if in_list:
+                out.append("</ul>")
+                in_list = False
+            out.append(f"<blockquote><p>{inline_md(text)}</p></blockquote>")
+            continue
         if kind == "li":
             if not in_list:
                 out.append("<ul>")

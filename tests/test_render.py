@@ -20,6 +20,7 @@ LEAKS = (
     (re.compile(r"\[[^\]]+\]\s*\(https?://"), "unconverted markdown link"),
     (re.compile(r"<p>\s*[-*]\s+"), "raw bullet in a paragraph"),
     (re.compile(r"<li>\s*[-*]\s+"), "double bullet"),
+    (re.compile(r"<p>\s*&gt;\s"), "raw blockquote marker in a paragraph"),
 )
 
 bad = []
