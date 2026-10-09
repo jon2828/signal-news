@@ -1,53 +1,18 @@
 [
  {
-  "id": "305ee26b012cbbba",
-  "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+  "id": "8bd60aaccabfe379",
+  "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major global bank expanding institutional crypto custody to a new jurisdiction, corroborated by three sources.",
+  "reason": "Major named-company adoption milestone bringing USDC remittances to 82 million users, though single-sourced.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-    "summary": "The bank would offer the service to institutions and accredited corporate investors, subject to regulatory requirements.",
-    "published": "Thu, 08 Oct 2026 09:32:13 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D5M8YGHAPX4VAG5QCCZDDF/sponsored-marina-bay-sand-singapore-light-water-stablecoin.jpg\" alt=\"Standard Chartered plans institutional crypto custody in Singapore\" class=\"type:primaryImage\"></p><p>Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.</p>",
-    "published": "Thu, 08 Oct 2026 08:08:03 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-    "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
-    "published": "Thu, 08 Oct 2026 07:55:14 +0000"
-   }
-  ]
- },
- {
-  "id": "277a0c6ad7ab464b",
-  "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-  "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Named senator probing the Tether-Cantor Fitzgerald partnership is significant regulatory scrutiny with two independent sources.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-    "summary": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership.",
-    "published": "Thu, 08 Oct 2026 21:22:58 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg\" alt=\"Cantor Fitzgerald faces Senate Democrat\u2019s questions over Tether ties \" class=\"type:primaryImage\"></p><p>The letter follows a report by the Democratic investigators last month alleging Tether\u2019s USDT has become a key tool for Iran\u2019s shadow banking network.</p>",
-    "published": "Fri, 09 Oct 2026 00:46:27 +0000"
+    "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+    "summary": "Eligible users will be able to send USDC abroad or send local-currency payouts to bank accounts in more than 60 countries, starting late October.",
+    "published": "Thu, 08 Oct 2026 08:39:23 +0000"
    }
   ]
  }
