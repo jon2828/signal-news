@@ -1,481 +1,5 @@
 [
  {
-  "id": "29a86fcc41164446",
-  "title": "Why Are Coding Agents So Dumb?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-    "summary": "<p>Article URL: <a href=\"https://mtlynch.io/why-are-coding-agents-so-dumb/\">https://mtlynch.io/why-are-coding-agents-so-dumb/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020947\">https://news.ycombinator.com/item?id=50020947</a></p> <p>Points: 57</p> <p># Comments: 29</p>",
-    "published": "Fri, 09 Oct 2026 14:21:31 +0000"
-   }
-  ]
- },
- {
-  "id": "3aace5423f06f602",
-  "title": "'Wallace and Gromit,' 90% Alone",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-    "summary": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone\">https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020533\">https://news.ycombinator.com/item?id=50020533</a></p> <p>Points: 121</p> <p># Comments: 15</p>",
-    "published": "Fri, 09 Oct 2026 13:49:31 +0000"
-   }
-  ]
- },
- {
-  "id": "7dd1698bc3e88b5a",
-  "title": "Our $445M Series D",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://oxide.computer/blog/our-445m-series-d",
-    "summary": "<p>Article URL: <a href=\"https://oxide.computer/blog/our-445m-series-d\">https://oxide.computer/blog/our-445m-series-d</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020014\">https://news.ycombinator.com/item?id=50020014</a></p> <p>Points: 537</p> <p># Comments: 233</p>",
-    "published": "Fri, 09 Oct 2026 13:12:47 +0000"
-   }
-  ]
- },
- {
-  "id": "11660db6783062d9",
-  "title": "Cloudflare acquires Deno",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://deno.com/blog/cloudflare",
-    "summary": "<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p> <p>Points: 967</p> <p># Comments: 507</p>",
-    "published": "Fri, 09 Oct 2026 13:03:48 +0000"
-   }
-  ]
- },
- {
-  "id": "5632765a25755308",
-  "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-    "summary": "<p>Article URL: <a href=\"https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/\">https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019056\">https://news.ycombinator.com/item?id=50019056</a></p> <p>Points: 76</p> <p># Comments: 39</p>",
-    "published": "Fri, 09 Oct 2026 11:36:20 +0000"
-   }
-  ]
- },
- {
-  "id": "6adbdd9f781c2290",
-  "title": "Long live the mechanical keyboard",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-    "published": "Fri, 09 Oct 2026 22:08:24 +0000"
-   }
-  ]
- },
- {
-  "id": "ac2c548222f71119",
-  "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
-    "published": "Fri, 09 Oct 2026 21:41:29 +0000"
-   }
-  ]
- },
- {
-  "id": "6794814fc09c1a8f",
-  "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "published": "Fri, 09 Oct 2026 19:36:56 +0000"
-   }
-  ]
- },
- {
-  "id": "075f92ad6b926725",
-  "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-    "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
-    "published": "Fri, 09 Oct 2026 18:57:58 +0000"
-   }
-  ]
- },
- {
-  "id": "1e4dca187621eb20",
-  "title": "TechCrunch Disrupt 2026: Gamma\u2019s Grant Lee, Engine\u2019s Elia Wallen, and GV\u2019s Crystal Huang on landing your first 1,000 customers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-    "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-    "published": "Fri, 09 Oct 2026 18:57:06 +0000"
-   }
-  ]
- },
- {
-  "id": "2af91c86b0af5323",
-  "title": "LumenUs helps automate tedious paperwork in times of grief",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-    "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-    "published": "Fri, 09 Oct 2026 17:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "fd6b62e24c31730f",
-  "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
-    "published": "Fri, 09 Oct 2026 16:56:42 +0000"
-   }
-  ]
- },
- {
-  "id": "edf79715fb8e813e",
-  "title": "Danu Robotics\u2019 fight to build a better recycling robot",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-    "published": "Fri, 09 Oct 2026 16:45:00 +0000"
-   }
-  ]
- },
- {
-  "id": "304a6e31805197fa",
-  "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "published": "Fri, 09 Oct 2026 16:40:14 +0000"
-   }
-  ]
- },
- {
-  "id": "6149627e14ff487e",
-  "title": "Tesla renames \u2018Full Self-Driving\u2019 to \u2018Tesla Assisted Driving\u2019 in Europe",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-    "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-    "published": "Fri, 09 Oct 2026 16:07:26 +0000"
-   }
-  ]
- },
- {
-  "id": "ddcad6307472367c",
-  "title": "Remember Orkut? Its founder wants to bring it back",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-    "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
-    "published": "Fri, 09 Oct 2026 15:56:15 +0000"
-   }
-  ]
- },
- {
-  "id": "b7942fed5b9fdcb2",
-  "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "published": "Fri, 09 Oct 2026 15:43:33 +0000"
-   }
-  ]
- },
- {
-  "id": "e489e6273d799961",
-  "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-    "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.",
-    "published": "Fri, 09 Oct 2026 15:02:30 +0000"
-   }
-  ]
- },
- {
-  "id": "d7a1c9894fff0c1e",
-  "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can\u2019t Miss",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-    "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what\u2019s happening across San Francisco during Disrupt Week, October 10\u201316. Find your next connection, your next opportunity, or your next favorite event.",
-    "published": "Fri, 09 Oct 2026 14:42:34 +0000"
-   }
-  ]
- },
- {
-  "id": "e6bbf4ee8129244c",
-  "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-    "published": "Fri, 09 Oct 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "42002bfc58e4fbd1",
-  "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-    "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
-    "published": "Fri, 09 Oct 2026 13:40:36 +0000"
-   }
-  ]
- },
- {
-  "id": "db8104c06c85d695",
-  "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-    "summary": "One year after a flash crash wiped out billions in leveraged crypto bets, traders have better tools to spot risks. But the forces behind the selloff remain.",
-    "published": "Sat, 10 Oct 2026 11:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "08bd412d4a9d5b33",
-  "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-    "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
-    "published": "Sat, 10 Oct 2026 05:43:00 +0000"
-   }
-  ]
- },
- {
-  "id": "f4d930f7ebe8d6e4",
-  "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-    "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
-    "published": "Sat, 10 Oct 2026 04:44:35 +0000"
-   }
-  ]
- },
- {
-  "id": "dbf9a913d79f9196",
-  "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-    "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
-    "published": "Sat, 10 Oct 2026 04:20:07 +0000"
-   }
-  ]
- },
- {
-  "id": "19f2df5a64dfabb8",
-  "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-    "summary": "Visa\u2019s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-    "published": "Sat, 10 Oct 2026 03:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "423d6238933320ae",
-  "title": "Tech chief says EU can fend off rogue AI risk: Report",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai-machine-cyber-mind-google.png\" alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\"></p><p>There are global concerns following incidents at OpenAI \u200cand Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.</p>",
-    "published": "Sat, 10 Oct 2026 08:41:06 +0000"
-   }
-  ]
- },
- {
-  "id": "9acbf289d7cc4752",
-  "title": "Apple/macOS silently removed from official Unix registry",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.opengroup.org//openbrand/register/",
-    "summary": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p> <p>Points: 4</p> <p># Comments: 0</p>",
-    "published": "Sat, 10 Oct 2026 10:57:31 +0000"
-   }
-  ]
- },
- {
-  "id": "6b75dae75d979d91",
-  "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/rociiu/talorys",
-    "summary": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p> <p>Points: 29</p> <p># Comments: 8</p>",
-    "published": "Sat, 10 Oct 2026 10:52:09 +0000"
-   }
-  ]
- },
- {
-  "id": "f951cbb9bc50567c",
-  "title": "`123456' password used in Danish CPR data breach",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-    "summary": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\">https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031269\">https://news.ycombinator.com/item?id=50031269</a></p> <p>Points: 122</p> <p># Comments: 79</p>",
-    "published": "Sat, 10 Oct 2026 09:51:49 +0000"
-   }
-  ]
- },
- {
-  "id": "f7cc75b0501b46d2",
-  "title": "Computers Cannot Make Decisions",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-    "summary": "<p>Article URL: <a href=\"https://wiki.cateat.fish/art:computers_cannot_make_decisions\">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029982\">https://news.ycombinator.com/item?id=50029982</a></p> <p>Points: 117</p> <p># Comments: 95</p>",
-    "published": "Sat, 10 Oct 2026 05:47:46 +0000"
-   }
-  ]
- },
- {
-  "id": "d0c53b7bb15f5a1e",
-  "title": "Food processing influences metabolism and brain activity",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-    "summary": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029830\">https://news.ycombinator.com/item?id=50029830</a></p> <p>Points: 53</p> <p># Comments: 43</p>",
-    "published": "Sat, 10 Oct 2026 05:22:30 +0000"
-   }
-  ]
- },
- {
-  "id": "92aa8ae1261ac6f6",
-  "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-    "summary": "<p>Article URL: <a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029123\">https://news.ycombinator.com/item?id=50029123</a></p> <p>Points: 210</p> <p># Comments: 100</p>",
-    "published": "Sat, 10 Oct 2026 03:02:47 +0000"
-   }
-  ]
- },
- {
-  "id": "8b699584fcc9ad60",
-  "title": "REA Reverse \u2013 Engineer Anything",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://rea.tools/",
-    "summary": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p> <p>Points: 468</p> <p># Comments: 186</p>",
-    "published": "Sat, 10 Oct 2026 00:37:07 +0000"
-   }
-  ]
- },
- {
   "id": "e225f316603d762e",
   "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
   "topic": "both",
@@ -490,86 +14,58 @@
   ]
  },
  {
-  "id": "0d81169ab8651b63",
-  "title": "Compiling Rust to readable C with Eurydice",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://lwn.net/Articles/1055211/",
-    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1055211/\">https://lwn.net/Articles/1055211/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027853\">https://news.ycombinator.com/item?id=50027853</a></p> <p>Points: 90</p> <p># Comments: 22</p>",
-    "published": "Fri, 09 Oct 2026 23:28:36 +0000"
-   }
-  ]
- },
- {
-  "id": "84d5b4b8b9e370c6",
-  "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/\">https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024090\">https://news.ycombinator.com/item?id=50024090</a></p> <p>Points: 133</p> <p># Comments: 28</p>",
-    "published": "Fri, 09 Oct 2026 17:42:12 +0000"
-   }
-  ]
- },
- {
-  "id": "8e32182fd5784fbf",
-  "title": "Scam American companies are using to manipulate ingredient lists",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/WallStreetApes/status/2108594998656807078\">https://twitter.com/WallStreetApes/status/2108594998656807078</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023995\">https://news.ycombinator.com/item?id=50023995</a></p> <p>Points: 129</p> <p># Comments: 146</p>",
-    "published": "Fri, 09 Oct 2026 17:35:40 +0000"
-   }
-  ]
- },
- {
-  "id": "8dd66e7303ef668f",
-  "title": "Can you use autoregressive diffusion to generate market data?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-    "summary": "<p>Article URL: <a href=\"https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/\">https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021410\">https://news.ycombinator.com/item?id=50021410</a></p> <p>Points: 103</p> <p># Comments: 32</p>",
-    "published": "Fri, 09 Oct 2026 14:56:13 +0000"
-   }
-  ]
- },
- {
-  "id": "467cf97b1acfa9c0",
-  "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+  "id": "9fe15a12a7df7ad0",
+  "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-    "published": "Sat, 10 Oct 2026 03:10:06 +0000"
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "published": "Sat, 10 Oct 2026 19:50:00 +0000"
    }
   ]
  },
  {
-  "id": "cf5de6151a45fb1f",
-  "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+  "id": "858e15a4e46b63b3",
+  "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "published": "Sat, 10 Oct 2026 00:18:32 +0000"
+    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can\u2019t get enough electricity.",
+    "published": "Sat, 10 Oct 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6801da099eadf383",
+  "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "published": "Sat, 10 Oct 2026 15:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a893947d303d6bf8",
+  "title": "Here are the top AI agents that can live in your text messages",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published": "Sat, 10 Oct 2026 14:00:00 +0000"
    }
   ]
  }
