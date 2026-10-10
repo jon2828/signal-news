@@ -1,18 +1,35 @@
 [
  {
-  "id": "8bd60aaccabfe379",
-  "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+  "id": "2f26afb5e72e4dab",
+  "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+  "topic": "bitcoin",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Named company confirming an active investigation into wallet drains with estimated losses topping $86 million is a significant security story.",
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
+    "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
+    "published": "Fri, 09 Oct 2026 14:52:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8bfa0398e1ec8172",
+  "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major named-company adoption milestone bringing USDC remittances to 82 million users, though single-sourced.",
+  "reason": "A major public miner moving $81M in BTC to Galaxy while its treasury shrinks from ~54K to ~36K BTC signals a significant strategic pivot to AI, clearly publishable with named parties.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-    "summary": "Eligible users will be able to send USDC abroad or send local-currency payouts to bank accounts in more than 60 countries, starting late October.",
-    "published": "Thu, 08 Oct 2026 08:39:23 +0000"
+    "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+    "summary": "The bitcoin miner\u2019s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
+    "published": "Fri, 09 Oct 2026 09:08:09 +0000"
    }
   ]
  }
