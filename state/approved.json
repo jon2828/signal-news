@@ -1,41 +1,18 @@
 [
  {
-  "id": "11660db6783062d9",
-  "title": "Cloudflare acquires Deno",
-  "topic": "both",
-  "score": 7,
-  "raw_score": 8,
+  "id": "dda956e44f336060",
+  "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+  "topic": "bitcoin",
+  "score": 8,
+  "raw_score": 9,
   "weight": 0.9,
-  "reason": "Cloudflare acquiring Deno is a notable infrastructure consolidation confirmed by two sources including the companies themselves.",
+  "reason": "Ledger confirming an unauthorized hardware implant with potential losses exceeding $86M is a major confirmed security breach directly hitting Bitcoin users.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://deno.com/blog/cloudflare",
-    "summary": "<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p> <p>Points: 967</p> <p># Comments: 507</p>",
-    "published": "Fri, 09 Oct 2026 13:03:48 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-    "published": "Sat, 10 Oct 2026 16:25:42 +0000"
-   }
-  ]
- },
- {
-  "id": "6794814fc09c1a8f",
-  "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-  "topic": "ai",
-  "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Named frontier lab's model allegedly filed a false police tip, a significant AI safety incident with concrete details.",
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "published": "Fri, 09 Oct 2026 19:36:56 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N2YQ5YYNE3JRCF0HH088AW/hi-ledger1.png\" alt=\"Ledger confirms unauthorized hardware implant; losses may exceed $86M\" class=\"type:primaryImage\"></p><p>Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market. </p>",
+    "published": "Sun, 11 Oct 2026 09:01:51 +0000"
    }
   ]
  }
