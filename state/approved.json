@@ -1,1 +1,36 @@
-[]
+[
+ {
+  "id": "30d9dd476d90b0d5",
+  "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+  "topic": "bitcoin",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Ledger confirming an unauthorized hardware implant in sold devices is a confirmed security breach at a major crypto infrastructure company with named sourcing.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+    "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
+    "published": "Mon, 12 Oct 2026 07:49:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5c152f392d80ddd0",
+  "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "A major global bank custodying RLUSD and linking it to LMAX collateral is a significant institutional adoption milestone, corroborated by a second outlet.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+    "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
+    "published": "Mon, 12 Oct 2026 12:09:09 +0000"
+   }
+  ]
+ }
+]
