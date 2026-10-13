@@ -353,13 +353,19 @@
   "id": "16952cab26aac923",
   "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
     "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
     "published": "Tue, 13 Oct 2026 13:28:06 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+    "published": "Tue, 13 Oct 2026 14:00:00 +0000"
    }
   ]
  },
@@ -381,13 +387,19 @@
   "id": "de48459db6d92449",
   "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
     "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
     "published": "Tue, 13 Oct 2026 13:16:11 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/\">https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071310\">https://news.ycombinator.com/item?id=50071310</a></p> <p>Points: 254</p> <p># Comments: 496</p>",
+    "published": "Tue, 13 Oct 2026 13:21:35 +0000"
    }
   ]
  },
@@ -416,6 +428,732 @@
     "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
     "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
     "published": "Tue, 13 Oct 2026 12:40:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ffc748cb8d88a919",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "published": "Tue, 13 Oct 2026 12:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "19409389d8d9e991",
+  "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+    "published": "Tue, 13 Oct 2026 21:52:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f1c09738da0bf865",
+  "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+    "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
+    "published": "Tue, 13 Oct 2026 15:52:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f2962a228facb302",
+  "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+    "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
+    "published": "Tue, 13 Oct 2026 15:24:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fe5efe689c8205ce",
+  "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VA9NB54GWFZ29JZYNA4293/hi-how-ripple-plans-to-bridge-crypto-and-wall-street.jpg\" alt=\"Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\" class=\"type:primaryImage\"></p><p>Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours. </p>",
+    "published": "Tue, 13 Oct 2026 19:48:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3d3c869f46aa6162",
+  "title": "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg\" alt=\"Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports\" class=\"type:primaryImage\"></p><p>CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor\u2019s list of authorized entities starting Jan. 1.</p>",
+    "published": "Tue, 13 Oct 2026 19:07:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "618b1779f8c4a7ab",
+  "title": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TVYVZ1FNMZJVJ3R95B1ES5/sec-meeting-edited.png\" alt=\"How the SEC\u2019s lack of leadership could facilitate crypto rulemaking \" class=\"type:primaryImage\"></p><p>A recent change in the SEC\u2019s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.</p>",
+    "published": "Tue, 13 Oct 2026 16:51:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9534ded28b5c98b4",
+  "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TW19B9G4WJ5289S60N1QGE/bitcoin-reserve.jpg\" alt=\"Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% \" class=\"type:primaryImage\"></p><p>Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing. </p>",
+    "published": "Tue, 13 Oct 2026 15:57:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0000c841b29ec8a5",
+  "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TWQ4KGPDP463T3P3N9YZ3N/hi-japan-ipo-stocks-explained2-960x644.webp\" alt=\"Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off\" class=\"type:primaryImage\"></p><p>Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea\u2019s tech-stock rout.</p>",
+    "published": "Tue, 13 Oct 2026 15:27:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "453f8bfec1c77aee",
+  "title": "Anthropic warns \u2018AI worms\u2019 may autonomously spread across devices like a virus",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TQ1VD64QGE9G7F9DV78HBP/hi-bitcoins-hedging-performance-in-the-wake-of-the-recent-coronavirus-outbreak.jpg\" alt=\"Anthropic warns \u2018AI worms\u2019 may autonomously spread across devices like a virus \" class=\"type:primaryImage\"></p><p>Anthropic warned that rogue \u201cAI worms\u201d are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.</p>",
+    "published": "Tue, 13 Oct 2026 13:55:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6d61909bf174e395",
+  "title": "Is Bitcoin kidding itself about the Lightning Network?",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G9K7C73KY8G43Y46W76Q1Z/magazinebig-questions-can-btc-survive-10-year.png\" alt=\"Is Bitcoin kidding itself about the Lightning Network?\" class=\"type:primaryImage\"></p><p>Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.</p>",
+    "published": "Tue, 13 Oct 2026 13:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f65ec83d2fb92b62",
+  "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+    "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.",
+    "published": "Tue, 13 Oct 2026 16:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ab8a5c61c4b8c875",
+  "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+    "summary": "Interactive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service.",
+    "published": "Tue, 13 Oct 2026 15:24:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3c90f7946d5024ef",
+  "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+    "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
+    "published": "Tue, 13 Oct 2026 15:00:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ed42c98438541b9f",
+  "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
+    "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
+    "published": "Tue, 13 Oct 2026 14:45:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3e67942c134f247b",
+  "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+    "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
+    "published": "Tue, 13 Oct 2026 13:42:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e726edab0f92685e",
+  "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+    "summary": "<p>Article URL: <a href=\"https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0\">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078686\">https://news.ycombinator.com/item?id=50078686</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
+    "published": "Tue, 13 Oct 2026 21:01:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "28063ae763faab42",
+  "title": "OpenAI engineer arrested in bugging of executive conference room",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "summary": "<p><a href=\"https://x.com/OpenAINewsroom/status/2110095403198849132\" rel=\"nofollow\">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078141\">https://news.ycombinator.com/item?id=50078141</a></p> <p>Points: 146</p> <p># Comments: 158</p>",
+    "published": "Tue, 13 Oct 2026 20:23:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0a248ec435157a65",
+  "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://parsimony.lasu.dev/",
+    "summary": "<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units.<p>GPT-6 and Claude 5.5 have no public patches yet, so I ran th",
+    "published": "Tue, 13 Oct 2026 19:50:31 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dfe018e052750f38",
+  "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+    "summary": "<p><a href=\"https://celebratio.org/Appel_KI/article/796/#sender\" rel=\"nofollow\">https://celebratio.org/Appel_KI/article/796/#sender</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077096\">https://news.ycombinator.com/item?id=50077096</a></p> <p>Points: 15</p> <p># Comments: 14</p>",
+    "published": "Tue, 13 Oct 2026 19:17:19 +0000"
+   }
+  ]
+ },
+ {
+  "id": "01b0fbae59fa451d",
+  "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://guitoro.com/",
+    "summary": "<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.<p>1 minute video demo: <a href=\"https://youtu.be/DtcluMLdSgs\" rel=\"nofollow\">https://youtu.be/DtcluMLdSgs</a><p>I would love feedback on how the strumming feels and sounds.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50077020\">https://news.ycomb",
+    "published": "Tue, 13 Oct 2026 19:11:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "be9ce576739f5f6b",
+  "title": "Show HN: XY Music Notation",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://music.xy.dev/",
+    "summary": "<p>I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.<p>The idea is to represent each note in 12-TET as a number, so N \u2208 (0,1,2,3,4,5,6,7,8,9,X,Y).<p>I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.<p>I've found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=",
+    "published": "Tue, 13 Oct 2026 17:43:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "186670dc3300d311",
+  "title": "Show HN: How Random Are You?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://lab.specr.net/rigged-draw/",
+    "summary": "<p>Article URL: <a href=\"https://lab.specr.net/rigged-draw/\">https://lab.specr.net/rigged-draw/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074909\">https://news.ycombinator.com/item?id=50074909</a></p> <p>Points: 60</p> <p># Comments: 30</p>",
+    "published": "Tue, 13 Oct 2026 16:57:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c64515c7bf5202fa",
+  "title": "Gemini 4 Argon for Robotics",
+  "topic": "both",
+  "source_count": 3,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "summary": "<p>Main thread: <i>Gemini 4 Argon</i> - <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p> <p>Points: 163</p> <p># Comments: 40</p>",
+    "published": "Tue, 13 Oct 2026 16:55:47 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://deepmind.google/models/gemini/",
+    "summary": "<p>See also: <i>Gemini 4 Argon for Robotics</i> - <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p> <p>Points: 838</p> <p># Comments: 664</p>",
+    "published": "Tue, 13 Oct 2026 16:03:16 +0000"
+   },
+   {
+    "source": "blog-google-ai",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp\">We\u2019re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "published": "Tue, 13 Oct 2026 16:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8c17f1f1ac30a4ed",
+  "title": "Redesigning source control at Anthropic",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/engineering/redesigning-source-control\">https://www.anthropic.com/engineering/redesigning-source-control</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073633\">https://news.ycombinator.com/item?id=50073633</a></p> <p>Points: 424</p> <p># Comments: 415</p>",
+    "published": "Tue, 13 Oct 2026 15:49:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "555941da61c27cdf",
+  "title": "Launch HN: Consus (YC F24) \u2013 LLM gateway for companies handling sensitive data",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://news.ycombinator.com/item?id=50073471",
+    "summary": "<p>Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure. Consus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government\u2019s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving FedRAMP equivalency, or authorization, is required before processing CUI information.<p>Demo: <a ",
+    "published": "Tue, 13 Oct 2026 15:41:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "633e14f60020e796",
+  "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "summary": "<p>Article URL: <a href=\"https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\">https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073221\">https://news.ycombinator.com/item?id=50073221</a></p> <p>Points: 209</p> <p># Comments: 133</p>",
+    "published": "Tue, 13 Oct 2026 15:25:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ec2d9401b476efa7",
+  "title": "The United Kingdom generates less electricity per person than in the 1970s",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "summary": "<p>Article URL: <a href=\"https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak\">https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072994\">https://news.ycombinator.com/item?id=50072994</a></p> <p>Points: 147</p> <p># Comments: 217</p>",
+    "published": "Tue, 13 Oct 2026 15:12:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c04c76244c9704d6",
+  "title": "Thunderbird for iOS",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "summary": "<p>Article URL: <a href=\"https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\">https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072913\">https://news.ycombinator.com/item?id=50072913</a></p> <p>Points: 282</p> <p># Comments: 114</p>",
+    "published": "Tue, 13 Oct 2026 15:07:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9929d2c426f6121c",
+  "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "summary": "<p><a href=\"https://www.apple.com/safari/switch/\" rel=\"nofollow\">https://www.apple.com/safari/switch/</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072286\">https://news.ycombinator.com/item?id=50072286</a></p> <p>Points: 140</p> <p># Comments: 229</p>",
+    "published": "Tue, 13 Oct 2026 14:26:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ffda6caad408176b",
+  "title": "How to engineer an AI harness for game development",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "summary": "<p>Article URL: <a href=\"https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code\">https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072120\">https://news.ycombinator.com/item?id=50072120</a></p> <p>Points: 105</p> <p># Comments: 45</p>",
+    "published": "Tue, 13 Oct 2026 14:14:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "217f0cc120d0fdef",
+  "title": "Worlds more habitable than Earth?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+    "summary": "<p><a href=\"https://archive.is/yIYpb\" rel=\"nofollow\">https://archive.is/yIYpb</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070554\">https://news.ycombinator.com/item?id=50070554</a></p> <p>Points: 69</p> <p># Comments: 139</p>",
+    "published": "Tue, 13 Oct 2026 12:23:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6bdbe72aeb9224cf",
+  "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+    "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+    "published": "Tue, 13 Oct 2026 21:15:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ef2fc60aa90b3d09",
+  "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+    "published": "Tue, 13 Oct 2026 20:59:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "41d15466fa73b3da",
+  "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "published": "Tue, 13 Oct 2026 20:36:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bbbe8f21bb070ce4",
+  "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+    "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+    "published": "Tue, 13 Oct 2026 20:13:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a2dae87b302f0e1b",
+  "title": "Licube wants to be the fuel provider to the fusion power industry \u2014 see how at TechCrunch Disrupt",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+    "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
+    "published": "Tue, 13 Oct 2026 20:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8e37b976a6c9afee",
+  "title": "Niobia takes the guesswork out of some of tech\u2019s most expensive mistakes",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+    "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+    "published": "Tue, 13 Oct 2026 19:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "46770a3648867a50",
+  "title": "Rivian\u2019s startup Mind Robotics hires former Ford EV chief Doug Field",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+    "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+    "published": "Tue, 13 Oct 2026 18:30:03 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ec248a8be840f0c3",
+  "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "published": "Tue, 13 Oct 2026 18:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5349b4bff5efc007",
+  "title": "Facebook is giving users more control over their algorithm",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "summary": "Meta announced the launch of its new AI-powered feature, \u201cYour Algorithm,\u201d a feature it first launched on Instagram.",
+    "published": "Tue, 13 Oct 2026 18:05:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "01382b63972f8a6f",
+  "title": "Forget rockets \u2014 Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+    "summary": "Longshot is trying to build a gun big enough to make space data centers a reality.",
+    "published": "Tue, 13 Oct 2026 18:05:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0b284eb98b4575c8",
+  "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "published": "Tue, 13 Oct 2026 17:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "992e14a3e4b635ce",
+  "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "published": "Tue, 13 Oct 2026 17:18:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "10c19f2dea50cb68",
+  "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers \u2014 see it at Disrupt",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+    "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+    "published": "Tue, 13 Oct 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "303c8b8be26ff7b1",
+  "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "published": "Tue, 13 Oct 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "80618fcba7c6ab56",
+  "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google\u2019s",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "published": "Tue, 13 Oct 2026 16:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bb004ebf9bb75515",
+  "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+    "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+    "published": "Tue, 13 Oct 2026 15:02:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "358b430e15ced9e1",
+  "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say \u2018on Spotify\u2019",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+    "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
+    "published": "Tue, 13 Oct 2026 14:30:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "691eac3de07f6807",
+  "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+    "summary": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
+    "published": "Tue, 13 Oct 2026 14:25:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ca06a4e7439a553a",
+  "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "published": "Tue, 13 Oct 2026 13:50:19 +0000"
    }
   ]
  }

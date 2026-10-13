@@ -2635,3 +2635,8 @@
 {"ts": "2026-10-13T13:45:53.566607+00:00", "action": "published", "detail": "{\"file\": \"2026-10-13-south-korea-blocks-27-unregistered-crypto-exchange-websites-5f1cd8d1.md\", \"verdict\": \"rewrite\", \"reason\": \"The post contains editorial language and personal opinions that do not match the neutral news tone required.\"}"}
 {"ts": "2026-10-13T13:45:54.095664+00:00", "action": "announced", "detail": "{\"file\": \"2026-10-13-ledger-says-spy-chip-in-cryptobilis-sold-wallets-sent-recove-9af5acea\", \"post_id\": \"2110004099500622237\", \"text\": \"Ledger says spy chip in CryptoBilis-sold wallets sent recovery phrases over LTE \\u2014 https://unspentthoughts.com/posts/2026\"}"}
 {"ts": "2026-10-13T13:45:54.314961+00:00", "action": "announced", "detail": "{\"file\": \"2026-10-13-south-korea-blocks-27-unregistered-crypto-exchange-websites-5f1cd8d1\", \"post_id\": \"2110004100498956697\", \"text\": \"South Korea blocks 27 unregistered crypto exchange websites \\u2014 https://unspentthoughts.com/posts/2026-10-13-south-korea-b\"}"}
+{"ts": "2026-10-13T22:27:01.549163+00:00", "action": "feed_failed", "detail": "{\"feed\": \"venturebeat-ai\", \"error\": \"HTTPError: HTTP Error 429: Too Many Requests\"}"}
+{"ts": "2026-10-13T22:27:01.630935+00:00", "action": "dedupe", "detail": "55 items -> 81 candidates"}
+{"ts": "2026-10-13T22:27:01.690324+00:00", "action": "triage_skipped", "detail": "daily cap reached (2 posts today)"}
+{"ts": "2026-10-13T22:29:34.181360+00:00", "action": "lint_rewrite", "detail": "{\"id\": \"5f1cd8d16ac925c3\", \"before\": \"lint=3,words=562\", \"after\": \"lint=1,words=579\"}"}
+{"ts": "2026-10-13T22:29:34.279000+00:00", "action": "edit_skipped", "detail": "daily cap reached (2 posts today); drafts kept for tomorrow"}
