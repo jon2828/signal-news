@@ -278,5 +278,145 @@
     "published": "Mon, 12 Oct 2026 21:40:18 +0000"
    }
   ]
+ },
+ {
+  "id": "36d6ffa018177af4",
+  "title": "Crypto thieves sell hardware wallets with secret eSIM",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+    "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html\">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068508\">https://news.ycombinator.com/item?id=50068508</a></p> <p>Points: 90</p> <p># Comments: 60</p>",
+    "published": "Tue, 13 Oct 2026 08:34:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "12aa48dd80982468",
+  "title": "Document Review with Unsiloed and TypeSafe Jev",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+    "summary": "<p>Article URL: <a href=\"https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev\">https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068443\">https://news.ycombinator.com/item?id=50068443</a></p> <p>Points: 24</p> <p># Comments: 6</p>",
+    "published": "Tue, 13 Oct 2026 08:24:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c114f3fb06cc98a0",
+  "title": "DishwasherBench \u2013 Can Frontier Models Stack a Dishwasher?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/composo-ai/DishwasherBench",
+    "summary": "<p>Article URL: <a href=\"https://github.com/composo-ai/DishwasherBench\">https://github.com/composo-ai/DishwasherBench</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068437\">https://news.ycombinator.com/item?id=50068437</a></p> <p>Points: 71</p> <p># Comments: 39</p>",
+    "published": "Tue, 13 Oct 2026 08:24:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b62aaad55d3822f4",
+  "title": "Hittite royal archive found in Turkey",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.thehistoryblog.com/archives/77107",
+    "summary": "<p>Article URL: <a href=\"https://www.thehistoryblog.com/archives/77107\">https://www.thehistoryblog.com/archives/77107</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50067414\">https://news.ycombinator.com/item?id=50067414</a></p> <p>Points: 173</p> <p># Comments: 32</p>",
+    "published": "Tue, 13 Oct 2026 06:02:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "68185f838dbfd510",
+  "title": "Show HN: SolidCraft \u2013 Open-Source Parametric CAD in Rust (With MCP Support)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/bherbruck/solidcraft",
+    "summary": "<p>Article URL: <a href=\"https://github.com/bherbruck/solidcraft\">https://github.com/bherbruck/solidcraft</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50064840\">https://news.ycombinator.com/item?id=50064840</a></p> <p>Points: 92</p> <p># Comments: 22</p>",
+    "published": "Tue, 13 Oct 2026 00:11:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "16952cab26aac923",
+  "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "published": "Tue, 13 Oct 2026 13:28:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "016589b0b2ce48a9",
+  "title": "India delays digital payments fee rollout amid retailer pushback",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+    "summary": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+    "published": "Tue, 13 Oct 2026 13:25:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "de48459db6d92449",
+  "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+    "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+    "published": "Tue, 13 Oct 2026 13:16:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "aba4e20057c7a474",
+  "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "published": "Tue, 13 Oct 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fe05934c01b27a16",
+  "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+    "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
+    "published": "Tue, 13 Oct 2026 12:40:00 +0000"
+   }
+  ]
  }
 ]

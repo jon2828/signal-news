@@ -1,35 +1,41 @@
 [
  {
-  "id": "30d9dd476d90b0d5",
-  "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+  "id": "9af5acea5c334ce7",
+  "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
   "topic": "bitcoin",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "Ledger confirming an unauthorized hardware implant in sold devices is a confirmed security breach at a major crypto infrastructure company with named sourcing.",
+  "reason": "Confirmed spy chip transmitting wallet keys is a major security breach with a named company, corroborated by retailer pullout coverage elsewhere.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-    "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
-    "published": "Mon, 12 Oct 2026 07:49:40 +0000"
+    "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+    "summary": "Ledger said it will review its reseller policies and announced and that investigations to determine who tampered with the devices will continue.",
+    "published": "Tue, 13 Oct 2026 09:27:47 +0000"
    }
   ]
  },
  {
-  "id": "5c152f392d80ddd0",
-  "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+  "id": "5f1cd8d16ac925c3",
+  "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "A major global bank custodying RLUSD and linking it to LMAX collateral is a significant institutional adoption milestone, corroborated by a second outlet.",
+  "reason": "Regulatory enforcement action against 27 named exchanges confirmed by two sources is clearly publishable.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-    "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
-    "published": "Mon, 12 Oct 2026 12:09:09 +0000"
+    "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+    "summary": "The country\u2019s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
+    "published": "Tue, 13 Oct 2026 11:58:04 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SJ32T5MFAHM21PB498EN3Q/korea-website-block.jpg\" alt=\"South Korea moves to block 27 crypto websites, including KuCoin, MEXC\" class=\"type:primaryImage\"></p><p>Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.</p>",
+    "published": "Tue, 13 Oct 2026 02:41:30 +0000"
    }
   ]
  }
