@@ -1,41 +1,47 @@
 [
  {
-  "id": "9af5acea5c334ce7",
-  "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+  "id": "ed42c98438541b9f",
+  "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
   "topic": "bitcoin",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "Confirmed spy chip transmitting wallet keys is a major security breach with a named company, corroborated by retailer pullout coverage elsewhere.",
+  "reason": "Ledger's confirmed hardware implant stealing recovery phrases is a major supply-chain security breach with named confirmation and concrete consequences (MediaMarkt suspending sales).",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-    "summary": "Ledger said it will review its reseller policies and announced and that investigations to determine who tampered with the devices will continue.",
-    "published": "Tue, 13 Oct 2026 09:27:47 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
+    "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
+    "published": "Tue, 13 Oct 2026 14:45:08 +0000"
    }
   ]
  },
  {
-  "id": "5f1cd8d16ac925c3",
-  "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-  "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Regulatory enforcement action against 27 named exchanges confirmed by two sources is clearly publishable.",
+  "id": "c64515c7bf5202fa",
+  "title": "Gemini 4 Argon for Robotics",
+  "topic": "both",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Frontier lab model release (Gemini 4 Argon for robotics) confirmed across three sources including Google's own blog.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-    "summary": "The country\u2019s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
-    "published": "Tue, 13 Oct 2026 11:58:04 +0000"
+    "source": "hn",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "summary": "<p>Main thread: <i>Gemini 4 Argon</i> - <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p> <p>Points: 163</p> <p># Comments: 40</p>",
+    "published": "Tue, 13 Oct 2026 16:55:47 +0000"
    },
    {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SJ32T5MFAHM21PB498EN3Q/korea-website-block.jpg\" alt=\"South Korea moves to block 27 crypto websites, including KuCoin, MEXC\" class=\"type:primaryImage\"></p><p>Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.</p>",
-    "published": "Tue, 13 Oct 2026 02:41:30 +0000"
+    "source": "hn",
+    "url": "https://deepmind.google/models/gemini/",
+    "summary": "<p>See also: <i>Gemini 4 Argon for Robotics</i> - <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p> <p>Points: 838</p> <p># Comments: 664</p>",
+    "published": "Tue, 13 Oct 2026 16:03:16 +0000"
+   },
+   {
+    "source": "blog-google-ai",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp\">We\u2019re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "published": "Tue, 13 Oct 2026 16:00:00 +0000"
    }
   ]
  }
