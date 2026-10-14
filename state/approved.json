@@ -1,47 +1,35 @@
 [
  {
-  "id": "ed42c98438541b9f",
-  "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
-  "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Ledger's confirmed hardware implant stealing recovery phrases is a major supply-chain security breach with named confirmation and concrete consequences (MediaMarkt suspending sales).",
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
-    "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
-    "published": "Tue, 13 Oct 2026 14:45:08 +0000"
-   }
-  ]
- },
- {
-  "id": "c64515c7bf5202fa",
-  "title": "Gemini 4 Argon for Robotics",
+  "id": "2474d24e9482786d",
+  "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
   "topic": "both",
   "score": 8,
   "raw_score": 9,
   "weight": 0.9,
-  "reason": "Frontier lab model release (Gemini 4 Argon for robotics) confirmed across three sources including Google's own blog.",
+  "reason": "Backdoors planted in Ledger wallets is a potential major crypto supply-chain security story from a credibly named security journalist.",
   "sources": [
    {
     "source": "hn",
-    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-    "summary": "<p>Main thread: <i>Gemini 4 Argon</i> - <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p> <p>Points: 163</p> <p># Comments: 40</p>",
-    "published": "Tue, 13 Oct 2026 16:55:47 +0000"
-   },
+    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+    "summary": "<p>Article URL: <a href=\"https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/\">https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084838\">https://news.ycombinator.com/item?id=50084838</a></p> <p>Points: 6</p> <p># Comments: 0</p>",
+    "published": "Wed, 14 Oct 2026 09:37:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "429f8f6be8883f62",
+  "title": "Coinbase lays out flexible designs as key priority for Bitcoin\u2019s post-quantum migration",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "A major exchange publicly shaping Bitcoin's post-quantum signature migration is a notable protocol-adjacent development with a named source.",
+  "sources": [
    {
-    "source": "hn",
-    "url": "https://deepmind.google/models/gemini/",
-    "summary": "<p>See also: <i>Gemini 4 Argon for Robotics</i> - <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p> <p>Points: 838</p> <p># Comments: 664</p>",
-    "published": "Tue, 13 Oct 2026 16:03:16 +0000"
-   },
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp\">We\u2019re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "published": "Tue, 13 Oct 2026 16:00:00 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+    "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
+    "published": "Wed, 14 Oct 2026 02:49:34 +0000"
    }
   ]
  }

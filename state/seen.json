@@ -13998,5 +13998,385 @@
   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
   "title": "Cerebras CEO pushes back on AI doomsday warnings",
   "first_seen": "2026-10-14T11:14:05.470188+00:00"
+ },
+ "a0e0fec2c2b5f568": {
+  "url": "https://openai.com/index/amp-beyond-coding",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "first_seen": "2026-10-14T21:26:19.502143+00:00"
+ },
+ "24cc989c02dbc2a2": {
+  "url": "https://openai.com/index/sentinelone",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "first_seen": "2026-10-14T21:26:19.502171+00:00"
+ },
+ "e181547094b0a112": {
+  "url": "https://openai.com/index/third-moment-research",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "first_seen": "2026-10-14T21:26:19.502176+00:00"
+ },
+ "ea7c2ad9ec6a1e56": {
+  "url": "https://tldr.tech/ai/2026-10-14",
+  "title": "OpenAI dev arrested \ud83d\udea8, Pi API \ud83e\udd16, OpenCode 2.0 \ud83e\uddd1\u200d\ud83d\udcbb",
+  "first_seen": "2026-10-14T21:26:19.633900+00:00"
+ },
+ "dd1501e965f34c93": {
+  "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+  "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+  "first_seen": "2026-10-14T21:26:20.696829+00:00"
+ },
+ "d3b391885f8e4c66": {
+  "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+  "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+  "first_seen": "2026-10-14T21:26:20.696847+00:00"
+ },
+ "f3b53b98b76ce27c": {
+  "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+  "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+  "first_seen": "2026-10-14T21:26:20.696851+00:00"
+ },
+ "b93e9727a2c60e48": {
+  "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+  "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+  "first_seen": "2026-10-14T21:26:20.696854+00:00"
+ },
+ "78fb542344d74f13": {
+  "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+  "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+  "first_seen": "2026-10-14T21:26:20.696857+00:00"
+ },
+ "bf4097fa9e7f1560": {
+  "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+  "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+  "first_seen": "2026-10-14T21:26:20.696860+00:00"
+ },
+ "025e30cdb8686654": {
+  "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+  "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+  "first_seen": "2026-10-14T21:26:20.696863+00:00"
+ },
+ "7d32af483df16db5": {
+  "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+  "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+  "first_seen": "2026-10-14T21:26:20.696866+00:00"
+ },
+ "079d20ddfde0d0ed": {
+  "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+  "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+  "first_seen": "2026-10-14T21:26:20.696870+00:00"
+ },
+ "2ca77b6bc99e1471": {
+  "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+  "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+  "first_seen": "2026-10-14T21:26:20.696873+00:00"
+ },
+ "8b4c40dc2fdc9bd4": {
+  "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+  "first_seen": "2026-10-14T21:26:20.833318+00:00"
+ },
+ "e4f781bb5131fcb3": {
+  "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
+  "first_seen": "2026-10-14T21:26:20.833335+00:00"
+ },
+ "94f7e6b67dd41a08": {
+  "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US authorities dismantle crypto scam network that stole tens of millions",
+  "first_seen": "2026-10-14T21:26:20.833339+00:00"
+ },
+ "b159b697f6bb4dc9": {
+  "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "OCC report finds debanking efforts tied to crypto activities",
+  "first_seen": "2026-10-14T21:26:20.833342+00:00"
+ },
+ "d2fb2f73007dafa6": {
+  "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
+  "first_seen": "2026-10-14T21:26:20.833345+00:00"
+ },
+ "7d2075d855a65539": {
+  "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+  "first_seen": "2026-10-14T21:26:20.833348+00:00"
+ },
+ "c8f65d0956ca5a64": {
+  "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "\u2018Bunker mode\u2019 won\u2019t protect your crypto, critics say",
+  "first_seen": "2026-10-14T21:26:20.833351+00:00"
+ },
+ "ed30d293ed139c63": {
+  "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+  "first_seen": "2026-10-14T21:26:20.833354+00:00"
+ },
+ "93c3836e8965731c": {
+  "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+  "first_seen": "2026-10-14T21:26:20.833358+00:00"
+ },
+ "c63a9f8e1bf5c6b9": {
+  "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+  "first_seen": "2026-10-14T21:26:20.833361+00:00"
+ },
+ "3ec086ff5a810afa": {
+  "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Can crypto users trust the supply chain behind hardware wallets?",
+  "first_seen": "2026-10-14T21:26:20.833364+00:00"
+ },
+ "dcc84f91bba4e9df": {
+  "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+  "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+  "first_seen": "2026-10-14T21:26:20.903303+00:00"
+ },
+ "7d4a3448cb71f249": {
+  "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+  "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
+  "first_seen": "2026-10-14T21:26:20.903322+00:00"
+ },
+ "c8b3462bb60f9e3c": {
+  "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
+  "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",
+  "first_seen": "2026-10-14T21:26:20.903326+00:00"
+ },
+ "ade06ca2259dd2a3": {
+  "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+  "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
+  "first_seen": "2026-10-14T21:26:20.903329+00:00"
+ },
+ "c4026aa21b7ee411": {
+  "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+  "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+  "first_seen": "2026-10-14T21:26:20.903332+00:00"
+ },
+ "38b0b1e91aa8e4c0": {
+  "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+  "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+  "first_seen": "2026-10-14T21:26:20.903335+00:00"
+ },
+ "3a82649219ad40c4": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+  "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
+  "first_seen": "2026-10-14T21:26:20.903339+00:00"
+ },
+ "a7eb2cc3471f737e": {
+  "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+  "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+  "first_seen": "2026-10-14T21:26:20.903342+00:00"
+ },
+ "a69313a552b6dbc1": {
+  "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
+  "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+  "first_seen": "2026-10-14T21:26:20.903345+00:00"
+ },
+ "fe2aed86c713883a": {
+  "url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
+  "title": "Strategy\u2019s preferred stock financing may cost it bitcoin, K33 argues",
+  "first_seen": "2026-10-14T21:26:20.903348+00:00"
+ },
+ "6195aadc039fb953": {
+  "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+  "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
+  "first_seen": "2026-10-14T21:26:20.903351+00:00"
+ },
+ "f68eb7ac2d8b9300": {
+  "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+  "title": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
+  "first_seen": "2026-10-14T21:26:20.903355+00:00"
+ },
+ "6babb10b63b19cf4": {
+  "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+  "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+  "first_seen": "2026-10-14T21:26:20.903358+00:00"
+ },
+ "b5faf3770564e37d": {
+  "url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
+  "title": "How Bitcoin Works",
+  "first_seen": "2026-10-14T21:26:20.903361+00:00"
+ },
+ "33ee12614553b9fe": {
+  "url": "https://typesafe.ai/blog/jev-1-14",
+  "title": "Jev 1.14: For the Builders and Dreamers",
+  "first_seen": "2026-10-14T21:26:21.275160+00:00"
+ },
+ "a4e6a72e3ac24694": {
+  "url": "https://anoma.ly/notes/opencode-2-0/",
+  "title": "OpenCode 2.0",
+  "first_seen": "2026-10-14T21:26:21.275178+00:00"
+ },
+ "e72a95f279e3e402": {
+  "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+  "title": "Anthropic's Scion is heavily inspired by Mononoke",
+  "first_seen": "2026-10-14T21:26:21.275183+00:00"
+ },
+ "aad24f89887b4ec0": {
+  "url": "https://blog.cloudflare.com/yandex-outage/",
+  "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+  "first_seen": "2026-10-14T21:26:21.275186+00:00"
+ },
+ "5e14a6272e448c13": {
+  "url": "https://nytpu.com/gemlog/2026-03-18",
+  "title": "Fancy Curl Sites",
+  "first_seen": "2026-10-14T21:26:21.275189+00:00"
+ },
+ "0c1a0ba99d14638d": {
+  "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+  "title": "Things to know when you get cancer \u2013 2026 Edition",
+  "first_seen": "2026-10-14T21:26:21.275192+00:00"
+ },
+ "22eabf132ca29732": {
+  "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+  "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+  "first_seen": "2026-10-14T21:26:21.275195+00:00"
+ },
+ "ffc9c8f827572cd9": {
+  "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+  "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+  "first_seen": "2026-10-14T21:26:21.275198+00:00"
+ },
+ "9bf5ebea18efb041": {
+  "url": "https://petal.live/",
+  "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+  "first_seen": "2026-10-14T21:26:21.275200+00:00"
+ },
+ "c9e50374f0bb1e73": {
+  "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+  "title": "America didn't lose its rare earth industry, it sold it",
+  "first_seen": "2026-10-14T21:26:21.275204+00:00"
+ },
+ "87d81e4c6bad2202": {
+  "url": "https://github.com/bealesh/neckbeard",
+  "title": "Neckbeard \u2013 A DevOps/platform/SRE plugin for your agent",
+  "first_seen": "2026-10-14T21:26:21.275207+00:00"
+ },
+ "1d15ef475cf5e370": {
+  "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+  "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+  "first_seen": "2026-10-14T21:26:21.275210+00:00"
+ },
+ "8ad12e1fc1c7bba6": {
+  "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+  "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+  "first_seen": "2026-10-14T21:26:21.275213+00:00"
+ },
+ "1f9db072441be3e9": {
+  "url": "https://go.dev/blog/http-connection-reuse",
+  "title": "Better HTTP/1 connection reuse in Go 1.27",
+  "first_seen": "2026-10-14T21:26:21.275217+00:00"
+ },
+ "9c099964e2ab0ae2": {
+  "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+  "title": "Google is silently linking your phone number across all signed-in accounts",
+  "first_seen": "2026-10-14T21:26:21.275220+00:00"
+ },
+ "0cd1046494cfcd1b": {
+  "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+  "title": "Submarine cable resilience",
+  "first_seen": "2026-10-14T21:26:21.275223+00:00"
+ },
+ "c39031477f5379c8": {
+  "url": "https://github.com/graphicle-ai/graphicle",
+  "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+  "first_seen": "2026-10-14T21:26:21.275226+00:00"
+ },
+ "862427856471e61d": {
+  "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+  "title": "Running Windows desktop tests from Linux with disposable VMs",
+  "first_seen": "2026-10-14T21:26:21.275229+00:00"
+ },
+ "4a834037e0efba34": {
+  "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+  "title": "Strands Decider: Why Not an Encoder?",
+  "first_seen": "2026-10-14T21:26:21.275232+00:00"
+ },
+ "b0253da5539db2d8": {
+  "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+  "title": "Nvidia's first GPU: GeForce 256",
+  "first_seen": "2026-10-14T21:26:21.275235+00:00"
+ },
+ "13af8901117402e5": {
+  "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+  "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+  "first_seen": "2026-10-14T21:26:21.313307+00:00"
+ },
+ "720cb8abffa15f50": {
+  "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+  "title": "Flock CEO: We haven\u2019t \u2018fired\u2019 any police departments as customers",
+  "first_seen": "2026-10-14T21:26:21.313322+00:00"
+ },
+ "bd128c907a091dcd": {
+  "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+  "title": "Electric vehicle sales in the US are showing signs of life",
+  "first_seen": "2026-10-14T21:26:21.313327+00:00"
+ },
+ "99e62f16e61ad486": {
+  "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+  "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+  "first_seen": "2026-10-14T21:26:21.313331+00:00"
+ },
+ "10bff8f3b6e46876": {
+  "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+  "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+  "first_seen": "2026-10-14T21:26:21.313334+00:00"
+ },
+ "cd125d255ea32951": {
+  "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+  "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+  "first_seen": "2026-10-14T21:26:21.313338+00:00"
+ },
+ "55222f29942f9010": {
+  "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+  "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+  "first_seen": "2026-10-14T21:26:21.313341+00:00"
+ },
+ "619d87b09b01324a": {
+  "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+  "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+  "first_seen": "2026-10-14T21:26:21.313344+00:00"
+ },
+ "4ad5fe2916b301ad": {
+  "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+  "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+  "first_seen": "2026-10-14T21:26:21.313347+00:00"
+ },
+ "ea15db722113b21e": {
+  "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+  "title": "Prismm helps banks keep inherited money in-house",
+  "first_seen": "2026-10-14T21:26:21.313350+00:00"
+ },
+ "9c18b5e1b4bfcb8e": {
+  "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+  "title": "Deezer will soon let you filter out AI-generated music",
+  "first_seen": "2026-10-14T21:26:21.313353+00:00"
+ },
+ "c16911033b3182b5": {
+  "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+  "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
+  "first_seen": "2026-10-14T21:26:21.313356+00:00"
+ },
+ "ecdf723c0581a830": {
+  "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+  "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+  "first_seen": "2026-10-14T21:26:21.313359+00:00"
+ },
+ "40dbf46b63844850": {
+  "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+  "title": "Floqer\u2019s AI agents research sales prospects so teams don\u2019t have to",
+  "first_seen": "2026-10-14T21:26:21.313362+00:00"
+ },
+ "d02ea2927cb1aa96": {
+  "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+  "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+  "first_seen": "2026-10-14T21:26:21.313365+00:00"
+ },
+ "62cbe095b5166b3d": {
+  "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+  "title": "TechCrunch Disrupt 2026: Day 2",
+  "first_seen": "2026-10-14T21:26:21.313368+00:00"
+ },
+ "f3ebef654f96f8e4": {
+  "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+  "title": "NTangible bets it can predict how athletes will perform under pressure",
+  "first_seen": "2026-10-14T21:26:21.313371+00:00"
  }
 }

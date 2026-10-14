@@ -8,43 +8,35 @@ sources: ["https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-cryp
 triage_reason: "Regulatory enforcement action against 27 named exchanges confirmed by two sources is clearly publishable."
 ---
 
-# South Korea blocks 27 unregistered crypto exchange websites
+South Korea is blocking the websites of 27 unregistered crypto exchanges, extending a crackdown that until now had only reached mobile apps. KuCoin and BitMart are among the blocked, and MEXC is on the list too.
 
-*Date: 2026-10-13*
+The country's Financial Intelligence Unit announced the move Tuesday after the Korea Communications Standards Commission approved the restrictions in reviews on Oct. 6 and 7, [CoinDesk reports](https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin). Sites operated from overseas will be blocked, while domestically hosted platforms face service termination.
 
-South Korea is blocking the websites of 27 unregistered cryptocurrency exchanges, including KuCoin, BitMart and MEXC. The move follows earlier restrictions on the mobile apps of these platforms.
+## What changed
 
-## Regulatory background
+The app stores were the first front. [Cointelegraph reported](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc) back in April 2025 that South Korea had blocked downloads and updates for 14 unregistered exchange apps on Apple's App Store, following similar restrictions on 17 apps through Google Play. Tuesday's decision closes the other obvious door: the browser.
 
-The Financial Intelligence Unit (FIU) announced on Tuesday that the Korea Communications Standards Commission approved the website restrictions after reviews on Oct. 6 and Oct. 7. Websites operated from overseas will be blocked, while services hosted domestically will be terminated, according to CoinDesk.
+The bigger shift is procedural. Regulators can now seek website blocks as soon as they detect unregistered activity, without waiting for a court ruling or evidence that customers have lost money. That is a preemptive enforcement power, and it is worth sitting with for a second. The old model punished harm after it happened. The new one treats access itself as the violation.
 
-## Criteria for targeting Korean users
+The full list runs to 27 names. KuCoin and BitMart were named earlier, as was MEXC. Cointelegraph's reporting adds Phemex, Bitrue, CoinW and BTCC. It also names BingX and DigiFinex. To operate legally, an exchange has to register with the FIU and meet the country's security and anti-money-laundering requirements. The FIU says it judges whether an overseas operator is targeting Koreans by looking at Korean-language services, marketing aimed at South Korean users, and transactions in Korean won.
 
-The block applies to platforms that have not registered under the Act on Reporting and Using Specified Financial Transaction Information, South Korea's anti‑money‑laundering legislation. To operate legally, an exchange must register with the FIU and satisfy security and AML requirements.
+## The withdrawal problem
 
-The FIU assesses whether an overseas operator is targeting Korean customers by examining:
-- Availability of Korean‑language services
-- Marketing directed at South Korean users
-- Support for transactions in Korean won
+Here is the part that should worry anyone with funds on these platforms. The FIU itself acknowledged the blocks could complicate withdrawals for existing users, and it urged investors to verify registration and pull their assets. It says it will provide withdrawal guidance through the Digital Asset eXchange Alliance (DAXA), with cooperation from the operators.
 
-CoinTelegraph lists additional exchanges affected by the block, including Phemex, Bitrue, CoinW, BTCC, BingX and DigiFinex.
+Read that again. The regulator is cutting off access to the sites while promising to help people get money out of the sites it just cut off. If cooperation from the operators were guaranteed, the guidance would not be necessary. Anyone holding coins on an unregistered exchange in Korea is now depending on the goodwill of a company their government has just called illegal.
 
-## Earlier mobile‑app restrictions
+KuCoin, for its part, gave CoinDesk a statement that says almost nothing: "We respect applicable laws and regulations across jurisdictions and continuously strengthen our compliance framework in response to evolving regulatory requirements." No timeline. No commitment to register. No word on Korean users' funds.
 
-In April 2025, South Korean authorities blocked downloads and updates for 14 unregistered exchange apps on Apple's App Store, after previously restricting 17 apps on Google Play. The current website blocks extend the earlier measures.
+The FIU set no deadline for registration and said nothing about how long the blocks will last.
 
-## Enforcement implications
+## My read
 
-CoinDesk notes that regulators can now seek website blocks as soon as unregistered activity is detected, without waiting for a court ruling or evidence of customer losses. The FIU also acknowledged that the blocks could make withdrawals more difficult for existing users. To mitigate this, the FIU plans to provide withdrawal guidance and support through the Digital Asset eXchange Alliance (DAXA) in cooperation with the affected operators.
+This is what enforcement looks like when a government decides its crypto rules are real. Korea has a registration regime, and the regime now has teeth. The likely effect is a shuffle of Korean trading volume toward whichever platforms bother to register, and a quiet exit for the rest.
 
-## Exchange response
+Whether the blocks actually hold is another question. Website blocking is a blunt tool, and determined traders tend to find workarounds. But the signal matters more than the plumbing. The cost of serving Korean customers without registering just went up, and I would bet it keeps going up.
 
-A KuCoin spokesperson said, "We respect applicable laws and regulations across jurisdictions and continuously strengthen our compliance framework in response to evolving regulatory requirements."
+## Sources
 
-The FIU did not set a deadline for registration and did not specify how long the website blocks will remain in place.
-
----
-
-**Sources**
 - [CoinDesk: South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin](https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin)
-- [CoinTelegraph: South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- [Cointelegraph: South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc)
