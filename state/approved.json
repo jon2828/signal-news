@@ -1,35 +1,47 @@
 [
  {
-  "id": "2474d24e9482786d",
-  "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-  "topic": "both",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Backdoors planted in Ledger wallets is a potential major crypto supply-chain security story from a credibly named security journalist.",
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-    "summary": "<p>Article URL: <a href=\"https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/\">https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084838\">https://news.ycombinator.com/item?id=50084838</a></p> <p>Points: 6</p> <p># Comments: 0</p>",
-    "published": "Wed, 14 Oct 2026 09:37:24 +0000"
-   }
-  ]
- },
- {
-  "id": "429f8f6be8883f62",
-  "title": "Coinbase lays out flexible designs as key priority for Bitcoin\u2019s post-quantum migration",
+  "id": "ee04c656c28a2185",
+  "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "A major exchange publicly shaping Bitcoin's post-quantum signature migration is a notable protocol-adjacent development with a named source.",
+  "reason": "Dutch central bank license for MiCA-compliant euro settlement backed by BBVA, BNP Paribas, and ING is a significant regulatory and infrastructure milestone with two sources.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
-    "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
-    "published": "Wed, 14 Oct 2026 02:49:34 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+    "summary": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
+    "published": "Wed, 14 Oct 2026 11:12:36 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X72PYZ674KKQJ0QCZ8VV70/crypto-regulation-paper-rule-office-mica-eu-1.jpg\" alt=\"Qivalis wins Dutch e-money license for euro stablecoin\" class=\"type:primaryImage\"></p><p>Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements. </p>",
+    "published": "Wed, 14 Oct 2026 12:53:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a014fcd8f6f363ad",
+  "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Standard Chartered offering direct BTC and ETH trading to UAE clients is a major bank adoption milestone, corroborated by two sources.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
+    "published": "Wed, 14 Oct 2026 08:10:07 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQPH22MB1PQE91PWD5QS21/hi-dubai-overview-crypto-and-blockchain.jpg\" alt=\"Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE \" class=\"type:primaryImage\"></p><p>Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.</p>",
+    "published": "Wed, 14 Oct 2026 10:07:03 +0000"
    }
   ]
  }
