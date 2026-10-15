@@ -6,6 +6,8 @@ score: 8
 candidate_id: 9af5acea5c334ce7
 sources: ["https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network"]
 triage_reason: "Confirmed spy chip transmitting wallet keys is a major security breach with a named company, corroborated by retailer pullout coverage elsewhere."
+retracted: true
+retracted_reason: "Duplicate: the same candidate was accidentally published twice in one day."
 ---
 
 Ledger says a covert chip planted inside some of its hardware wallets sold by Southeast Asian reseller CryptoBilis read users' 24-word recovery phrases off the device screen and transmitted them to attackers over a mobile network. The company laid out the mechanism in an investigation update on X Tuesday, the first public explanation of how the CryptoBilis-linked thefts actually worked.

@@ -6,6 +6,8 @@ score: 8
 candidate_id: 30d9dd476d90b0d5
 sources: ["https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis"]
 triage_reason: "Ledger confirming an unauthorized hardware implant in sold devices is a confirmed security breach at a major crypto infrastructure company with named "
+retracted: true
+retracted_reason: "Superseded by later, more detailed coverage of the same implant; keeping one post per development."
 ---
 
 Ledger has confirmed that a hardware wallet tied to a recent wave of stolen crypto contained an unauthorized physical implant, and the company says every confirmed case so far traces to one reseller: CryptoBilis, which operates in Indonesia, Malaysia, and the Philippines.

@@ -10,8 +10,12 @@ For each candidate below, rate 1 to 10 for importance to a reader who follows AI
 Rules:
 - Downweight price-movement stories unless the move has a clear, sourced cause.
 - A story covered by multiple sources is more credible, not spam. Use the source count as a signal.
+- If a candidate substantially repeats one of the RECENT POSTS below — same event, even with new wording or a new angle — score it 1-2 and say 'duplicate of recent coverage'. Only score it 7+ if it adds genuinely new facts (a confirmation that changes the story, a materially larger figure, a new development).
 - When in doubt, score low. A missed story costs one day. A bad post costs the site's credibility.
 - Never invent facts to justify a score.
+
+RECENT POSTS (already published — do not re-cover these without new facts):
+<<RECENT>>
 
 Candidates:
 <<CANDIDATES>>
