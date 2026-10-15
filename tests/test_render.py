@@ -21,6 +21,8 @@ LEAKS = (
     (re.compile(r"<p>\s*[-*]\s+"), "raw bullet in a paragraph"),
     (re.compile(r"<li>\s*[-*]\s+"), "double bullet"),
     (re.compile(r"<p>\s*&gt;\s"), "raw blockquote marker in a paragraph"),
+    (re.compile(r"<p>\s*-{3,}\s*</p>"), "raw --- separator in a paragraph"),
+    (re.compile(r"<p>\s*\*{0,2}(date|topic|score|sources|candidate_id)\*{0,2}:\*{0,2}\s", re.I), "raw metadata line in a paragraph"),
 )
 
 bad = []

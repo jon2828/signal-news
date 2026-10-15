@@ -115,7 +115,8 @@ def md_blocks(md: str) -> list[tuple[str, str]]:
     # opening lines are stripped, so a legitimate mid-article sentence that
     # happens to start with 'Score:' is never touched.
     meta_line = re.compile(
-        r"^\*{0,2}(?:Date|Topic|Score|Sources?|Author|Published)\s*:\s*.{0,60}\*{0,2}$", re.I)
+        r"^\*{0,2}(?:Date|Topic|Score|Sources?|Author|Published|Candidate_?id)\s*:?\*{0,2}\s*.{0,400}$", re.I)
+    hr = re.compile(r"^-{3,}$")
 
     for raw in md.splitlines():
         line = raw.strip()
@@ -123,6 +124,12 @@ def md_blocks(md: str) -> list[tuple[str, str]]:
             flush()
             continue
         if re.match(r"^#\s+", line):
+            flush()
+            continue
+        if hr.match(line):
+            # The writer's own horizontal-rule separators (often doubled up
+            # around its duplicated metadata block). The page provides its
+            # own separators, and a bare '---' previously leaked as text.
             flush()
             continue
         if seen_content < 4 and meta_line.match(line):
