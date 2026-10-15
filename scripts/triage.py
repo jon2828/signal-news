@@ -63,6 +63,44 @@ def newest_source_age_days(cand: dict) -> int | None:
     return (_dt.datetime.now(_dt.UTC) - best).days
 
 
+def recent_post_titles(days: int = 3) -> list[str]:
+    """Titles of posts published in the last `days` days. Used so the triage
+    model can refuse to re-cover a story the site already published, and so
+    near-identical resubmissions can be dropped deterministically."""
+    import datetime as _dt
+    cutoff = _dt.datetime.now(_dt.UTC) - _dt.timedelta(days=days)
+    out = []
+    posts = ROOT / "posts"
+    if not posts.exists():
+        return out
+    for p in posts.glob("*.md"):
+        try:
+            title, date = "", ""
+            for line in p.read_text().splitlines()[:10]:
+                if line.startswith("title:"):
+                    title = line.split(":", 1)[1].strip()
+                elif line.startswith("date:"):
+                    date = line.split(":", 1)[1].strip()
+            if title and date:
+                if _dt.datetime.fromisoformat(date).replace(tzinfo=_dt.timezone.utc) >= cutoff:
+                    out.append(title)
+        except Exception:
+            continue
+    return out
+
+
+def _tokens(s: str) -> set[str]:
+    import re as _re
+    return {t for t in _re.findall(r"[a-z0-9]+", s.lower()) if len(t) > 2}
+
+
+def title_overlap(a: str, b: str) -> float:
+    ta, tb = _tokens(a), _tokens(b)
+    if not ta or not tb:
+        return 0.0
+    return len(ta & tb) / min(len(ta), len(tb))
+
+
 def main() -> int:
     if kill_switch():
         return guarded_exit("triage")
@@ -108,6 +146,33 @@ def main() -> int:
             print("[triage] nothing fresh to score this run.")
             return 0
 
+    # Repeat-story gate. The Ledger implant story was published three times in
+    # one day (and six times in five days) because dedupe only compared
+    # candidates with each other, never with the site's own history. Two
+    # layers: a deterministic near-identical-title check, and the recent
+    # headlines injected into the triage prompt so paraphrased re-runs score low.
+    recent = recent_post_titles(days=3)
+    if recent:
+        kept, dupes = [], []
+        for c in candidates:
+            hit = max(recent, key=lambda t: title_overlap(c["title"], t))
+            if title_overlap(c["title"], hit) >= 0.7:
+                dupes.append((c, hit))
+            else:
+                kept.append(c)
+        for c, hit in dupes:
+            log_decision("duplicate_rejected", json.dumps(
+                {"id": c["id"], "title": c["title"][:90], "matches": hit[:90]}))
+        if dupes:
+            print(f"[triage] repeat gate: {len(dupes)} near-identical to a post "
+                  f"from the last 3 days, {len(kept)} kept")
+        candidates = kept
+        if not candidates:
+            print("[triage] nothing new to score this run.")
+            return 0
+
+    recent_block = "\n".join(f"- {t}" for t in recent[:30]) or "(none)"
+
     feeds_cfg = {f["name"]: f for f in json.loads((ROOT / "config" / "feeds.json").read_text())["feeds"]}
     lines = []
     for c in candidates[:60]:  # batch cap
@@ -124,7 +189,8 @@ def main() -> int:
     scores = []
     for i in range(0, len(lines), 20):
         chunk = "\n---\n".join(lines[i:i + 20])
-        prompt = prompt_tpl.replace("<<CANDIDATES>>", chunk) + no_preamble
+        prompt = (prompt_tpl.replace("<<RECENT>>", recent_block)
+                  .replace("<<CANDIDATES>>", chunk) + no_preamble)
         try:
             raw, _ = chat_with_fallback(cfg, "triage", prompt, max_tokens=4000, temperature=0.0)
         except Exception as e:

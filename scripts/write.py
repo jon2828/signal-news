@@ -174,6 +174,15 @@ def main() -> int:
         fm_lines.append("---")
         post_text = "\n".join(fm_lines) + "\n\n" + meta["body"] + "\n"
 
+        # One post per candidate, ever. The Ledger story was written twice
+        # from the same candidate id (two slugs, same day) because nothing
+        # checked existing posts/drafts for the id before writing.
+        if any(f"-{cand['id'][:8]}" in p.name for p in (ROOT / "posts").glob("*.md")) \
+           or any(f"-{cand['id'][:8]}" in p.name for p in (ROOT / "state" / "drafts").glob("*.md")):
+            log_decision("write_skipped_duplicate", json.dumps({"id": cand["id"], "title": meta["title"][:90]}))
+            print(f"[write] skipped duplicate candidate {cand['id'][:8]} (post already exists)")
+            continue
+
         name = f"{meta['date']}-{slugify(meta['title'])}-{cand['id'][:8]}.md"
         (drafts_dir / name).write_text(post_text)
         written += 1
