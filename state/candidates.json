@@ -1,863 +1,5 @@
 [
  {
-  "id": "314375845b17a428",
-  "title": "Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-    "published": "Tue, 13 Oct 2026 23:05:34 +0000"
-   }
-  ]
- },
- {
-  "id": "3e50c67087875e42",
-  "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-    "published": "Tue, 13 Oct 2026 23:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "8ffa5222f5cfbfa3",
-  "title": "Cerebras CEO pushes back on AI doomsday warnings",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "published": "Tue, 13 Oct 2026 22:36:59 +0000"
-   }
-  ]
- },
- {
-  "id": "a0e0fec2c2b5f568",
-  "title": "Amp puts AI agents to work beyond code with OpenAI models",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "published": "Wed, 14 Oct 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "24cc989c02dbc2a2",
-  "title": "SentinelOne cuts malware analysis from weeks to hours",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/sentinelone",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "published": "Wed, 14 Oct 2026 12:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e181547094b0a112",
-  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/third-moment-research",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "published": "Wed, 14 Oct 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "ea7c2ad9ec6a1e56",
-  "title": "OpenAI dev arrested \ud83d\udea8, Pi API \ud83e\udd16, OpenCode 2.0 \ud83e\uddd1\u200d\ud83d\udcbb",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-10-14",
-    "summary": "",
-    "published": "Wed, 14 Oct 2026 00:00:00 GMT"
-   },
-   {
-    "source": "hn",
-    "url": "https://anoma.ly/notes/opencode-2-0/",
-    "summary": "<p>Article URL: <a href=\"https://anoma.ly/notes/opencode-2-0/\">https://anoma.ly/notes/opencode-2-0/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094994\">https://news.ycombinator.com/item?id=50094994</a></p> <p>Points: 26</p> <p># Comments: 5</p>",
-    "published": "Wed, 14 Oct 2026 20:48:24 +0000"
-   }
-  ]
- },
- {
-  "id": "dd1501e965f34c93",
-  "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
-    "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets.",
-    "published": "Wed, 14 Oct 2026 16:34:53 +0000"
-   }
-  ]
- },
- {
-  "id": "d3b391885f8e4c66",
-  "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-    "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China\u2019s 0.1% share, according to new Chainalysis research.",
-    "published": "Wed, 14 Oct 2026 15:35:36 +0000"
-   }
-  ]
- },
- {
-  "id": "f3b53b98b76ce27c",
-  "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-    "summary": "",
-    "published": "Wed, 14 Oct 2026 15:05:15 +0000"
-   }
-  ]
- },
- {
-  "id": "b93e9727a2c60e48",
-  "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-    "summary": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
-    "published": "Wed, 14 Oct 2026 14:49:32 +0000"
-   }
-  ]
- },
- {
-  "id": "78fb542344d74f13",
-  "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-    "summary": "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels.",
-    "published": "Wed, 14 Oct 2026 14:31:14 +0000"
-   }
-  ]
- },
- {
-  "id": "bf4097fa9e7f1560",
-  "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-    "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
-    "published": "Wed, 14 Oct 2026 14:08:43 +0000"
-   }
-  ]
- },
- {
-  "id": "025e30cdb8686654",
-  "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-    "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
-    "published": "Wed, 14 Oct 2026 13:51:12 +0000"
-   }
-  ]
- },
- {
-  "id": "7d32af483df16db5",
-  "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-    "summary": "Payward agreed to buy Lithuania\u2019s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
-    "published": "Wed, 14 Oct 2026 13:07:45 +0000"
-   }
-  ]
- },
- {
-  "id": "079d20ddfde0d0ed",
-  "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-    "summary": "The news could put multiple rate hikes by the Federal Reserve back into play.",
-    "published": "Wed, 14 Oct 2026 12:33:56 +0000"
-   }
-  ]
- },
- {
-  "id": "2ca77b6bc99e1471",
-  "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-    "summary": "Your day-ahead look for Oct. 14, 2026",
-    "published": "Wed, 14 Oct 2026 11:15:00 +0000"
-   }
-  ]
- },
- {
-  "id": "8b4c40dc2fdc9bd4",
-  "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y1A2P32XBWMQ5M26VG2T55/hi-a-beginners-guide-to-filing-bitcoin-taxes.jpg\" alt=\"Organizations join forces to fight Illinois crypto tax, after 6-month pause \" class=\"type:primaryImage\"></p><p>Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.</p>",
-    "published": "Wed, 14 Oct 2026 20:56:22 +0000"
-   }
-  ]
- },
- {
-  "id": "e4f781bb5131fcb3",
-  "title": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XTT3VWKHJ84ZJBP443TGSN/hi-globe-usdc.png\" alt=\"EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA \" class=\"type:primaryImage\"></p><p>The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a \u201csignificant e-money token.\u201c</p>",
-    "published": "Wed, 14 Oct 2026 19:03:52 +0000"
-   }
-  ]
- },
- {
-  "id": "94f7e6b67dd41a08",
-  "title": "US authorities dismantle crypto scam network that stole tens of millions",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-theft-victim.jpg\" alt=\"US authorities dismantle crypto scam network that stole tens of millions \" class=\"type:primaryImage\"></p><p>Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans. </p>",
-    "published": "Wed, 14 Oct 2026 17:56:45 +0000"
-   }
-  ]
- },
- {
-  "id": "b159b697f6bb4dc9",
-  "title": "OCC report finds debanking efforts tied to crypto activities",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XH42GKYW5YXWF51G1CR9RV/hi-banks-and-crypto.jpg\" alt=\"OCC report finds debanking efforts tied to crypto activities \" class=\"type:primaryImage\"></p><p>The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.</p>",
-    "published": "Wed, 14 Oct 2026 17:03:20 +0000"
-   }
-  ]
- },
- {
-  "id": "d2fb2f73007dafa6",
-  "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XEE04ZMAXCNJ7MN7A5NHM7/crypto-winter-frozen-icy-freeze-cold-stablecoin.jpg\" alt=\"Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow \" class=\"type:primaryImage\"></p><p>The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields. </p>",
-    "published": "Wed, 14 Oct 2026 16:26:31 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-    "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
-    "published": "Wed, 14 Oct 2026 15:47:18 +0000"
-   }
-  ]
- },
- {
-  "id": "7d2075d855a65539",
-  "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XB2Q3077WV2HYP6MNZ0DQX/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853.webp\" alt=\"Bitcoin price dips below $82K as high oil prices spike US CPI inflation\" class=\"type:primaryImage\"></p><p>Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.</p>",
-    "published": "Wed, 14 Oct 2026 14:21:15 +0000"
-   }
-  ]
- },
- {
-  "id": "c8f65d0956ca5a64",
-  "title": "\u2018Bunker mode\u2019 won\u2019t protect your crypto, critics say",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4THPCR92A9D9AT5MEKWQ9WN/magazinejourneys-trevor-koverko.png\" alt=\"\u2018Bunker mode\u2019 won\u2019t protect your crypto, critics say \" class=\"type:primaryImage\"></p><p>Even if Justin Drake\u2019s prediction that AI could break cryptography proves correct, critics say \u201cbunker mode\u201d is an impractical suggestion that\u2019s unlikely to protect your crypto.</p>",
-    "published": "Wed, 14 Oct 2026 13:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "ed30d293ed139c63",
-  "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQ6AF5TDRNQV9MEV2XN6EB/canada-1.jpg\" alt=\"Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis\" class=\"type:primaryImage\"></p><p>Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.</p>",
-    "published": "Wed, 14 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "c63a9f8e1bf5c6b9",
-  "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X497VFYF2ZYRYC78M441M5/hi-what-is-a-decentralized-money-market-and-kraken-1.jpg\" alt=\"Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion \" class=\"type:primaryImage\"></p><p>Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.</p>",
-    "published": "Wed, 14 Oct 2026 12:26:05 +0000"
-   }
-  ]
- },
- {
-  "id": "3ec086ff5a810afa",
-  "title": "Can crypto users trust the supply chain behind hardware wallets?",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X1FW4W2ZV0X6E3AVRE1XJT/hi-what-is-a-multisignature-wallet-and-how-does-it-work.jpg\" alt=\"Can crypto users trust the supply chain behind hardware wallets?\" class=\"type:primaryImage\"></p><p>Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.</p>",
-    "published": "Wed, 14 Oct 2026 11:59:42 +0000"
-   }
-  ]
- },
- {
-  "id": "dcc84f91bba4e9df",
-  "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-    "summary": "Leadership at the White House is shifting once again, as Patrick Witt\u2019s tenure as the administration\u2019s top crypto adviser comes to an end.",
-    "published": "Wed, 14 Oct 2026 20:30:15 +0000"
-   }
-  ]
- },
- {
-  "id": "7d4a3448cb71f249",
-  "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
-    "summary": "SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
-    "published": "Wed, 14 Oct 2026 18:25:54 +0000"
-   }
-  ]
- },
- {
-  "id": "c8b3462bb60f9e3c",
-  "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
-    "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
-    "published": "Wed, 14 Oct 2026 17:47:18 +0000"
-   }
-  ]
- },
- {
-  "id": "ade06ca2259dd2a3",
-  "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
-    "summary": "Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.",
-    "published": "Wed, 14 Oct 2026 16:51:54 +0000"
-   }
-  ]
- },
- {
-  "id": "c4026aa21b7ee411",
-  "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
-    "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention.",
-    "published": "Wed, 14 Oct 2026 15:53:15 +0000"
-   },
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-    "summary": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
-    "published": "Thu, 15 Oct 2026 09:20:57 +0000"
-   }
-  ]
- },
- {
-  "id": "3a82649219ad40c4",
-  "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
-    "summary": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts.",
-    "published": "Wed, 14 Oct 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "a7eb2cc3471f737e",
-  "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
-    "summary": "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises.",
-    "published": "Wed, 14 Oct 2026 14:32:39 +0000"
-   }
-  ]
- },
- {
-  "id": "a69313a552b6dbc1",
-  "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
-    "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
-    "published": "Wed, 14 Oct 2026 13:21:37 +0000"
-   }
-  ]
- },
- {
-  "id": "fe2aed86c713883a",
-  "title": "Strategy\u2019s preferred stock financing may cost it bitcoin, K33 argues",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
-    "summary": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
-    "published": "Wed, 14 Oct 2026 13:20:46 +0000"
-   }
-  ]
- },
- {
-  "id": "6195aadc039fb953",
-  "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
-    "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
-    "published": "Wed, 14 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "f68eb7ac2d8b9300",
-  "title": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
-    "summary": "Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure.",
-    "published": "Wed, 14 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "6babb10b63b19cf4",
-  "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
-    "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
-    "published": "Wed, 14 Oct 2026 12:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "b5faf3770564e37d",
-  "title": "How Bitcoin Works",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
-    "summary": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption.",
-    "published": "Wed, 14 Oct 2026 11:52:16 +0000"
-   }
-  ]
- },
- {
-  "id": "33ee12614553b9fe",
-  "title": "Jev 1.14: For the Builders and Dreamers",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://typesafe.ai/blog/jev-1-14",
-    "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/jev-1-14\">https://typesafe.ai/blog/jev-1-14</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50095353\">https://news.ycombinator.com/item?id=50095353</a></p> <p>Points: 7</p> <p># Comments: 0</p>",
-    "published": "Wed, 14 Oct 2026 21:11:03 +0000"
-   }
-  ]
- },
- {
-  "id": "e72a95f279e3e402",
-  "title": "Anthropic's Scion is heavily inspired by Mononoke",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-    "summary": "<p>Article URL: <a href=\"https://sunshowers.io/posts/anthropic-mononoke/\">https://sunshowers.io/posts/anthropic-mononoke/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094694\">https://news.ycombinator.com/item?id=50094694</a></p> <p>Points: 104</p> <p># Comments: 17</p>",
-    "published": "Wed, 14 Oct 2026 20:30:54 +0000"
-   }
-  ]
- },
- {
-  "id": "aad24f89887b4ec0",
-  "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/yandex-outage/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/yandex-outage/\">https://blog.cloudflare.com/yandex-outage/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094673\">https://news.ycombinator.com/item?id=50094673</a></p> <p>Points: 86</p> <p># Comments: 30</p>",
-    "published": "Wed, 14 Oct 2026 20:29:13 +0000"
-   }
-  ]
- },
- {
-  "id": "5e14a6272e448c13",
-  "title": "Fancy Curl Sites",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://nytpu.com/gemlog/2026-03-18",
-    "summary": "<p>Article URL: <a href=\"https://nytpu.com/gemlog/2026-03-18\">https://nytpu.com/gemlog/2026-03-18</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093612\">https://news.ycombinator.com/item?id=50093612</a></p> <p>Points: 30</p> <p># Comments: 7</p>",
-    "published": "Wed, 14 Oct 2026 19:29:12 +0000"
-   }
-  ]
- },
- {
-  "id": "0c1a0ba99d14638d",
-  "title": "Things to know when you get cancer \u2013 2026 Edition",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-    "summary": "<p>Article URL: <a href=\"https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\">https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093568\">https://news.ycombinator.com/item?id=50093568</a></p> <p>Points: 340</p> <p># Comments: 66</p>",
-    "published": "Wed, 14 Oct 2026 19:26:30 +0000"
-   }
-  ]
- },
- {
-  "id": "22eabf132ca29732",
-  "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-    "summary": "<p>Article URL: <a href=\"https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092730\">https://news.ycombinator.com/item?id=50092730</a></p> <p>Points: 219</p> <p># Comments: 145</p>",
-    "published": "Wed, 14 Oct 2026 18:37:21 +0000"
-   }
-  ]
- },
- {
-  "id": "ffc9c8f827572cd9",
-  "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "summary": "<p>Article URL: <a href=\"https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\">https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092664\">https://news.ycombinator.com/item?id=50092664</a></p> <p>Points: 195</p> <p># Comments: 143</p>",
-    "published": "Wed, 14 Oct 2026 18:32:52 +0000"
-   }
-  ]
- },
- {
-  "id": "9bf5ebea18efb041",
-  "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://petal.live/",
-    "summary": "<p>Hi HN!<p>I\u2019m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It\u2019s called Petal (<a href=\"https://github.com/kiruna-labs/petal\" rel=\"nofollow\">https://github.com/kiruna-labs/petal</a>)<p>Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.<p>Screenhero was an exceptional tool t",
-    "published": "Wed, 14 Oct 2026 18:23:14 +0000"
-   }
-  ]
- },
- {
-  "id": "c9e50374f0bb1e73",
-  "title": "America didn't lose its rare earth industry, it sold it",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-    "summary": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it\">https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091875\">https://news.ycombinator.com/item?id=50091875</a></p> <p>Points: 103</p> <p># Comments: 44</p>",
-    "published": "Wed, 14 Oct 2026 17:50:26 +0000"
-   }
-  ]
- },
- {
-  "id": "87d81e4c6bad2202",
-  "title": "Neckbeard \u2013 A DevOps/platform/SRE plugin for your agent",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/bealesh/neckbeard",
-    "summary": "<p>Article URL: <a href=\"https://github.com/bealesh/neckbeard\">https://github.com/bealesh/neckbeard</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091794\">https://news.ycombinator.com/item?id=50091794</a></p> <p>Points: 54</p> <p># Comments: 38</p>",
-    "published": "Wed, 14 Oct 2026 17:45:34 +0000"
-   }
-  ]
- },
- {
-  "id": "1d15ef475cf5e370",
-  "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "summary": "<p>Article URL: <a href=\"https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\">https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50091788\">https://news.ycombinator.com/item?id=50091788</a></p> <p>Points: 764</p> <p># Comments: 363</p>",
-    "published": "Wed, 14 Oct 2026 17:45:23 +0000"
-   }
-  ]
- },
- {
-  "id": "8ad12e1fc1c7bba6",
-  "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
-    "summary": "<p>Article URL: <a href=\"https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges\">https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090662\">https://news.ycombinator.com/item?id=50090662</a></p> <p>Points: 118</p> <p># Comments: 78</p>",
-    "published": "Wed, 14 Oct 2026 16:45:19 +0000"
-   }
-  ]
- },
- {
-  "id": "1f9db072441be3e9",
-  "title": "Better HTTP/1 connection reuse in Go 1.27",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://go.dev/blog/http-connection-reuse",
-    "summary": "<p>Article URL: <a href=\"https://go.dev/blog/http-connection-reuse\">https://go.dev/blog/http-connection-reuse</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090369\">https://news.ycombinator.com/item?id=50090369</a></p> <p>Points: 165</p> <p># Comments: 27</p>",
-    "published": "Wed, 14 Oct 2026 16:29:33 +0000"
-   }
-  ]
- },
- {
-  "id": "9c099964e2ab0ae2",
-  "title": "Google is silently linking your phone number across all signed-in accounts",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-    "summary": "<p>Article URL: <a href=\"https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\">https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090349\">https://news.ycombinator.com/item?id=50090349</a></p> <p>Points: 280</p> <p># Comments: 70</p>",
-    "published": "Wed, 14 Oct 2026 16:28:51 +0000"
-   }
-  ]
- },
- {
-  "id": "0cd1046494cfcd1b",
-  "title": "Submarine cable resilience",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-    "summary": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\">https://blog.apnic.net/2026/10/14/submarine-cable-resilience/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50089229\">https://news.ycombinator.com/item?id=50089229</a></p> <p>Points: 114</p> <p># Comments: 36</p>",
-    "published": "Wed, 14 Oct 2026 15:31:15 +0000"
-   }
-  ]
- },
- {
-  "id": "c39031477f5379c8",
-  "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/graphicle-ai/graphicle",
-    "summary": "<p>Article URL: <a href=\"https://github.com/graphicle-ai/graphicle\">https://github.com/graphicle-ai/graphicle</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088713\">https://news.ycombinator.com/item?id=50088713</a></p> <p>Points: 37</p> <p># Comments: 11</p>",
-    "published": "Wed, 14 Oct 2026 15:00:41 +0000"
-   }
-  ]
- },
- {
-  "id": "862427856471e61d",
-  "title": "Running Windows desktop tests from Linux with disposable VMs",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-    "summary": "<p>Article URL: <a href=\"https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation\">https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088643\">https://news.ycombinator.com/item?id=50088643</a></p> <p>Points: 76</p> <p># Comments: 27</p>",
-    "published": "Wed, 14 Oct 2026 14:55:19 +0000"
-   }
-  ]
- },
- {
-  "id": "4a834037e0efba34",
-  "title": "Strands Decider: Why Not an Encoder?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-    "summary": "<p>Article URL: <a href=\"https://brooker.co.za:443/blog/2026/10/04/encoders.html\">https://brooker.co.za:443/blog/2026/10/04/encoders.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50088447\">https://news.ycombinator.com/item?id=50088447</a></p> <p>Points: 33</p> <p># Comments: 1</p>",
-    "published": "Wed, 14 Oct 2026 14:40:03 +0000"
-   }
-  ]
- },
- {
-  "id": "b0253da5539db2d8",
-  "title": "Nvidia's first GPU: GeForce 256",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-    "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/\">https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50086363\">https://news.ycombinator.com/item?id=50086363</a></p> <p>Points: 60</p> <p># Comments: 39</p>",
-    "published": "Wed, 14 Oct 2026 12:05:44 +0000"
-   }
-  ]
- },
- {
-  "id": "13af8901117402e5",
-  "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-    "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-    "published": "Wed, 14 Oct 2026 21:00:00 +0000"
-   }
-  ]
- },
- {
   "id": "720cb8abffa15f50",
   "title": "Flock CEO: We haven\u2019t \u2018fired\u2019 any police departments as customers",
   "topic": "ai",
@@ -1001,13 +143,19 @@
   "id": "c16911033b3182b5",
   "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
     "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
     "published": "Wed, 14 Oct 2026 15:13:24 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+    "published": "Thu, 15 Oct 2026 14:00:00 +0000"
    }
   ]
  },
@@ -1211,13 +359,19 @@
   "id": "d615002a65389aca",
   "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
   "topic": "bitcoin",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "cointelegraph",
     "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZFWYVQRAM56PW1PG6VCAV4/starknet.jpg\" alt=\"Starknet opens vote on potential Ethereum L2 exit over quantum risks\" class=\"type:primaryImage\"></p><p>Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum\u2019s quantum-security upgrade timeline.</p>",
     "published": "Thu, 15 Oct 2026 10:22:00 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+    "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
+    "published": "Thu, 15 Oct 2026 14:26:53 +0000"
    }
   ]
  },
@@ -1652,6 +806,832 @@
     "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
     "summary": "Langley\u2019s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
     "published": "Wed, 14 Oct 2026 21:30:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fa14b8f7db4605df",
+  "title": "Teaching students to think and learn through questions",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "8fbb1278b1546649",
+  "title": "Jev 1.14 \u26a1, Grok Voice 3 \ud83c\udf99\ufe0f, RSI \ud83d\udd01",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-10-15",
+    "summary": "",
+    "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "263fd2cbc83bfee0",
+  "title": "At the White House, crypto policy vacancy looms large",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+    "summary": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
+    "published": "Thu, 15 Oct 2026 18:48:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2851aa3ceb2de18f",
+  "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+    "summary": "",
+    "published": "Thu, 15 Oct 2026 15:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ed847c3654a62b2b",
+  "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+    "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
+    "published": "Thu, 15 Oct 2026 12:35:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bcb13a1e974f92e7",
+  "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+    "summary": "Ledger\u2019s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "be5de5381e29ffc5",
+  "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+    "summary": "Your day-ahead look for Oct. 15, 2026",
+    "published": "Thu, 15 Oct 2026 11:15:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1922a812c6aeada8",
+  "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg\" alt=\"Binance.US seeks $1B valuation in potential $100M funding round: Report\" class=\"type:primaryImage\"></p><p>The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance\u2019s 2023 settlement with US authorities.</p>",
+    "published": "Thu, 15 Oct 2026 20:21:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9d7a4279f6112868",
+  "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5021VDZN3M8VCH21XJTRFJY/bribe-money-corrupt-usa-1.jpg\" alt=\"Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ\" class=\"type:primaryImage\"></p><p>The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill. </p>",
+    "published": "Thu, 15 Oct 2026 17:14:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "66f6a010a5389f05",
+  "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M505KEFKPMPQ9SXKC8HEV451/stockholm-sweden.jpg\" alt=\"Sweden revisits digital krona as ECB advances digital euro plans \" class=\"type:primaryImage\"></p><p>Sweden\u2019s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments. </p>",
+    "published": "Thu, 15 Oct 2026 16:49:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c5143c8263d8cc72",
+  "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M501MR4NFX8WGM2DEYYC2STT/hi-could-those-who-left-mastercard-come-back3.jpg\" alt=\"Mastercard brings stablecoin balances into traditional banking and card payments \" class=\"type:primaryImage\"></p><p>The launch of Global Money Platform marks Mastercard\u2019s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.</p>",
+    "published": "Thu, 15 Oct 2026 15:46:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e6ed50c6051de5bb",
+  "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp\" alt=\"Bitcoin slips under $80K after US PPI gains most in four years\" class=\"type:primaryImage\"></p><p>BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022</p>",
+    "published": "Thu, 15 Oct 2026 15:10:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5482a2e849cef775",
+  "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZXEK5DTKX65782NKWA8C3M/russia-p2p-ban-illustration-1.png\" alt=\"Russia to ban direct peer-to-peer crypto trades starting July 2027\" class=\"type:primaryImage\"></p><p>Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.</p>",
+    "published": "Thu, 15 Oct 2026 14:22:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a56a9a88615f7ae5",
+  "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZW44RHENZQJH17Z7JFTKHE/hi-crypto-goes-for-nasdaq-tron-1.jpg\" alt=\"Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions\" class=\"type:primaryImage\"></p><p>The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.</p>",
+    "published": "Thu, 15 Oct 2026 14:16:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "57077bbe6d518e49",
+  "title": "Can the SEC and CFTC\u2019s pro-crypto rules be overturned? Legal opinion",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6THP0WR3ZHNE9G3WXBFF6/courtroom-scene-edit-brisov.png\" alt=\"Can the SEC and CFTC\u2019s pro-crypto rules be overturned? Legal opinion\" class=\"type:primaryImage\"></p><p>The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the \u201canti-crypto army\u201d?</p>",
+    "published": "Thu, 15 Oct 2026 13:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "919f869375d40c04",
+  "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZPZ9PD30JJKDBJDB77AQ9B/richard-heart.jpg\" alt=\"HEX token sellers erase $160M following reports of founder Richard Schueler arrest \" class=\"type:primaryImage\"></p><p>The HEX token\u2019s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a \u201cRed Notice.\u201d</p>",
+    "published": "Thu, 15 Oct 2026 12:12:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4160b7800f7c6f9d",
+  "title": "Ledger\u2019s answer to wallet tampering costs $849 and ships next year",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZK037AB51TV6HMKEHD9H8G/ledger-atom-replacement.png\" alt=\"Ledger\u2019s answer to wallet tampering costs $849 and ships next year\" class=\"type:primaryImage\"></p><p>Ledger\u2019s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.</p>",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6fcfe69038e43e56",
+  "title": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+    "summary": "CleanSpark is ending monthly mining reports, while BitFuFu faces uncertainty over its Ethiopia deal.",
+    "published": "Thu, 15 Oct 2026 16:06:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "92db7a885b1782a3",
+  "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+    "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
+    "published": "Thu, 15 Oct 2026 16:00:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "85f6586c6b48da17",
+  "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
+    "summary": "DeFi Development is raising the dividend rate on its CHAD preferred stock to 14% from 13% as it taps CHAD sales to grow its Solana treasury.",
+    "published": "Thu, 15 Oct 2026 15:48:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "706bc323c5162dcb",
+  "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+    "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
+    "published": "Thu, 15 Oct 2026 14:43:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "caa08a249c9d1b40",
+  "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
+    "summary": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.",
+    "published": "Thu, 15 Oct 2026 14:01:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d1536ca80a1ff12e",
+  "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+    "summary": "Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.",
+    "published": "Thu, 15 Oct 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b27c1bc6a4f80793",
+  "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+    "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d4def87e364f323f",
+  "title": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+    "summary": "The EBA classified Circle\u2019s USDC as the EU\u2019s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
+    "published": "Thu, 15 Oct 2026 11:10:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cce7776caf6bef7c",
+  "title": "What I Self-Host",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "summary": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p> <p>Points: 9</p> <p># Comments: 1</p>",
+    "published": "Thu, 15 Oct 2026 20:23:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "175dd15b0d07081b",
+  "title": "Why are we even doing all this?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/\">https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109707\">https://news.ycombinator.com/item?id=50109707</a></p> <p>Points: 36</p> <p># Comments: 16</p>",
+    "published": "Thu, 15 Oct 2026 20:22:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "19ed1d5df2f63dcf",
+  "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "summary": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p> <p>Points: 17</p> <p># Comments: 6</p>",
+    "published": "Thu, 15 Oct 2026 19:55:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "32a34d9916618b3b",
+  "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "summary": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p> <p>Points: 72</p> <p># Comments: 25</p>",
+    "published": "Thu, 15 Oct 2026 19:21:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3773c00a4e65f761",
+  "title": "We are entering a period of overlapping crises",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
+    "summary": "<p>Article URL: <a href=\"https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/\">https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108491\">https://news.ycombinator.com/item?id=50108491</a></p> <p>Points: 34</p> <p># Comments: 23</p>",
+    "published": "Thu, 15 Oct 2026 18:54:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d7225284d228f28c",
+  "title": "E Ink Kaleido 4",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+    "summary": "<p><a href=\"https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\" rel=\"nofollow\">https://web.archive.org/web/20261015180401/https://www.eink....</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108229\">https://news.ycombinator.com/item?id=50108229</a></p> <p>Points: 70</p> <p># Comments: 31</p>",
+    "published": "Thu, 15 Oct 2026 18:38:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "34bf133078de58bf",
+  "title": "Muse Spark Open",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "summary": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://n",
+    "published": "Thu, 15 Oct 2026 17:47:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "885fbf934edad796",
+  "title": "Show HN: Sygal \u2013 Convert PDFs, scans and web pages to Markdown, locally",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://sygal.app",
+    "summary": "<p>Article URL: <a href=\"https://sygal.app\">https://sygal.app</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106054\">https://news.ycombinator.com/item?id=50106054</a></p> <p>Points: 29</p> <p># Comments: 8</p>",
+    "published": "Thu, 15 Oct 2026 16:26:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "acc03d08e7b8fc8b",
+  "title": "Jev meets the Trolley Problem",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://zachlandes.com/trolley-problem/",
+    "summary": "<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p> <p>Points: 161</p> <p># Comments: 81</p>",
+    "published": "Thu, 15 Oct 2026 16:24:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2ca9145b991aa09e",
+  "title": "The technical actions needed to ensure the continuity of UTC",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "summary": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p> <p>Points: 81</p> <p># Comments: 36</p>",
+    "published": "Thu, 15 Oct 2026 16:11:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a0d58fa52c7a34d2",
+  "title": "Krea 3 \u2013 An image model built for editing at scale",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.krea.ai/krea-3",
+    "summary": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p> <p>Points: 192</p> <p># Comments: 70</p>",
+    "published": "Thu, 15 Oct 2026 16:04:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c797ac90ed8bf854",
+  "title": "Neural networks are clean",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://already-clean.goodfire.com/",
+    "summary": "<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p> <p>Points: 354</p> <p># Comments: 113</p>",
+    "published": "Thu, 15 Oct 2026 16:04:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1f3b80ce93cbd87e",
+  "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "summary": "<p>Article URL: <a href=\"https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\">https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105635\">https://news.ycombinator.com/item?id=50105635</a></p> <p>Points: 217</p> <p># Comments: 232</p>",
+    "published": "Thu, 15 Oct 2026 16:03:19 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c0174e8976d1078a",
+  "title": "Show HN: Proa \u2013 A Rust web framework with fast SSR and multi-target rendering",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://proa.so/",
+    "summary": "<p>Video: <a href=\"https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1\" rel=\"nofollow\">https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1</a><p>Video on multi-target rendering: <a href=\"https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq\" rel=\"nofollow\">https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq</a><p>Benchmarks: <a href=\"https://github.com/Proa-Labs/proa-benchmarks\" rel=\"nofollow\">https://github.com/Proa-Labs/proa-benchmarks</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105467\">https://news.ycombinator.com/item?id=50105467</a></p> <p>Points: 65</p> <p># Comments:",
+    "published": "Thu, 15 Oct 2026 15:52:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e16f02cb0d771fa6",
+  "title": "Celebrating 70 Years of Fortran",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "summary": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p> <p>Points: 178</p> <p># Comments: 76</p>",
+    "published": "Thu, 15 Oct 2026 15:03:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2702a2f8e6d0052b",
+  "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "summary": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\">https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104654\">https://news.ycombinator.com/item?id=50104654</a></p> <p>Points: 200</p> <p># Comments: 173</p>",
+    "published": "Thu, 15 Oct 2026 14:58:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6cb5a4950314cfda",
+  "title": "I know why the mathematicians weep",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "summary": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\">https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103630\">https://news.ycombinator.com/item?id=50103630</a></p> <p>Points: 310</p> <p># Comments: 496</p>",
+    "published": "Thu, 15 Oct 2026 13:44:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4cd0346ddca47caa",
+  "title": "Wayland desktop for Linux with skeuomorphic design",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/fyzugx/DEsk",
+    "summary": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p> <p>Points: 419</p> <p># Comments: 173</p>",
+    "published": "Thu, 15 Oct 2026 13:23:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1bfcd8c954d83395",
+  "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "summary": "<p>Article URL: <a href=\"https://www.cppstories.com/2026/cpp26_contracts/\">https://www.cppstories.com/2026/cpp26_contracts/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103164\">https://news.ycombinator.com/item?id=50103164</a></p> <p>Points: 110</p> <p># Comments: 106</p>",
+    "published": "Thu, 15 Oct 2026 13:11:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "44e4355d7e2b0694",
+  "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://libreboot.org/news/libreboot2610.html",
+    "summary": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p> <p>Points: 225</p> <p># Comments: 128</p>",
+    "published": "Thu, 15 Oct 2026 12:52:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cf6f64f0e4c00aa1",
+  "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+    "published": "Thu, 15 Oct 2026 20:38:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "21e3505542d990f7",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "published": "Thu, 15 Oct 2026 20:04:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "69334bf7d5867e77",
+  "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "published": "Thu, 15 Oct 2026 19:55:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b3c1c339e3cbb38f",
+  "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+    "summary": "The executives argued that advertising isn\u2019t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+    "published": "Thu, 15 Oct 2026 19:29:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "031cee9ab4e640cb",
+  "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "summary": "METR will publish its own assessments of Anthropic\u2019s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "published": "Thu, 15 Oct 2026 19:14:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "00b9e4087573b03b",
+  "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "summary": "Bluesky is bringing \u201csocial vibe coding\u201d to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+    "published": "Thu, 15 Oct 2026 18:56:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "788e1a78996f5caa",
+  "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston\u2019s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+    "published": "Thu, 15 Oct 2026 18:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "72eed67fa4b0ddf0",
+  "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+    "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+    "published": "Thu, 15 Oct 2026 17:34:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "21b841a5a73e575f",
+  "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+    "summary": "SK Hynix\u2019s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+    "published": "Thu, 15 Oct 2026 16:45:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a040032c190037a3",
+  "title": "AI agents are coming to Rivian\u2019s cars",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+    "published": "Thu, 15 Oct 2026 15:02:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d50f8db84b07d382",
+  "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+    "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+    "published": "Thu, 15 Oct 2026 14:47:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b4faeb1cc12acc47",
+  "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "published": "Thu, 15 Oct 2026 14:29:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a3fa54bbd59382e2",
+  "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6e142c9ecbe2a4af",
+  "title": "Governments are hacking people with \u2018zero-click\u2019 spyware by showing them online ads",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+    "summary": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+    "published": "Thu, 15 Oct 2026 10:00:00 +0000"
    }
   ]
  }
