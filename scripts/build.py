@@ -66,7 +66,8 @@ def is_retracted(meta: dict) -> bool:
 
 
 INLINE_MD = (
-    (re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)"), r'<a href="\2">\1</a>'),
+    (re.compile(r"\[\[([^\]]+)\]\]"), r"[\1]"),  # writer's '[[source]]' -> '[source]'
+    (re.compile(r"\[([^\]]+)\]\((https?://[^\s)]+)\)"), r'<a href="\2">\1</a>'),
     (re.compile(r"\*\*([^*]+)\*\*"), r"<strong>\1</strong>"),
     (re.compile(r"(?<!\*)\*([^*\n]+)\*(?!\*)"), r"<em>\1</em>"),
     (re.compile(r"`([^`\n]+)`"), r"<code>\1</code>"),
@@ -82,7 +83,8 @@ def inline_md(text: str) -> str:
 
 def plain_md(text: str) -> str:
     """Markdown stripped to readable text, for excerpts: '[a](u)' -> 'a'."""
-    text = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", r"\1", text)
+    text = re.sub(r"\[\[([^\]]+)\]\]", r"[\1]", text)
+    text = re.sub(r"\[([^\]]+)\]\((https?://[^\s)]+)\)", r"\1", text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
     text = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"\1", text)
     text = re.sub(r"`([^`\n]+)`", r"\1", text)
