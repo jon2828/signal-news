@@ -1,35 +1,35 @@
 [
  {
-  "id": "04b78b7ae028731e",
-  "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+  "id": "c290b0a13b67825f",
+  "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
   "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major infrastructure change by MSCI that could force significant index outflows from major Bitcoin treasury companies like Strategy.",
+  "reason": "Detailed financial breakdown from a major stablecoin issuer provides important transparency on unit economics and revenue distribution.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-    "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
-    "published": "Fri, 16 Oct 2026 08:34:48 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
+    "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
+    "published": "Fri, 16 Oct 2026 14:58:29 +0000"
    }
   ]
  },
  {
-  "id": "3fea1e8e8d514b6c",
-  "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+  "id": "7b461613537dc866",
+  "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
   "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Significant frontier research result from Google that impacts the timeline for quantum computing and potential cryptographic risks.",
+  "reason": "Commercial production launch of USDC prefunding by Visa is a concrete adoption milestone for stablecoin infrastructure.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
-    "summary": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks.",
-    "published": "Fri, 16 Oct 2026 10:13:32 +0000"
+    "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+    "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
+    "published": "Fri, 16 Oct 2026 11:25:12 +0000"
    }
   ]
  }
