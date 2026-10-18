@@ -5,32 +5,32 @@ topic: bitcoin
 score: 8
 candidate_id: 04b78b7ae028731e
 sources: ["https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes"]
-triage_reason: "MSCI approving index rules that could eject Strategy and Metaplanet is a confirmed, sourced development with major passive-flow implications for bitco"
+triage_reason: "MSCI index rules could force major bitcoin-holding companies out of equity indexes, a material structural risk for BTC treasury firms."
 ---
 
-MSCI has approved rules that could eject Strategy and Metaplanet from its equity indexes, CoinDesk reports. The rules, first proposed in August, make companies that "exist mainly to hold investments" ineligible for index inclusion.
+MSCI has approved rules that could eject Strategy and Metaplanet from its equity indexes, according to CoinDesk. The rules, first proposed in August, would make companies that "exist mainly to hold investments" ineligible for index inclusion.
 
-## What the rules say
+## What MSCI actually did
 
-The summary is short, but the core of it is simple. MSCI, one of the big index providers, is drawing a line: if a company exists mainly to hold investments, it no longer qualifies for the equity indexes. Strategy and Metaplanet are the two names in the headline. If you follow corporate bitcoin buying, they need no introduction.
+The source on this is a summary, so the facts section of this post is short. MSCI proposed the change in August. It has now approved it. Companies whose main purpose is holding investments would no longer qualify for MSCI's equity indexes, and the two names CoinDesk puts in the headline are Strategy and Metaplanet.
 
-## Why index membership matters
+Readers of this site know both names. They are the reason this story is on a bitcoin site at all.
 
-This is plumbing, and plumbing moves money. Funds that track MSCI indexes hold the constituents mechanically. When a stock enters the index, those funds buy it. When it leaves, they sell. Nobody sits down and rethinks the company. The rulebook decides.
+## Why this matters more than it looks
 
-That passive bid is part of the story for any heavily indexed stock. Lose it and you lose a buyer that never negotiates and never hesitates.
+Index membership sounds like paperwork. It is not. Passive funds do not pick stocks, they hold whatever the index holds. When an index provider changes the list, every fund tracking that list trades to match. A company coming out of the index means the passive money comes out with it, not because a manager somewhere got bearish, but because the product does exactly what it is built to do.
 
-## My read
+That machinery runs in both directions. The same mechanical buying that lifts whatever gets added becomes mechanical selling on the way out. I have no numbers on how much passive money sits behind either name, and I am not going to invent any. But if the ejections happen, the direction of the flow is not ambiguous.
 
-There's a real question underneath this about what these companies actually are. If most of your value sits in one asset and the operating business is small by comparison, MSCI's answer is that you look like a fund, and funds don't belong in equity indexes. That's a defensible line. It also lands squarely on the companies that turned buying bitcoin with shareholder money into a business model.
+My read: MSCI is drawing a line between companies that do things and companies that hold things. Reasonable people can argue about where that line should sit. What is harder to argue is that the line does not exist. A lot of the treasury-company trade has spent its life acting like it does not, and this is what it looks like when a referee shows up.
 
-I keep coming back to the precedent. Index providers get to define what counts as an operating company, and that definition just moved. Every other index provider will watch how this goes, and every company with a treasury-heavy balance sheet should too.
+## What I don't know
 
-## What's still unknown
+Plenty, and I would rather say so than pad. I don't know the threshold MSCI will use to define "mainly." I don't know when the rules take effect. I don't know whether there is a transition window or any kind of review process. I don't know which specific indexes are covered.
 
-Plenty. The exact thresholds are not in the summary. Neither is the implementation timeline, nor whether companies get a path to argue their case or restructure before ejection. The August proposal is now approved policy, but how MSCI applies it, and how many companies beyond the two named ones get caught, is the part that matters most and the part we don't have.
+Those details are the story. A threshold set at one level catches two famous names and nobody else. Set it differently and you are talking about a much wider reshuffle of what counts as a public company.
 
-If you own these stocks partly for the passive flows, that uncertainty is now part of the position.
+The word doing all the work here is "mainly." Until the full methodology is public, nobody outside MSCI knows exactly where the line gets drawn, and I am not going to guess.
 
 ## Sources
 

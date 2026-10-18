@@ -1,35 +1,35 @@
 [
  {
-  "id": "d4def87e364f323f",
-  "title": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
-  "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "First-ever 'significant' e-money token designation under EU rules puts USDC under direct EBA supervision starting Nov 12 \u2014 a regulatory milestone for a major issuer, distinct from recent Circle coverage.",
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
-    "summary": "The EBA classified Circle\u2019s USDC as the EU\u2019s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
-    "published": "Thu, 15 Oct 2026 11:10:07 +0000"
-   }
-  ]
- },
- {
   "id": "04b78b7ae028731e",
   "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
   "topic": "bitcoin",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "MSCI approving index rules that could eject Strategy and Metaplanet is a confirmed, sourced development with major passive-flow implications for bitcoin treasury equities.",
+  "reason": "MSCI index rules could force major bitcoin-holding companies out of equity indexes, a material structural risk for BTC treasury firms.",
   "sources": [
    {
     "source": "coindesk",
     "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
     "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
     "published": "Fri, 16 Oct 2026 08:34:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "865031f862423fea",
+  "title": "The White House's crypto chief departs: State of Crypto",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Departure of the White House's crypto policy chief is a notable regulatory-landscape development with a named source.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "summary": "Patrick Witt announced his departure from the White House last week.",
+    "published": "Sun, 18 Oct 2026 18:30:00 +0000"
    }
   ]
  }

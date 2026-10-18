@@ -1,15 +1,15 @@
 [
  {
-  "id": "a0b921cc89317833",
-  "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-  "topic": "both",
+  "id": "10c5f938778bbe62",
+  "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+  "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://www.flexport.com/company/careers/",
-    "summary": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126774\">https://news.ycombinator.com/item?id=50126774</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
-    "published": "Sat, 17 Oct 2026 01:01:51 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+    "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+    "published": "Sun, 18 Oct 2026 19:50:28 +0000"
    }
   ]
  },
@@ -24,6 +24,20 @@
     "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
     "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
     "published": "Fri, 16 Oct 2026 08:34:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "865031f862423fea",
+  "title": "The White House's crypto chief departs: State of Crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "summary": "Patrick Witt announced his departure from the White House last week.",
+    "published": "Sun, 18 Oct 2026 18:30:00 +0000"
    }
   ]
  }
