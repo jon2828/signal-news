@@ -3,10 +3,10 @@
   "id": "04b78b7ae028731e",
   "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
   "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "MSCI index rules could force major bitcoin-holding companies out of equity indexes, a material structural risk for BTC treasury firms.",
+  "reason": "MSCI approving rules that could delist Strategy and Metaplanet from equity indexes is a confirmed, consequential infrastructure change for major bitcoin treasury companies.",
   "sources": [
    {
     "source": "coindesk",
@@ -17,19 +17,19 @@
   ]
  },
  {
-  "id": "865031f862423fea",
-  "title": "The White House's crypto chief departs: State of Crypto",
+  "id": "4e3f041cfa464755",
+  "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Departure of the White House's crypto policy chief is a notable regulatory-landscape development with a named source.",
+  "reason": "JPMorgan extending its deposit token to Ethereum is a significant institutional infrastructure expansion sourced to Bloomberg.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-    "summary": "Patrick Witt announced his departure from the White House last week.",
-    "published": "Sun, 18 Oct 2026 18:30:00 +0000"
+    "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+    "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
+    "published": "Mon, 19 Oct 2026 10:03:47 +0000"
    }
   ]
  }
