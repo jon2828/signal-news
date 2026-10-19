@@ -1,193 +1,5 @@
 [
  {
-  "id": "b12af10aece509d9",
-  "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59MBQFEA0ZPNG2VY870K1C7/hi-jp-morgan-chase-and-crypto-recap-1.jpg\" alt=\"JPMorgan takes JPM Coin to Ethereum for institutional clients: Report\" class=\"type:primaryImage\"></p><p>JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.</p>",
-    "published": "Mon, 19 Oct 2026 08:58:45 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
-    "summary": "The USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base.",
-    "published": "Mon, 19 Oct 2026 08:31:31 +0000"
-   }
-  ]
- },
- {
-  "id": "5057b1745de0262e",
-  "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KYERPENFDEPMTNEM29K/big-wave-bitcoin-ethereum-market-fall-1.jpg\" alt=\"Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B\" class=\"type:primaryImage\"></p><p>US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.</p>",
-    "published": "Mon, 19 Oct 2026 07:54:13 +0000"
-   }
-  ]
- },
- {
-  "id": "ce82fc4c1d39e021",
-  "title": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59B8YTZZ7CK80RS5T00W25K/cia2-1.jpg\" alt=\"Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake\" class=\"type:primaryImage\"></p><p>Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.</p>",
-    "published": "Mon, 19 Oct 2026 05:55:44 +0000"
-   }
-  ]
- },
- {
-  "id": "be14b805243026e9",
-  "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg\" alt=\"South Korea to meet crypto exchanges amid calls for tax delay\" class=\"type:primaryImage\"></p><p>Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax\u2019s start date back two years.</p>",
-    "published": "Mon, 19 Oct 2026 05:14:06 +0000"
-   }
-  ]
- },
- {
-  "id": "8a7ed6b7e281f21d",
-  "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg\" alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=\"type:primaryImage\"></p><p>Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.</p>",
-    "published": "Mon, 19 Oct 2026 01:03:27 +0000"
-   }
-  ]
- },
- {
-  "id": "732e6e5cc3627c74",
-  "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg\" alt=\"Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest\" class=\"type:primaryImage\"></p><p>HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.</p>",
-    "published": "Sun, 18 Oct 2026 22:58:17 +0000"
-   }
-  ]
- },
- {
-  "id": "8abc7f686279d015",
-  "title": "\u2018We found room for more orange\u2019: Michael Saylor\u2019s Strategy buys another 267 bitcoin for $22 million",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895",
-    "summary": "Strategy's BTC holdings account for around 4% of the total bitcoin supply, with $5.9 billion in paper gains.",
-    "published": "Mon, 19 Oct 2026 12:10:14 +0000"
-   }
-  ]
- },
- {
-  "id": "55840dd076569a90",
-  "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
-    "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
-    "published": "Mon, 19 Oct 2026 10:42:07 +0000"
-   }
-  ]
- },
- {
-  "id": "0db26729f98c472a",
-  "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-    "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
-    "published": "Mon, 19 Oct 2026 01:10:00 +0000"
-   }
-  ]
- },
- {
-  "id": "c6d91d9f5d1310e6",
-  "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous\">https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150935\">https://news.ycombinator.com/item?id=50150935</a></p> <p>Points: 3</p> <p># Comments: 0</p>",
-    "published": "Mon, 19 Oct 2026 11:12:02 +0000"
-   }
-  ]
- },
- {
-  "id": "7fe60f412476fe90",
-  "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-    "summary": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150809\">https://news.ycombinator.com/item?id=50150809</a></p> <p>Points: 25</p> <p># Comments: 2</p>",
-    "published": "Mon, 19 Oct 2026 10:53:39 +0000"
-   }
-  ]
- },
- {
-  "id": "c187ea7b68bc5579",
-  "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-    "summary": "<p>Article URL: <a href=\"https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816\">https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150750\">https://news.ycombinator.com/item?id=50150750</a></p> <p>Points: 51</p> <p># Comments: 13</p>",
-    "published": "Mon, 19 Oct 2026 10:45:14 +0000"
-   }
-  ]
- },
- {
-  "id": "b8a89667dd94c192",
-  "title": "Timestral: Mistral release time-series foundation models",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mistral.ai/news/timestral/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/timestral/\">https://mistral.ai/news/timestral/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150434\">https://news.ycombinator.com/item?id=50150434</a></p> <p>Points: 63</p> <p># Comments: 14</p>",
-    "published": "Mon, 19 Oct 2026 09:59:32 +0000"
-   }
-  ]
- },
- {
   "id": "a7dcd5c841f843b1",
   "title": "Linux 7.3 Released",
   "topic": "both",
@@ -202,86 +14,184 @@
   ]
  },
  {
-  "id": "be829f23c5f5d1f2",
-  "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-  "topic": "both",
+  "id": "aaaf393dcb103418",
+  "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+  "topic": "ai",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-    "summary": "<p>Article URL: <a href=\"https://crystl.dev/guides/tmux-for-ai-agents/\">https://crystl.dev/guides/tmux-for-ai-agents/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148855\">https://news.ycombinator.com/item?id=50148855</a></p> <p>Points: 60</p> <p># Comments: 34</p>",
-    "published": "Mon, 19 Oct 2026 05:55:31 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "published": "Mon, 19 Oct 2026 20:09:24 +0000"
    }
   ]
  },
  {
-  "id": "ce2de30f63f2b0e8",
-  "title": "Superlite: A Faster Alternatie to Superpowers",
-  "topic": "both",
+  "id": "039a84854fb85dd6",
+  "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+  "topic": "ai",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-    "summary": "<p>Article URL: <a href=\"https://contextfirst.blog/superlite-hand-an-agent-a-spec/\">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50147492\">https://news.ycombinator.com/item?id=50147492</a></p> <p>Points: 105</p> <p># Comments: 43</p>",
-    "published": "Mon, 19 Oct 2026 02:01:16 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "published": "Mon, 19 Oct 2026 19:28:34 +0000"
    }
   ]
  },
  {
-  "id": "bb0c25ea36bd958e",
-  "title": "William Gibson and the trademarking of cyberspace",
-  "topic": "both",
+  "id": "e37065d0e754995b",
+  "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+  "topic": "ai",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://colo.to/cyberspace.html",
-    "summary": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p> <p>Points: 200</p> <p># Comments: 84</p>",
-    "published": "Sun, 18 Oct 2026 23:37:57 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "published": "Mon, 19 Oct 2026 19:00:12 +0000"
    }
   ]
  },
  {
-  "id": "976eac77c06e3ce9",
-  "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-  "topic": "both",
+  "id": "71c2d7263cd3eef9",
+  "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+  "topic": "ai",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "summary": "<p>Article URL: <a href=\"https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base\">https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146624\">https://news.ycombinator.com/item?id=50146624</a></p> <p>Points: 81</p> <p># Comments: 90</p>",
-    "published": "Sun, 18 Oct 2026 23:37:54 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "published": "Mon, 19 Oct 2026 18:49:04 +0000"
    }
   ]
  },
  {
-  "id": "6f2aca72a3fc4402",
-  "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-  "topic": "both",
+  "id": "36c2a79412d571d7",
+  "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+  "topic": "ai",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://github.com/finereli/whatsapp-mcp",
-    "summary": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the re",
-    "published": "Sun, 18 Oct 2026 21:36:10 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "published": "Mon, 19 Oct 2026 18:37:27 +0000"
    }
   ]
  },
  {
-  "id": "3b923dd363ed79d2",
-  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-  "topic": "both",
+  "id": "ebe42a2b25a5baf7",
+  "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+  "topic": "ai",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "summary": "<p>Article URL: <a href=\"https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145507\">https://news.ycombinator.com/item?id=50145507</a></p> <p>Points: 203</p> <p># Comments: 149</p>",
-    "published": "Sun, 18 Oct 2026 21:09:12 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+    "published": "Mon, 19 Oct 2026 18:00:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "420a1d7256135725",
+  "title": "Rivian\u2019s CEO says autonomy will enable \u2018dramatically different\u2019 vehicle designs",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+    "summary": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+    "published": "Mon, 19 Oct 2026 17:39:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9af7623112d7a9fb",
+  "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+    "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+    "published": "Mon, 19 Oct 2026 16:55:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f93d80856f11bb09",
+  "title": "People are using AI to make their smart TVs dumb again",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "published": "Mon, 19 Oct 2026 16:13:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d88320583f8c2de0",
+  "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "published": "Mon, 19 Oct 2026 15:37:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "737ede9d9eb98db0",
+  "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+    "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+    "published": "Mon, 19 Oct 2026 12:56:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1995c4060533816f",
+  "title": "Musk pledges to give \u2018every kid in America\u2019 one of his SpaceX shares",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+    "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+    "published": "Mon, 19 Oct 2026 12:42:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c17a4963d410cf3c",
+  "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "published": "Mon, 19 Oct 2026 12:30:00 +0000"
    }
   ]
  }

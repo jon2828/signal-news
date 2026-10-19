@@ -1,35 +1,18 @@
 [
  {
-  "id": "04b78b7ae028731e",
-  "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+  "id": "65a0d5fd90569c48",
+  "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
   "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "MSCI approving rules that could delist Strategy and Metaplanet from equity indexes is a confirmed, consequential infrastructure change for major bitcoin treasury companies.",
+  "reason": "CFTC stance on CME in the perpetual futures fight is a consequential regulatory development for US crypto derivatives.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-    "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
-    "published": "Fri, 16 Oct 2026 08:34:48 +0000"
-   }
-  ]
- },
- {
-  "id": "4e3f041cfa464755",
-  "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-  "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "JPMorgan extending its deposit token to Ethereum is a significant institutional infrastructure expansion sourced to Bloomberg.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-    "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-    "published": "Mon, 19 Oct 2026 10:03:47 +0000"
+    "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+    "summary": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
+    "published": "Mon, 19 Oct 2026 16:47:00 +0000"
    }
   ]
  }
