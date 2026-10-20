@@ -6,13 +6,36 @@
   "score": 7,
   "raw_score": 8,
   "weight": 0.9,
-  "reason": "Federal ban on a major frontier AI lab via DHS order, sourced to the Federal Register \u2014 significant regulatory development.",
+  "reason": "A DHS order banning DeepSeek from federal civilian agencies is a significant regulatory action against a major AI lab, backed by a primary Federal Register source despite only one aggregator.",
   "sources": [
    {
     "source": "hn",
     "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
     "summary": "<p><a href=\"https://public-inspection.federalregister.gov/2026-21447.pdf\" rel=\"nofollow\">https://public-inspection.federalregister.gov/2026-21447.pdf</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154244\">https://news.ycombinator.com/item?id=50154244</a></p> <p>Points: 278</p> <p># Comments: 240</p>",
     "published": "Mon, 19 Oct 2026 16:16:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dbaa902542534b3a",
+  "title": "OpenAI acquires Orchestra Bio",
+  "topic": "ai",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "OpenAI acquisition confirmed by two sources, a clearly publishable M&A move expanding a frontier lab into life sciences.",
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "published": "Tue, 20 Oct 2026 20:35:10 +0000"
    }
   ]
  }
