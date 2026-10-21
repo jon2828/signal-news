@@ -17083,5 +17083,380 @@
   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
   "title": "Southeast Asia\u2019s digital economy to hit $368 billion",
   "first_seen": "2026-10-21T11:12:34.645714+00:00"
+ },
+ "4ab93569e260b2b0": {
+  "url": "https://openai.com/index/att-legal",
+  "title": "How AT&T is rethinking in-house legal work with OpenAI",
+  "first_seen": "2026-10-21T21:26:12.457026+00:00"
+ },
+ "61f4d0141ff303c0": {
+  "url": "https://openai.com/index/openai-models-google-cloud",
+  "title": "OpenAI models are coming to Google Cloud",
+  "first_seen": "2026-10-21T21:26:12.457057+00:00"
+ },
+ "d3f519557f32dd3d": {
+  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "first_seen": "2026-10-21T21:26:12.457061+00:00"
+ },
+ "74fcf21eca7add4a": {
+  "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+  "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+  "first_seen": "2026-10-21T21:26:12.457064+00:00"
+ },
+ "1de8e62ff715d1f1": {
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "first_seen": "2026-10-21T21:26:12.457067+00:00"
+ },
+ "edef63b51aedc012": {
+  "url": "https://openai.com/index/building-chatgpt-ad-stack",
+  "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
+  "first_seen": "2026-10-21T21:26:12.457070+00:00"
+ },
+ "b2deaf97c98cf0ff": {
+  "url": "https://openai.com/index/empowering-cyber-defenders",
+  "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "first_seen": "2026-10-21T21:26:12.457072+00:00"
+ },
+ "cabe972b47406c71": {
+  "url": "https://tldr.tech/ai/2026-10-21",
+  "title": "DeepSeek DeepInfer \ud83d\udc0b, PyTorch on TPUs \u26a1, Ramp\u2019s agent framework \ud83d\udc68\u200d\ud83d\udcbb",
+  "first_seen": "2026-10-21T21:26:12.703492+00:00"
+ },
+ "1a3f08ed80bb710b": {
+  "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+  "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+  "first_seen": "2026-10-21T21:26:13.685146+00:00"
+ },
+ "29151f5d5c077d51": {
+  "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+  "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+  "first_seen": "2026-10-21T21:26:13.685166+00:00"
+ },
+ "2f561857989e969f": {
+  "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+  "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+  "first_seen": "2026-10-21T21:26:13.685169+00:00"
+ },
+ "5c7eb195b47cc5cf": {
+  "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+  "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+  "first_seen": "2026-10-21T21:26:13.685195+00:00"
+ },
+ "2f81cb3981351f19": {
+  "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+  "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+  "first_seen": "2026-10-21T21:26:13.685198+00:00"
+ },
+ "91c2fa178b8a656f": {
+  "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+  "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+  "first_seen": "2026-10-21T21:26:13.685201+00:00"
+ },
+ "7b1635758e8c2104": {
+  "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+  "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+  "first_seen": "2026-10-21T21:26:13.685204+00:00"
+ },
+ "0f74cc2fe5e8e13e": {
+  "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+  "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+  "first_seen": "2026-10-21T21:26:13.685208+00:00"
+ },
+ "142a360a5893d297": {
+  "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+  "first_seen": "2026-10-21T21:26:13.813333+00:00"
+ },
+ "21452969edd33a98": {
+  "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable",
+  "first_seen": "2026-10-21T21:26:13.813352+00:00"
+ },
+ "23f46afb9cd83f1b": {
+  "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+  "first_seen": "2026-10-21T21:26:13.813356+00:00"
+ },
+ "c7e7c1082577b889": {
+  "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+  "first_seen": "2026-10-21T21:26:13.813358+00:00"
+ },
+ "9990265b5b3eee69": {
+  "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+  "first_seen": "2026-10-21T21:26:13.813361+00:00"
+ },
+ "6959cf1bdd5f8500": {
+  "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+  "first_seen": "2026-10-21T21:26:13.813363+00:00"
+ },
+ "fa47802dd41f4be7": {
+  "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+  "first_seen": "2026-10-21T21:26:13.813365+00:00"
+ },
+ "315ce41b451bea64": {
+  "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+  "first_seen": "2026-10-21T21:26:13.813367+00:00"
+ },
+ "7101f264f5c7dcda": {
+  "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Big Tech\u2019s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+  "first_seen": "2026-10-21T21:26:13.813369+00:00"
+ },
+ "9e7faeacd85fadf5": {
+  "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "5 alternatives to Ledger to store your Bitcoin",
+  "first_seen": "2026-10-21T21:26:13.813372+00:00"
+ },
+ "1d3105661375578a": {
+  "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+  "first_seen": "2026-10-21T21:26:13.813375+00:00"
+ },
+ "cb9587acdf2e30a3": {
+  "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
+  "first_seen": "2026-10-21T21:26:13.813377+00:00"
+ },
+ "036527c52a9ba95b": {
+  "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+  "title": "Robinhood single-stock perps could be a \u2018strong positive\u2019 for HOOD shares, Mizuho says",
+  "first_seen": "2026-10-21T21:26:13.956779+00:00"
+ },
+ "252d8ab1e64e6714": {
+  "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
+  "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+  "first_seen": "2026-10-21T21:26:13.956798+00:00"
+ },
+ "fdcea4d1905e5440": {
+  "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
+  "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
+  "first_seen": "2026-10-21T21:26:13.956800+00:00"
+ },
+ "b3239b6fa4791f62": {
+  "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+  "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+  "first_seen": "2026-10-21T21:26:13.956803+00:00"
+ },
+ "6e8f4eb8323eaf6e": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+  "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+  "first_seen": "2026-10-21T21:26:13.956805+00:00"
+ },
+ "bcfdbb2b5241c382": {
+  "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
+  "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+  "first_seen": "2026-10-21T21:26:13.956808+00:00"
+ },
+ "06d8f0c2d8b0e689": {
+  "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+  "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
+  "first_seen": "2026-10-21T21:26:13.956810+00:00"
+ },
+ "a384661926b2810a": {
+  "url": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
+  "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
+  "first_seen": "2026-10-21T21:26:13.956812+00:00"
+ },
+ "6868c41e312e0ff6": {
+  "url": "https://every.to/thesis-statements/julian-weisser",
+  "title": "After automation: Solo founding will be the default",
+  "first_seen": "2026-10-21T21:26:14.408127+00:00"
+ },
+ "292e35e33e7becf5": {
+  "url": "https://claude.com/resources/articles/claude-duet",
+  "title": "Claude Duet",
+  "first_seen": "2026-10-21T21:26:14.408146+00:00"
+ },
+ "f2b7d634a98a5f6a": {
+  "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+  "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+  "first_seen": "2026-10-21T21:26:14.408149+00:00"
+ },
+ "5888c276693c35f7": {
+  "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+  "title": "Mistral Large 4",
+  "first_seen": "2026-10-21T21:26:14.408151+00:00"
+ },
+ "5dbb54a005401fc7": {
+  "url": "https://claude.com/product/claude-duet",
+  "title": "Claude Duet",
+  "first_seen": "2026-10-21T21:26:14.408153+00:00"
+ },
+ "ca78317f24e4363b": {
+  "url": "https://google.github.io/styleguide/rustguide.html",
+  "title": "Google's Rust Style Guide",
+  "first_seen": "2026-10-21T21:26:14.408156+00:00"
+ },
+ "9c3fe8f01f4a5c7a": {
+  "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+  "title": "GitLab Remote Code Execution - Integer Overflow issue",
+  "first_seen": "2026-10-21T21:26:14.408158+00:00"
+ },
+ "0e8f294584344279": {
+  "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+  "title": "Potential third critical PHP CVE",
+  "first_seen": "2026-10-21T21:26:14.408160+00:00"
+ },
+ "e640f7b575965778": {
+  "url": "https://canarytokens.org/",
+  "title": "Canary Tokens",
+  "first_seen": "2026-10-21T21:26:14.408163+00:00"
+ },
+ "af5d3897eb075e94": {
+  "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+  "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+  "first_seen": "2026-10-21T21:26:14.408164+00:00"
+ },
+ "bbc988e4da29f244": {
+  "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+  "title": "EA is shutting down BioWare",
+  "first_seen": "2026-10-21T21:26:14.408166+00:00"
+ },
+ "9525815776e4db0e": {
+  "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+  "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+  "first_seen": "2026-10-21T21:26:14.408169+00:00"
+ },
+ "d345d7957a6f5b7f": {
+  "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+  "title": "The bridge to agent-scale Git infrastructure",
+  "first_seen": "2026-10-21T21:26:14.408199+00:00"
+ },
+ "3b1e71c9c100b4a1": {
+  "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+  "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+  "first_seen": "2026-10-21T21:26:14.408202+00:00"
+ },
+ "5ae1819d713f5927": {
+  "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+  "title": "Today's PHP security release, and how we're strengthening security",
+  "first_seen": "2026-10-21T21:26:14.408205+00:00"
+ },
+ "4683aba59087d73e": {
+  "url": "https://buford.bg/",
+  "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+  "first_seen": "2026-10-21T21:26:14.408207+00:00"
+ },
+ "ca4f9f9aae248315": {
+  "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+  "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+  "first_seen": "2026-10-21T21:26:14.408210+00:00"
+ },
+ "98f9015f36b69acb": {
+  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+  "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+  "first_seen": "2026-10-21T21:26:14.408213+00:00"
+ },
+ "764a23f0c296d60d": {
+  "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+  "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+  "first_seen": "2026-10-21T21:26:14.408216+00:00"
+ },
+ "871d740e46f97da9": {
+  "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+  "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+  "first_seen": "2026-10-21T21:26:14.408219+00:00"
+ },
+ "063c29a16ff7723c": {
+  "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+  "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+  "first_seen": "2026-10-21T21:26:14.492984+00:00"
+ },
+ "21039cf535863304": {
+  "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+  "title": "Meta says Muse has over 10M users, with shopping a top activity",
+  "first_seen": "2026-10-21T21:26:14.493003+00:00"
+ },
+ "27111edd5327cc18": {
+  "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+  "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+  "first_seen": "2026-10-21T21:26:14.493006+00:00"
+ },
+ "6ec4c467ad3bd5bd": {
+  "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+  "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+  "first_seen": "2026-10-21T21:26:14.493008+00:00"
+ },
+ "dc1c99f7973e826c": {
+  "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+  "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+  "first_seen": "2026-10-21T21:26:14.493010+00:00"
+ },
+ "7fb5840accc557f4": {
+  "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+  "title": "Automattic begins layoffs following board upheaval and executive departures",
+  "first_seen": "2026-10-21T21:26:14.493012+00:00"
+ },
+ "252cd044b48f3e59": {
+  "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+  "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+  "first_seen": "2026-10-21T21:26:14.493014+00:00"
+ },
+ "2521ababe3b6914c": {
+  "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+  "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+  "first_seen": "2026-10-21T21:26:14.493016+00:00"
+ },
+ "a9cc4be8b0bea8a2": {
+  "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+  "first_seen": "2026-10-21T21:26:14.493018+00:00"
+ },
+ "9e7ff52c6deb0aa7": {
+  "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+  "title": "The internet is having a very bad cybersecurity day",
+  "first_seen": "2026-10-21T21:26:14.493021+00:00"
+ },
+ "3892a33f138537cd": {
+  "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+  "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+  "first_seen": "2026-10-21T21:26:14.493023+00:00"
+ },
+ "9a91589c001294ef": {
+  "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+  "title": "GM is giving OnStar an AI makeover",
+  "first_seen": "2026-10-21T21:26:14.493024+00:00"
+ },
+ "66d6885dea0a4d03": {
+  "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+  "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+  "first_seen": "2026-10-21T21:26:14.493027+00:00"
+ },
+ "49c4538f4284d648": {
+  "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+  "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+  "first_seen": "2026-10-21T21:26:14.493029+00:00"
+ },
+ "621d2f60a253f5f5": {
+  "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+  "title": "Waymo starts offering rides at the Las Vegas airport",
+  "first_seen": "2026-10-21T21:26:14.493030+00:00"
+ },
+ "7d86b18ce7091bbf": {
+  "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+  "title": "Foursquare co-founder says equity holders saw no returns from the company\u2019s acquisition",
+  "first_seen": "2026-10-21T21:26:14.493033+00:00"
+ },
+ "0b138e9a1d82325f": {
+  "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+  "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+  "first_seen": "2026-10-21T21:26:14.493035+00:00"
+ },
+ "f986e6a4606483a4": {
+  "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+  "title": "Heat pump tech is 170 years old \u2014 Pascal thinks it\u2019s time for an update",
+  "first_seen": "2026-10-21T21:26:14.493036+00:00"
+ },
+ "515279e278771c0f": {
+  "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+  "title": "Mach9 raises $34M after pivoting to AI CAD software",
+  "first_seen": "2026-10-21T21:26:14.493038+00:00"
  }
 }
