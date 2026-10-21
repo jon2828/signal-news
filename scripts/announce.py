@@ -92,7 +92,7 @@ def main() -> int:
         if not title:
             log_decision("announce_failed", json.dumps({"file": stem, "error": "no title found"}))
             continue
-        link = f"{base_url}/posts/{stem}.html"
+        link = f"{base_url}/posts/{stem}"
         # 280-char limit: trim the title to leave room for " — " + link + margin.
         room = 280 - len(link) - 3
         text = f"{title[:room]} — {link}"
