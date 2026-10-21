@@ -247,7 +247,9 @@ def head_meta(*, base_url: str, title: str, description: str, path: str = "",
 
 
 def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
-    url = f"{base_url}/posts/{esc(meta['path'].stem)}.html"
+    # The clean form: Cloudflare serves /posts/<stem> with 200 and 307s the
+    # .html form, so linking .html would cost every in-site click a redirect.
+    url = f"{base_url}/posts/{esc(meta['path'].stem)}"
     blocks = md_blocks(meta["body"])
     excerpt = esc(excerpt_of(meta))
     title_html = (f'<h2><a href="{url}">{esc(meta.get("title", "untitled"))}</a></h2>'
@@ -362,7 +364,7 @@ def main() -> int:
         f"Sitemap: {base_url}/sitemap.xml\n")
     today = datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%d")
     urls = [f"{base_url}/", f"{base_url}/disclosure"] + [
-        f"{base_url}/posts/{esc(m['path'].stem)}.html" for m in live]
+        f"{base_url}/posts/{esc(m['path'].stem)}" for m in live]
     sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                + "\n".join(
@@ -390,7 +392,7 @@ def main() -> int:
     now = datetime.datetime.now(datetime.UTC).strftime("%a, %d %b %Y %H:%M:%S GMT")
     rss_items = []
     for m in live[:30]:
-        link = f"{base_url}/posts/{esc(m['path'].stem)}.html" if base_url else f"/posts/{esc(m['path'].stem)}.html"
+        link = f"{base_url}/posts/{esc(m['path'].stem)}" if base_url else f"/posts/{esc(m['path'].stem)}"
         rss_items.append(
             f"<item><title>{esc(m.get('title'))}</title>"
             f"<link>{link}</link>"
