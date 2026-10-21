@@ -8,6 +8,7 @@ import datetime
 import html
 import json
 import re
+import shutil
 import sys
 from pathlib import Path
 
@@ -207,6 +208,14 @@ DISCLOSURE_DESCRIPTION = ("How Unspent Thoughts works: where the stories come fr
                           "are selected and fact-checked, and what happens when one is wrong.")
 MAX_DESCRIPTION = 158
 
+# One site-wide social card, served from site/assets (a source directory) into
+# the dist root by copy_assets(). Kept deliberately single: a per-post image
+# would mean rendering a bitmap on every pipeline run.
+OG_IMAGE_PATH = "/og-card.png"
+OG_IMAGE_SIZE = (1200, 630)
+OG_IMAGE_ALT = "Unspent Thoughts — AI and Bitcoin news that earned its place"
+ASSET_SUFFIXES = (".png", ".jpg", ".jpeg", ".svg", ".ico", ".webp")
+
 
 def meta_description(text: str, limit: int = MAX_DESCRIPTION) -> str:
     """Trim a summary to search/social length on a word boundary.
@@ -228,11 +237,14 @@ def head_meta(*, base_url: str, title: str, description: str, path: str = "",
     URL so duplicate URLs collapse onto a single canonical. ``og_type`` is
     "article" for posts and "website" for standing pages.
 
-    There is deliberately no ``og:image``: the repo ships no image asset, and a
-    tag pointing at a 404 renders a broken card on X, which is worse than none.
-    Add the tag here once a real image exists."""
+    There is deliberately no per-page ``og:image``: one site-wide card is used
+    for every page, because a per-post image would mean rendering a bitmap on
+    every pipeline run. The card itself is copied into dist by ``copy_assets``.
+    """
     canonical = f"{base_url}{path}" if base_url else (path or "/")
-    twitter_card = "summary"
+    image = f"{base_url}{OG_IMAGE_PATH}" if base_url else OG_IMAGE_PATH
+    width, height = OG_IMAGE_SIZE
+    twitter_card = "summary_large_image"
     return (
         f'<meta name="description" content="{esc(description)}">'
         f'<link rel="canonical" href="{esc(canonical)}">'
@@ -241,9 +253,16 @@ def head_meta(*, base_url: str, title: str, description: str, path: str = "",
         f'<meta property="og:title" content="{esc(title)}">'
         f'<meta property="og:description" content="{esc(description)}">'
         f'<meta property="og:url" content="{esc(canonical)}">'
+        f'<meta property="og:image" content="{esc(image)}">'
+        f'<meta property="og:image:type" content="image/png">'
+        f'<meta property="og:image:width" content="{width}">'
+        f'<meta property="og:image:height" content="{height}">'
+        f'<meta property="og:image:alt" content="{esc(OG_IMAGE_ALT)}">'
         f'<meta name="twitter:card" content="{twitter_card}">'
         f'<meta name="twitter:title" content="{esc(title)}">'
-        f'<meta name="twitter:description" content="{esc(description)}">')
+        f'<meta name="twitter:description" content="{esc(description)}">'
+        f'<meta name="twitter:image" content="{esc(image)}">'
+        f'<meta name="twitter:image:alt" content="{esc(OG_IMAGE_ALT)}">')
 
 
 def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
@@ -269,6 +288,24 @@ def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> 
     return "\n".join(out)
 
 
+def copy_assets(dist: Path) -> int:
+    """Copy static image assets from site/assets into the dist root.
+
+    dist is wiped at the start of every build, so anything not generated here
+    (the social card, and any favicon added later) has to be copied in. Only
+    image suffixes are copied: site/assets also holds the card's source HTML,
+    which must not be published."""
+    src = ROOT / "site" / "assets"
+    if not src.is_dir():
+        return 0
+    copied = 0
+    for item in sorted(src.iterdir()):
+        if item.is_file() and item.suffix.lower() in ASSET_SUFFIXES:
+            shutil.copyfile(item, dist / item.name)
+            copied += 1
+    return copied
+
+
 def main() -> int:
     if kill_switch():
         return guarded_exit("build")
@@ -287,6 +324,10 @@ def main() -> int:
     for old in dist.rglob("*"):
         if old.is_file():
             old.unlink()
+
+    # Source images (the social card) are not generated above, and the wipe has
+    # just removed the previous build's copies, so re-copy them.
+    copy_assets(dist)
 
     # Optional privacy-first analytics: Cloudflare Web Analytics beacon.
     analytics = ""
