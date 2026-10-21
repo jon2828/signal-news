@@ -1,41 +1,35 @@
 [
  {
-  "id": "73e349e9fd4c60a1",
-  "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-  "topic": "both",
-  "score": 7,
+  "id": "35844fc03d40b131",
+  "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+  "topic": "bitcoin",
+  "score": 8,
   "raw_score": 8,
-  "weight": 0.9,
-  "reason": "A DHS order banning DeepSeek from federal civilian agencies is a significant regulatory action against a major AI lab, backed by a primary Federal Register source despite only one aggregator.",
+  "weight": 1.0,
+  "reason": "A potential merger between two major public companies with significant Bitcoin holdings is a major market-moving event, though currently in the assessment phase.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "summary": "<p><a href=\"https://public-inspection.federalregister.gov/2026-21447.pdf\" rel=\"nofollow\">https://public-inspection.federalregister.gov/2026-21447.pdf</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154244\">https://news.ycombinator.com/item?id=50154244</a></p> <p>Points: 278</p> <p># Comments: 240</p>",
-    "published": "Mon, 19 Oct 2026 16:16:46 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+    "summary": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla\u2019s results.",
+    "published": "Wed, 21 Oct 2026 09:23:00 +0000"
    }
   ]
  },
  {
-  "id": "dbaa902542534b3a",
-  "title": "OpenAI acquires Orchestra Bio",
-  "topic": "ai",
-  "score": 7,
-  "raw_score": 7,
+  "id": "d08f987d6839db67",
+  "title": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+  "topic": "bitcoin",
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "OpenAI acquisition confirmed by two sources, a clearly publishable M&A move expanding a frontier lab into life sciences.",
+  "reason": "Solana's Alpenglow upgrade is a major protocol change targeting 150ms finality, representing a significant infrastructure shift for a top-tier L1.",
   "sources": [
    {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "published": "Tue, 20 Oct 2026 00:00:00 GMT"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "published": "Tue, 20 Oct 2026 20:35:10 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+    "summary": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
+    "published": "Wed, 21 Oct 2026 04:35:52 +0000"
    }
   ]
  }
