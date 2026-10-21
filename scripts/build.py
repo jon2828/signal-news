@@ -201,6 +201,51 @@ def excerpt_of(meta: dict) -> str:
     return plain_md(first)[:280]
 
 
+SITE_DESCRIPTION = ("AI and Bitcoin news that earned its place. Selected, written, and "
+                    "fact-checked by software, with every decision logged.")
+DISCLOSURE_DESCRIPTION = ("How Unspent Thoughts works: where the stories come from, how they "
+                          "are selected and fact-checked, and what happens when one is wrong.")
+MAX_DESCRIPTION = 158
+
+
+def meta_description(text: str, limit: int = MAX_DESCRIPTION) -> str:
+    """Trim a summary to search/social length on a word boundary.
+
+    Search engines truncate around 160 characters, so the cut is made here and
+    marked with an ellipsis; letting the consumer clip it would cut mid-word."""
+    clean = " ".join(plain_md(text).split())
+    if len(clean) <= limit:
+        return clean
+    cut = clean[: limit - 1].rsplit(" ", 1)[0].rstrip(" ,;:.—-")
+    return (cut or clean[: limit - 1]).rstrip() + "…"
+
+
+def head_meta(*, base_url: str, title: str, description: str, path: str = "",
+              og_type: str = "website") -> str:
+    """Description, canonical and Open Graph/Twitter tags for one page.
+
+    ``path`` is site-relative ("" for the homepage) and must be the page's final
+    URL so duplicate URLs collapse onto a single canonical. ``og_type`` is
+    "article" for posts and "website" for standing pages.
+
+    There is deliberately no ``og:image``: the repo ships no image asset, and a
+    tag pointing at a 404 renders a broken card on X, which is worse than none.
+    Add the tag here once a real image exists."""
+    canonical = f"{base_url}{path}" if base_url else (path or "/")
+    twitter_card = "summary"
+    return (
+        f'<meta name="description" content="{esc(description)}">'
+        f'<link rel="canonical" href="{esc(canonical)}">'
+        f'<meta property="og:type" content="{og_type}">'
+        f'<meta property="og:site_name" content="Unspent Thoughts">'
+        f'<meta property="og:title" content="{esc(title)}">'
+        f'<meta property="og:description" content="{esc(description)}">'
+        f'<meta property="og:url" content="{esc(canonical)}">'
+        f'<meta name="twitter:card" content="{twitter_card}">'
+        f'<meta name="twitter:title" content="{esc(title)}">'
+        f'<meta name="twitter:description" content="{esc(description)}">')
+
+
 def render_post(meta: dict, base_url: str, full: bool, heading: bool = True) -> str:
     url = f"{base_url}/posts/{esc(meta['path'].stem)}.html"
     blocks = md_blocks(meta["body"])
@@ -252,6 +297,7 @@ def main() -> int:
     index = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
              f'<meta name="viewport" content="width=device-width,initial-scale=1">'
              f'<title>Unspent Thoughts — AI and Bitcoin news that earned its place</title>'
+             f'{head_meta(base_url=base_url, title="Unspent Thoughts — AI and Bitcoin news that earned its place", description=SITE_DESCRIPTION)}'
              f'<style>{SITE_CSS}</style>{analytics}</head><body>'
              f'<header class="site">'
              f'<h1><a href="/">Unspent Thoughts</a></h1>'
@@ -269,10 +315,13 @@ def main() -> int:
     posts_dir_dist = dist / "posts"
     posts_dir_dist.mkdir(exist_ok=True)
     for m in posts:
-        title = esc(m.get("title"))
+        raw_title = str(m.get("title", "untitled"))
+        title = esc(raw_title)
+        post_path = f"/posts/{m['path'].stem}.html"
         page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                 f'<title>{title} — Unspent Thoughts</title>'
+                f'{head_meta(base_url=base_url, title=raw_title, description=meta_description(excerpt_of(m)), path=post_path, og_type="article")}'
                 f'<style>{SITE_CSS}</style>{analytics}</head><body>'
                 f'<header class="site">'
                    f'<h1><a href="/">Unspent Thoughts</a></h1>'
@@ -293,7 +342,9 @@ def main() -> int:
 
     notfound = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-                f'<title>Not found — Unspent Thoughts</title><style>{SITE_CSS}</style></head>'
+                f'<title>Not found — Unspent Thoughts</title>'
+                f'<meta name="robots" content="noindex">'
+                f'<style>{SITE_CSS}</style></head>'
                 f'<body><header class="site">'
                 f'<h1>Not found</h1></header>'
                 f'<p>The page you asked for does not exist. '
@@ -320,6 +371,7 @@ def main() -> int:
     disclosure_html = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                        f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                        f'<title>How this site works — Unspent Thoughts</title>'
+                       f'{head_meta(base_url=base_url, title="How this site works", description=DISCLOSURE_DESCRIPTION, path="/disclosure")}'
                        f'<style>{SITE_CSS}</style>{analytics}</head><body>'
                        f'<header class="site">'
                        f'<h1><a href="/">Unspent Thoughts</a></h1>'
