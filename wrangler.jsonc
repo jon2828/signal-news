@@ -10,6 +10,12 @@
   },
   "assets": {
     "directory": "./site/dist",
-    "html_handling": "auto-trailing-slash"
+    "html_handling": "auto-trailing-slash",
+    // Serve the generated 404.html with a real 404 status. Unset (the default
+    // "none") returns an empty 0-byte body, so visitors who mistype a URL get a
+    // blank page and the 404 page's noindex never reaches them.
+    // Deliberately NOT "single-page-application": that answers unmatched
+    // requests with 200 + index.html, turning every dead link into a soft 404.
+    "not_found_handling": "404-page"
   }
 }
