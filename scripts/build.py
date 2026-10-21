@@ -317,7 +317,11 @@ def main() -> int:
     for m in posts:
         raw_title = str(m.get("title", "untitled"))
         title = esc(raw_title)
-        post_path = f"/posts/{m['path'].stem}.html"
+        # Canonical must name the URL that actually serves 200. Cloudflare's
+        # html_handling (auto-trailing-slash) serves /posts/<stem> and 307s the
+        # .html form, so pointing canonical at .html would contradict the live
+        # URL - the exact duplicate-content mismatch this tag exists to fix.
+        post_path = f"/posts/{m['path'].stem}"
         page = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
                 f'<meta name="viewport" content="width=device-width,initial-scale=1">'
                 f'<title>{title} — Unspent Thoughts</title>'
