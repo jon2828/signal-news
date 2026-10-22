@@ -1,35 +1,47 @@
 [
  {
-  "id": "35844fc03d40b131",
-  "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
-  "topic": "bitcoin",
-  "score": 8,
-  "raw_score": 8,
+  "id": "61f4d0141ff303c0",
+  "title": "OpenAI models are coming to Google Cloud",
+  "topic": "ai",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "A potential merger between two major public companies with significant Bitcoin holdings is a major market-moving event, though currently in the assessment phase.",
+  "reason": "Notable infrastructure shift \u2014 OpenAI frontier models on Google Cloud, confirmed by two sources \u2014 significant for the AI competitive landscape.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-    "summary": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla\u2019s results.",
-    "published": "Wed, 21 Oct 2026 09:23:00 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
+    "published": "Wed, 21 Oct 2026 12:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/openai-models-google-cloud/\">https://openai.com/index/openai-models-google-cloud/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180079\">https://news.ycombinator.com/item?id=50180079</a></p> <p>Points: 294</p> <p># Comments: 122</p>",
+    "published": "Wed, 21 Oct 2026 12:53:11 +0000"
    }
   ]
  },
  {
-  "id": "d08f987d6839db67",
-  "title": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-  "topic": "bitcoin",
-  "score": 8,
+  "id": "af5d3897eb075e94",
+  "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+  "topic": "both",
+  "score": 7,
   "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Solana's Alpenglow upgrade is a major protocol change targeting 150ms finality, representing a significant infrastructure shift for a top-tier L1.",
+  "weight": 0.9,
+  "reason": "Major regulatory verdict against a major AI-adjacent company with two sources and named reporting.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-    "summary": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
-    "published": "Wed, 21 Oct 2026 04:35:52 +0000"
+    "source": "hn",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\">https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184820\">https://news.ycombinator.com/item?id=50184820</a></p> <p>Points: 175</p> <p># Comments: 59</p>",
+    "published": "Wed, 21 Oct 2026 17:45:13 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+    "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+    "published": "Wed, 21 Oct 2026 19:42:32 +0000"
    }
   ]
  }
