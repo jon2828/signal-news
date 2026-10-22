@@ -1,47 +1,18 @@
 [
  {
-  "id": "61f4d0141ff303c0",
-  "title": "OpenAI models are coming to Google Cloud",
-  "topic": "ai",
+  "id": "8421129057850d9f",
+  "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+  "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Notable infrastructure shift \u2014 OpenAI frontier models on Google Cloud, confirmed by two sources \u2014 significant for the AI competitive landscape.",
+  "reason": "Chinese prosecutors seeking to confiscate 61,800 BTC tied to a $5.7B fraud, following a UK court ruling, is a significant, sourced legal development affecting a large bitcoin stash.",
   "sources": [
    {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace.",
-    "published": "Wed, 21 Oct 2026 12:00:00 GMT"
-   },
-   {
-    "source": "hn",
-    "url": "https://openai.com/index/openai-models-google-cloud/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/openai-models-google-cloud/\">https://openai.com/index/openai-models-google-cloud/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50180079\">https://news.ycombinator.com/item?id=50180079</a></p> <p>Points: 294</p> <p># Comments: 122</p>",
-    "published": "Wed, 21 Oct 2026 12:53:11 +0000"
-   }
-  ]
- },
- {
-  "id": "af5d3897eb075e94",
-  "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-  "topic": "both",
-  "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Major regulatory verdict against a major AI-adjacent company with two sources and named reporting.",
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\">https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50184820\">https://news.ycombinator.com/item?id=50184820</a></p> <p>Points: 175</p> <p># Comments: 59</p>",
-    "published": "Wed, 21 Oct 2026 17:45:13 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-    "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-    "published": "Wed, 21 Oct 2026 19:42:32 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+    "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims\u2019 claims to the coins.",
+    "published": "Thu, 22 Oct 2026 06:24:10 +0000"
    }
   ]
  }
