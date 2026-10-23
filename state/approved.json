@@ -1,18 +1,18 @@
 [
  {
-  "id": "8421129057850d9f",
-  "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-  "topic": "bitcoin",
+  "id": "93c844a35d415e95",
+  "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+  "topic": "ai",
   "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Chinese prosecutors seeking to confiscate 61,800 BTC tied to a $5.7B fraud, following a UK court ruling, is a significant, sourced legal development affecting a large bitcoin stash.",
+  "raw_score": 8,
+  "weight": 0.9,
+  "reason": "Breach of a major IT provider affecting thousands of companies with named Microsoft attribution and an AI-agent angle is clearly publishable security news.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-    "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims\u2019 claims to the coins.",
-    "published": "Thu, 22 Oct 2026 06:24:10 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "published": "Thu, 22 Oct 2026 16:47:17 +0000"
    }
   ]
  }
