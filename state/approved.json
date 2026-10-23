@@ -1,18 +1,18 @@
 [
  {
-  "id": "93c844a35d415e95",
-  "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-  "topic": "ai",
+  "id": "bf785b6c1c30b252",
+  "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+  "topic": "bitcoin",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Breach of a major IT provider affecting thousands of companies with named Microsoft attribution and an AI-agent angle is clearly publishable security news.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Major crypto enforcement action with a concrete $1.3 billion figure against named NovaTech founders, clearly publishable though single-sourced.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "published": "Thu, 22 Oct 2026 16:47:17 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
+    "summary": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it.",
+    "published": "Fri, 23 Oct 2026 10:12:02 +0000"
    }
   ]
  }
