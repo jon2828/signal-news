@@ -1,41 +1,18 @@
 [
  {
-  "id": "85fc56c51052f1a4",
-  "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+  "id": "709f883d1314b9d3",
+  "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major bank rolling out a licensed stablecoin to 3 million retail users is a significant adoption milestone, corroborated by two sources.",
+  "reason": "Regulatory scrutiny of Tether by a US Senator is a significant development for the stablecoin sector and potential compliance risks.",
   "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-    "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong\u2019s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
-    "published": "Fri, 23 Oct 2026 10:22:56 +0000"
-   },
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
-    "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
-    "published": "Fri, 23 Oct 2026 04:03:09 +0000"
-   }
-  ]
- },
- {
-  "id": "5bb5df3f2308694a",
-  "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-  "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "A security-driven delay to a major Ethereum upgrade is an important protocol development with a concrete technical cause.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
-    "published": "Fri, 23 Oct 2026 04:59:34 +0000"
+    "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+    "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+    "published": "Fri, 23 Oct 2026 17:46:09 +0000"
    }
   ]
  }
