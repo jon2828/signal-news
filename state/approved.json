@@ -1,18 +1,18 @@
 [
  {
-  "id": "b15a6fb9671b3fea",
-  "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-  "topic": "ai",
+  "id": "9d2ad0b63bb372b9",
+  "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a \u2018false alarm\u2019",
+  "topic": "bitcoin",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "OpenAI halting live-internet training is a major frontier-lab policy shift with clear implications for the field.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Confirmed $16 million exchange breach with a named company and a direct reversal of the CEO's public 'false alarm' claim is clearly publishable security news.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "published": "Fri, 23 Oct 2026 23:05:49 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
+    "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
+    "published": "Sun, 25 Oct 2026 18:46:21 +0000"
    }
   ]
  }
