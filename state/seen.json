@@ -19173,5 +19173,330 @@
   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
   "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
   "first_seen": "2026-10-26T12:17:27.346862+00:00"
+ },
+ "1a1d4bf2fc111eb8": {
+  "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "first_seen": "2026-10-26T22:28:03.445649+00:00"
+ },
+ "64d59b55a8fb8666": {
+  "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "title": "ChatGPT\u2019s expanding world of work",
+  "first_seen": "2026-10-26T22:28:03.445662+00:00"
+ },
+ "eb7708c5f537ab79": {
+  "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+  "title": "How Fanatics and OpenAI streamline the fan experience",
+  "first_seen": "2026-10-26T22:28:03.445666+00:00"
+ },
+ "8f2f08b6e197805b": {
+  "url": "https://openai.com/index/openai-cut-incident-investigation",
+  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "first_seen": "2026-10-26T22:28:03.445667+00:00"
+ },
+ "f16aefe89a6e3f3b": {
+  "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "title": "Working with academic communities to build scientific understanding",
+  "first_seen": "2026-10-26T22:28:03.445669+00:00"
+ },
+ "1758535ac6be3e6b": {
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+  "title": "Introducing GPT-6.1 Terra",
+  "first_seen": "2026-10-26T22:28:03.445671+00:00"
+ },
+ "8b1ad81c7872a1c4": {
+  "url": "https://tldr.tech/ai/2026-10-26",
+  "title": "Apple\u2019s 20B model \ud83d\udcf1, Kimi K3.1 Pro \ud83e\udde0, Block Dessa \ud83d\udde3\ufe0f, frontier training security \ud83d\udd10",
+  "first_seen": "2026-10-26T22:28:03.665795+00:00"
+ },
+ "07a1360d15f0bb17": {
+  "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+  "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+  "first_seen": "2026-10-26T22:28:04.568886+00:00"
+ },
+ "3052ae9d360ffbef": {
+  "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+  "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+  "first_seen": "2026-10-26T22:28:04.568897+00:00"
+ },
+ "e7d3b515f574ef4b": {
+  "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+  "title": "OCC calls on community banks to enter the stablecoin payments market",
+  "first_seen": "2026-10-26T22:28:04.568900+00:00"
+ },
+ "e14548e162aa5015": {
+  "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+  "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+  "first_seen": "2026-10-26T22:28:04.568902+00:00"
+ },
+ "98142ecf4a46a5a8": {
+  "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+  "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+  "first_seen": "2026-10-26T22:28:04.568903+00:00"
+ },
+ "55bace365eafed1a": {
+  "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+  "title": "AI giant Anthropic files for blockbuster IPO",
+  "first_seen": "2026-10-26T22:28:04.568905+00:00"
+ },
+ "89177d5b45005840": {
+  "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US OCC calls on community banks to become payment stablecoin issuers",
+  "first_seen": "2026-10-26T22:28:04.680590+00:00"
+ },
+ "96f0b108bf065b61": {
+  "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+  "first_seen": "2026-10-26T22:28:04.680597+00:00"
+ },
+ "73ae7e4637445e21": {
+  "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+  "first_seen": "2026-10-26T22:28:04.680599+00:00"
+ },
+ "24138e62748b44b2": {
+  "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "AI company Anthropic announces IPO, expected as early as November",
+  "first_seen": "2026-10-26T22:28:04.680601+00:00"
+ },
+ "ee237e51979fbb0b": {
+  "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+  "first_seen": "2026-10-26T22:28:04.680603+00:00"
+ },
+ "e5fb3e087d8a62ee": {
+  "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+  "first_seen": "2026-10-26T22:28:04.680604+00:00"
+ },
+ "90da64e5567bf56d": {
+  "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+  "first_seen": "2026-10-26T22:28:04.680607+00:00"
+ },
+ "22f45ca753f3d7cd": {
+  "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
+  "first_seen": "2026-10-26T22:28:04.680609+00:00"
+ },
+ "b622de8a01964bcc": {
+  "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+  "first_seen": "2026-10-26T22:28:04.680611+00:00"
+ },
+ "64212919dc96ca07": {
+  "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
+  "first_seen": "2026-10-26T22:28:04.680613+00:00"
+ },
+ "bb9e81a26c53fe3a": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+  "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
+  "first_seen": "2026-10-26T22:28:04.774262+00:00"
+ },
+ "6c681ba96abc2f72": {
+  "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+  "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+  "first_seen": "2026-10-26T22:28:04.774269+00:00"
+ },
+ "0d274756cc63a25f": {
+  "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
+  "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+  "first_seen": "2026-10-26T22:28:04.774271+00:00"
+ },
+ "1998fb4245f6b943": {
+  "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
+  "title": "Prediction markets and derivatives drive Bernstein\u2019s crypto stock outlook for Coinbase, Robinhood and Circle",
+  "first_seen": "2026-10-26T22:28:04.774274+00:00"
+ },
+ "afd5d0d4b3311936": {
+  "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
+  "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+  "first_seen": "2026-10-26T22:28:04.774275+00:00"
+ },
+ "18a28407ad94761c": {
+  "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
+  "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
+  "first_seen": "2026-10-26T22:28:04.774278+00:00"
+ },
+ "2eb44283ef6a43b9": {
+  "url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
+  "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
+  "first_seen": "2026-10-26T22:28:04.774279+00:00"
+ },
+ "117a21acaebe6ee1": {
+  "url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
+  "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+  "first_seen": "2026-10-26T22:28:04.774282+00:00"
+ },
+ "7fe866ac4643f79d": {
+  "url": "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
+  "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
+  "first_seen": "2026-10-26T22:28:04.774284+00:00"
+ },
+ "0db83d2728d9db05": {
+  "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+  "title": "Working with academic communities to build scientific understanding",
+  "first_seen": "2026-10-26T22:28:05.098006+00:00"
+ },
+ "e867965893aec88b": {
+  "url": "https://corridorkey.com/",
+  "title": "CorridorKey 2.0",
+  "first_seen": "2026-10-26T22:28:05.098013+00:00"
+ },
+ "5b7b9a40e77d044c": {
+  "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+  "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+  "first_seen": "2026-10-26T22:28:05.098015+00:00"
+ },
+ "088c029d2bbf25e5": {
+  "url": "https://arxiv.org/abs/2512.13908",
+  "title": "Magic state cultivation on a superconducting quantum processor",
+  "first_seen": "2026-10-26T22:28:05.098017+00:00"
+ },
+ "aa5f41ca1ee859dd": {
+  "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+  "title": "The EPA Is Quietly Killing Its Web Archive",
+  "first_seen": "2026-10-26T22:28:05.098019+00:00"
+ },
+ "736ec48b32ec10c6": {
+  "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+  "title": "US designates helium as a critical material",
+  "first_seen": "2026-10-26T22:28:05.098021+00:00"
+ },
+ "2693f45a7074e614": {
+  "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+  "title": "Type Server Protocol",
+  "first_seen": "2026-10-26T22:28:05.098023+00:00"
+ },
+ "f108b5ceacfa1c86": {
+  "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "title": "GPT-6.1 Terra",
+  "first_seen": "2026-10-26T22:28:05.098025+00:00"
+ },
+ "0d8cdf08f8096026": {
+  "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+  "title": "Oldest GUI application that still runs on Windows 11",
+  "first_seen": "2026-10-26T22:28:05.098027+00:00"
+ },
+ "ad43991b97f02da6": {
+  "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+  "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+  "first_seen": "2026-10-26T22:28:05.098029+00:00"
+ },
+ "5e46d1c4b73a64de": {
+  "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+  "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+  "first_seen": "2026-10-26T22:28:05.098030+00:00"
+ },
+ "cfc3a6837bb78c2e": {
+  "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+  "title": "Nietzschian Debugger",
+  "first_seen": "2026-10-26T22:28:05.098033+00:00"
+ },
+ "ce5ce5fc43fb0958": {
+  "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "title": "Concerning behavior from a popular open-weight AI model",
+  "first_seen": "2026-10-26T22:28:05.098035+00:00"
+ },
+ "420101a207f692a6": {
+  "url": "https://github.com/FrigadeHQ/hob",
+  "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+  "first_seen": "2026-10-26T22:28:05.098037+00:00"
+ },
+ "55b026e279e070c3": {
+  "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+  "title": "CSS-Tricks has a new owner",
+  "first_seen": "2026-10-26T22:28:05.098038+00:00"
+ },
+ "a922da08e4960a22": {
+  "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+  "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+  "first_seen": "2026-10-26T22:28:05.098040+00:00"
+ },
+ "d1a3b4fa5d93fb49": {
+  "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+  "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+  "first_seen": "2026-10-26T22:28:05.098042+00:00"
+ },
+ "4bf5e0f7fb8be28f": {
+  "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "title": "Anthropic S-1",
+  "first_seen": "2026-10-26T22:28:05.098043+00:00"
+ },
+ "bcce0e72773f6ec0": {
+  "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+  "title": "Fixing Tool-Call Accuracy in vLLM",
+  "first_seen": "2026-10-26T22:28:05.098045+00:00"
+ },
+ "21c3fe8884aec804": {
+  "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+  "title": "Pharo 14",
+  "first_seen": "2026-10-26T22:28:05.098047+00:00"
+ },
+ "6c43de2ba54d7cc1": {
+  "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+  "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+  "first_seen": "2026-10-26T22:28:05.203057+00:00"
+ },
+ "3a26775a7ff10850": {
+  "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+  "title": "Watch out, YouTube \u2014 Instagram goes from short-form to 90-minute videos",
+  "first_seen": "2026-10-26T22:28:05.203065+00:00"
+ },
+ "9665c1e519607412": {
+  "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+  "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+  "first_seen": "2026-10-26T22:28:05.203068+00:00"
+ },
+ "0e102d0bee7c9a07": {
+  "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+  "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+  "first_seen": "2026-10-26T22:28:05.203070+00:00"
+ },
+ "ea61feedd133669d": {
+  "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+  "title": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
+  "first_seen": "2026-10-26T22:28:05.203072+00:00"
+ },
+ "0c7a0e584035924b": {
+  "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+  "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+  "first_seen": "2026-10-26T22:28:05.203074+00:00"
+ },
+ "4a24365e960e7ca3": {
+  "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+  "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+  "first_seen": "2026-10-26T22:28:05.203075+00:00"
+ },
+ "6724ba58888dbe91": {
+  "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+  "title": "Microsoft offers buyouts to around 60,000 employees",
+  "first_seen": "2026-10-26T22:28:05.203077+00:00"
+ },
+ "2c43c284058f6166": {
+  "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+  "title": "Anthropic officially files for its public debut",
+  "first_seen": "2026-10-26T22:28:05.203079+00:00"
+ },
+ "7e796e06ff8bd687": {
+  "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+  "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+  "first_seen": "2026-10-26T22:28:05.203081+00:00"
+ },
+ "99e78c05151184ce": {
+  "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+  "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+  "first_seen": "2026-10-26T22:28:05.203082+00:00"
+ },
+ "3a5cb8a572985c8e": {
+  "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+  "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+  "first_seen": "2026-10-26T22:28:05.203084+00:00"
+ },
+ "be77c96c39b4ea3e": {
+  "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+  "title": "Our newest AI Quest: Mapping the human brain",
+  "first_seen": "2026-10-26T22:28:05.881852+00:00"
  }
 }
