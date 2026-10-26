@@ -1,18 +1,35 @@
 [
  {
-  "id": "9d2ad0b63bb372b9",
-  "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a \u2018false alarm\u2019",
+  "id": "128bbb42a21b9700",
+  "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Confirmed $16 million exchange breach with a named company and a direct reversal of the CEO's public 'false alarm' claim is clearly publishable security news.",
+  "reason": "Concrete wallet security flaw with real losses and a developer patch is a publishable security story.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-    "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
-    "published": "Sun, 25 Oct 2026 18:46:21 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+    "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+    "published": "Mon, 26 Oct 2026 05:15:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6f9bb62e3bfc0cb0",
+  "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "SpaceX raising $40 billion in debt for GPUs is a major, named AI-infrastructure funding event.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+    "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+    "published": "Mon, 26 Oct 2026 03:11:39 +0000"
    }
   ]
  }
