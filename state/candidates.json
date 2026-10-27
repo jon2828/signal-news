@@ -1,883 +1,483 @@
 [
  {
-  "id": "940840bd2777855c",
-  "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VZBVYQC99NJGVW2H5K874Z/hi-why-tokenization-is-still-a-chimera.jpg\" alt=\"Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger \" class=\"type:primaryImage\"></p><p>The move marks Aviva\u2019s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.</p>",
-    "published": "Mon, 26 Oct 2026 11:39:27 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
-    "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
-    "published": "Mon, 26 Oct 2026 11:34:12 +0000"
-   }
-  ]
- },
- {
-  "id": "1a1d4bf2fc111eb8",
-  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "id": "250e5d8f302445e7",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "openai",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "published": "Mon, 26 Oct 2026 13:45:00 GMT"
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "published": "Mon, 26 Oct 2026 22:00:00 GMT"
    }
   ]
  },
  {
-  "id": "64d59b55a8fb8666",
-  "title": "ChatGPT\u2019s expanding world of work",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "published": "Mon, 26 Oct 2026 10:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "eb7708c5f537ab79",
-  "title": "How Fanatics and OpenAI streamline the fan experience",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "8f2f08b6e197805b",
-  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "f16aefe89a6e3f3b",
-  "title": "Working with academic communities to build scientific understanding",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
-    "published": "Mon, 26 Oct 2026 00:00:00 GMT"
-   },
-   {
-    "source": "hn",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/building-scientific-understanding-with-academic-communities/\">https://openai.com/index/building-scientific-understanding-with-academic-communities/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p> <p>Points: 84</p> <p># Comments: 14</p>",
-    "published": "Mon, 26 Oct 2026 21:35:28 +0000"
-   }
-  ]
- },
- {
-  "id": "1758535ac6be3e6b",
-  "title": "Introducing GPT-6.1 Terra",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "summary": "Bringing fast and capable computer use to everyone",
-    "published": "Mon, 26 Oct 2026 00:00:00 GMT"
-   },
-   {
-    "source": "hn",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-terra/\">https://openai.com/index/introducing-gpt-6-1-terra/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248124\">https://news.ycombinator.com/item?id=50248124</a></p> <p>Points: 423</p> <p># Comments: 264</p>",
-    "published": "Mon, 26 Oct 2026 18:01:17 +0000"
-   }
-  ]
- },
- {
-  "id": "8b1ad81c7872a1c4",
-  "title": "Apple\u2019s 20B model \ud83d\udcf1, Kimi K3.1 Pro \ud83e\udde0, Block Dessa \ud83d\udde3\ufe0f, frontier training security \ud83d\udd10",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-10-26",
-    "summary": "",
-    "published": "Mon, 26 Oct 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "07a1360d15f0bb17",
-  "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+  "id": "d19d3a4e53f1e950",
+  "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-    "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
-    "published": "Mon, 26 Oct 2026 16:05:12 +0000"
+    "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+    "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+    "published": "Tue, 27 Oct 2026 11:32:45 +0000"
    }
   ]
  },
  {
-  "id": "3052ae9d360ffbef",
-  "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+  "id": "b1b914e55cbbb869",
+  "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-    "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
-    "published": "Mon, 26 Oct 2026 15:59:55 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+    "summary": "The breach exposed 25,964 buyer records, some kept past Keystone\u2019s 180-day deletion policy after an automated tool failed without the firm noticing.",
+    "published": "Tue, 27 Oct 2026 11:13:54 +0000"
    }
   ]
  },
  {
-  "id": "e7d3b515f574ef4b",
-  "title": "OCC calls on community banks to enter the stablecoin payments market",
+  "id": "98978948ee7897a5",
+  "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+    "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
+    "published": "Tue, 27 Oct 2026 10:57:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7bf62edff33a9b28",
+  "title": "An AI label alone no longer wins lenders, JPMorgan says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+    "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
+    "published": "Tue, 27 Oct 2026 08:24:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b56d47ca791fcb85",
+  "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+    "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them.",
+    "published": "Tue, 27 Oct 2026 07:44:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f53e2dc2d784a00a",
+  "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+    "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
+    "published": "Tue, 27 Oct 2026 07:09:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b4341a401c7132a6",
+  "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+    "summary": "Sean Bowe\u2019s proposal would send the committee\u2019s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+    "published": "Tue, 27 Oct 2026 06:14:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "58b1d41456044f7f",
+  "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
   "topic": "bitcoin",
   "source_count": 2,
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-    "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
-    "published": "Mon, 26 Oct 2026 15:45:51 +0000"
+    "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+    "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+    "published": "Tue, 27 Oct 2026 04:28:49 +0000"
    },
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank.png\" alt=\"US OCC calls on community banks to become payment stablecoin issuers\" class=\"type:primaryImage\"></p><p>The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January</p>",
-    "published": "Mon, 26 Oct 2026 21:38:30 +0000"
+    "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg\" alt=\"Ripple wins final US approval for national trust bank\" class=\"type:primaryImage\"></p><p>The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.</p>",
+    "published": "Tue, 27 Oct 2026 00:06:41 +0000"
    }
   ]
  },
  {
-  "id": "e14548e162aa5015",
-  "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-    "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won\u2019t share crypto trading data until 2029.",
-    "published": "Mon, 26 Oct 2026 14:51:07 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg\" alt=\"South Korea lawmakers mull pushing crypto tax implementation to 2029 \" class=\"type:primaryImage\"></p><p>The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.</p>",
-    "published": "Mon, 26 Oct 2026 16:18:09 +0000"
-   }
-  ]
- },
- {
-  "id": "98142ecf4a46a5a8",
-  "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-    "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
-    "published": "Mon, 26 Oct 2026 14:23:41 +0000"
-   }
-  ]
- },
- {
-  "id": "55bace365eafed1a",
-  "title": "AI giant Anthropic files for blockbuster IPO",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-    "summary": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
-    "published": "Mon, 26 Oct 2026 13:22:09 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\">https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242939\">https://news.ycombinator.com/item?id=50242939</a></p> <p>Points: 1387</p> <p># Comments: 1357</p>",
-    "published": "Mon, 26 Oct 2026 13:04:50 +0000"
-   }
-  ]
- },
- {
-  "id": "96f0b108bf065b61",
-  "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+  "id": "d41add7b4440a679",
+  "title": "Zcash co-founder calls to stop funding \u2018over $125M\u2019 grants program",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png\" alt=\"Injective launches onchain futures market tracking Nvidia GPU rental costs \" class=\"type:primaryImage\"></p><p>The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.</p>",
-    "published": "Mon, 26 Oct 2026 21:23:32 +0000"
+    "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg\" alt=\"Zcash co-founder calls to stop funding \u2018over $125M\u2019 grants program\" class=\"type:primaryImage\"></p><p>Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.</p>",
+    "published": "Tue, 27 Oct 2026 10:00:31 +0000"
    }
   ]
  },
  {
-  "id": "73ae7e4637445e21",
-  "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+  "id": "5b672ff01764a14f",
+  "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrency-in-canada.jpg\" alt=\"Canada opens consultation on stablecoins, citing US GENIUS Act\" class=\"type:primaryImage\"></p><p>As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.</p>",
-    "published": "Mon, 26 Oct 2026 19:47:40 +0000"
+    "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y4YQQX7S38EGJV0MZQV4M3/b-as-seen-on-tv.jpg\" alt=\"Bloom bot hackers loot $953K faster than you can microwave popcorn \" class=\"type:primaryImage\"></p><p>Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.</p>",
+    "published": "Tue, 27 Oct 2026 09:07:37 +0000"
    }
   ]
  },
  {
-  "id": "24138e62748b44b2",
-  "title": "AI company Anthropic announces IPO, expected as early as November",
+  "id": "cef8ed5dbdd24d41",
+  "title": "Binance files for Brazil crypto license ahead of Friday deadline",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WP5DJHQX7JZGFDHG6CQJH8/hi-ipo-bid.jpg\" alt=\"AI company Anthropic announces IPO, expected as early as November\" class=\"type:primaryImage\"></p><p>The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.</p>",
-    "published": "Mon, 26 Oct 2026 18:42:41 +0000"
+    "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png\" alt=\"Binance files for Brazil crypto license ahead of Friday deadline\" class=\"type:primaryImage\"></p><p>The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.</p>",
+    "published": "Tue, 27 Oct 2026 08:04:21 +0000"
    }
   ]
  },
  {
-  "id": "ee237e51979fbb0b",
-  "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+  "id": "c77e0a9aec4ab4f0",
+  "title": "Bitcoin ETFs claw back $110M after $774M exit",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WJM4BTG04MJ97MCD20VJ26/hi-a-beginners-guide-to-nba-top-shot-nfts.png\" alt=\"NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal\" class=\"type:primaryImage\"></p><p>The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.</p>",
-    "published": "Mon, 26 Oct 2026 17:46:09 +0000"
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y1DYG85AQWCC0729JDM8E5/hi-bitcoin-is-now-bigger-3.jpg\" alt=\"Bitcoin ETFs claw back $110M after $774M exit\" class=\"type:primaryImage\"></p><p>US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday\u2019s rebound.</p>",
+    "published": "Tue, 27 Oct 2026 07:35:37 +0000"
    }
   ]
  },
  {
-  "id": "90da64e5567bf56d",
-  "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+  "id": "ed1ec635bd13c5a9",
+  "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg\" alt=\"Kalshi strikes deal with S&amp;P Dow Jones Indices to expand financial event contracts\" class=\"type:primaryImage\"></p><p>The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.</p>",
-    "published": "Mon, 26 Oct 2026 15:54:15 +0000"
+    "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg\" alt=\"RedotPay weighs confidential US IPO filing by year-end: Bloomberg\" class=\"type:primaryImage\"></p><p>The stablecoin payments company previously disputed reports that its US listing had been delayed.</p>",
+    "published": "Tue, 27 Oct 2026 04:26:51 +0000"
    }
   ]
  },
  {
-  "id": "22f45ca753f3d7cd",
-  "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
+  "id": "7c02360a8ab51790",
+  "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg\" alt=\"PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO \" class=\"type:primaryImage\"></p><p>Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.</p>",
-    "published": "Mon, 26 Oct 2026 14:25:22 +0000"
+    "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg\" alt=\"Keystone breach deepens: Hackers stole key used to verify wallets as genuine\" class=\"type:primaryImage\"></p><p>Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks. </p>",
+    "published": "Tue, 27 Oct 2026 01:55:03 +0000"
    }
   ]
  },
  {
-  "id": "b622de8a01964bcc",
-  "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W4P12K292NZBRSP8W9DG6M/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3-1.jpg\" alt=\"Strategy skips Bitcoin purchases, spends $205M on STRC buybacks\" class=\"type:primaryImage\"></p><p>Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.</p>",
-    "published": "Mon, 26 Oct 2026 13:27:38 +0000"
-   }
-  ]
- },
- {
-  "id": "64212919dc96ca07",
-  "title": "HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg\" alt=\"HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein\" class=\"type:primaryImage\"></p><p>Bernstein analysts raised Robinhood\u2019s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.</p>",
-    "published": "Mon, 26 Oct 2026 13:12:41 +0000"
-   }
-  ]
- },
- {
-  "id": "bb9e81a26c53fe3a",
-  "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
+  "id": "30c10b4521ea70e9",
+  "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
-    "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
-    "published": "Mon, 26 Oct 2026 19:43:47 +0000"
+    "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+    "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
+    "published": "Tue, 27 Oct 2026 10:57:34 +0000"
    }
   ]
  },
  {
-  "id": "6c681ba96abc2f72",
-  "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+  "id": "fce9940106ecc6b5",
+  "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
-    "summary": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures.",
-    "published": "Mon, 26 Oct 2026 18:21:17 +0000"
+    "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+    "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
+    "published": "Tue, 27 Oct 2026 06:28:34 +0000"
    }
   ]
  },
  {
-  "id": "0d274756cc63a25f",
-  "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+  "id": "52799aecf3b2409c",
+  "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
-    "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.",
-    "published": "Mon, 26 Oct 2026 17:55:02 +0000"
+    "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
+    "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
+    "published": "Tue, 27 Oct 2026 03:58:07 +0000"
    }
   ]
  },
  {
-  "id": "1998fb4245f6b943",
-  "title": "Prediction markets and derivatives drive Bernstein\u2019s crypto stock outlook for Coinbase, Robinhood and Circle",
+  "id": "a981244b2ea5c87f",
+  "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-    "summary": "Bernstein cuts Coinbase\u2019s target while raising Circle\u2019s as new products shift their earnings outlook.",
-    "published": "Mon, 26 Oct 2026 16:36:43 +0000"
+    "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+    "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+    "published": "Tue, 27 Oct 2026 02:28:18 +0000"
    }
   ]
  },
  {
-  "id": "afd5d0d4b3311936",
-  "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+  "id": "e253bfe5467b2607",
+  "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
   "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-    "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
-    "published": "Mon, 26 Oct 2026 16:27:37 +0000"
+    "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+    "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+    "published": "Tue, 27 Oct 2026 01:00:00 +0000"
    }
   ]
  },
  {
-  "id": "18a28407ad94761c",
-  "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-    "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25.",
-    "published": "Mon, 26 Oct 2026 14:12:59 +0000"
-   }
-  ]
- },
- {
-  "id": "2eb44283ef6a43b9",
-  "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
-    "summary": "Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with $3.9 billion in paper gains.",
-    "published": "Mon, 26 Oct 2026 13:23:14 +0000"
-   }
-  ]
- },
- {
-  "id": "117a21acaebe6ee1",
-  "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
-    "summary": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
-    "published": "Mon, 26 Oct 2026 13:19:08 +0000"
-   }
-  ]
- },
- {
-  "id": "7fe866ac4643f79d",
-  "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
-    "summary": "Galaxy said bitcoin\u2019s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity.",
-    "published": "Mon, 26 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e867965893aec88b",
-  "title": "CorridorKey 2.0",
+  "id": "3203579cb6392e8c",
+  "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://corridorkey.com/",
-    "summary": "<p>Article URL: <a href=\"https://corridorkey.com/\">https://corridorkey.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251127\">https://news.ycombinator.com/item?id=50251127</a></p> <p>Points: 34</p> <p># Comments: 3</p>",
-    "published": "Mon, 26 Oct 2026 21:18:05 +0000"
+    "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "summary": "<p>Article URL: <a href=\"https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/\">https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256985\">https://news.ycombinator.com/item?id=50256985</a></p> <p>Points: 77</p> <p># Comments: 36</p>",
+    "published": "Tue, 27 Oct 2026 10:27:50 +0000"
    }
   ]
  },
  {
-  "id": "5b7b9a40e77d044c",
-  "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-  "topic": "both",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-    "summary": "<p>Article URL: <a href=\"https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce\">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50250937\">https://news.ycombinator.com/item?id=50250937</a></p> <p>Points: 95</p> <p># Comments: 82</p>",
-    "published": "Mon, 26 Oct 2026 21:05:15 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-    "summary": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\">https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245524\">https://news.ycombinator.com/item?id=50245524</a></p> <p>Points: 619</p> <p># Comments: 525</p>",
-    "published": "Mon, 26 Oct 2026 15:35:12 +0000"
-   }
-  ]
- },
- {
-  "id": "088c029d2bbf25e5",
-  "title": "Magic state cultivation on a superconducting quantum processor",
+  "id": "b5eb092cf90e585a",
+  "title": "Gforth 1.0",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://arxiv.org/abs/2512.13908",
-    "summary": "<p>Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures. Magic state cultivation offers an efficient alternative to resource-intensive distillation protocols; however, testing the proposal\u2019s assumptions represents a challenging departure from quantum memory experiments. We present an experimental study of magic state cultivation on a superconducting quantum processor. We implement cultivation, including code-switching into a surface code, and develop ",
-    "published": "Mon, 26 Oct 2026 19:37:59 +0000"
+    "url": "https://gforth.org/manual/1.0/NEWS.html",
+    "summary": "<p>Article URL: <a href=\"https://gforth.org/manual/1.0/NEWS.html\">https://gforth.org/manual/1.0/NEWS.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256952\">https://news.ycombinator.com/item?id=50256952</a></p> <p>Points: 12</p> <p># Comments: 1</p>",
+    "published": "Tue, 27 Oct 2026 10:23:21 +0000"
    }
   ]
  },
  {
-  "id": "aa5f41ca1ee859dd",
-  "title": "The EPA Is Quietly Killing Its Web Archive",
+  "id": "e569cff9a1adfc8d",
+  "title": "I will no longer upload to NEW",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-    "summary": "<p>Article URL: <a href=\"https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/\">https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50249275\">https://news.ycombinator.com/item?id=50249275</a></p> <p>Points: 172</p> <p># Comments: 27</p>",
-    "published": "Mon, 26 Oct 2026 19:05:41 +0000"
+    "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "summary": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel/2026/10/msg00263.html\">https://lists.debian.org/debian-devel/2026/10/msg00263.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256738\">https://news.ycombinator.com/item?id=50256738</a></p> <p>Points: 79</p> <p># Comments: 23</p>",
+    "published": "Tue, 27 Oct 2026 09:59:05 +0000"
    }
   ]
  },
  {
-  "id": "736ec48b32ec10c6",
-  "title": "US designates helium as a critical material",
+  "id": "eb967c2830c030f6",
+  "title": "The Mythical Man-Month in the Age of AI",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c\">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248665\">https://news.ycombinator.com/item?id=50248665</a></p> <p>Points: 142</p> <p># Comments: 72</p>",
-    "published": "Mon, 26 Oct 2026 18:31:39 +0000"
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "summary": "<p>Article URL: <a href=\"https://j11g.com/the-mythical-man-month-in-the-age-of-ai\">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255298\">https://news.ycombinator.com/item?id=50255298</a></p> <p>Points: 185</p> <p># Comments: 134</p>",
+    "published": "Tue, 27 Oct 2026 06:25:37 +0000"
    }
   ]
  },
  {
-  "id": "2693f45a7074e614",
-  "title": "Type Server Protocol",
+  "id": "12eed72519ca45a7",
+  "title": "Writing about pratt parsing so I remember it",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248371\">https://news.ycombinator.com/item?id=50248371</a></p> <p>Points: 160</p> <p># Comments: 119</p>",
-    "published": "Mon, 26 Oct 2026 18:14:49 +0000"
+    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "summary": "<p>Article URL: <a href=\"https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html\">https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255177\">https://news.ycombinator.com/item?id=50255177</a></p> <p>Points: 41</p> <p># Comments: 5</p>",
+    "published": "Tue, 27 Oct 2026 06:02:23 +0000"
    }
   ]
  },
  {
-  "id": "0d8cdf08f8096026",
-  "title": "Oldest GUI application that still runs on Windows 11",
+  "id": "49ad7b505ead9fb1",
+  "title": "I still teach OpenGL ES 3.0",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "summary": "<p>Article URL: <a href=\"https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/\">https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248055\">https://news.ycombinator.com/item?id=50248055</a></p> <p>Points: 202</p> <p># Comments: 117</p>",
-    "published": "Mon, 26 Oct 2026 17:56:55 +0000"
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "summary": "<p>Article URL: <a href=\"https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253939\">https://news.ycombinator.com/item?id=50253939</a></p> <p>Points: 74</p> <p># Comments: 45</p>",
+    "published": "Tue, 27 Oct 2026 02:15:10 +0000"
    }
   ]
  },
  {
-  "id": "ad43991b97f02da6",
-  "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+  "id": "b6c028fd4bed874d",
+  "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-    "summary": "<p>Article URL: <a href=\"https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/\">https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248005\">https://news.ycombinator.com/item?id=50248005</a></p> <p>Points: 211</p> <p># Comments: 123</p>",
-    "published": "Mon, 26 Oct 2026 17:54:00 +0000"
+    "url": "https://github.com/otya128/winevdm",
+    "summary": "<p>Article URL: <a href=\"https://github.com/otya128/winevdm\">https://github.com/otya128/winevdm</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253529\">https://news.ycombinator.com/item?id=50253529</a></p> <p>Points: 95</p> <p># Comments: 25</p>",
+    "published": "Tue, 27 Oct 2026 01:15:04 +0000"
    }
   ]
  },
  {
-  "id": "5e46d1c4b73a64de",
-  "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+  "id": "bfdba109b967dc22",
+  "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-    "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html\">http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247928\">https://news.ycombinator.com/item?id=50247928</a></p> <p>Points: 82</p> <p># Comments: 40</p>",
-    "published": "Mon, 26 Oct 2026 17:49:55 +0000"
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p> <p>Points: 142</p> <p># Comments: 46</p>",
+    "published": "Mon, 26 Oct 2026 22:41:48 +0000"
    }
   ]
  },
  {
-  "id": "cfc3a6837bb78c2e",
-  "title": "Nietzschian Debugger",
+  "id": "2014c8af80448bbe",
+  "title": "The Exponential Time Hypothesis Is False [pdf]",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-    "summary": "<p>Article URL: <a href=\"https://github.com/DilawarShafiq/nietzschian-debugger\">https://github.com/DilawarShafiq/nietzschian-debugger</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247493\">https://news.ycombinator.com/item?id=50247493</a></p> <p>Points: 110</p> <p># Comments: 36</p>",
-    "published": "Mon, 26 Oct 2026 17:25:30 +0000"
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "summary": "<p>See also: <i>Announcing three new discoveries in mathematics, computer science, and physics</i> - <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251661\">https://news.ycombinator.com/item?id=50251661</a></p> <p>Points: 649</p> <p># Comments: 242</p>",
+    "published": "Mon, 26 Oct 2026 21:59:15 +0000"
    }
   ]
  },
  {
-  "id": "ce5ce5fc43fb0958",
-  "title": "Concerning behavior from a popular open-weight AI model",
+  "id": "3c6c80c845d82e1d",
+  "title": "Solar power is becoming bigger than nuclear",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-    "summary": "<p>Article URL: <a href=\"https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model\">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50246658\">https://news.ycombinator.com/item?id=50246658</a></p> <p>Points: 224</p> <p># Comments: 85</p>",
-    "published": "Mon, 26 Oct 2026 16:35:44 +0000"
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\">https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245385\">https://news.ycombinator.com/item?id=50245385</a></p> <p>Points: 355</p> <p># Comments: 525</p>",
+    "published": "Mon, 26 Oct 2026 15:26:17 +0000"
    }
   ]
  },
  {
-  "id": "420101a207f692a6",
-  "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "summary": "<p>Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors you add yourself.<p>Main features:<p>- Automatically finds the best open-weight model for your har",
-    "published": "Mon, 26 Oct 2026 16:12:29 +0000"
-   }
-  ]
- },
- {
-  "id": "55b026e279e070c3",
-  "title": "CSS-Tricks has a new owner",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "summary": "<p>Article URL: <a href=\"https://css-tricks.com/css-tricks-has-a-new-owner/\">https://css-tricks.com/css-tricks-has-a-new-owner/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245831\">https://news.ycombinator.com/item?id=50245831</a></p> <p>Points: 326</p> <p># Comments: 74</p>",
-    "published": "Mon, 26 Oct 2026 15:51:23 +0000"
-   }
-  ]
- },
- {
-  "id": "d1a3b4fa5d93fb49",
-  "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/building-reasoning-models\">https://magazine.sebastianraschka.com/p/building-reasoning-models</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245138\">https://news.ycombinator.com/item?id=50245138</a></p> <p>Points: 493</p> <p># Comments: 75</p>",
-    "published": "Mon, 26 Oct 2026 15:11:59 +0000"
-   }
-  ]
- },
- {
-  "id": "bcce0e72773f6ec0",
-  "title": "Fixing Tool-Call Accuracy in vLLM",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-    "summary": "<p>Article URL: <a href=\"https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm\">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242870\">https://news.ycombinator.com/item?id=50242870</a></p> <p>Points: 142</p> <p># Comments: 64</p>",
-    "published": "Mon, 26 Oct 2026 12:59:48 +0000"
-   }
-  ]
- },
- {
-  "id": "21c3fe8884aec804",
-  "title": "Pharo 14",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-    "summary": "<p>Article URL: <a href=\"https://pharo.org/news/2026-10-26-Pharo14Release.html\">https://pharo.org/news/2026-10-26-Pharo14Release.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241925\">https://news.ycombinator.com/item?id=50241925</a></p> <p>Points: 225</p> <p># Comments: 56</p>",
-    "published": "Mon, 26 Oct 2026 11:15:50 +0000"
-   }
-  ]
- },
- {
-  "id": "6c43de2ba54d7cc1",
-  "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+  "id": "b007bafd9ff10551",
+  "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-    "summary": "Turns out selling to big companies isn\u2019t about having the shiniest tech: it\u2019s about hitching a ride on a giant\u2019s sales team.",
-    "published": "Mon, 26 Oct 2026 22:00:00 +0000"
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "published": "Tue, 27 Oct 2026 11:00:00 +0000"
    }
   ]
  },
  {
-  "id": "3a26775a7ff10850",
-  "title": "Watch out, YouTube \u2014 Instagram goes from short-form to 90-minute videos",
+  "id": "a6f0ecd4e80ebfa8",
+  "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-    "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-    "published": "Mon, 26 Oct 2026 21:05:11 +0000"
+    "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+    "summary": "Whose hand is behind this travesty?",
+    "published": "Tue, 27 Oct 2026 06:34:44 +0000"
    }
   ]
  },
  {
-  "id": "9665c1e519607412",
-  "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+  "id": "858bf7d244f35ab5",
+  "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-    "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-    "published": "Mon, 26 Oct 2026 19:22:40 +0000"
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "published": "Tue, 27 Oct 2026 02:00:00 +0000"
    }
   ]
  },
  {
-  "id": "0e102d0bee7c9a07",
-  "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+  "id": "543832a6d8326a90",
+  "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-    "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-    "published": "Mon, 26 Oct 2026 18:59:52 +0000"
-   }
-  ]
- },
- {
-  "id": "ea61feedd133669d",
-  "title": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-    "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-    "published": "Mon, 26 Oct 2026 17:45:00 +0000"
-   }
-  ]
- },
- {
-  "id": "0c7a0e584035924b",
-  "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
-    "published": "Mon, 26 Oct 2026 16:49:42 +0000"
-   }
-  ]
- },
- {
-  "id": "4a24365e960e7ca3",
-  "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "published": "Mon, 26 Oct 2026 16:46:36 +0000"
-   }
-  ]
- },
- {
-  "id": "6724ba58888dbe91",
-  "title": "Microsoft offers buyouts to around 60,000 employees",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-    "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-    "published": "Mon, 26 Oct 2026 15:58:25 +0000"
-   }
-  ]
- },
- {
-  "id": "2c43c284058f6166",
-  "title": "Anthropic officially files for its public debut",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "published": "Mon, 26 Oct 2026 14:35:22 +0000"
-   }
-  ]
- },
- {
-  "id": "7e796e06ff8bd687",
-  "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-    "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
-    "published": "Mon, 26 Oct 2026 14:25:43 +0000"
-   }
-  ]
- },
- {
-  "id": "99e78c05151184ce",
-  "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-    "summary": "Matiks has introduced a new platform for users to create games using AI.",
-    "published": "Mon, 26 Oct 2026 14:08:04 +0000"
-   }
-  ]
- },
- {
-  "id": "3a5cb8a572985c8e",
-  "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-    "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
-    "published": "Mon, 26 Oct 2026 12:58:40 +0000"
-   }
-  ]
- },
- {
-  "id": "be77c96c39b4ea3e",
-  "title": "Our newest AI Quest: Mapping the human brain",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp\">Learn AI literacy via Google\u2019s latest AI Quests lesson on neuroscience, \u201cPolar Peaks.\u201d",
-    "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "published": "Tue, 27 Oct 2026 01:12:21 +0000"
    }
   ]
  }

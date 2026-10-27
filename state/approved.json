@@ -1,35 +1,47 @@
 [
  {
-  "id": "128bbb42a21b9700",
-  "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+  "id": "55bace365eafed1a",
+  "title": "AI giant Anthropic files for blockbuster IPO",
   "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
+  "score": 9,
+  "raw_score": 9,
   "weight": 1.0,
-  "reason": "Concrete wallet security flaw with real losses and a developer patch is a publishable security story.",
+  "reason": "Anthropic's IPO filing with SEC-sourced financials ($16.3B revenue, $80.7B loss) is market-moving for AI, with two sources and primary documentation.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-    "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
-    "published": "Mon, 26 Oct 2026 05:15:20 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+    "summary": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
+    "published": "Mon, 26 Oct 2026 13:22:09 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "summary": "<p>Article URL: <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\">https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242939\">https://news.ycombinator.com/item?id=50242939</a></p> <p>Points: 1387</p> <p># Comments: 1357</p>",
+    "published": "Mon, 26 Oct 2026 13:04:50 +0000"
    }
   ]
  },
  {
-  "id": "6f9bb62e3bfc0cb0",
-  "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-  "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
+  "id": "1758535ac6be3e6b",
+  "title": "Introducing GPT-6.1 Terra",
+  "topic": "ai",
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "SpaceX raising $40 billion in debt for GPUs is a major, named AI-infrastructure funding event.",
+  "reason": "New frontier-lab model release (GPT-6.1 Terra) for computer use, a frontier-shifting announcement with two sources.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
-    "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
-    "published": "Mon, 26 Oct 2026 03:11:39 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "published": "Mon, 26 Oct 2026 00:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-terra/\">https://openai.com/index/introducing-gpt-6-1-terra/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248124\">https://news.ycombinator.com/item?id=50248124</a></p> <p>Points: 423</p> <p># Comments: 264</p>",
+    "published": "Mon, 26 Oct 2026 18:01:17 +0000"
    }
   ]
  }
