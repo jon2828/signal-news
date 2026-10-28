@@ -1,47 +1,35 @@
 [
  {
-  "id": "bf24e34bbed59140",
-  "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX\u2013ICE tokenized stock plans",
+  "id": "36d0ead1103e00bb",
+  "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
   "topic": "bitcoin",
-  "score": 7,
-  "raw_score": 7,
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "Major named firms (Intel, Oracle, IBM) formally objecting to a tokenized-stock SEC framework test is a significant regulatory development with two corroborating sources.",
+  "reason": "DTCC taking $30 trillion in securities toward tokenization with JPMorgan, Citi and Morgan Stanley signed up is a major infrastructure change with named sources.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-    "summary": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC\u2019s new framework for blockchain-based stock trading.",
-    "published": "Tue, 27 Oct 2026 18:13:02 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg\" alt=\"Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks\" class=\"type:primaryImage\"></p><p>More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.</p>",
-    "published": "Tue, 27 Oct 2026 21:26:41 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+    "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
+    "published": "Wed, 28 Oct 2026 13:14:37 +0000"
    }
   ]
  },
  {
-  "id": "a9f5d030670fb69a",
-  "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+  "id": "1786ba9e95a710fe",
+  "title": "Google to preview crypto custody security system as AI threats grow",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "First licensed onchain Nasdaq-100 fund from a $500B asset manager is a notable tokenization milestone with two sources.",
+  "reason": "Google launching MPC-based crypto custody in private preview with major financial institutions testing is a significant infrastructure development.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-    "summary": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
-    "published": "Tue, 27 Oct 2026 14:21:10 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-for-nasdaq-solana.png\" alt=\"Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar \" class=\"type:primaryImage\"></p><p>The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.</p>",
-    "published": "Tue, 27 Oct 2026 16:37:15 +0000"
+    "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+    "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
+    "published": "Wed, 28 Oct 2026 11:00:00 +0000"
    }
   ]
  }
