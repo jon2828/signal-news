@@ -1,41 +1,47 @@
 [
  {
-  "id": "58b1d41456044f7f",
-  "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-  "topic": "bitcoin",
-  "score": 9,
-  "raw_score": 9,
-  "weight": 1.0,
-  "reason": "Major regulatory approval for a top-tier crypto firm to operate a national trust bank, a significant adoption milestone.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-    "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
-    "published": "Tue, 27 Oct 2026 04:28:49 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg\" alt=\"Ripple wins final US approval for national trust bank\" class=\"type:primaryImage\"></p><p>The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.</p>",
-    "published": "Tue, 27 Oct 2026 00:06:41 +0000"
-   }
-  ]
- },
- {
-  "id": "b1b914e55cbbb869",
-  "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+  "id": "bf24e34bbed59140",
+  "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX\u2013ICE tokenized stock plans",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Significant security breach at a major hardware wallet vendor with specific details on data exposure and policy failures.",
+  "reason": "Major named firms (Intel, Oracle, IBM) formally objecting to a tokenized-stock SEC framework test is a significant regulatory development with two corroborating sources.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-    "summary": "The breach exposed 25,964 buyer records, some kept past Keystone\u2019s 180-day deletion policy after an automated tool failed without the firm noticing.",
-    "published": "Tue, 27 Oct 2026 11:13:54 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+    "summary": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC\u2019s new framework for blockchain-based stock trading.",
+    "published": "Tue, 27 Oct 2026 18:13:02 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg\" alt=\"Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks\" class=\"type:primaryImage\"></p><p>More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.</p>",
+    "published": "Tue, 27 Oct 2026 21:26:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a9f5d030670fb69a",
+  "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "First licensed onchain Nasdaq-100 fund from a $500B asset manager is a notable tokenization milestone with two sources.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+    "summary": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
+    "published": "Tue, 27 Oct 2026 14:21:10 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-for-nasdaq-solana.png\" alt=\"Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar \" class=\"type:primaryImage\"></p><p>The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.</p>",
+    "published": "Tue, 27 Oct 2026 16:37:15 +0000"
    }
   ]
  }
