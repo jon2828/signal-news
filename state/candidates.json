@@ -280,436 +280,428 @@
   ]
  },
  {
-  "id": "185e559c77b9fcf3",
-  "title": "Gemini 4 Carbon",
+  "id": "c7316516b6879d11",
+  "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+    "summary": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.",
+    "published": "Thu, 29 Oct 2026 09:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e2316f19df769144",
+  "title": "The chart bitcoin traders should be paying attention to",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+    "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+    "published": "Thu, 29 Oct 2026 07:44:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f2713dfd80c41501",
+  "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "summary": "Three flaws a language-model scan dug up are the first disclosed under Core\u2019s new rules for bugs that are easy to find.",
+    "published": "Thu, 29 Oct 2026 05:54:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ddc05e4fdc6e88fa",
+  "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+    "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren\u2019t exposed.",
+    "published": "Thu, 29 Oct 2026 05:30:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "431f8b6e1ca83d7c",
+  "title": "Utah charges predictions platform Kalshi with illegal gambling",
+  "topic": "bitcoin",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+    "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
+    "published": "Thu, 29 Oct 2026 05:02:37 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
+    "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
+    "published": "Thu, 29 Oct 2026 06:40:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "be21aa74e6c13973",
+  "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+    "summary": "Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+    "published": "Thu, 29 Oct 2026 03:32:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1d757d4954470cc9",
+  "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+    "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+    "published": "Thu, 29 Oct 2026 03:21:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b901be55bce03f63",
+  "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63ERM4BGFEBV3E6TAR9B0GH/hi-is-bitcoin-a-good-investment-for-retirement.jpg\" alt=\"EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey \" class=\"type:primaryImage\"></p><p>European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto\u2019s role in retirement accounts.</p>",
+    "published": "Thu, 29 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fc84f554cd768574",
+  "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M637T12W73D9BN1G0B1PCCAS/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-202121.jpg\" alt=\"Coinbase seeks Brazil crypto license, expects no service disruption\" class=\"type:primaryImage\"></p><p>Coinbase has applied for authorization ahead of Brazil\u2019s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application.</p>",
+    "published": "Thu, 29 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d4b71ecd182ae3d6",
+  "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg\" alt=\"Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says\" class=\"type:primaryImage\"></p><p>A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role.</p>",
+    "published": "Thu, 29 Oct 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "312956dd2420362a",
+  "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63M426NN1C8PGWZD4S269RJ/hi-how-bitcoin-empowers-the-unbanked-and-combats-injustice.jpg\" alt=\"Bitcoin long-term resistance in focus as analysis sees selling risk above $85K \" class=\"type:primaryImage\"></p><p>BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.</p>",
+    "published": "Thu, 29 Oct 2026 10:46:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a553dd5219cd6004",
+  "title": "ECB President Christine Lagarde to step down in February 2027",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg\" alt=\"ECB President Christine Lagarde to step down in February 2027 \" class=\"type:primaryImage\"></p><p>Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role.</p>",
+    "published": "Thu, 29 Oct 2026 10:33:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "64d537c35f587c90",
+  "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M635F2FZPQBQ2SP21XCPWHDQ/hi-bitcoins-are-flash-green-1.jpg\" alt=\"Bitcoin ETFs add $137M, pushing October back into the green\" class=\"type:primaryImage\"></p><p>Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.</p>",
+    "published": "Thu, 29 Oct 2026 07:32:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c509104a2a6fcafd",
+  "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62YRQYZXNTVJN5ND4CSDWQZ/hi-chinese-banking-regulation-blockchain-variant.jpg\" alt=\"Your fridge could one day stake Ether, launch memecoins: CFTC chair\" class=\"type:primaryImage\"></p><p>CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt. </p>",
+    "published": "Thu, 29 Oct 2026 04:39:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e169cb0b6882f5fe",
+  "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62T0EMVVBHXMFAFEZ1Q1TKW/police.jpg\" alt=\"Tampered Ledger wallets cost Singapore users $2.7M: Police\" class=\"type:primaryImage\"></p><p>Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.</p>",
+    "published": "Thu, 29 Oct 2026 03:16:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cdc88ac93e206ee5",
+  "title": "Fed\u2019s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg\" alt=\"Fed\u2019s hawkish rate hold keeps pressure on Bitcoin: Analysts\" class=\"type:primaryImage\"></p><p>Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin\u2019s next move.</p>",
+    "published": "Thu, 29 Oct 2026 01:12:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0610429cbf4b7a34",
+  "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
+    "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem.",
+    "published": "Thu, 29 Oct 2026 11:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0ccd720ef4ed048b",
+  "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276792\">https://news.ycombinator.com/item?id=50276792</a></p> <p>Points: 689</p> <p># Comments: 561</p>",
-    "published": "Wed, 28 Oct 2026 17:01:23 +0000"
+    "url": "https://sonidoselva.com/perspectiva-kogui",
+    "summary": "<p>Article URL: <a href=\"https://sonidoselva.com/perspectiva-kogui\">https://sonidoselva.com/perspectiva-kogui</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287359\">https://news.ycombinator.com/item?id=50287359</a></p> <p>Points: 22</p> <p># Comments: 4</p>",
+    "published": "Thu, 29 Oct 2026 11:29:49 +0000"
    }
   ]
  },
  {
-  "id": "47800b94f814b4c5",
-  "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+  "id": "160c9c48756f5546",
+  "title": "Show HN: UK Farming Simulator",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
-    "summary": "<p>Article URL: <a href=\"https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram\">https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275887\">https://news.ycombinator.com/item?id=50275887</a></p> <p>Points: 138</p> <p># Comments: 33</p>",
-    "published": "Wed, 28 Oct 2026 16:01:53 +0000"
+    "url": "https://butterbean.farm/",
+    "summary": "<p>Article URL: <a href=\"https://butterbean.farm/\">https://butterbean.farm/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287255\">https://news.ycombinator.com/item?id=50287255</a></p> <p>Points: 4</p> <p># Comments: 8</p>",
+    "published": "Thu, 29 Oct 2026 11:15:59 +0000"
    }
   ]
  },
  {
-  "id": "97373eedda74b8cd",
-  "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+  "id": "6017d0b01f3a160c",
+  "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://surgehq.ai/blog/dayjob-tax",
-    "summary": "<p>Article URL: <a href=\"https://surgehq.ai/blog/dayjob-tax\">https://surgehq.ai/blog/dayjob-tax</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275626\">https://news.ycombinator.com/item?id=50275626</a></p> <p>Points: 168</p> <p># Comments: 97</p>",
-    "published": "Wed, 28 Oct 2026 15:46:30 +0000"
+    "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+    "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/\">https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287001\">https://news.ycombinator.com/item?id=50287001</a></p> <p>Points: 65</p> <p># Comments: 36</p>",
+    "published": "Thu, 29 Oct 2026 10:44:49 +0000"
    }
   ]
  },
  {
-  "id": "b1c25df60737efd4",
-  "title": "Archive.today links going forward",
+  "id": "fdf5c75d4a409d61",
+  "title": "Zero click, silent, remote Android DoS",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
-    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/\">https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275373\">https://news.ycombinator.com/item?id=50275373</a></p> <p>Points: 152</p> <p># Comments: 99</p>",
-    "published": "Wed, 28 Oct 2026 15:31:58 +0000"
+    "url": "https://smsofdeath.com/",
+    "summary": "<p>Article URL: <a href=\"https://smsofdeath.com/\">https://smsofdeath.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285452\">https://news.ycombinator.com/item?id=50285452</a></p> <p>Points: 139</p> <p># Comments: 88</p>",
+    "published": "Thu, 29 Oct 2026 07:08:50 +0000"
    }
   ]
  },
  {
-  "id": "7ae8eb20550eee76",
-  "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+  "id": "0193e4dda656781e",
+  "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/nvidia/nemotron-transcribe-granary\">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275128\">https://news.ycombinator.com/item?id=50275128</a></p> <p>Points: 95</p> <p># Comments: 16</p>",
-    "published": "Wed, 28 Oct 2026 15:17:53 +0000"
+    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "summary": "<p>Article URL: <a href=\"https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/\">https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285319\">https://news.ycombinator.com/item?id=50285319</a></p> <p>Points: 111</p> <p># Comments: 19</p>",
+    "published": "Thu, 29 Oct 2026 06:47:28 +0000"
    }
   ]
  },
  {
-  "id": "e110f678c5c33501",
-  "title": "CNC Stone Carving",
+  "id": "271134257c4af766",
+  "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://carmelitegothic.com/cnc-stone-carving/",
-    "summary": "<p>Article URL: <a href=\"https://carmelitegothic.com/cnc-stone-carving/\">https://carmelitegothic.com/cnc-stone-carving/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274409\">https://news.ycombinator.com/item?id=50274409</a></p> <p>Points: 349</p> <p># Comments: 109</p>",
-    "published": "Wed, 28 Oct 2026 14:38:22 +0000"
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "summary": "<p>Article URL: <a href=\"https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50284255\">https://news.ycombinator.com/item?id=50284255</a></p> <p>Points: 431</p> <p># Comments: 165</p>",
+    "published": "Thu, 29 Oct 2026 03:33:42 +0000"
    }
   ]
  },
  {
-  "id": "4b1fa572a181234b",
-  "title": "AlpineBSD",
+  "id": "44e3e5f137f8038b",
+  "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://wiki.alpinebsd.org",
-    "summary": "<p>Article URL: <a href=\"https://wiki.alpinebsd.org\">https://wiki.alpinebsd.org</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274251\">https://news.ycombinator.com/item?id=50274251</a></p> <p>Points: 150</p> <p># Comments: 132</p>",
-    "published": "Wed, 28 Oct 2026 14:30:26 +0000"
+    "url": "https://divagr.com/blog/qwenputer",
+    "summary": "<p>Article URL: <a href=\"https://divagr.com/blog/qwenputer\">https://divagr.com/blog/qwenputer</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282838\">https://news.ycombinator.com/item?id=50282838</a></p> <p>Points: 538</p> <p># Comments: 110</p>",
+    "published": "Thu, 29 Oct 2026 00:25:45 +0000"
    }
   ]
  },
  {
-  "id": "f40066880a48ed2f",
-  "title": "The Agent SDK",
+  "id": "fd42ed95345d6868",
+  "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://cursor.com/blog/agent-sdk",
-    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-sdk\">https://cursor.com/blog/agent-sdk</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273731\">https://news.ycombinator.com/item?id=50273731</a></p> <p>Points: 83</p> <p># Comments: 98</p>",
-    "published": "Wed, 28 Oct 2026 14:02:20 +0000"
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=50282544</a></p> <p>Points: 197</p> <p># Comments: 89</p>",
+    "published": "Wed, 28 Oct 2026 23:45:46 +0000"
    }
   ]
  },
  {
-  "id": "28c9ad1a666fcfcd",
-  "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+  "id": "75f2ee2fae2513ff",
+  "title": "StackOverflow now gets fewer than 1000 questions a month",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "summary": "<p>Article URL: <a href=\"https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/\">https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273396\">https://news.ycombinator.com/item?id=50273396</a></p> <p>Points: 388</p> <p># Comments: 435</p>",
-    "published": "Wed, 28 Oct 2026 13:41:30 +0000"
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+    "summary": "<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\">https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282454\">https://news.ycombinator.com/item?id=50282454</a></p> <p>Points: 547</p> <p># Comments: 452</p>",
+    "published": "Wed, 28 Oct 2026 23:35:02 +0000"
    }
   ]
  },
  {
-  "id": "e5b3578f04039957",
-  "title": "Emacs Turns 50",
+  "id": "e9c465a65bcbdc8e",
+  "title": "A Health Update",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-    "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/\">https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273171\">https://news.ycombinator.com/item?id=50273171</a></p> <p>Points: 371</p> <p># Comments: 161</p>",
-    "published": "Wed, 28 Oct 2026 13:25:11 +0000"
+    "url": "https://furbo.org/2026/10/28/a-health-update/",
+    "summary": "<p>Article URL: <a href=\"https://furbo.org/2026/10/28/a-health-update/\">https://furbo.org/2026/10/28/a-health-update/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280974\">https://news.ycombinator.com/item?id=50280974</a></p> <p>Points: 287</p> <p># Comments: 44</p>",
+    "published": "Wed, 28 Oct 2026 21:13:21 +0000"
    }
   ]
  },
  {
-  "id": "c8747690a7610e38",
-  "title": "US agency approves Amazon Leo\u2019s $11.5B acquisition of Globalstar",
+  "id": "def3d17f3c125f87",
+  "title": "Scaling Hierarchical Networks",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-    "summary": "<p>Previously: <i>Amazon to acquire Globalstar and expand Amazon Leo satellite network</i> - <a href=\"https://news.ycombinator.com/item?id=47775183\">https://news.ycombinator.com/item?id=47775183</a> - April 2026 (119 comments)</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50272145\">https://news.ycombinator.com/item?id=50272145</a></p> <p>Points: 218</p> <p># Comments: 100</p>",
-    "published": "Wed, 28 Oct 2026 11:54:23 +0000"
+    "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+    "summary": "<p>Article URL: <a href=\"https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1\">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50278253\">https://news.ycombinator.com/item?id=50278253</a></p> <p>Points: 79</p> <p># Comments: 4</p>",
+    "published": "Wed, 28 Oct 2026 18:07:41 +0000"
    }
   ]
  },
  {
-  "id": "b126d7721238eea7",
-  "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+  "id": "827509272e640f06",
+  "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://dmux.github.io/minilake/",
+    "summary": "<p>Article URL: <a href=\"https://dmux.github.io/minilake/\">https://dmux.github.io/minilake/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50259697\">https://news.ycombinator.com/item?id=50259697</a></p> <p>Points: 39</p> <p># Comments: 5</p>",
+    "published": "Tue, 27 Oct 2026 14:12:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "533b5df47158d959",
+  "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-    "published": "Wed, 28 Oct 2026 21:58:32 +0000"
-   }
-  ]
- },
- {
-  "id": "f348c6db37d87fbe",
-  "title": "Google expands AI Search ads globally as core ad growth slows",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "published": "Wed, 28 Oct 2026 21:48:37 +0000"
-   }
-  ]
- },
- {
-  "id": "90b267becbf2eaa8",
-  "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "published": "Wed, 28 Oct 2026 21:34:30 +0000"
-   }
-  ]
- },
- {
-  "id": "f7041d98b5619cae",
-  "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "published": "Wed, 28 Oct 2026 21:25:30 +0000"
-   }
-  ]
- },
- {
-  "id": "bdc7e8efb0fcbd8f",
-  "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-    "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-    "published": "Wed, 28 Oct 2026 20:01:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2ede9b7f343197b4",
-  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "published": "Wed, 28 Oct 2026 19:19:58 +0000"
-   }
-  ]
- },
- {
-  "id": "66c9055b3cf21443",
-  "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
-    "published": "Wed, 28 Oct 2026 19:05:46 +0000"
-   }
-  ]
- },
- {
-  "id": "224c11353eacf02b",
-  "title": "Apple launches its new touchscreen MacBook Pro",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-    "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-    "published": "Wed, 28 Oct 2026 17:26:10 +0000"
-   }
-  ]
- },
- {
-  "id": "67eaba83a56fbeb4",
-  "title": "Xreal Aura is a new wired headset powered by Android XR",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-    "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "1e8ba9106ed897eb",
-  "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "765a5a74d2443b20",
-  "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "d2d1fbcb385a7c99",
-  "title": "Reddit is the latest platform to embrace the \u2018For You\u2019 feed",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-    "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-    "published": "Wed, 28 Oct 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "d0407e5d8c6e4e86",
-  "title": "AI execs may be too out of touch to build for the general public",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-    "published": "Wed, 28 Oct 2026 15:53:52 +0000"
-   }
-  ]
- },
- {
-  "id": "286a44b1ba2a27a5",
-  "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-    "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-    "published": "Wed, 28 Oct 2026 15:53:21 +0000"
-   }
-  ]
- },
- {
-  "id": "feda3ad530f5eea0",
-  "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-    "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-    "published": "Wed, 28 Oct 2026 15:41:18 +0000"
-   }
-  ]
- },
- {
-  "id": "f1ebb512d4e04c57",
-  "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-    "published": "Wed, 28 Oct 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e2b7b41fe3e4e495",
-  "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-    "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
-    "published": "Wed, 28 Oct 2026 14:34:25 +0000"
-   }
-  ]
- },
- {
-  "id": "bc82ba92a19cea3f",
-  "title": "TikTok expands into restaurant guides with \u2018Must Eat\u2019 feature",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-    "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-    "published": "Wed, 28 Oct 2026 14:26:36 +0000"
-   }
-  ]
- },
- {
-  "id": "2e08fcb924912eb0",
-  "title": "Meta has a new AI pet app called Waddle World",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-    "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-    "published": "Wed, 28 Oct 2026 13:53:31 +0000"
-   }
-  ]
- },
- {
-  "id": "6f6e882e05c9a799",
-  "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-    "summary": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
-    "published": "Wed, 28 Oct 2026 13:39:18 +0000"
+    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "published": "Wed, 28 Oct 2026 23:15:00 +0000"
    }
   ]
  }
