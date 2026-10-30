@@ -1,1 +1,36 @@
-[]
+[
+ {
+  "id": "74ca9507e599b704",
+  "title": "Binance loses $5.7 billion in largest crypto hack to date",
+  "topic": "bitcoin",
+  "score": 10,
+  "raw_score": 10,
+  "weight": 1.0,
+  "reason": "Largest crypto hack to date at the biggest exchange, with a sourced cause for the accompanying bitcoin price slide \u2014 clearly market-moving.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000.",
+    "published": "Thu, 29 Oct 2026 21:12:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f2713dfd80c41501",
+  "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+  "topic": "bitcoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "AI-discovered denial-of-service flaws in Bitcoin Core, disclosed under a new bug-disclosure policy, is a genuinely novel research result at the site's core intersection of AI and Bitcoin.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+    "summary": "Three flaws a language-model scan dug up are the first disclosed under Core\u2019s new rules for bugs that are easy to find.",
+    "published": "Thu, 29 Oct 2026 05:54:39 +0000"
+   }
+  ]
+ }
+]
