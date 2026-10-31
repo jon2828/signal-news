@@ -1,47 +1,41 @@
 [
  {
-  "id": "3366d82cd930450c",
-  "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+  "id": "6e10d3859b9b7aac",
+  "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
   "topic": "bitcoin",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "Attribution of the record hack to Lazarus Group is a significant new fact, corroborated by three sources including named intelligence firms.",
+  "reason": "Materially escalates the covered hack story with new facts \u2014 a wider breach, erased evidence, named CEO statement, and a withdrawal-restart and proof-of-reserves timeline.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-    "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
-    "published": "Fri, 30 Oct 2026 03:36:11 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N1W42V728M2XGSHNH0A01/hi-north-korea-own-crypto.jpg\" alt=\"North Korea\u2019s TraderTraitor linked to $6.3B Binance hack\" class=\"type:primaryImage\"></p><p>TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.</p>",
-    "published": "Fri, 30 Oct 2026 05:51:41 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance\">https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305480\">https://news.ycombinator.com/item?id=50305480</a></p> <p>Points: 176</p> <p># Comments: 111</p>",
-    "published": "Fri, 30 Oct 2026 15:39:05 +0000"
+    "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+    "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+    "published": "Fri, 30 Oct 2026 16:31:17 +0000"
    }
   ]
  },
  {
-  "id": "e3e972f430cf9f17",
-  "title": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
+  "id": "16bb4140c583528b",
+  "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
   "topic": "bitcoin",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Adds genuinely new facts on the hack mechanism via an Ethereum upgrade, a material development beyond the initial breach report.",
+  "reason": "Corroborated by two sources and adds genuinely new facts \u2014 Binance reserving $6.34B of its own funds and roughly $3B in frozen assets \u2014 beyond the initial hack coverage.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-    "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
-    "published": "Fri, 30 Oct 2026 11:35:16 +0000"
+    "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+    "summary": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
+    "published": "Fri, 30 Oct 2026 12:13:02 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+    "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
+    "published": "Fri, 30 Oct 2026 21:20:23 +0000"
    }
   ]
  }
