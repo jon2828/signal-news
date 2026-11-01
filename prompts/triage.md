@@ -21,5 +21,12 @@ Candidates:
 <<CANDIDATES>>
 
 Respond with ONLY a JSON array, no prose, no markdown fences:
-[{"id": "<id>", "score": <1-10>, "reason": "<one sentence>"}]
+[{"id": "<id>", "score": <1-10>, "story": "<slug>", "reason": "<one sentence>"}]
 One entry per candidate, same ids as the input.
+
+`story` names the underlying event, not the angle. Two headlines about the same
+incident must carry the SAME slug even when they focus on different details; a
+genuinely different event gets a different slug. Use 1 to 3 lowercase words
+joined by hyphens, no punctuation: `binance-hack`, `gpt-6-astra`,
+`ethereum-upgrade`. The site caps how many posts one event may receive, so a
+slug that drifts between candidates lets one story flood the front page.

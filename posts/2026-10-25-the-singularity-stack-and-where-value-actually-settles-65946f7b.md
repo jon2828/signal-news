@@ -2,6 +2,7 @@
 title: The singularity stack, and the case for holding the last layer
 date: 2026-10-25
 topic: both
+story: singularity-stack
 score: 8
 candidate_id: 65946f7b8693f2f8
 sources: ["https://earlyriders.com/singularity-stack/"]

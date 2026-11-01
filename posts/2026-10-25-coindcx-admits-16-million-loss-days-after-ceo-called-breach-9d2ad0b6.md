@@ -2,6 +2,7 @@
 title: CoinDCX admits $16 million loss days after CEO called breach reports a false alarm
 date: 2026-10-25
 topic: bitcoin
+story: coindcx-breach
 score: 7
 candidate_id: 9d2ad0b63bb372b9
 sources: ["https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617"]

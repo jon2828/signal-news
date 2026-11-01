@@ -2,6 +2,7 @@
 title: How an Ethereum upgrade helped an attacker drain $2.5 billion from Binance
 date: 2026-10-30
 topic: bitcoin
+story: binance-hack
 score: 7
 candidate_id: e3e972f430cf9f17
 sources: ["https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"]

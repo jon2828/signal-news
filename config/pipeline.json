@@ -34,6 +34,8 @@
     "min_triage_score": 7,
     "max_words_per_post": 1000,
     "max_source_age_days": 3,
+    "max_posts_per_story": 2,
+    "story_window_days": 7,
     "catchup_posts_per_day": 2,
     "catchup_until": "2026-10-08"
   },

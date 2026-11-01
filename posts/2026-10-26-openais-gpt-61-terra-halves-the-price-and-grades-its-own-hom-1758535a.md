@@ -2,6 +2,7 @@
 title: OpenAI's GPT-6.1 Terra halves the price and grades its own homework
 date: 2026-10-26
 topic: ai
+story: gpt-6-1-terra
 score: 8
 candidate_id: 1758535ac6be3e6b
 sources: ["https://openai.com/index/introducing-gpt-6-1-terra", "https://openai.com/index/introducing-gpt-6-1-terra/"]

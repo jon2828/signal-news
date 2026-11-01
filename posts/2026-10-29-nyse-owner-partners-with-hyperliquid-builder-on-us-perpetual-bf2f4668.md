@@ -2,6 +2,7 @@
 title: NYSE owner partners with Hyperliquid builder on U.S. perpetual futures
 date: 2026-10-29
 topic: bitcoin
+story: nyse-hyperliquid
 score: 7
 candidate_id: bf2f46685b5e8d79
 sources: ["https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s"]

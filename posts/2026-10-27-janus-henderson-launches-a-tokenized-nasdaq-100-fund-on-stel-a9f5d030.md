@@ -2,6 +2,7 @@
 title: Janus Henderson launches a tokenized Nasdaq-100 fund on Stellar
 date: 2026-10-27
 topic: bitcoin
+story: tokenized-fund
 score: 7
 candidate_id: a9f5d030670fb69a
 sources: ["https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund", "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"]
