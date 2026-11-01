@@ -2,6 +2,7 @@
 title: Quantum model cuts the hardware needed to break bitcoin keys by 17 times
 date: 2026-10-29
 topic: bitcoin
+story: quantum-bitcoin-keys
 score: 8
 candidate_id: 046f5ffccb1df51e
 sources: ["https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"]

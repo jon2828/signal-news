@@ -2,6 +2,7 @@
 title: AI found a way to crash bitcoin nodes, and Core published it six days later
 date: 2026-10-29
 topic: both
+story: bitcoin-node-crash
 score: 7
 candidate_id: f2713dfd80c41501
 sources: ["https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"]

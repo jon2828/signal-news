@@ -2,6 +2,7 @@
 title: North Korea's TraderTraitor likely behind the $6.3 billion Binance hack
 date: 2026-10-30
 topic: bitcoin
+story: binance-hack
 score: 8
 candidate_id: 3366d82cd930450c
 sources: ["https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths", "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"]

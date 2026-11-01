@@ -2,6 +2,7 @@
 title: Electrum bug let rogue servers steal bitcoin when users bumped fees
 date: 2026-10-26
 topic: bitcoin
+story: electrum-bug
 score: 7
 candidate_id: 128bbb42a21b9700
 sources: ["https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"]

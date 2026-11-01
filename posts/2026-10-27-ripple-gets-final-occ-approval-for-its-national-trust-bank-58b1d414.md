@@ -2,6 +2,7 @@
 title: Ripple gets final OCC approval for its national trust bank
 date: 2026-10-27
 topic: bitcoin
+story: ripple-occ
 score: 9
 candidate_id: 58b1d41456044f7f
 sources: ["https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank", "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"]

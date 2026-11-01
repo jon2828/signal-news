@@ -101,6 +101,96 @@ def title_overlap(a: str, b: str) -> float:
     return len(ta & tb) / min(len(ta), len(tb))
 
 
+def _story_slug(raw: str) -> str:
+    """Normalise a triage story label so trivial spelling drift cannot split one event."""
+    import re as _re
+    return _re.sub(r"[^a-z0-9]+", "-", str(raw or "").lower()).strip("-")
+
+
+def recent_post_stories(days: int) -> list[tuple[str, str]]:
+    """(story slug, title) for posts inside the window, newest data first.
+
+    Posts written before the `story` field existed carry no label; they come
+    back with an empty slug so the cap can still match them on title overlap
+    rather than silently ignoring a week of unlabelled backlog.
+    """
+    import datetime as _dt
+    cutoff = _dt.datetime.now(_dt.UTC) - _dt.timedelta(days=days)
+    out: list[tuple[str, str]] = []
+    posts = ROOT / "posts"
+    if not posts.exists():
+        return out
+    for p in posts.glob("*.md"):
+        try:
+            title = date = story = ""
+            for line in p.read_text().splitlines()[:16]:
+                if line.startswith("title:"):
+                    title = line.split(":", 1)[1].strip()
+                elif line.startswith("date:"):
+                    date = line.split(":", 1)[1].strip()
+                elif line.startswith("story:"):
+                    story = line.split(":", 1)[1].strip().strip("\"'")
+            if not date:
+                continue
+            stamp = _dt.datetime.fromisoformat(date).replace(tzinfo=_dt.timezone.utc)
+            if stamp < cutoff:
+                continue
+            out.append((_story_slug(story), title))
+        except Exception:
+            continue
+    return out
+
+
+def apply_story_cap(approved: list[dict], take: int, prior: list[tuple[str, str]],
+                    cap: int, overlap: float = 0.5):
+    """Fill `take` slots in score order, refusing a third post on one event.
+
+    Jon's rule: two posts on a similar topic, then take the next candidate
+    down the list. A story that keeps clearing the score gate still stops at
+    `cap` inside the window, because repetition costs more reader trust than
+    one skipped story costs coverage.
+
+    Returns (picked, no_room, story_blocked) so the audit log can tell "the
+    daily allowance was already full" apart from "this event had its turn".
+    """
+    counts: dict[str, int] = {}
+    seen_titles = list(prior)
+    for slug, _title in prior:
+        if slug:
+            counts[slug] = counts.get(slug, 0) + 1
+
+    picked: list[dict] = []
+    no_room: list[dict] = []
+    story_blocked: list[dict] = []
+
+    for entry in approved:
+        if len(picked) >= take:
+            no_room.append(entry)
+            continue
+        slug = _story_slug(entry.get("story", ""))
+        if slug:
+            if counts.get(slug, 0) >= cap:
+                entry["story_blocked"] = slug
+                entry["story_count"] = counts[slug]
+                story_blocked.append(entry)
+                continue
+            counts[slug] = counts.get(slug, 0) + 1
+            picked.append(entry)
+            continue
+        # No usable label: fall back to title overlap against what the window
+        # already covered, so a missing slug cannot walk straight past the cap.
+        hits = sum(1 for _s, t in seen_titles if title_overlap(entry["title"], t) >= overlap)
+        if hits >= cap:
+            entry["story_blocked"] = "unlabelled-overlap"
+            entry["story_count"] = hits
+            story_blocked.append(entry)
+            continue
+        seen_titles.append(("", entry["title"]))
+        picked.append(entry)
+
+    return picked, no_room, story_blocked
+
+
 def main() -> int:
     if kill_switch():
         return guarded_exit("triage")
@@ -213,19 +303,27 @@ def main() -> int:
         weight = feeds_cfg.get(c["sources"][0]["source"], {}).get("weight", 1.0)
         effective = min(10, round(float(s["score"]) * weight))
         entry = {"id": c["id"], "title": c["title"], "topic": c["topic"],
+                 "story": _story_slug(s.get("story", "")),
                  "score": effective, "raw_score": s["score"], "weight": weight,
                  "reason": s.get("reason", ""), "sources": c["sources"]}
         (approved if effective >= caps["min_triage_score"] else rejected).append(entry)
 
     approved.sort(key=lambda e: -e["score"])
-    overflow = approved[take:]
-    approved = approved[:take]
+    story_cap = int(caps.get("max_posts_per_story") or 0)
+    if story_cap > 0:
+        prior = recent_post_stories(int(caps.get("story_window_days") or 7))
+        approved, overflow, story_blocked = apply_story_cap(approved, take, prior, story_cap)
+    else:
+        story_blocked = []
+        overflow = approved[take:]
+        approved = approved[:take]
     # Over-cap 7+ scorers keep their candidate (not removed below) so the next
     # run re-considers them; they get an explicit over_cap decision here.
     # Keep only unscored-and-not-over-cap candidates for future runs: re-scoring
     # final decisions every run wastes tokens.
     final_ids = {e["id"] for e in rejected} | {e["id"] for e in approved}
-    unscored = [c for c in candidates if c["id"] not in final_ids and c["id"] not in {e["id"] for e in overflow}]
+    blocked_ids = {e["id"] for e in overflow} | {e["id"] for e in story_blocked}
+    unscored = [c for c in candidates if c["id"] not in final_ids and c["id"] not in blocked_ids]
     (ROOT / "state" / "candidates.json").write_text(json.dumps(unscored, indent=1))
     (ROOT / "state" / "approved.json").write_text(json.dumps(approved, indent=1))
 
@@ -235,11 +333,17 @@ def main() -> int:
     for e in overflow:
         log_decision("over_cap", json.dumps({"id": e["id"], "title": e["title"][:120],
                                              "score": e["score"], "reason": e.get("reason", "")[:200]}))
+    for e in story_blocked:
+        log_decision("story_capped", json.dumps(
+            {"id": e["id"], "title": e["title"][:120], "score": e["score"],
+             "story": e.get("story_blocked"), "already_published": e.get("story_count"),
+             "reason": e.get("reason", "")[:160]}))
     for e in approved:
         log_decision("approved", json.dumps({"id": e["id"], "title": e["title"][:120],
                                              "score": e["score"], "reason": e.get("reason", "")[:200]}))
     print(f"[triage] {len(scores)} scored via {prov}: {len(approved)} approved "
-          f"(cap {take}), {len(rejected)} rejected. Scores and reasons in state/decisions.jsonl")
+          f"(cap {take}), {len(rejected)} rejected, {len(story_blocked)} held back "
+          f"for story repetition. Scores and reasons in state/decisions.jsonl")
     return 0
 
 

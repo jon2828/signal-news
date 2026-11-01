@@ -2,6 +2,7 @@
 title: SpaceX borrows $40 billion for AI chips and Musk warns of a neocloud shakeout
 date: 2026-10-26
 topic: ai
+story: spacex-ai-chips
 score: 7
 candidate_id: 6f9bb62e3bfc0cb0
 sources: ["https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"]

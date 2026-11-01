@@ -2,6 +2,7 @@
 title: Gemini 4 Carbon arrives with top cyber benchmarks and a defenders-first rollout
 date: 2026-10-28
 topic: ai
+story: gemini-4-carbon
 score: 8
 candidate_id: 185e559c77b9fcf3
 sources: ["https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"]

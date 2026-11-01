@@ -164,10 +164,14 @@ def main() -> int:
         fm_lines = ["---",
                     f"title: {meta['title']}",
                     f"date: {meta['date']}",
-                    f"topic: {meta.get('topic', cand['topic'])}",
-                    f"score: {meta['score']}",
-                    f"candidate_id: {cand['id']}",
-                    f"sources: {json.dumps(meta['sources'])}"]
+                    f"topic: {meta.get('topic', cand['topic'])}"]
+        # Persist the story slug: it is what stops a third post on one event
+        # being written next week, so it has to survive into the post file.
+        if cand.get("story"):
+            fm_lines.append(f"story: {cand['story']}")
+        fm_lines += [f"score: {meta['score']}",
+                     f"candidate_id: {cand['id']}",
+                     f"sources: {json.dumps(meta['sources'])}"]
         if meta["triage_reason"]:
             safe_reason = meta["triage_reason"][:150].replace('"', "'")
             fm_lines.append(f"triage_reason: \"{safe_reason}\"")

@@ -2,6 +2,7 @@
 title: Google previews MPC security system for institutional crypto custody
 date: 2026-10-28
 topic: both
+story: google-mpc
 score: 7
 candidate_id: 1786ba9e95a710fe
 sources: ["https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow"]

@@ -2,6 +2,7 @@
 title: Binance says it will cover the $6.3 billion hack with its own money
 date: 2026-10-30
 topic: bitcoin
+story: binance-hack
 score: 7
 candidate_id: 16bb4140c583528b
 sources: ["https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack", "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"]

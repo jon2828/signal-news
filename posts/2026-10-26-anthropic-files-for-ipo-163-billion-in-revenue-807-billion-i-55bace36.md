@@ -2,6 +2,7 @@
 title: Anthropic files for IPO: $16.3 billion in revenue, $80.7 billion in losses
 date: 2026-10-26
 topic: both
+story: anthropic-ipo
 score: 9
 candidate_id: 55bace365eafed1a
 sources: ["https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo", "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"]

@@ -2,6 +2,7 @@
 title: FBI names North Korea's TraderTraitor group in $6 billion Binance hack
 date: 2026-11-01
 topic: bitcoin
+story: binance-hack
 score: 8
 candidate_id: b78be0f146546fa4
 sources: ["https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses", "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"]

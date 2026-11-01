@@ -2,6 +2,7 @@
 title: Binance says the $6.3 billion breach goes beyond one laptop
 date: 2026-10-30
 topic: bitcoin
+story: binance-hack
 score: 8
 candidate_id: 6e10d3859b9b7aac
 sources: ["https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"]

@@ -2,6 +2,7 @@
 title: Binance says it has replaced 90% of the crypto stolen in its $6.3 billion hack
 date: 2026-10-31
 topic: bitcoin
+story: binance-hack
 score: 7
 candidate_id: 9a4add69c777e9bd
 sources: ["https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"]

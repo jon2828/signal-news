@@ -2,6 +2,7 @@
 title: DTCC launches tokenized securities service with 20 Wall Street firms signed up
 date: 2026-10-28
 topic: bitcoin
+story: dtcc-tokenized
 score: 8
 candidate_id: 36d0ead1103e00bb
 sources: ["https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"]

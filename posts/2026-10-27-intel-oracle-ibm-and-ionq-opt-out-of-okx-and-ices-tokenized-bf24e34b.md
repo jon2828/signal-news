@@ -2,6 +2,7 @@
 title: Intel, Oracle, IBM and IonQ opt out of OKX and ICE's tokenized stock venue
 date: 2026-10-27
 topic: bitcoin
+story: tokenized-stock-venue
 score: 7
 candidate_id: bf24e34bbed59140
 sources: ["https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans", "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"]

@@ -2,6 +2,7 @@
 title: Keystone is destroying 18,835 unsold wallets after a breach leaked its authenticity key
 date: 2026-10-27
 topic: bitcoin
+story: keystone-breach
 score: 7
 candidate_id: b1b914e55cbbb869
 sources: ["https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach"]

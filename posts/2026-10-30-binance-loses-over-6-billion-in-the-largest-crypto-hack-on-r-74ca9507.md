@@ -2,6 +2,7 @@
 title: Binance loses over $6 billion in the largest crypto hack on record
 date: 2026-10-30
 topic: bitcoin
+story: binance-hack
 score: 10
 candidate_id: 74ca9507e599b704
 sources: ["https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"]
