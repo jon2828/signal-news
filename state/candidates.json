@@ -1,285 +1,5 @@
 [
  {
-  "id": "0896eaf21379ccf6",
-  "title": "Switch Lowering in GCC",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://xoranth.net/gcc-switch/",
-    "summary": "<p>Article URL: <a href=\"https://xoranth.net/gcc-switch/\">https://xoranth.net/gcc-switch/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50314085\">https://news.ycombinator.com/item?id=50314085</a></p> <p>Points: 80</p> <p># Comments: 10</p>",
-    "published": "Sat, 31 Oct 2026 08:02:26 +0000"
-   }
-  ]
- },
- {
-  "id": "73acf00ea16812b9",
-  "title": "Digital Minimalism",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-    "summary": "<p>Article URL: <a href=\"https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html\">https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50313661\">https://news.ycombinator.com/item?id=50313661</a></p> <p>Points: 75</p> <p># Comments: 49</p>",
-    "published": "Sat, 31 Oct 2026 06:16:36 +0000"
-   }
-  ]
- },
- {
-  "id": "c80cb208774f3699",
-  "title": "Tell HN: Scribd Breached",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://news.ycombinator.com/item?id=50312756",
-    "summary": "<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.\u2019s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third pa",
-    "published": "Sat, 31 Oct 2026 02:46:36 +0000"
-   }
-  ]
- },
- {
-  "id": "9f4589b361903147",
-  "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://tng.episodle.com/",
-    "summary": "<p>Article URL: <a href=\"https://tng.episodle.com/\">https://tng.episodle.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311686\">https://news.ycombinator.com/item?id=50311686</a></p> <p>Points: 198</p> <p># Comments: 55</p>",
-    "published": "Fri, 30 Oct 2026 23:51:24 +0000"
-   }
-  ]
- },
- {
-  "id": "17e634c433c0f41b",
-  "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.firezone.dev/blog/introducing-sanstun",
-    "summary": "<p>Article URL: <a href=\"https://www.firezone.dev/blog/introducing-sanstun\">https://www.firezone.dev/blog/introducing-sanstun</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50310398\">https://news.ycombinator.com/item?id=50310398</a></p> <p>Points: 138</p> <p># Comments: 29</p>",
-    "published": "Fri, 30 Oct 2026 21:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "5d1e722469ff2de9",
-  "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\">https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304122\">https://news.ycombinator.com/item?id=50304122</a></p> <p>Points: 205</p> <p># Comments: 243</p>",
-    "published": "Fri, 30 Oct 2026 14:08:20 +0000"
-   }
-  ]
- },
- {
-  "id": "b192f74f0acd1b6b",
-  "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\">https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50303172\">https://news.ycombinator.com/item?id=50303172</a></p> <p>Points: 471</p> <p># Comments: 326</p>",
-    "published": "Fri, 30 Oct 2026 12:50:01 +0000"
-   }
-  ]
- },
- {
-  "id": "f95b91c9a43348ba",
-  "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-    "summary": "The money behind the money is thrilled, mostly.",
-    "published": "Sat, 31 Oct 2026 04:16:50 +0000"
-   }
-  ]
- },
- {
-  "id": "6336aff37e57b820",
-  "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "published": "Sat, 31 Oct 2026 01:20:05 +0000"
-   }
-  ]
- },
- {
-  "id": "d32a73c825024427",
-  "title": "Salesforce\u2019s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-    "published": "Fri, 30 Oct 2026 23:21:23 +0000"
-   }
-  ]
- },
- {
-  "id": "43523836c60442d9",
-  "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "published": "Fri, 30 Oct 2026 22:56:13 +0000"
-   }
-  ]
- },
- {
-  "id": "652afa7d1d67cba7",
-  "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-    "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
-    "published": "Sat, 31 Oct 2026 18:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e960500eefce8efb",
-  "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-    "summary": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
-    "published": "Sat, 31 Oct 2026 16:09:30 +0000"
-   }
-  ]
- },
- {
-  "id": "77111fa313ab5837",
-  "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
-    "summary": "Trade.xyz\u2019s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
-    "published": "Sat, 31 Oct 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "9a4add69c777e9bd",
-  "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-    "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
-    "published": "Sat, 31 Oct 2026 15:24:10 +0000"
-   }
-  ]
- },
- {
-  "id": "64d132805cf23c81",
-  "title": "Institutions embrace crypto staking despite shrinking yields",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-    "summary": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
-    "published": "Sat, 31 Oct 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "40b05d394f16f048",
-  "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-    "summary": "The pilot let Uber keep funds invested in money market products while accessing cash for payments, even on weekends.",
-    "published": "Sat, 31 Oct 2026 14:40:29 +0000"
-   }
-  ]
- },
- {
-  "id": "c97bb576aeda3b58",
-  "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-    "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
-    "published": "Sat, 31 Oct 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "45b4798e0b02fa69",
-  "title": "18 years in, what has Bitcoin truly done?",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-    "summary": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
-    "published": "Sat, 31 Oct 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "89844ad0eea96074",
-  "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-    "summary": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the coins are held at Binance.",
-    "published": "Sat, 31 Oct 2026 12:49:47 +0000"
-   }
-  ]
- },
- {
   "id": "1ed24d4b4d6f63e6",
   "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
   "topic": "bitcoin",
@@ -560,100 +280,100 @@
   ]
  },
  {
-  "id": "3ed0477a44d4b9f1",
-  "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+  "id": "85c82f0a957177ca",
+  "title": "ChatGPT and Codex usage limits merging",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://github.com/Koppar-AI/koppar-lte-modem",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Koppar-AI/koppar-lte-modem\">https://github.com/Koppar-AI/koppar-lte-modem</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50317331\">https://news.ycombinator.com/item?id=50317331</a></p> <p>Points: 27</p> <p># Comments: 16</p>",
-    "published": "Sat, 31 Oct 2026 15:56:41 +0000"
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "summary": "<p>Article URL: <a href=\"https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits\">https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320588\">https://news.ycombinator.com/item?id=50320588</a></p> <p>Points: 166</p> <p># Comments: 103</p>",
+    "published": "Sat, 31 Oct 2026 21:49:07 +0000"
    }
   ]
  },
  {
-  "id": "5be14df72cefaec0",
-  "title": "Malware uses LLMs to rank victims by how much they're worth",
+  "id": "deed3c9b4e7c80d2",
+  "title": "Electrification Could Cut Global Energy Use in Half",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-    "summary": "<p>Article URL: <a href=\"https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316531\">https://news.ycombinator.com/item?id=50316531</a></p> <p>Points: 214</p> <p># Comments: 116</p>",
-    "published": "Sat, 31 Oct 2026 14:29:03 +0000"
+    "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+    "summary": "<p>Article URL: <a href=\"https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/\">https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319110\">https://news.ycombinator.com/item?id=50319110</a></p> <p>Points: 133</p> <p># Comments: 63</p>",
+    "published": "Sat, 31 Oct 2026 19:13:34 +0000"
    }
   ]
  },
  {
-  "id": "810faf01d5162325",
-  "title": "Jepsen: ParticleDB 1.1.4",
+  "id": "c5196c37706255a2",
+  "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://jepsen.io/analyses/particledb-1.1.4",
-    "summary": "<p><a href=\"https://github.com/jepsen-io/particledb\" rel=\"nofollow\">https://github.com/jepsen-io/particledb</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316100\">https://news.ycombinator.com/item?id=50316100</a></p> <p>Points: 131</p> <p># Comments: 67</p>",
-    "published": "Sat, 31 Oct 2026 13:39:52 +0000"
+    "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html\">https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316117\">https://news.ycombinator.com/item?id=50316117</a></p> <p>Points: 7</p> <p># Comments: 6</p>",
+    "published": "Sat, 31 Oct 2026 13:41:18 +0000"
    }
   ]
  },
  {
-  "id": "14074b4203bb23f1",
-  "title": "Show HN: A language model that lives in a boot sector",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/kerlenton/bootgpt",
-    "summary": "<p>All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try.<p>Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small char-level neural network was trained on dmesg generated by machine, so machine produces Linux boot messages infinitely.<p>train.py performs precisely the same integer arithmetic operations as th",
-    "published": "Sat, 31 Oct 2026 12:58:29 +0000"
-   }
-  ]
- },
- {
-  "id": "344dcf79744aa216",
-  "title": "OpenAI reportedly lowers funding target for new round",
+  "id": "a8e3b1a57cd292df",
+  "title": "Data centers are now a midterm issue, even in Brooklyn",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
-    "published": "Sat, 31 Oct 2026 16:12:55 +0000"
+    "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "published": "Sun, 01 Nov 2026 02:22:10 +0000"
    }
   ]
  },
  {
-  "id": "5690fa4bc638870c",
-  "title": "From restaurant guides to payments, here\u2019s how TikTok is building a super app",
+  "id": "89c6cb6d29717113",
+  "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-    "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-    "published": "Sat, 31 Oct 2026 15:41:57 +0000"
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "published": "Sat, 31 Oct 2026 21:41:00 +0000"
    }
   ]
  },
  {
-  "id": "7d23de49dd5749ba",
-  "title": "I took two iPhones on vacation. The Duo won me over.",
+  "id": "cefcb0bd2478e838",
+  "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
   "topic": "ai",
   "source_count": 1,
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-    "summary": "The iPhone Duo has its frustrations, but it\u2019s also fun and engaging enough that I didn\u2019t want to switch back to my Pro Max.",
-    "published": "Sat, 31 Oct 2026 14:00:00 +0000"
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "published": "Sat, 31 Oct 2026 21:36:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bc398a80a0dffe88",
+  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "published": "Sat, 31 Oct 2026 21:17:03 +0000"
    }
   ]
  }
