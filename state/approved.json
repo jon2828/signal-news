@@ -1,19 +1,37 @@
 [
  {
-  "id": "92484b73101f6f77",
-  "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
+  "id": "a52597637b4f2169",
+  "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
   "topic": "bitcoin",
-  "story": "chainalysis-breach",
+  "story": "btcpay-security-breach",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Major security breach affecting a widely used open-source Bitcoin payment tool.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+    "published": "Mon, 02 Nov 2026 04:41:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "49b79a7bacf9bee8",
+  "title": "Coinbase downgraded at Morgan Stanely; price target slashed 53% on weak earnings outlook",
+  "topic": "bitcoin",
+  "story": "coinbase-downgrade",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "A security breach at a major crypto-analytics firm with named sourcing and new detail on attacker techniques.",
+  "reason": "Significant analyst downgrade with a 53% price target cut for a major exchange.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-    "summary": "The firm has also been tracking Binance\u2019s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
-    "published": "Sat, 31 Oct 2026 13:27:17 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
+    "summary": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
+    "published": "Mon, 02 Nov 2026 14:29:33 +0000"
    }
   ]
  }

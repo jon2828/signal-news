@@ -1,29 +1,567 @@
 [
  {
-  "id": "b9117eb84d7606da",
-  "title": "Distributed Proofreaders",
-  "topic": "both",
+  "id": "af8787288446c894",
+  "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+  "topic": "bitcoin",
   "source_count": 1,
   "sources": [
    {
-    "source": "hn",
-    "url": "https://www.pgdp.net/c/",
-    "summary": "<p>Article URL: <a href=\"https://www.pgdp.net/c/\">https://www.pgdp.net/c/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320137\">https://news.ycombinator.com/item?id=50320137</a></p> <p>Points: 3</p> <p># Comments: 0</p>",
-    "published": "Sat, 31 Oct 2026 20:56:12 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1KKJ1JWX0XVFV8YM0PG3Q/hi-binance-announces-mining-pool-and-chain-white-paper-slammed-for-centralization-in-both-cases.jpg\" alt=\"Binance taps half its SAFU Bitcoin holdings, releases reserve proof\" class=\"type:primaryImage\"></p><p>Binance\u2019s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.</p>",
+    "published": "Mon, 02 Nov 2026 13:21:47 +0000"
    }
   ]
  },
  {
-  "id": "bb2e88199bc32777",
-  "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+  "id": "5654b36f2b7dfc1d",
+  "title": "FATF targets crypto hubs in review of money laundering controls",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg\" alt=\"FATF targets crypto hubs in review of money laundering controls\" class=\"type:primaryImage\"></p><p>The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.</p>",
+    "published": "Mon, 02 Nov 2026 12:56:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "57c992a6e9f3fa49",
+  "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DXS9W8ZYW0K2FAPP5WSEXQ/hi-hackers-fishing-1.jpg\" alt=\"Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis\" class=\"type:primaryImage\"></p><p>Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.</p>",
+    "published": "Mon, 02 Nov 2026 12:40:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2c525d27f9a0be90",
+  "title": "From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg\" alt=\"From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?\" class=\"type:primaryImage\"></p><p>Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month\u2019s historically strong returns, as analysts reassess seasonal signals.</p>",
+    "published": "Mon, 02 Nov 2026 11:19:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f4e5013491718883",
+  "title": "Trezor lifts password ceiling after Coldcard\u2019s $100M wallet thefts",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png\" alt=\"Trezor lifts password ceiling after Coldcard\u2019s $100M wallet thefts\" class=\"type:primaryImage\"></p><p>Trezor cited July\u2019s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.</p>",
+    "published": "Mon, 02 Nov 2026 10:46:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "82fdd38ad3edf39d",
+  "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg\" alt=\"Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials\" class=\"type:primaryImage\"></p><p>The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.</p>",
+    "published": "Mon, 02 Nov 2026 10:14:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a3c71c8c304d01f1",
+  "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DPN36PMEF09E83YXHSEHAH/article-covers-252604-crypto-laws-states-party-primaries-1280x853.webp\" alt=\"BTC heads into US midterm showdown: Three things to know in Bitcoin this week\" class=\"type:primaryImage\"></p><p>Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.</p>",
+    "published": "Mon, 02 Nov 2026 09:41:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8efa06200218255e",
+  "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg\" alt=\"OKX draws $445M in net inflows as Binance outflows exceed $7B\" class=\"type:primaryImage\"></p><p>OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.</p>",
+    "published": "Mon, 02 Nov 2026 08:56:03 +0000"
+   }
+  ]
+ },
+ {
+  "id": "025f706a84b20df9",
+  "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg\" alt=\"Bitcoin ETFs sink into October outflows with $643M exit after Binance hack\" class=\"type:primaryImage\"></p><p>US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.</p>",
+    "published": "Mon, 02 Nov 2026 07:50:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "685c8eab2412851b",
+  "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg\" alt=\"BTCPay Server warns of hot wallet thefts running on outdated software\" class=\"type:primaryImage\"></p><p>BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.</p>",
+    "published": "Mon, 02 Nov 2026 05:34:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bf80be3450f25395",
+  "title": "Bank of Korea probes financial firms\u2019 exposure to crypto risks",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg\" alt=\"Bank of Korea probes financial firms\u2019 exposure to crypto risks\" class=\"type:primaryImage\"></p><p>The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.</p>",
+    "published": "Mon, 02 Nov 2026 03:55:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "152c7e753cc4b617",
+  "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg\" alt=\"THORChain halts swaps after block reorg bug, slowing Binance hackers\" class=\"type:primaryImage\"></p><p>THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.</p>",
+    "published": "Mon, 02 Nov 2026 01:51:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "58e4a71c4c2337c9",
+  "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg\" alt=\"Binance net outflows surge to $5.8B as withdrawals resume after record hack\" class=\"type:primaryImage\"></p><p>The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets. </p>",
+    "published": "Sun, 01 Nov 2026 23:59:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3580297ac242afd4",
+  "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg\" alt=\"THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest\" class=\"type:primaryImage\"></p><p>Binance has reopened withdrawals following the world\u2019s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.</p>",
+    "published": "Sun, 01 Nov 2026 23:09:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "aeecf90279ef3b44",
+  "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+    "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+    "published": "Mon, 02 Nov 2026 14:40:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f89b47c9e38356f5",
+  "title": "\u2018We found room for even more orange\u2019: Michael Saylor\u2019s Strategy scoops up another 811 bitcoin for $65.5 million",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+    "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
+    "published": "Mon, 02 Nov 2026 13:09:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b6d1512749caea59",
+  "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+    "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
+    "published": "Mon, 02 Nov 2026 04:11:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f92fef779d4a7d8d",
+  "title": "Last night an AI agent performed brain surgery on a mouse",
   "topic": "both",
   "source_count": 1,
   "sources": [
    {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
-    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again\">https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50328462\">https://news.ycombinator.com/item?id=50328462</a></p> <p>Points: 28</p> <p># Comments: 33</p>",
-    "published": "Sun, 01 Nov 2026 18:51:29 +0000"
+    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/OcanaSantero/status/2115442964574908902\">https://twitter.com/OcanaSantero/status/2115442964574908902</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50336138\">https://news.ycombinator.com/item?id=50336138</a></p> <p>Points: 45</p> <p># Comments: 36</p>",
+    "published": "Mon, 02 Nov 2026 12:50:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9db331e11de28d30",
+  "title": "Never Complain, Never Explain",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+    "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Never_complain,_never_explain\">https://en.wikipedia.org/wiki/Never_complain,_never_explain</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50335659\">https://news.ycombinator.com/item?id=50335659</a></p> <p>Points: 69</p> <p># Comments: 22</p>",
+    "published": "Mon, 02 Nov 2026 11:55:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "993570a5e9b2d212",
+  "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+  "topic": "both",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\">https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50335615\">https://news.ycombinator.com/item?id=50335615</a></p> <p>Points: 110</p> <p># Comments: 110</p>",
+    "published": "Mon, 02 Nov 2026 11:50:13 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cq1kd1nee80eo\">https://www.bbc.com/news/articles/cq1kd1nee80eo</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50335602\">https://news.ycombinator.com/item?id=50335602</a></p> <p>Points: 86</p> <p># Comments: 84</p>",
+    "published": "Mon, 02 Nov 2026 11:48:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "735904baaa80b5df",
+  "title": "The future in old computer magazines (1984\u20132004)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+    "summary": "<p>Article URL: <a href=\"https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in\">https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50335341\">https://news.ycombinator.com/item?id=50335341</a></p> <p>Points: 49</p> <p># Comments: 23</p>",
+    "published": "Mon, 02 Nov 2026 11:09:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "096aac5ab9559213",
+  "title": "Show HN: I've updated my Linux System Call website and API",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://syscall.sh/",
+    "summary": "<p>I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert.<p>The API is at <a href=\"https://api.syscall.sh\" rel=\"nofollow\">https://api.syscall.sh</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50334704\">https://news.ycombinator.com/item?id=50334704</a></p> <p>Points: 101</p> <p># Comments: 35</p>",
+    "published": "Mon, 02 Nov 2026 09:29:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e45834caa86334a5",
+  "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+    "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/\">https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50334372\">https://news.ycombinator.com/item?id=50334372</a></p> <p>Points: 83</p> <p># Comments: 71</p>",
+    "published": "Mon, 02 Nov 2026 08:32:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4e84ca416d4f3caa",
+  "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+    "summary": "<p>Article URL: <a href=\"https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50334038\">https://news.ycombinator.com/item?id=50334038</a></p> <p>Points: 116</p> <p># Comments: 57</p>",
+    "published": "Mon, 02 Nov 2026 07:27:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f1f3bd09de659fc9",
+  "title": "Show HN: HackerHack \u2013 HackerBooks but for Posts Posted on HN",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://news.ycombinator.com/",
+    "summary": "<p>No AI used for this btw.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50333877\">https://news.ycombinator.com/item?id=50333877</a></p> <p>Points: 162</p> <p># Comments: 23</p>",
+    "published": "Mon, 02 Nov 2026 06:59:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5522e5f644cbe99f",
+  "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+    "summary": "<p>Article URL: <a href=\"https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/\">https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50333774\">https://news.ycombinator.com/item?id=50333774</a></p> <p>Points: 53</p> <p># Comments: 6</p>",
+    "published": "Mon, 02 Nov 2026 06:39:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5bbad0fbe174b1b6",
+  "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://wikihack.netlify.app",
+    "summary": "<p>After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through",
+    "published": "Mon, 02 Nov 2026 05:06:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "45afb28fbe2488c8",
+  "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+    "summary": "<p>Article URL: <a href=\"https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/\">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50332163\">https://news.ycombinator.com/item?id=50332163</a></p> <p>Points: 169</p> <p># Comments: 22</p>",
+    "published": "Mon, 02 Nov 2026 01:59:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9515d6ca449f718b",
+  "title": "Bones may release proteins that slow aging and extend life span",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span\">https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50331957\">https://news.ycombinator.com/item?id=50331957</a></p> <p>Points: 197</p> <p># Comments: 68</p>",
+    "published": "Mon, 02 Nov 2026 01:31:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d2a38c58463a3753",
+  "title": "Trigger.dev customer environment variables exposed",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://trigger.dev/blog/security-incident-nov-2026",
+    "summary": "<p>Article URL: <a href=\"https://trigger.dev/blog/security-incident-nov-2026\">https://trigger.dev/blog/security-incident-nov-2026</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50331784\">https://news.ycombinator.com/item?id=50331784</a></p> <p>Points: 131</p> <p># Comments: 65</p>",
+    "published": "Mon, 02 Nov 2026 01:09:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dbf08f6dacbebd4c",
+  "title": "OccupySaaS",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://occupysaas.com/",
+    "summary": "<p>Article URL: <a href=\"https://occupysaas.com/\">https://occupysaas.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50331402\">https://news.ycombinator.com/item?id=50331402</a></p> <p>Points: 403</p> <p># Comments: 251</p>",
+    "published": "Mon, 02 Nov 2026 00:17:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "242d15603b74aef5",
+  "title": "Ask HN: Which TV do you recommend for privacy?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://news.ycombinator.com/item?id=50328896",
+    "summary": "<p>I haven\u2019t owned a TV in years and would like one that respects my privacy. Are there any TV\u2019s which do this well? I am looking for something in the 60\u201dto 80\u201drange and would like a 4k display with at least 60hz display. I don\u2019t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV\u2019s pair better with this than others for privacy? I don\u2019t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/i",
+    "published": "Sun, 01 Nov 2026 19:35:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dc429f8f7e6df013",
+  "title": "Ninja\u2019s first-ever microwave just replaced two of my kitchen appliances at once",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+    "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+    "published": "Mon, 02 Nov 2026 14:42:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ea0f04f8ce2f9552",
+  "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+    "published": "Mon, 02 Nov 2026 14:22:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3891d8b1706f305d",
+  "title": "A fresh wave of cyberattacks has hit Europe\u2019s supermarket refrigerators, destroying food across countries",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+    "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "published": "Mon, 02 Nov 2026 14:08:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f7151c69ed83cd04",
+  "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "published": "Mon, 02 Nov 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "869219a7f13345d5",
+  "title": "OpenAI is finally merging ChatGPT\u2019s chat and Work tabs",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "published": "Mon, 02 Nov 2026 13:57:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9e1ddd41050ed9db",
+  "title": "Ford launches a \u2018privacy promise\u2019 and explains how and why it uses customer data",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+    "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+    "published": "Mon, 02 Nov 2026 11:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6ecb156b783c39ec",
+  "title": "Borrowed reading: stories from our extended colleagues",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+    "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+    "published": "Mon, 02 Nov 2026 04:23:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "33c086ca1438f528",
+  "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "published": "Sun, 01 Nov 2026 21:55:23 +0000"
    }
   ]
  }
