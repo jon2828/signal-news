@@ -1,37 +1,19 @@
 [
  {
-  "id": "a52597637b4f2169",
-  "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-  "topic": "bitcoin",
-  "story": "btcpay-security-breach",
-  "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Major security breach affecting a widely used open-source Bitcoin payment tool.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-    "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
-    "published": "Mon, 02 Nov 2026 04:41:16 +0000"
-   }
-  ]
- },
- {
-  "id": "49b79a7bacf9bee8",
-  "title": "Coinbase downgraded at Morgan Stanely; price target slashed 53% on weak earnings outlook",
-  "topic": "bitcoin",
-  "story": "coinbase-downgrade",
+  "id": "f92fef779d4a7d8d",
+  "title": "Last night an AI agent performed brain surgery on a mouse",
+  "topic": "both",
+  "story": "ai-brain-surgery",
   "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Significant analyst downgrade with a 53% price target cut for a major exchange.",
+  "raw_score": 8,
+  "weight": 0.9,
+  "reason": "Frontier-shifting AI capability demonstration (autonomous surgery) with high novelty and impact.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
-    "summary": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
-    "published": "Mon, 02 Nov 2026 14:29:33 +0000"
+    "source": "hn",
+    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/OcanaSantero/status/2115442964574908902\">https://twitter.com/OcanaSantero/status/2115442964574908902</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50336138\">https://news.ycombinator.com/item?id=50336138</a></p> <p>Points: 45</p> <p># Comments: 36</p>",
+    "published": "Mon, 02 Nov 2026 12:50:59 +0000"
    }
   ]
  }
