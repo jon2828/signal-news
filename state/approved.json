@@ -1,19 +1,37 @@
 [
  {
-  "id": "f92fef779d4a7d8d",
-  "title": "Last night an AI agent performed brain surgery on a mouse",
-  "topic": "both",
-  "story": "ai-brain-surgery",
-  "score": 7,
+  "id": "850f576e93baa84d",
+  "title": "Brazil\u2019s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+  "topic": "bitcoin",
+  "story": "mercado-bitcoin-hack",
+  "score": 8,
   "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Frontier-shifting AI capability demonstration (autonomous surgery) with high novelty and impact.",
+  "weight": 1.0,
+  "reason": "Major exchange security breach with significant financial impact, distinct from the recent Binance hack.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/OcanaSantero/status/2115442964574908902\">https://twitter.com/OcanaSantero/status/2115442964574908902</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50336138\">https://news.ycombinator.com/item?id=50336138</a></p> <p>Points: 45</p> <p># Comments: 36</p>",
-    "published": "Mon, 02 Nov 2026 12:50:59 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+    "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+    "published": "Mon, 02 Nov 2026 15:53:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "746378c87ff69713",
+  "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+  "topic": "bitcoin",
+  "story": "anthropic-financials",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Major financial disclosure from a frontier AI lab revealing significant operating losses ahead of IPO.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+    "summary": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss.",
+    "published": "Mon, 02 Nov 2026 15:18:55 +0000"
    }
   ]
  }
