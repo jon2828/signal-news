@@ -1,37 +1,37 @@
 [
  {
-  "id": "850f576e93baa84d",
-  "title": "Brazil\u2019s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+  "id": "f85746de9c57932a",
+  "title": "Arbitrum\u2019s council moved $30 million of Binance hack funds without the hacker\u2019s key",
   "topic": "bitcoin",
-  "story": "mercado-bitcoin-hack",
+  "story": "arbitrum-hack-funds",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "Major exchange security breach with significant financial impact, distinct from the recent Binance hack.",
+  "reason": "Reveals a controversial and unprecedented governance action by Arbitrum to move hack funds, raising serious security and centralization concerns.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-    "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
-    "published": "Mon, 02 Nov 2026 15:53:29 +0000"
+    "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+    "summary": "A 12-person committee briefly rewrote one of Arbitrum\u2019s core contracts to spend from an address it held no key for, then put the code back. It\u2019s the second time this year.",
+    "published": "Tue, 03 Nov 2026 05:25:12 +0000"
    }
   ]
  },
  {
-  "id": "746378c87ff69713",
-  "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+  "id": "a7816c982d9cf172",
+  "title": "Liquid\u2019s bitcoin IOUs are fully backed again after a $320 million exploit",
   "topic": "bitcoin",
-  "story": "anthropic-financials",
-  "score": 8,
-  "raw_score": 8,
+  "story": "liquid-exploit-resolution",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major financial disclosure from a frontier AI lab revealing significant operating losses ahead of IPO.",
+  "reason": "Confirms the resolution of a significant security exploit, a key milestone for trust in the Liquid network.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
-    "summary": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss.",
-    "published": "Mon, 02 Nov 2026 15:18:55 +0000"
+    "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+    "summary": "A final 250 BTC transfer closed the hole left by September\u2019s bug, but the federation behind the network still hasn\u2019t said who paid to fill it.",
+    "published": "Tue, 03 Nov 2026 11:12:12 +0000"
    }
   ]
  }
