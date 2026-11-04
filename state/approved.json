@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "id": "b4427db7fe9d94b3",
+  "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+  "topic": "bitcoin",
+  "story": "cftc-stock-perps",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "Market-moving regulatory approval bringing crypto trading models to Wall Street, confirmed by multiple sources.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+    "summary": "CFTC Chair Michael Selig said the move gives U.S. traders a regulated alternative to \u201coffshore, and often unregulated, venues.\u201d",
+    "published": "Tue, 03 Nov 2026 15:02:13 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png\" alt=\"CFTC clears stock perpetual futures for trading on US exchanges\" class=\"type:primaryImage\"></p><p>US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.</p>",
+    "published": "Tue, 03 Nov 2026 20:24:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6ba5163d730792d1",
+  "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+  "topic": "bitcoin",
+  "story": "sec-canton-coin",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Important regulatory clarification from the SEC defining a token as a digital commodity, reducing legal uncertainty.",
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+    "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+    "published": "Tue, 03 Nov 2026 22:11:51 +0000"
+   }
+  ]
+ }
+]
