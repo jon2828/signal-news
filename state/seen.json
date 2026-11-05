@@ -24358,5 +24358,330 @@
   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
   "title": "After the midterms, a bigger clash over data centers could be coming",
   "first_seen": "2026-11-05T14:00:30.579935+00:00"
+ },
+ "53c56afbaf05f856": {
+  "url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+  "first_seen": "2026-11-05T23:28:03.364479+00:00"
+ },
+ "300d91101f21ec1d": {
+  "url": "https://openai.com/index/merge-builds-with-openai",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "first_seen": "2026-11-05T23:28:03.364503+00:00"
+ },
+ "4a7dd9ea7b98e4dc": {
+  "url": "https://tldr.tech/ai/2026-11-05",
+  "title": "GPT-Image-2.6 \ud83d\uddbc\ufe0f, Meta buys Conductor \ud83d\udcbb, Cognition SWE-2 Flash \u26a1",
+  "first_seen": "2026-11-05T23:28:03.553850+00:00"
+ },
+ "033019655805e0ee": {
+  "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+  "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+  "first_seen": "2026-11-05T23:28:04.089112+00:00"
+ },
+ "da29a8d3eae2a27d": {
+  "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+  "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+  "first_seen": "2026-11-05T23:28:04.089131+00:00"
+ },
+ "092f0ff0bed49a47": {
+  "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+  "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
+  "first_seen": "2026-11-05T23:28:04.089135+00:00"
+ },
+ "5bb93d25e70a45ca": {
+  "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+  "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+  "first_seen": "2026-11-05T23:28:04.089138+00:00"
+ },
+ "7c01a711dd2b122b": {
+  "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+  "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+  "first_seen": "2026-11-05T23:28:04.089140+00:00"
+ },
+ "76e5697aebe22545": {
+  "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+  "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance\u2019s",
+  "first_seen": "2026-11-05T23:28:04.089143+00:00"
+ },
+ "535d0004b4d27d44": {
+  "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+  "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+  "first_seen": "2026-11-05T23:28:04.089146+00:00"
+ },
+ "22ea13b05c548e0b": {
+  "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "American Bitcoin\u2019s $126M profit masks mining pressure as rivals turn to AI",
+  "first_seen": "2026-11-05T23:28:04.177614+00:00"
+ },
+ "973251c0cf2d5bae": {
+  "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+  "first_seen": "2026-11-05T23:28:04.177629+00:00"
+ },
+ "4bbb3a8a56f856db": {
+  "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+  "first_seen": "2026-11-05T23:28:04.177632+00:00"
+ },
+ "ba90b29bbf6dc689": {
+  "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+  "first_seen": "2026-11-05T23:28:04.177636+00:00"
+ },
+ "da2f323db62b9b80": {
+  "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+  "first_seen": "2026-11-05T23:28:04.177639+00:00"
+ },
+ "f2872b27b24b0273": {
+  "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Europe\u2019s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+  "first_seen": "2026-11-05T23:28:04.177641+00:00"
+ },
+ "d105ae2070804b42": {
+  "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Paraguay president resigns after collapse of Ueno digital bank",
+  "first_seen": "2026-11-05T23:28:04.177644+00:00"
+ },
+ "0e3f0febcac94293": {
+  "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+  "first_seen": "2026-11-05T23:28:04.177647+00:00"
+ },
+ "ec19d94981f78dbd": {
+  "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+  "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+  "first_seen": "2026-11-05T23:28:04.231505+00:00"
+ },
+ "2ea7700e23392670": {
+  "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+  "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+  "first_seen": "2026-11-05T23:28:04.231519+00:00"
+ },
+ "cd18b9690df68240": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+  "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+  "first_seen": "2026-11-05T23:28:04.231523+00:00"
+ },
+ "c7130f88e66a4e28": {
+  "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+  "title": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+  "first_seen": "2026-11-05T23:28:04.231526+00:00"
+ },
+ "895ddf98fcb09b7c": {
+  "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+  "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+  "first_seen": "2026-11-05T23:28:04.231529+00:00"
+ },
+ "9148a32da90897e5": {
+  "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+  "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+  "first_seen": "2026-11-05T23:28:04.231531+00:00"
+ },
+ "03d99f99c64fd8bc": {
+  "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+  "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+  "first_seen": "2026-11-05T23:28:04.231533+00:00"
+ },
+ "70bdb940db26b329": {
+  "url": "https://www.404media.co/republicans-learn-x-is-an-echo-chamber/",
+  "title": "Republicans Learn X Is the Echo Chamber",
+  "first_seen": "2026-11-05T23:28:09.009371+00:00"
+ },
+ "3b58ffb304e7b124": {
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "title": "Claude Code sends your email address to websites",
+  "first_seen": "2026-11-05T23:28:09.009389+00:00"
+ },
+ "2c7d8bba3f07e75c": {
+  "url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
+  "title": "$2.5T has been wiped from US stocks",
+  "first_seen": "2026-11-05T23:28:09.009393+00:00"
+ },
+ "075932e153d9489c": {
+  "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+  "title": "MS Paint Remote Code Execution Vulnerability",
+  "first_seen": "2026-11-05T23:28:09.009396+00:00"
+ },
+ "db612eb904d446b1": {
+  "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+  "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+  "first_seen": "2026-11-05T23:28:09.009399+00:00"
+ },
+ "ae43993b9964e59a": {
+  "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+  "title": "The Cost of Blogging",
+  "first_seen": "2026-11-05T23:28:09.009401+00:00"
+ },
+ "551c2101be1077c2": {
+  "url": "https://kagi.com/changelog",
+  "title": "Kagi Search for Everyone",
+  "first_seen": "2026-11-05T23:28:09.009403+00:00"
+ },
+ "f41b14b1064e26c2": {
+  "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+  "title": "Goodbye from Salon",
+  "first_seen": "2026-11-05T23:28:09.009406+00:00"
+ },
+ "70ba798f4981486a": {
+  "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+  "title": "Introducing Pangram Image 1.0",
+  "first_seen": "2026-11-05T23:28:09.009408+00:00"
+ },
+ "0d63b75b618b190d": {
+  "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+  "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+  "first_seen": "2026-11-05T23:28:09.009411+00:00"
+ },
+ "9d8ea3788a701d22": {
+  "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+  "title": "The Hackintosh Reborn",
+  "first_seen": "2026-11-05T23:28:09.009414+00:00"
+ },
+ "f0e2e8b6917e5dbe": {
+  "url": "https://github.com/rivet-dev/rivet",
+  "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+  "first_seen": "2026-11-05T23:28:09.009416+00:00"
+ },
+ "2701229d437b6603": {
+  "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+  "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+  "first_seen": "2026-11-05T23:28:09.009419+00:00"
+ },
+ "dc28e50dc477079d": {
+  "url": "https://github.com/saragordic/window-sweaters",
+  "title": "Window Sweaters",
+  "first_seen": "2026-11-05T23:28:09.009422+00:00"
+ },
+ "4cf2fe57a030deff": {
+  "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+  "title": "My psychophysics as a bilateral cochlear implant user",
+  "first_seen": "2026-11-05T23:28:09.009425+00:00"
+ },
+ "0fa55f858ecb7593": {
+  "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+  "title": "The Stacks Project, Formalized in Lean",
+  "first_seen": "2026-11-05T23:28:09.009428+00:00"
+ },
+ "ead45f6819dfe884": {
+  "url": "https://motorolanews.com/motorola-signature-27-2/",
+  "title": "Motorola Signature 27 with GrapheneOS support",
+  "first_seen": "2026-11-05T23:28:09.009430+00:00"
+ },
+ "9f3290e2cae29a6d": {
+  "url": "https://github.com/AGGIB/Stroq",
+  "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+  "first_seen": "2026-11-05T23:28:09.009433+00:00"
+ },
+ "79d39aa19e75e1a7": {
+  "url": "https://nullprogram.com/blog/2026/11/05/",
+  "title": "We can do better than line-buffered output",
+  "first_seen": "2026-11-05T23:28:09.009435+00:00"
+ },
+ "4c714204846c2551": {
+  "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+  "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+  "first_seen": "2026-11-05T23:28:09.009438+00:00"
+ },
+ "01af2f668adeb82b": {
+  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+  "first_seen": "2026-11-05T23:28:09.116181+00:00"
+ },
+ "20c66b35275dc3e5": {
+  "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+  "title": "Serve Robotics launches new business to become the AWS for robots",
+  "first_seen": "2026-11-05T23:28:09.116197+00:00"
+ },
+ "9d6202c03434e451": {
+  "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+  "title": "Meta says US users can now video chat with their Muse AI avatar",
+  "first_seen": "2026-11-05T23:28:09.116201+00:00"
+ },
+ "ea881b03ae961dac": {
+  "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+  "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+  "first_seen": "2026-11-05T23:28:09.116204+00:00"
+ },
+ "8f7798ef97e41335": {
+  "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+  "title": "OpenAI released a new cybersecurity model. Is that enough?",
+  "first_seen": "2026-11-05T23:28:09.116206+00:00"
+ },
+ "1187877bbc536b6c": {
+  "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+  "title": "US government warns of \u2018ongoing cyber threat\u2019 amid mass hacks of industrial retail and military freezers",
+  "first_seen": "2026-11-05T23:28:09.116209+00:00"
+ },
+ "bf7e9a38adde5887": {
+  "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+  "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+  "first_seen": "2026-11-05T23:28:09.116211+00:00"
+ },
+ "7f7ad02b026457de": {
+  "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+  "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+  "first_seen": "2026-11-05T23:28:09.116214+00:00"
+ },
+ "b0e121b3a461c115": {
+  "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+  "title": "Claude can now analyze your spending with its new Personal Finance tool",
+  "first_seen": "2026-11-05T23:28:09.116217+00:00"
+ },
+ "e174163944b16a9f": {
+  "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+  "title": "Harbinger raises $240M after expanding into defense",
+  "first_seen": "2026-11-05T23:28:09.116220+00:00"
+ },
+ "5e96a35d94b6ea6d": {
+  "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+  "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+  "first_seen": "2026-11-05T23:28:09.116223+00:00"
+ },
+ "c2788911aa715e52": {
+  "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+  "title": "Axiom Math wants to keep AI slop out of mathematics",
+  "first_seen": "2026-11-05T23:28:09.116225+00:00"
+ },
+ "6ed30a2ea2e01e46": {
+  "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+  "title": "Bluesky hit peak usage for the year on election night",
+  "first_seen": "2026-11-05T23:28:09.116228+00:00"
+ },
+ "5c7ffb4c519e0d62": {
+  "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+  "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+  "first_seen": "2026-11-05T23:28:09.116230+00:00"
+ },
+ "b3db1a25757bafb3": {
+  "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+  "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+  "first_seen": "2026-11-05T23:28:09.116233+00:00"
+ },
+ "6dad7a604d398d82": {
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+  "first_seen": "2026-11-05T23:28:09.116236+00:00"
+ },
+ "4903344a90138b1d": {
+  "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+  "title": "Instagram brings Edits to desktop to take on CapCut",
+  "first_seen": "2026-11-05T23:28:09.116238+00:00"
+ },
+ "68e0dfb6fa301d8e": {
+  "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+  "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+  "first_seen": "2026-11-05T23:28:09.116240+00:00"
+ },
+ "0f2052ea73f7a4c1": {
+  "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+  "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+  "first_seen": "2026-11-05T23:28:09.116243+00:00"
+ },
+ "63c3d56bc72bc9e8": {
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "first_seen": "2026-11-05T23:28:09.657849+00:00"
  }
 }
