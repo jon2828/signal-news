@@ -280,566 +280,6 @@
   ]
  },
  {
-  "id": "6b98a34bec59f2b9",
-  "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-    "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
-    "published": "Wed, 04 Nov 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "a18c89e0604031d0",
-  "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg\" alt=\"Binance hackers move 81% of stolen Solana, route funds via THORChain \" class=\"type:primaryImage\"></p><p>The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.</p>",
-    "published": "Wed, 04 Nov 2026 09:15:55 +0000"
-   }
-  ]
- },
- {
-  "id": "ab5345d35226fcab",
-  "title": "Democrats win US House to secure control of Congress in midterms",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JR1VFA7N21HJDXHTR1Z75G/republicans-vs-democrats-1.jpg\" alt=\"Democrats win US House to secure control of Congress in midterms\" class=\"type:primaryImage\"></p><p>Democrats will take control of House committees in January 2027, giving them power to investigate President Donald Trump\u2019s administration.</p>",
-    "published": "Wed, 04 Nov 2026 07:50:27 +0000"
-   }
-  ]
- },
- {
-  "id": "c34196e5a224eebf",
-  "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JMY7XMBZ97KS5GW9AD860J/regulation-papers-960x640.webp\" alt=\"Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress\" class=\"type:primaryImage\"></p><p>Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.</p>",
-    "published": "Wed, 04 Nov 2026 07:25:47 +0000"
-   }
-  ]
- },
- {
-  "id": "9060159d26668a2e",
-  "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png\" alt=\"Ethereum dev targets 2028 for quantum resistance, a year early\" class=\"type:primaryImage\"></p><p>Ethereum researcher Justin Drake said it is their \u201chope\u201d that Ethereum will achieve its post-quantum and post-AI transition by December 2028.</p>",
-    "published": "Wed, 04 Nov 2026 05:46:33 +0000"
-   }
-  ]
- },
- {
-  "id": "65251a0ab42da989",
-  "title": "Democrats claim control of the US Senate",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9F3G1623QRJQS2NY2JXXE/hi-blockchain-voting-is-the-alternative-for-trusted-democratic-elections1.jpg\" alt=\"Democrats claim control of the US Senate\" class=\"type:primaryImage\"></p><p>The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump\u2019s crypto businesses. </p>",
-    "published": "Wed, 04 Nov 2026 04:40:44 +0000"
-   }
-  ]
- },
- {
-  "id": "65bf4af8d4b1eadc",
-  "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg\" alt=\"1inch lawyer sees agencies driving US crypto regulation as midterms unfold\" class=\"type:primaryImage\"></p><p>Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.</p>",
-    "published": "Wed, 04 Nov 2026 00:45:16 +0000"
-   }
-  ]
- },
- {
-  "id": "990bb6ffe8cc0107",
-  "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg\" alt=\"RUNE rallies 15% as THORChain restarts most swaps after halt\" class=\"type:primaryImage\"></p><p>THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.</p>",
-    "published": "Tue, 03 Nov 2026 23:56:09 +0000"
-   }
-  ]
- },
- {
-  "id": "e633bed50f475ae8",
-  "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
-    "summary": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce.",
-    "published": "Wed, 04 Nov 2026 13:17:31 +0000"
-   }
-  ]
- },
- {
-  "id": "153b13deba430431",
-  "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646",
-    "summary": "BitGo has launched Global Markets, an institutional trading and financial solutions business headed by former NYDIG executive Pete Janney.",
-    "published": "Wed, 04 Nov 2026 12:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2dc60aa5f23998bd",
-  "title": "DeFi Explained",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/learn/defi/defi-explained-432391",
-    "summary": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk.",
-    "published": "Wed, 04 Nov 2026 11:05:30 +0000"
-   }
-  ]
- },
- {
-  "id": "68e526d99101cee3",
-  "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
-    "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
-    "published": "Wed, 04 Nov 2026 04:35:48 +0000"
-   }
-  ]
- },
- {
-  "id": "e8d56281b706d1b2",
-  "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
-    "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
-    "published": "Wed, 04 Nov 2026 04:13:10 +0000"
-   }
-  ]
- },
- {
-  "id": "a7a9c63910c053fe",
-  "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-    "summary": "<p>Article URL: <a href=\"https://lists.debian.org/debian-security-announce/2026/msg00526.html\">https://lists.debian.org/debian-security-announce/2026/msg00526.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364814\">https://news.ycombinator.com/item?id=50364814</a></p> <p>Points: 32</p> <p># Comments: 25</p>",
-    "published": "Wed, 04 Nov 2026 12:46:58 +0000"
-   }
-  ]
- },
- {
-  "id": "16de8c166710877e",
-  "title": "A map of 5000+ midterm ads",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://admap.org/",
-    "summary": "<p>Article URL: <a href=\"https://admap.org/\">https://admap.org/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364561\">https://news.ycombinator.com/item?id=50364561</a></p> <p>Points: 38</p> <p># Comments: 10</p>",
-    "published": "Wed, 04 Nov 2026 12:18:35 +0000"
-   }
-  ]
- },
- {
-  "id": "d54c3ba22dcfbbfb",
-  "title": "Hackers hit French national blood bank",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
-    "summary": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/\">https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364478\">https://news.ycombinator.com/item?id=50364478</a></p> <p>Points: 62</p> <p># Comments: 51</p>",
-    "published": "Wed, 04 Nov 2026 12:08:35 +0000"
-   }
-  ]
- },
- {
-  "id": "68c44263a0af5594",
-  "title": "AI is forcing us to pay off 40 years of technical debt",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364336\">https://news.ycombinator.com/item?id=50364336</a></p> <p>Points: 224</p> <p># Comments: 115</p>",
-    "published": "Wed, 04 Nov 2026 11:52:17 +0000"
-   }
-  ]
- },
- {
-  "id": "d2180cff0da77cab",
-  "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
-    "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver\">https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363968\">https://news.ycombinator.com/item?id=50363968</a></p> <p>Points: 47</p> <p># Comments: 8</p>",
-    "published": "Wed, 04 Nov 2026 11:14:12 +0000"
-   }
-  ]
- },
- {
-  "id": "d9931a8b95debc08",
-  "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai\">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363554\">https://news.ycombinator.com/item?id=50363554</a></p> <p>Points: 137</p> <p># Comments: 86</p>",
-    "published": "Wed, 04 Nov 2026 10:23:34 +0000"
-   }
-  ]
- },
- {
-  "id": "150a39b9eb9ad0c3",
-  "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://news.ycombinator.com/item?id=50363461",
-    "summary": "<p>If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn <i>not to enter confidential information</i>.<p>https://support.google.com/gemini/answer/16836988<p><i>\u201c[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Ke",
-    "published": "Wed, 04 Nov 2026 10:10:27 +0000"
-   }
-  ]
- },
- {
-  "id": "3257ffecc3ac915e",
-  "title": "Incident with Pull Requests, Git Operations and Issues",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-    "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/smtdswd1h2w4\">https://www.githubstatus.com/incidents/smtdswd1h2w4</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363378\">https://news.ycombinator.com/item?id=50363378</a></p> <p>Points: 130</p> <p># Comments: 64</p>",
-    "published": "Wed, 04 Nov 2026 10:00:06 +0000"
-   }
-  ]
- },
- {
-  "id": "6908611519fc26af",
-  "title": "Verification Is Not Knowledge: Science needs more than answers",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-    "summary": "<p>Article URL: <a href=\"https://blog.cosmos-institute.org/p/verification-is-not-knowledge\">https://blog.cosmos-institute.org/p/verification-is-not-knowledge</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363019\">https://news.ycombinator.com/item?id=50363019</a></p> <p>Points: 98</p> <p># Comments: 53</p>",
-    "published": "Wed, 04 Nov 2026 09:01:58 +0000"
-   }
-  ]
- },
- {
-  "id": "96c70d75ee49dcda",
-  "title": "Kitty 0.50",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-    "summary": "<p>Article URL: <a href=\"https://sw.kovidgoyal.net/kitty/changelog/#\">https://sw.kovidgoyal.net/kitty/changelog/#</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362980\">https://news.ycombinator.com/item?id=50362980</a></p> <p>Points: 222</p> <p># Comments: 137</p>",
-    "published": "Wed, 04 Nov 2026 08:57:10 +0000"
-   }
-  ]
- },
- {
-  "id": "88c23216a431785a",
-  "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-    "summary": "<p>Article URL: <a href=\"https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop\">https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362905\">https://news.ycombinator.com/item?id=50362905</a></p> <p>Points: 226</p> <p># Comments: 121</p>",
-    "published": "Wed, 04 Nov 2026 08:46:29 +0000"
-   }
-  ]
- },
- {
-  "id": "440c9bb733bd1eb4",
-  "title": "The lost malloc()",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://napcakes.nekoweb.org/posts/malloc/",
-    "summary": "<p>Article URL: <a href=\"https://napcakes.nekoweb.org/posts/malloc/\">https://napcakes.nekoweb.org/posts/malloc/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362466\">https://news.ycombinator.com/item?id=50362466</a></p> <p>Points: 79</p> <p># Comments: 23</p>",
-    "published": "Wed, 04 Nov 2026 07:37:30 +0000"
-   }
-  ]
- },
- {
-  "id": "f14e1d8ec0f9dce9",
-  "title": "Jelly Sheet",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mrdoob.github.io/codevember-2026/01/",
-    "summary": "<p>Article URL: <a href=\"https://mrdoob.github.io/codevember-2026/01/\">https://mrdoob.github.io/codevember-2026/01/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361268\">https://news.ycombinator.com/item?id=50361268</a></p> <p>Points: 311</p> <p># Comments: 80</p>",
-    "published": "Wed, 04 Nov 2026 03:40:50 +0000"
-   }
-  ]
- },
- {
-  "id": "76457a280aad251c",
-  "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-    "summary": "<p>Article URL: <a href=\"https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients\">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361154\">https://news.ycombinator.com/item?id=50361154</a></p> <p>Points: 91</p> <p># Comments: 34</p>",
-    "published": "Wed, 04 Nov 2026 03:20:13 +0000"
-   }
-  ]
- },
- {
-  "id": "6d06880e49074024",
-  "title": "Arrows to arrows, categories to queries (2025)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-    "summary": "<p>Article URL: <a href=\"https://reasonablypolymorphic.com/blog/arrows-to-arrows/\">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361107\">https://news.ycombinator.com/item?id=50361107</a></p> <p>Points: 63</p> <p># Comments: 4</p>",
-    "published": "Wed, 04 Nov 2026 03:11:27 +0000"
-   }
-  ]
- },
- {
-  "id": "dd6ec5aeda804f38",
-  "title": "Giant canyon on Mars is still tectonically active",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-    "summary": "<p>Article URL: <a href=\"https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today\">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50360573\">https://news.ycombinator.com/item?id=50360573</a></p> <p>Points: 109</p> <p># Comments: 23</p>",
-    "published": "Wed, 04 Nov 2026 01:40:42 +0000"
-   }
-  ]
- },
- {
-  "id": "402640666ca760d6",
-  "title": "C++26 Disapproved",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-    "summary": "<p>Article URL: <a href=\"https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/\">https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50360164\">https://news.ycombinator.com/item?id=50360164</a></p> <p>Points: 350</p> <p># Comments: 247</p>",
-    "published": "Wed, 04 Nov 2026 00:33:22 +0000"
-   }
-  ]
- },
- {
-  "id": "27a269c7489319f1",
-  "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://uncracked.city",
-    "summary": "<p>To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live.<p>As of today: it's free on Android, the iOS version is still waiting to be reviewed by Apple. It's available in six popular languages, but adding more languages is just",
-    "published": "Tue, 03 Nov 2026 21:20:03 +0000"
-   }
-  ]
- },
- {
-  "id": "9629b9d628e69209",
-  "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-    "published": "Wed, 04 Nov 2026 13:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "0496dc6e4ae1e228",
-  "title": "Canva lays off over 1,200 people amid slowing growth",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-    "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-    "published": "Wed, 04 Nov 2026 11:59:00 +0000"
-   }
-  ]
- },
- {
-  "id": "a007c586a31ad83f",
-  "title": "India\u2019s EloElo nabs $80M from NBCUniversal to bet on the country\u2019s rising microdrama market",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-    "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-    "published": "Wed, 04 Nov 2026 04:45:00 +0000"
-   }
-  ]
- },
- {
-  "id": "3a06f84c0f51a102",
-  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/openai-to-acquire-pierre",
-    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
-    "published": "Wed, 04 Nov 2026 14:30:00 GMT"
-   }
-  ]
- },
- {
-  "id": "75679f5aa60bfcf8",
-  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-    "published": "Wed, 04 Nov 2026 07:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a4f4c423c5426033",
-  "title": "A thousand fewer paths to root",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "published": "Wed, 04 Nov 2026 08:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "bf25be8f87794d7d",
-  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/devrev-enterprise-self-service",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "d2d956e4261aa84b",
-  "title": "Siri AI developer \ud83c\udf4e, Gemini Notebook API \ud83d\udc68\u200d\ud83d\udcbb, provable inference \u26a1",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-11-04",
-    "summary": "",
-    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "3d0d20cafe4d0b2c",
-  "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
-    "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
-    "published": "Wed, 04 Nov 2026 22:55:00 +0000"
-   }
-  ]
- },
- {
   "id": "4dbf617f078d8b12",
   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
   "topic": "bitcoin",
@@ -1598,6 +1038,732 @@
     "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
     "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
     "published": "Wed, 04 Nov 2026 14:10:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f93567576105c713",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "published": "Thu, 05 Nov 2026 02:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "0a437d67f2effbc5",
+  "title": "Introducing Images 2.6",
+  "topic": "ai",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/introducing-images-2-6/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-images-2-6/\">https://openai.com/index/introducing-images-2-6/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372945\">https://news.ycombinator.com/item?id=50372945</a></p> <p>Points: 339</p> <p># Comments: 202</p>",
+    "published": "Wed, 04 Nov 2026 23:35:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5dd3ba3cac6dc6ad",
+  "title": "Google could take stake in bitcoin miner TeraWulf\u2019s $19 billion AI project if Anthropic defaults",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+    "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
+    "published": "Thu, 05 Nov 2026 13:29:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2af90b0b9b1c1941",
+  "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+    "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
+    "published": "Thu, 05 Nov 2026 12:55:03 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e807bb08c3370ef0",
+  "title": "Ukraine\u2019s central bank opposes crypto bill, citing monetary sovereignty concerns",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+    "summary": "Ukraine\u2019s central bank won\u2019t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
+    "published": "Thu, 05 Nov 2026 12:50:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c3621d6cdfb590b8",
+  "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+    "summary": "Your day-ahead look for Nov. 5, 2026",
+    "published": "Thu, 05 Nov 2026 12:27:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e20f915f6cb04c85",
+  "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+    "summary": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
+    "published": "Thu, 05 Nov 2026 11:49:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1c74d4a02f5944a0",
+  "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+  "topic": "bitcoin",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+    "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts\u2019 forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
+    "published": "Thu, 05 Nov 2026 11:45:54 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+    "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
+    "published": "Thu, 05 Nov 2026 08:52:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c19756da9cd1e2ef",
+  "title": "Bitcoin holds above $80,000 after Wednesday\u2019s jump as injective rallies on staked ETF listing",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+    "summary": "Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday\u2019s jump, as spot ETFs ended a three-day outflow streak.",
+    "published": "Thu, 05 Nov 2026 11:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fb0292c3960341e3",
+  "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+    "summary": "There's been no letup in selling of the AI chip stocks, sending Nasdaq 100 futures nearly 1% lower.",
+    "published": "Thu, 05 Nov 2026 10:57:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bc53d9ac8214fe11",
+  "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+    "summary": "The same attacker took about $391,000, mostly from wallets Bitquery ties to BitMart, whose founder confirmed a Nov. 2 hack and suspects a link.",
+    "published": "Thu, 05 Nov 2026 10:44:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f4cb5cbec5fba44f",
+  "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+    "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
+    "published": "Thu, 05 Nov 2026 09:36:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "46f9c30c29648524",
+  "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+    "summary": "Crypto firms must collect customer and transaction data from 2027, with Hong Kong sharing the information with overseas tax authorities from 2028.",
+    "published": "Thu, 05 Nov 2026 08:35:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7e36999a57b22695",
+  "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+    "summary": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
+    "published": "Thu, 05 Nov 2026 08:26:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ad29ba72ee9a8e7a",
+  "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+    "summary": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.",
+    "published": "Thu, 05 Nov 2026 05:47:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3872710c0ddf9b0f",
+  "title": "The pile of lawsuits against Kalshi just grew by one",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+    "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.",
+    "published": "Thu, 05 Nov 2026 05:28:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dca525494cb3d696",
+  "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+    "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.",
+    "published": "Thu, 05 Nov 2026 05:25:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0edaf65d391e8869",
+  "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+    "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
+    "published": "Thu, 05 Nov 2026 05:13:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2a4a57d9ced8615a",
+  "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+    "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
+    "published": "Thu, 05 Nov 2026 04:11:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f6f6f4a0a5dfe9b3",
+  "title": "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NVZ81DDBWF6QP902GQ9K32/crypto-assets-management.jpg\" alt=\"Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says\" class=\"type:primaryImage\"></p><p>Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai.</p>",
+    "published": "Thu, 05 Nov 2026 13:34:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "36c59c38b87b95a3",
+  "title": "Can decentralized phone networks power the AI revolution?",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png\" alt=\"Can decentralized phone networks power the AI revolution?\" class=\"type:primaryImage\"></p><p>Decentralized AI networks want to turn everyday phones into an alternative to centralized computing infrastructure \u2014 but skeptics have their doubts.</p>",
+    "published": "Thu, 05 Nov 2026 13:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "06a7c7e5f2b91c40",
+  "title": "Trump\u2019s memecoin ventures derailed CLARITY Act, Scaramucci says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NRM1CFBRDW897ACTE4GX9T/trump-meme-coins.jpg\" alt=\"Trump\u2019s memecoin ventures derailed CLARITY Act, Scaramucci says\" class=\"type:primaryImage\"></p><p>The SkyBridge founder said disputes over ethics restrictions also stalled negotiations, with both sides responsible for the setback.</p>",
+    "published": "Thu, 05 Nov 2026 12:39:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bf90db58513fcb61",
+  "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NPN42BG6Z4FSAM7R35THVD/hi-bitget-research-article-350000-crypto-currency-traders-in-japan-bitget-research-2.jpg\" alt=\"Thailand to block Bitget in December over unlicensed crypto trading\" class=\"type:primaryImage\"></p><p>Thailand\u2019s SEC filed a criminal complaint against Bitget\u2019s operator, with access to its website and app set to be blocked from Dec. 5.</p>",
+    "published": "Thu, 05 Nov 2026 11:33:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3183cf4d274d438f",
+  "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NHVT2Y3ZSYPXGPS15XJ5BN/hi-japan-ipo-stocks-explained2-960x644-960x644.webp\" alt=\"Bitcoin win rate vs. S&amp;P 500 recovers as post-midterm history favors stocks\" class=\"type:primaryImage\"></p><p>Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.</p>",
+    "published": "Thu, 05 Nov 2026 10:28:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "82cbb747eeebd9a1",
+  "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NF1X9VN5762HVNQXA9D4A7/sk-crypto-tax.png\" alt=\"South Korea seeks 4th crypto tax delay, targets 2029 start\" class=\"type:primaryImage\"></p><p>South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027.</p>",
+    "published": "Thu, 05 Nov 2026 09:35:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f3bf6995f3c4efa0",
+  "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg\" alt=\"France budget rejection sidelines stablecoin tax, wallet reporting\" class=\"type:primaryImage\"></p><p>Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.</p>",
+    "published": "Thu, 05 Nov 2026 09:04:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "412b3fccb0702389",
+  "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg\" alt=\"Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms\" class=\"type:primaryImage\"></p><p>Fidelity led Bitcoin ETF inflows, while BlackRock\u2019s IBIT shed another $201 million, extending its outflow streak to four trading sessions.</p>",
+    "published": "Thu, 05 Nov 2026 08:22:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e0e4cf2235d47f70",
+  "title": "Cr\u00e9dit Mutuel Ark\u00e9a resumes operations after attack, assesses losses",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png\" alt=\"Cr\u00e9dit Mutuel Ark\u00e9a resumes operations after attack, assesses losses\" class=\"type:primaryImage\"></p><p>The bank said customer funds were unaffected after attackers accessed its systems through a service provider\u2019s platform.</p>",
+    "published": "Thu, 05 Nov 2026 07:23:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fd3fb5a78522b9f2",
+  "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N3H7D7JKVJG1M4FYAN87WP/polygon-hard-fork.png\" alt=\"Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto\" class=\"type:primaryImage\"></p><p>Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.</p>",
+    "published": "Thu, 05 Nov 2026 06:02:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e7614c9a5d9696d8",
+  "title": "\u2018Lawyer up\u2019: Democrats target Trump, Big Tech after midterm sweep",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N0Q7DG6MW0G7R7JK3YCJ78/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-2.jpg\" alt=\"\u2018Lawyer up\u2019: Democrats target Trump, Big Tech after midterm sweep\" class=\"type:primaryImage\"></p><p>Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas and signaling fresh investigations into Trump\u2019s business dealings.</p>",
+    "published": "Thu, 05 Nov 2026 04:52:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fa4ce69cccb225f5",
+  "title": "India warns AI-powered hackers targeting crypto exchanges at \u2018machine speed\u2019",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MPCPYRKAQX7P4642EX1VWB/ai-hacker.jpg\" alt=\"India warns AI-powered hackers targeting crypto exchanges at \u2018machine speed\u2019\" class=\"type:primaryImage\"></p><p>India\u2019s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms. </p>",
+    "published": "Thu, 05 Nov 2026 01:51:21 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f8f6f45b4873cd58",
+  "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg\" alt=\"Mercado Bitcoin says phased reopening to begin Monday, will cover losses\" class=\"type:primaryImage\"></p><p>Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks.</p>",
+    "published": "Wed, 04 Nov 2026 23:20:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "65f871a70528b424",
+  "title": "Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
+    "summary": "The lawsuit adds Arkansas to a growing list of states taking legal action against the prediction market platform.",
+    "published": "Thu, 05 Nov 2026 08:26:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9abfa5af7847ae54",
+  "title": "The Digital Chamber calls Sherrod Brown\u2019s win \u2018most consequential unfavorable result\u2019 for crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
+    "summary": "Democrats are set to reorient the crypto policy debate toward stronger consumer protections and regulatory accountability, the group said.",
+    "published": "Thu, 05 Nov 2026 04:28:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "81d803713dcf09a3",
+  "title": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+    "summary": "Cr\u00e9dit Mutuel Ark\u00e9a did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
+    "published": "Thu, 05 Nov 2026 04:01:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8d147319103619c5",
+  "title": "Sshole",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://sshhole.com",
+    "summary": "<p>Article URL: <a href=\"https://sshhole.com\">https://sshhole.com</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378228\">https://news.ycombinator.com/item?id=50378228</a></p> <p>Points: 420</p> <p># Comments: 92</p>",
+    "published": "Thu, 05 Nov 2026 12:19:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ba37dcecc4fd246f",
+  "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "summary": "<p>Article URL: <a href=\"https://www.openssh.org/releasenotes.html#10.6p2\">https://www.openssh.org/releasenotes.html#10.6p2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377976\">https://news.ycombinator.com/item?id=50377976</a></p> <p>Points: 41</p> <p># Comments: 3</p>",
+    "published": "Thu, 05 Nov 2026 11:40:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cee5e38da3a60c70",
+  "title": "Awesome repositories are no longer awesome",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "summary": "<p>Article URL: <a href=\"https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/\">https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377821\">https://news.ycombinator.com/item?id=50377821</a></p> <p>Points: 96</p> <p># Comments: 51</p>",
+    "published": "Thu, 05 Nov 2026 11:16:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7c72ef3696766993",
+  "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+    "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@damienmiller/117563026759098135\">https://hachyderm.io/@damienmiller/117563026759098135</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377221\">https://news.ycombinator.com/item?id=50377221</a></p> <p>Points: 117</p> <p># Comments: 42</p>",
+    "published": "Thu, 05 Nov 2026 09:46:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1e8cf78c741fd545",
+  "title": "Baidu released ERNIE 5.5 Flash Base",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "summary": "<p>Article URL: <a href=\"https://ernie.baidu.com/release/ernie-5-5-flash-base/\">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377078\">https://news.ycombinator.com/item?id=50377078</a></p> <p>Points: 101</p> <p># Comments: 56</p>",
+    "published": "Thu, 05 Nov 2026 09:29:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "57f397f10cadafee",
+  "title": "GPT-6 Astra covertly underperforms on safety research",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "summary": "<p>Article URL: <a href=\"https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/\">https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50376313\">https://news.ycombinator.com/item?id=50376313</a></p> <p>Points: 33</p> <p># Comments: 11</p>",
+    "published": "Thu, 05 Nov 2026 07:44:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "435f685af508867a",
+  "title": "Being a kid making games in the early 2000s",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://jaytholen.net/teengamedev/",
+    "summary": "<p>Article URL: <a href=\"https://jaytholen.net/teengamedev/\">https://jaytholen.net/teengamedev/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375691\">https://news.ycombinator.com/item?id=50375691</a></p> <p>Points: 62</p> <p># Comments: 19</p>",
+    "published": "Thu, 05 Nov 2026 05:53:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bce0e1e1b695c30c",
+  "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.altera.com/newsroom/agilex-2x",
+    "summary": "<p>Article URL: <a href=\"https://www.altera.com/newsroom/agilex-2x\">https://www.altera.com/newsroom/agilex-2x</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375653\">https://news.ycombinator.com/item?id=50375653</a></p> <p>Points: 44</p> <p># Comments: 14</p>",
+    "published": "Thu, 05 Nov 2026 05:47:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a5ebd0a813d931b5",
+  "title": "Lemmings CSS Animation",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://markblah.github.io/lemmings/",
+    "summary": "<p>Article URL: <a href=\"https://markblah.github.io/lemmings/\">https://markblah.github.io/lemmings/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375354\">https://news.ycombinator.com/item?id=50375354</a></p> <p>Points: 269</p> <p># Comments: 53</p>",
+    "published": "Thu, 05 Nov 2026 04:54:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b538d69098ee25fd",
+  "title": "RadianX promises solar-powered devices that never need charging",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+    "summary": "Today\u2019s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d51f62aa0d3ca8ee",
+  "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "summary": "The system can answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b06af2d45cd2abb5",
+  "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "published": "Thu, 05 Nov 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "956cb223c580c4f0",
+  "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "published": "Thu, 05 Nov 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "11c4cff40ea4d0ce",
+  "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+    "summary": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
+    "published": "Thu, 05 Nov 2026 11:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1c7da4acfcdd25cb",
+  "title": "Apple is reportedly cutting budgets for its internal AI usage",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "published": "Thu, 05 Nov 2026 01:26:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2c368bf7ce921244",
+  "title": "After the midterms, a bigger clash over data centers could be coming",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "summary": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+    "published": "Thu, 05 Nov 2026 01:02:14 +0000"
    }
   ]
  }

@@ -1,43 +1,43 @@
 [
  {
-  "id": "b4427db7fe9d94b3",
-  "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-  "topic": "bitcoin",
-  "story": "cftc-stock-perps",
-  "score": 9,
-  "raw_score": 9,
+  "id": "a4f4c423c5426033",
+  "title": "A thousand fewer paths to root",
+  "topic": "ai",
+  "story": "openai-linux-vulns",
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "Market-moving regulatory approval bringing crypto trading models to Wall Street, confirmed by multiple sources.",
+  "reason": "Autonomous AI pipeline finding and patching 948 Linux kernel privilege-escalation vulnerabilities is a major AI capability result with security implications, corroborated by two sources.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-    "summary": "CFTC Chair Michael Selig said the move gives U.S. traders a regulated alternative to \u201coffshore, and often unregulated, venues.\u201d",
-    "published": "Tue, 03 Nov 2026 15:02:13 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "published": "Wed, 04 Nov 2026 08:00:00 GMT"
    },
    {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png\" alt=\"CFTC clears stock perpetual futures for trading on US exchanges\" class=\"type:primaryImage\"></p><p>US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.</p>",
-    "published": "Tue, 03 Nov 2026 20:24:55 +0000"
+    "source": "hn",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/a-thousand-fewer-paths-to-root/\">https://openai.com/index/a-thousand-fewer-paths-to-root/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372929\">https://news.ycombinator.com/item?id=50372929</a></p> <p>Points: 418</p> <p># Comments: 298</p>",
+    "published": "Wed, 04 Nov 2026 23:33:14 +0000"
    }
   ]
  },
  {
-  "id": "6ba5163d730792d1",
-  "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+  "id": "6b98a34bec59f2b9",
+  "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
   "topic": "bitcoin",
-  "story": "sec-canton-coin",
-  "score": 8,
-  "raw_score": 8,
+  "story": "schroders-solana-bond",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Important regulatory clarification from the SEC defining a token as a digital commodity, reducing legal uncertainty.",
+  "reason": "A $1.1T asset manager tokenizing an active bond strategy onchain is a clearly publishable adoption milestone, though single-source.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
-    "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
-    "published": "Tue, 03 Nov 2026 22:11:51 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+    "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
+    "published": "Wed, 04 Nov 2026 13:00:00 +0000"
    }
   ]
  }
