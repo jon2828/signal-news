@@ -286,26 +286,6 @@
   ]
  },
  {
-  "id": "1c74d4a02f5944a0",
-  "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-    "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts\u2019 forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
-    "published": "Thu, 05 Nov 2026 11:45:54 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
-    "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
-    "published": "Thu, 05 Nov 2026 08:52:32 +0000"
-   }
-  ]
- },
- {
   "id": "c19756da9cd1e2ef",
   "title": "Bitcoin holds above $80,000 after Wednesday\u2019s jump as injective rallies on staked ETF listing",
   "topic": "bitcoin",
@@ -2219,13 +2199,19 @@
   "id": "7b75954bb5f0e9a1",
   "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
   "topic": "bitcoin",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "theblock",
     "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
     "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
     "published": "Fri, 06 Nov 2026 11:43:44 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg\" alt=\"Nigeria sets new crypto licensing rules, bans algorithmic stablecoins\" class=\"type:primaryImage\"></p><p>Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.</p>",
+    "published": "Fri, 06 Nov 2026 13:57:14 +0000"
    }
   ]
  },
@@ -2499,13 +2485,19 @@
   "id": "5eb6887e9b28c78c",
   "title": "Inkling 2 Small",
   "topic": "both",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "hn",
     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
     "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-small/\">https://thinkingmachines.ai/news/inkling-2-small/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386338\">https://news.ycombinator.com/item?id=50386338</a></p> <p>Points: 235</p> <p># Comments: 74</p>",
     "published": "Fri, 06 Nov 2026 00:00:24 +0000"
+   },
+   {
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-11-06",
+    "summary": "",
+    "published": "Fri, 06 Nov 2026 00:00:00 GMT"
    }
   ]
  },
@@ -2618,6 +2610,684 @@
     "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
     "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
     "published": "Fri, 06 Nov 2026 00:01:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bc8f9eac19663ff6",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "published": "Fri, 06 Nov 2026 08:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "cfd4354afa14004f",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "published": "Fri, 06 Nov 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "2674c302a5948d1f",
+  "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+    "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture\u2019s initial selection with no disclosed objection, after 90% of issuers opted out.",
+    "published": "Fri, 06 Nov 2026 20:09:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9256da0c729b243b",
+  "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+    "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+    "published": "Fri, 06 Nov 2026 17:42:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "005b9a50735ce361",
+  "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+    "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+    "published": "Fri, 06 Nov 2026 15:26:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2668d5be205be881",
+  "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+    "summary": "Thailand\u2019s SEC filed a criminal complaint against Bitget\u2019s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+    "published": "Fri, 06 Nov 2026 14:33:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ddd37de3e30c9572",
+  "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+  "topic": "bitcoin",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png\" alt=\"US Treasury cuts off MEXC over alleged $16B in illicit transactions\" class=\"type:primaryImage\"></p><p>The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.</p>",
+    "published": "Fri, 06 Nov 2026 21:05:25 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+    "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
+    "published": "Fri, 06 Nov 2026 21:02:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2a3ff93a857cf5af",
+  "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png\" alt=\"Gnosis Pay breach exposes card details, personal data and crypto wallet information\" class=\"type:primaryImage\"></p><p>The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.</p>",
+    "published": "Fri, 06 Nov 2026 20:51:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9fb09030bd25a919",
+  "title": "Binance hack is \u2018cyber war,\u2019 TRM Labs executive says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MAGXTEN3YDD171XWZ849SA/hacked-with-trm-logo.png\" alt=\"Binance hack is \u2018cyber war,\u2019 TRM Labs executive says\" class=\"type:primaryImage\"></p><p>TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.</p>",
+    "published": "Fri, 06 Nov 2026 20:36:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "92861fdbb6a5d72b",
+  "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png\" alt=\"US 401(k) proposal leaves door open to altcoins, but hurdles remain\" class=\"type:primaryImage\"></p><p>While the proposal doesn\u2019t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans. </p>",
+    "published": "Fri, 06 Nov 2026 20:04:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3b3a60defadafc9a",
+  "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png\" alt=\"Russia finalizes crypto trading rules ahead of Nov. 17 rollout\" class=\"type:primaryImage\"></p><p>The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.</p>",
+    "published": "Fri, 06 Nov 2026 18:47:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b03fbb2ac0b677ae",
+  "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg\" alt=\"Strive buys 15,124 Bitcoin in October, closes in on top treasury holders\" class=\"type:primaryImage\"></p><p>Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.</p>",
+    "published": "Fri, 06 Nov 2026 18:22:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e37f74c8d0b4caa4",
+  "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp\" alt=\"Bitcoin price dips under $75K as crypto markets miss tech-stock rebound\" class=\"type:primaryImage\"></p><p>BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.</p>",
+    "published": "Fri, 06 Nov 2026 17:49:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3e898d867825578e",
+  "title": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R79GK8R2493NTQFW6VGRDS/magazine-republicans-vs-democrats-and-crypto-as-a-point-of-contention.jpg\" alt=\"What Democrats\u2019 US midterm sweep means for the CLARITY Act\" class=\"type:primaryImage\"></p><p>The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.</p>",
+    "published": "Fri, 06 Nov 2026 14:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b0c33dbfcee94af9",
+  "title": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+    "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
+    "published": "Fri, 06 Nov 2026 20:37:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2a004f29453eb3f4",
+  "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+    "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
+    "published": "Fri, 06 Nov 2026 18:58:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8f671235e44eab6e",
+  "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+    "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
+    "published": "Fri, 06 Nov 2026 18:29:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "04a393999d385882",
+  "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+    "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+    "published": "Fri, 06 Nov 2026 18:06:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4ed0e6fe349f24af",
+  "title": "Strive\u2019s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+    "summary": "Strive\u2019s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
+    "published": "Fri, 06 Nov 2026 16:07:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e430f823223839bf",
+  "title": "Aave Labs buys Avon team in fixed-rate lending push",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+    "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
+    "published": "Fri, 06 Nov 2026 15:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5072f0d6af005438",
+  "title": "AI is dramatically accelerating AI research",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "summary": "<p>Article URL: <a href=\"https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397994\">https://news.ycombinator.com/item?id=50397994</a></p> <p>Points: 112</p> <p># Comments: 66</p>",
+    "published": "Fri, 06 Nov 2026 20:27:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ef2a83f7f3a44d74",
+  "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "summary": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p> <p>Points: 224</p> <p># Comments: 50</p>",
+    "published": "Fri, 06 Nov 2026 19:48:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "add023bd20855b0c",
+  "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+    "summary": "<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href=\"https://news.ycombinator.com/item?id=49937916\">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO mode",
+    "published": "Fri, 06 Nov 2026 19:41:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "261cec1211f32a1f",
+  "title": "As the Japanese countryside empties out, wildlife is disappearing",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+    "summary": "<p>Article URL: <a href=\"https://e360.yale.edu/digest/japan-depopulation-biodiversity\">https://e360.yale.edu/digest/japan-depopulation-biodiversity</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397264\">https://news.ycombinator.com/item?id=50397264</a></p> <p>Points: 65</p> <p># Comments: 33</p>",
+    "published": "Fri, 06 Nov 2026 19:36:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f441801c064cce85",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "summary": "<p>Article URL: <a href=\"https://pwn.ai/blog/firecracker-escape\">https://pwn.ai/blog/firecracker-escape</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397219\">https://news.ycombinator.com/item?id=50397219</a></p> <p>Points: 122</p> <p># Comments: 63</p>",
+    "published": "Fri, 06 Nov 2026 19:33:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "42cba9fcec781ccc",
+  "title": "My first and last telegram was from Rebecca West",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+    "summary": "<p>Article URL: <a href=\"https://thelampmagazine.com/blog/rebecca-wests-nightingale\">https://thelampmagazine.com/blog/rebecca-wests-nightingale</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397176\">https://news.ycombinator.com/item?id=50397176</a></p> <p>Points: 29</p> <p># Comments: 6</p>",
+    "published": "Fri, 06 Nov 2026 19:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7f1ae8a0ef661ee3",
+  "title": "Restaurant Delivery Payment-Skimming Campaign",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "summary": "<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\">https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397017\">https://news.ycombinator.com/item?id=50397017</a></p> <p>Points: 53</p> <p># Comments: 22</p>",
+    "published": "Fri, 06 Nov 2026 19:19:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c6745c9e7852751c",
+  "title": "Replit rebuilt its sandbox engine with microVMs",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+    "summary": "<p>Article URL: <a href=\"https://frontier.replit.com/sandbox-engine-microvms-part-1/\">https://frontier.replit.com/sandbox-engine-microvms-part-1/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50396834\">https://news.ycombinator.com/item?id=50396834</a></p> <p>Points: 37</p> <p># Comments: 9</p>",
+    "published": "Fri, 06 Nov 2026 19:06:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "86daf526f9d160ef",
+  "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://halfnarp.events.ccc.de",
+    "summary": "<p>Article URL: <a href=\"https://halfnarp.events.ccc.de\">https://halfnarp.events.ccc.de</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50396108\">https://news.ycombinator.com/item?id=50396108</a></p> <p>Points: 30</p> <p># Comments: 6</p>",
+    "published": "Fri, 06 Nov 2026 18:16:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "26540291d923e893",
+  "title": "We know 15k websites are infected. how do we tell them?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "summary": "<p>Article URL: <a href=\"https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/\">https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50396064\">https://news.ycombinator.com/item?id=50396064</a></p> <p>Points: 129</p> <p># Comments: 108</p>",
+    "published": "Fri, 06 Nov 2026 18:13:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e086e2a5c6055677",
+  "title": "Memorilla: Latent Semantic Memory for LLMs",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.21375\">https://arxiv.org/abs/2610.21375</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395919\">https://news.ycombinator.com/item?id=50395919</a></p> <p>Points: 69</p> <p># Comments: 5</p>",
+    "published": "Fri, 06 Nov 2026 18:03:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e4ee069fc7bd0169",
+  "title": "Size-It-Up (Game)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://magnitudle.com/size-it-up",
+    "summary": "<p>Article URL: <a href=\"https://magnitudle.com/size-it-up\">https://magnitudle.com/size-it-up</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395869\">https://news.ycombinator.com/item?id=50395869</a></p> <p>Points: 53</p> <p># Comments: 19</p>",
+    "published": "Fri, 06 Nov 2026 17:59:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4714a96ad9d244f9",
+  "title": "Devvm.dev: One VM for every project",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://devvm.dev/",
+    "summary": "<p>Article URL: <a href=\"https://devvm.dev/\">https://devvm.dev/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395450\">https://news.ycombinator.com/item?id=50395450</a></p> <p>Points: 80</p> <p># Comments: 43</p>",
+    "published": "Fri, 06 Nov 2026 17:30:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7c15bb9799f63f6d",
+  "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://up.codes/careers?utm_source=HN",
+    "summary": "<p>Article URL: <a href=\"https://up.codes/careers?utm_source=HN\">https://up.codes/careers?utm_source=HN</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395043\">https://news.ycombinator.com/item?id=50395043</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
+    "published": "Fri, 06 Nov 2026 17:03:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a3bca2c056971c1c",
+  "title": "PyLings: Solve Exercises and Learn Python",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/thesayfulla/pylings",
+    "summary": "<p>Article URL: <a href=\"https://github.com/thesayfulla/pylings\">https://github.com/thesayfulla/pylings</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394977\">https://news.ycombinator.com/item?id=50394977</a></p> <p>Points: 37</p> <p># Comments: 2</p>",
+    "published": "Fri, 06 Nov 2026 16:59:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "28c2d038c17b72aa",
+  "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "summary": "<p><a href=\"https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors\" rel=\"nofollow\">https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394906\">https://news.ycombinator.com/item?id=50394906</a></p> <p>Points: 174</p> <p># Comments: 402</p>",
+    "published": "Fri, 06 Nov 2026 16:54:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "20c1278149bb3591",
+  "title": "First steps in bare-metal programming using UEFI",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "summary": "<p>Article URL: <a href=\"https://kevinboone.me/efitest_index.html\">https://kevinboone.me/efitest_index.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394855\">https://news.ycombinator.com/item?id=50394855</a></p> <p>Points: 157</p> <p># Comments: 29</p>",
+    "published": "Fri, 06 Nov 2026 16:50:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8e64409f361732f4",
+  "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/anomalyco/rune",
+    "summary": "<p>Article URL: <a href=\"https://github.com/anomalyco/rune\">https://github.com/anomalyco/rune</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394569\">https://news.ycombinator.com/item?id=50394569</a></p> <p>Points: 132</p> <p># Comments: 97</p>",
+    "published": "Fri, 06 Nov 2026 16:31:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1e2416414b4d81b4",
+  "title": "Deus Ex",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.filfre.net/2026/11/deus-ex/",
+    "summary": "<p>Article URL: <a href=\"https://www.filfre.net/2026/11/deus-ex/\">https://www.filfre.net/2026/11/deus-ex/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393758\">https://news.ycombinator.com/item?id=50393758</a></p> <p>Points: 309</p> <p># Comments: 153</p>",
+    "published": "Fri, 06 Nov 2026 15:44:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c2bc55d094890c49",
+  "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+    "summary": "<p>Article URL: <a href=\"https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/\">https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393089\">https://news.ycombinator.com/item?id=50393089</a></p> <p>Points: 57</p> <p># Comments: 2</p>",
+    "published": "Fri, 06 Nov 2026 14:57:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0a6b13bcccd8e660",
+  "title": "The Duo apps are coming, says Apple",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+    "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+    "published": "Fri, 06 Nov 2026 21:38:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4758b3e084074531",
+  "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "published": "Fri, 06 Nov 2026 18:44:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "46e88a02e03424f2",
+  "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "published": "Fri, 06 Nov 2026 18:44:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ead671d25881cf90",
+  "title": "After the midterms, is the AI industry in for a rough two years?",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [&#8230;]",
+    "published": "Fri, 06 Nov 2026 17:23:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5dc6241c302e40dd",
+  "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+    "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+    "published": "Fri, 06 Nov 2026 16:50:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0e8b59a6e29929ae",
+  "title": "Fox completes its $22B acquisition of Roku",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+    "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+    "published": "Fri, 06 Nov 2026 16:05:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d275be2a1267c8e7",
+  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "published": "Fri, 06 Nov 2026 15:54:47 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ab4846bbc512d790",
+  "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+    "published": "Fri, 06 Nov 2026 14:10:00 +0000"
    }
   ]
  }
