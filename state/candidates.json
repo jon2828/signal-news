@@ -1,285 +1,5 @@
 [
  {
-  "id": "f66d5e73cf95ed55",
-  "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-    "summary": "LO:TECH is betting on round-the-clock tokenized stock trading but didn\u2019t say if it trades them now; a WFE study found stock exchanges still set prices.",
-    "published": "Tue, 03 Nov 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "0093518f68d3f670",
-  "title": "Mac at Any Scale",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://namespace.so/blog/mac-at-any-scale",
-    "summary": "<p>Article URL: <a href=\"https://namespace.so/blog/mac-at-any-scale\">https://namespace.so/blog/mac-at-any-scale</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352758\">https://news.ycombinator.com/item?id=50352758</a></p> <p>Points: 281</p> <p># Comments: 165</p>",
-    "published": "Tue, 03 Nov 2026 14:53:42 +0000"
-   }
-  ]
- },
- {
-  "id": "59cb8a96ca92b79e",
-  "title": "Data centers are turning to old jet engines as the wait for power grows",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "published": "Tue, 03 Nov 2026 22:19:53 +0000"
-   }
-  ]
- },
- {
-  "id": "d37889a9ebdda005",
-  "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "published": "Tue, 03 Nov 2026 21:43:08 +0000"
-   }
-  ]
- },
- {
-  "id": "dd34e5bf1c5e6fe6",
-  "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-    "published": "Tue, 03 Nov 2026 21:05:55 +0000"
-   }
-  ]
- },
- {
-  "id": "d727513a71883f2a",
-  "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-    "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
-    "published": "Tue, 03 Nov 2026 20:57:17 +0000"
-   }
-  ]
- },
- {
-  "id": "ad8f9cc28a7969ff",
-  "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-    "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-    "published": "Tue, 03 Nov 2026 19:45:48 +0000"
-   }
-  ]
- },
- {
-  "id": "c69664e34de229c6",
-  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-    "published": "Tue, 03 Nov 2026 19:34:43 +0000"
-   }
-  ]
- },
- {
-  "id": "c2327eb389b4bd85",
-  "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-    "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-    "published": "Tue, 03 Nov 2026 19:24:37 +0000"
-   }
-  ]
- },
- {
-  "id": "4414b4d623b7140c",
-  "title": "Ten years later, \u2018Pok\u00e9mon Go to the polls\u2019 still haunts the internet",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-    "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
-    "published": "Tue, 03 Nov 2026 19:04:52 +0000"
-   }
-  ]
- },
- {
-  "id": "5ec32079078a5996",
-  "title": "Ferrari\u2019s controversial Luce EV is sold out for 2027",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-    "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-    "published": "Tue, 03 Nov 2026 18:51:33 +0000"
-   }
-  ]
- },
- {
-  "id": "2023d4b1aafdb54a",
-  "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "published": "Tue, 03 Nov 2026 18:42:16 +0000"
-   }
-  ]
- },
- {
-  "id": "f9c3786b74ee2368",
-  "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-    "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-    "published": "Tue, 03 Nov 2026 17:56:52 +0000"
-   }
-  ]
- },
- {
-  "id": "2437af63b2f85a1f",
-  "title": "Anthropic is still grappling with the economics of compute",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "summary": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse.",
-    "published": "Tue, 03 Nov 2026 17:07:01 +0000"
-   }
-  ]
- },
- {
-  "id": "bd3a1349f1d8d3c1",
-  "title": "Rivian spinout Also was working on an e-moto project in Kenya \u2014 until it walked away",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-    "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-    "published": "Tue, 03 Nov 2026 16:49:09 +0000"
-   }
-  ]
- },
- {
-  "id": "410d5c941f71a7aa",
-  "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-    "published": "Tue, 03 Nov 2026 16:30:34 +0000"
-   }
-  ]
- },
- {
-  "id": "a7a440088f2c578e",
-  "title": "New York City\u2019s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-    "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-    "published": "Tue, 03 Nov 2026 16:04:55 +0000"
-   }
-  ]
- },
- {
-  "id": "f9c0c715eee2231e",
-  "title": "Apple restricts dating apps and AI companions to users 18 and up",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-    "published": "Tue, 03 Nov 2026 15:38:27 +0000"
-   }
-  ]
- },
- {
-  "id": "954137d8d070f957",
-  "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-    "published": "Tue, 03 Nov 2026 14:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2b376a551173279b",
-  "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-    "published": "Tue, 03 Nov 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
   "id": "f3f4f568585b6de9",
   "title": "Almost no one uses AI agents to book their Uber, company says",
   "topic": "ai",
@@ -2080,6 +1800,824 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\">Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
     "published": "Thu, 05 Nov 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b58fee4edbbb5f7a",
+  "title": "Australian universities are creating AI-native graduates",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "published": "Thu, 05 Nov 2026 17:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "c88b52d0b21039c7",
+  "title": "Cult.fit builds operational muscle with Codex",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "1f9981de57006417",
+  "title": "Flipsnack grows product signups with conversion optimization",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "published": "Thu, 05 Nov 2026 00:45:15 GMT"
+   }
+  ]
+ },
+ {
+  "id": "c0d7b0808284d182",
+  "title": "Franklin Templeton uses OpenAI to support investment research",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/franklin-templeton",
+    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "published": "Thu, 05 Nov 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "b6343becd0d5ed41",
+  "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+    "summary": "The unemployment rate unexpectedly fell to 4.1% as the labor market bounced back in a big way from a soft September showing.",
+    "published": "Fri, 06 Nov 2026 13:31:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7630fd6aea3d349a",
+  "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+    "summary": "Your day-ahead look for Nov. 6, 2026",
+    "published": "Fri, 06 Nov 2026 12:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "443f1112db8558dc",
+  "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+    "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+    "published": "Fri, 06 Nov 2026 11:58:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ad421c92f5788d4f",
+  "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+    "summary": "Bitcoin bounced from around $75,200 after Thursday\u2019s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
+    "published": "Fri, 06 Nov 2026 11:49:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "967650dd1f5b8cd2",
+  "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+    "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+    "published": "Fri, 06 Nov 2026 09:53:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "abd92cfad8807096",
+  "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+  "topic": "bitcoin",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+    "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+    "published": "Fri, 06 Nov 2026 08:47:42 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg\" alt=\"Greece approves 10% tax on crypto gains starting in 2027\" class=\"type:primaryImage\"></p><p>Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.</p>",
+    "published": "Fri, 06 Nov 2026 11:05:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dade5ba34815d7ba",
+  "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+    "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+    "published": "Fri, 06 Nov 2026 08:04:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fa4d7995ada11919",
+  "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+    "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+    "published": "Fri, 06 Nov 2026 05:14:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b9e88a95ad934d24",
+  "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+    "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+    "published": "Fri, 06 Nov 2026 02:24:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3672368a49c11f42",
+  "title": "Bitcoin developer proposes \u2018landmines\u2019 to make quantum thieves lose their own BTC",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+    "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+    "published": "Fri, 06 Nov 2026 01:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "319fe1fbbb04bdba",
+  "title": "Ethereum devs won\u2019t fork Glamsterdam on Hoodi until smart contract risks resolved",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RG4RXBGZ2VPEVAFNJC6VA3/hi-takeaways-5-years-after-the-dao-crisis-and-ethereum-hardfork-1.jpg\" alt=\"Ethereum devs won\u2019t fork Glamsterdam on Hoodi until smart contract risks resolved\" class=\"type:primaryImage\"></p><p>Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam\u2019s EIP-8037 and EIP-8038.</p>",
+    "published": "Fri, 06 Nov 2026 13:23:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1aabb8b8d629657a",
+  "title": "Solana\u2019s Shanghai event halted over unauthorized promotion: Report",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RC2EEQZ9TEP1YJMEKS9NF7/hi-solana-changes-the-crypto-world-already.jpg\" alt=\"Solana\u2019s Shanghai event halted over unauthorized promotion: Report \" class=\"type:primaryImage\"></p><p>Solana\u2019s promotional campaigns through domestic entities allegedly violated China\u2019s crypto-related restrictions, an unidentified PBOC official told China\u2019s Financial News.</p>",
+    "published": "Fri, 06 Nov 2026 12:15:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8e11eecf60a88eb1",
+  "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg\" alt=\"Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates \" class=\"type:primaryImage\"></p><p>The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.</p>",
+    "published": "Fri, 06 Nov 2026 11:26:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1a7aeb47545078db",
+  "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp\" alt=\"Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash\" class=\"type:primaryImage\"></p><p>Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.</p>",
+    "published": "Fri, 06 Nov 2026 11:16:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2ada56a303cf8d83",
+  "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5FQT9G760GWMQ4WKS1P1T/storage-crypto-tokens.png\" alt=\"GOPAX halts crypto trading, withdrawals to move all assets to cold storage\" class=\"type:primaryImage\"></p><p>South Korea\u2019s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.</p>",
+    "published": "Fri, 06 Nov 2026 10:47:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3ce4f9be7c480a93",
+  "title": "Binance\u2019s $6.3B hack leaves questions over hot wallet safeguards",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg\" alt=\"Binance\u2019s $6.3B hack leaves questions over hot wallet safeguards\" class=\"type:primaryImage\"></p><p>Experts say blockchain records show repeated wallet drains but cannot establish Binance\u2019s internal signing controls or transaction limits.</p>",
+    "published": "Fri, 06 Nov 2026 10:40:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "880328f24feff6fe",
+  "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg\" alt=\"Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool\" class=\"type:primaryImage\"></p><p>Zcash\u2019s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.</p>",
+    "published": "Fri, 06 Nov 2026 09:00:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "03b8b7980cee2199",
+  "title": "Hyperliquid Strategies seeks futures registration for perps",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg\" alt=\"Hyperliquid Strategies seeks futures registration for perps \" class=\"type:primaryImage\"></p><p>The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.</p>",
+    "published": "Fri, 06 Nov 2026 08:42:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "43f58e16bf27a111",
+  "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg\" alt=\"Bitcoin, Ether ETFs post $530M outflows as election gains evaporate\" class=\"type:primaryImage\"></p><p>US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.</p>",
+    "published": "Fri, 06 Nov 2026 08:19:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fdb5ffc68c5897ee",
+  "title": "Chainalysis says breach exposed password hashes and live tokens",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg\" alt=\"Chainalysis says breach exposed password hashes and live tokens\" class=\"type:primaryImage\"></p><p>Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.</p>",
+    "published": "Fri, 06 Nov 2026 06:54:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "195d03f5c23a6504",
+  "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QCQ9E3FBH5XSMVA720JM6M/cold-storage.jpg\" alt=\"Crypto exchanges tout cold storage ratios after Binance attack\" class=\"type:primaryImage\"></p><p>Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.</p>",
+    "published": "Fri, 06 Nov 2026 05:07:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a1c5a933db5835cd",
+  "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg\" alt=\"Core Scientific to quit Bitcoin mining by year-end as AI business surges\" class=\"type:primaryImage\"></p><p>The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.</p>",
+    "published": "Fri, 06 Nov 2026 00:19:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "563400961615e0b6",
+  "title": "TeraWulf\u2019s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+    "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
+    "published": "Fri, 06 Nov 2026 13:40:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dc83bfbf50cf5949",
+  "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
+    "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
+    "published": "Fri, 06 Nov 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "323d116fd165c1b9",
+  "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+    "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
+    "published": "Fri, 06 Nov 2026 12:33:31 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7b75954bb5f0e9a1",
+  "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+    "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+    "published": "Fri, 06 Nov 2026 11:43:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cc0045ca5edf4643",
+  "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
+    "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
+    "published": "Fri, 06 Nov 2026 08:34:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a1364dec1afdad21",
+  "title": "Zcash\u2019s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
+    "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
+    "published": "Fri, 06 Nov 2026 07:36:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "28ee380745dd7bca",
+  "title": "IREN\u2019s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+    "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
+    "published": "Fri, 06 Nov 2026 04:29:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2ff5d32064985788",
+  "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+    "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
+    "published": "Fri, 06 Nov 2026 03:56:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6cec4e4d962cf15d",
+  "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+    "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv\">https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391456\">https://news.ycombinator.com/item?id=50391456</a></p> <p>Points: 70</p> <p># Comments: 43</p>",
+    "published": "Fri, 06 Nov 2026 12:13:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a820987200b3f981",
+  "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs\">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391342\">https://news.ycombinator.com/item?id=50391342</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
+    "published": "Fri, 06 Nov 2026 12:00:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "42e207b7c024bc6d",
+  "title": "We've built an open-source feature flag server for 11 years",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/Unleash/unleash",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Unleash/unleash\">https://github.com/Unleash/unleash</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391145\">https://news.ycombinator.com/item?id=50391145</a></p> <p>Points: 33</p> <p># Comments: 13</p>",
+    "published": "Fri, 06 Nov 2026 11:40:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "feae6a47e061bc9c",
+  "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://jhr.pensoft.net/articles.php?id=9096",
+    "summary": "<p>Article URL: <a href=\"https://jhr.pensoft.net/articles.php?id=9096\">https://jhr.pensoft.net/articles.php?id=9096</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390525\">https://news.ycombinator.com/item?id=50390525</a></p> <p>Points: 69</p> <p># Comments: 23</p>",
+    "published": "Fri, 06 Nov 2026 10:21:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "535060c4a02351c1",
+  "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "summary": "<p>Article URL: <a href=\"https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390124\">https://news.ycombinator.com/item?id=50390124</a></p> <p>Points: 288</p> <p># Comments: 177</p>",
+    "published": "Fri, 06 Nov 2026 09:27:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a2e585ed9b09bee3",
+  "title": "Chomsky and the Two Cultures of Statistical Learning",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.norvig.com/chomsky.html",
+    "summary": "<p>Article URL: <a href=\"https://www.norvig.com/chomsky.html\">https://www.norvig.com/chomsky.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389570\">https://news.ycombinator.com/item?id=50389570</a></p> <p>Points: 20</p> <p># Comments: 4</p>",
+    "published": "Fri, 06 Nov 2026 08:18:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c5045ba62773651c",
+  "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://worldstrike.fun/",
+    "summary": "<p>Article URL: <a href=\"https://worldstrike.fun/\">https://worldstrike.fun/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389420\">https://news.ycombinator.com/item?id=50389420</a></p> <p>Points: 92</p> <p># Comments: 61</p>",
+    "published": "Fri, 06 Nov 2026 07:55:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "df89720934dec725",
+  "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://apps.metaebene.me/en/kugelblitz",
+    "summary": "<p>Article URL: <a href=\"https://apps.metaebene.me/en/kugelblitz\">https://apps.metaebene.me/en/kugelblitz</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389370\">https://news.ycombinator.com/item?id=50389370</a></p> <p>Points: 134</p> <p># Comments: 40</p>",
+    "published": "Fri, 06 Nov 2026 07:47:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0da7f9a4225a7024",
+  "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ppmpreetham/BUI\">https://github.com/ppmpreetham/BUI</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389333\">https://news.ycombinator.com/item?id=50389333</a></p> <p>Points: 356</p> <p># Comments: 150</p>",
+    "published": "Fri, 06 Nov 2026 07:40:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "78d8cc31fdc59ff1",
+  "title": "Hardcoded credentials and other issues in Tata Motors App",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+    "summary": "<p>Article URL: <a href=\"https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537\">https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389260\">https://news.ycombinator.com/item?id=50389260</a></p> <p>Points: 52</p> <p># Comments: 8</p>",
+    "published": "Fri, 06 Nov 2026 07:28:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ad265c5605cb0107",
+  "title": "Britain to make salary disclosure in job ads mandatory",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\">https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389222\">https://news.ycombinator.com/item?id=50389222</a></p> <p>Points: 326</p> <p># Comments: 277</p>",
+    "published": "Fri, 06 Nov 2026 07:22:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d54bee17fb9e831d",
+  "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+    "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388122\">https://news.ycombinator.com/item?id=50388122</a></p> <p>Points: 158</p> <p># Comments: 51</p>",
+    "published": "Fri, 06 Nov 2026 04:17:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d2bb7ea65855ba5d",
+  "title": "Pwn.college",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://pwn.college/",
+    "summary": "<p>Article URL: <a href=\"https://pwn.college/\">https://pwn.college/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387796\">https://news.ycombinator.com/item?id=50387796</a></p> <p>Points: 208</p> <p># Comments: 32</p>",
+    "published": "Fri, 06 Nov 2026 03:27:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b95f6aa29001e5a7",
+  "title": "Nvidia Kubernetes Engine (NVKE)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "summary": "<p>Article URL: <a href=\"https://github.com/dsx-ai-factory/nvke\">https://github.com/dsx-ai-factory/nvke</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387738\">https://news.ycombinator.com/item?id=50387738</a></p> <p>Points: 100</p> <p># Comments: 22</p>",
+    "published": "Fri, 06 Nov 2026 03:16:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8a3c39376664bf00",
+  "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/matthewmrichter/mooftcp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/matthewmrichter/mooftcp\">https://github.com/matthewmrichter/mooftcp</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386789\">https://news.ycombinator.com/item?id=50386789</a></p> <p>Points: 56</p> <p># Comments: 28</p>",
+    "published": "Fri, 06 Nov 2026 00:54:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5eb6887e9b28c78c",
+  "title": "Inkling 2 Small",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-small/\">https://thinkingmachines.ai/news/inkling-2-small/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386338\">https://news.ycombinator.com/item?id=50386338</a></p> <p>Points: 235</p> <p># Comments: 74</p>",
+    "published": "Fri, 06 Nov 2026 00:00:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6f78e24cdb5b04f2",
+  "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385870\">https://news.ycombinator.com/item?id=50385870</a></p> <p>Points: 412</p> <p># Comments: 186</p>",
+    "published": "Thu, 05 Nov 2026 23:09:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fbf575ba8ccde9fe",
+  "title": "Underdog shows off a 32MB speech model in new demo",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+    "published": "Fri, 06 Nov 2026 13:02:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f3bfec28682f8e7d",
+  "title": "Physicl raises $10M to make the digital world real enough for robots",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "published": "Fri, 06 Nov 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8a4d90c4aa8b2d5c",
+  "title": "Tesla will stop making the Cybertruck in 2027",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+    "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+    "published": "Fri, 06 Nov 2026 11:50:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d0ed5775bc4fb219",
+  "title": "At least 10 local governments have moved to drop Flock\u2019s surveillance cameras since summer",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+    "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+    "published": "Fri, 06 Nov 2026 07:18:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9889510bec40cd60",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "published": "Fri, 06 Nov 2026 06:28:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6053cf3db6bfa57d",
+  "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+    "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+    "published": "Fri, 06 Nov 2026 00:07:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fb3e595a55ebe30c",
+  "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+    "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+    "published": "Fri, 06 Nov 2026 00:01:38 +0000"
    }
   ]
  }
