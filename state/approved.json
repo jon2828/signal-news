@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "id": "f4cb5cbec5fba44f",
+  "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+  "topic": "bitcoin",
+  "story": "riot-anthropic-deal",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Major $28 billion AI-Bitcoin crossover deal between two named companies with material financing details.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+    "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
+    "published": "Thu, 05 Nov 2026 09:36:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7e36999a57b22695",
+  "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+  "topic": "bitcoin",
+  "story": "openai-linux-exploits",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Frontier lab capability claim with concrete figures (948 flaws, working exploits) that shifts the AI security landscape.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+    "summary": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
+    "published": "Thu, 05 Nov 2026 08:26:26 +0000"
+   }
+  ]
+ }
+]
