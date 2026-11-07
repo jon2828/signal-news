@@ -1,37 +1,37 @@
 [
  {
-  "id": "f4cb5cbec5fba44f",
-  "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-  "topic": "bitcoin",
-  "story": "riot-anthropic-deal",
-  "score": 8,
-  "raw_score": 8,
+  "id": "53c56afbaf05f856",
+  "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+  "topic": "ai",
+  "story": "gpt-6-cyber",
+  "score": 9,
+  "raw_score": 9,
   "weight": 1.0,
-  "reason": "Major $28 billion AI-Bitcoin crossover deal between two named companies with material financing details.",
+  "reason": "Frontier lab releasing a dedicated cybersecurity model \u2014 frontier-shifting and distinct from the recent Linux flaws post.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
-    "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
-    "published": "Thu, 05 Nov 2026 09:36:32 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "summary": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "published": "Thu, 05 Nov 2026 09:00:00 GMT"
    }
   ]
  },
  {
-  "id": "7e36999a57b22695",
-  "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+  "id": "5bb93d25e70a45ca",
+  "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
   "topic": "bitcoin",
-  "story": "openai-linux-exploits",
-  "score": 8,
-  "raw_score": 8,
+  "story": "soter-funding",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Frontier lab capability claim with concrete figures (948 flaws, working exploits) that shifts the AI security landscape.",
+  "reason": "Significant funding round with named institutional backers (Standard Chartered, SBI) plus large in-kind BTC/ETH commitments.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
-    "summary": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
-    "published": "Thu, 05 Nov 2026 08:26:26 +0000"
+    "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+    "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
+    "published": "Thu, 05 Nov 2026 16:49:08 +0000"
    }
   ]
  }
