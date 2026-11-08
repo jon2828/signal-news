@@ -1,37 +1,37 @@
 [
  {
-  "id": "63c3d56bc72bc9e8",
-  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-  "topic": "ai",
-  "story": "gemini-omni-1-2-flash",
-  "score": 10,
-  "raw_score": 10,
+  "id": "5dd3ba3cac6dc6ad",
+  "title": "Google could take stake in bitcoin miner TeraWulf\u2019s $19 billion AI project if Anthropic defaults",
+  "topic": "bitcoin",
+  "story": "google-terawulf-anthropic",
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "Google releases Gemini Omni 1.2 Flash with native 15-second video generation and editing capabilities.",
+  "reason": "Major infrastructure deal involving Google, Anthropic, and a Bitcoin miner with unusual financial provisions.",
   "sources": [
    {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\">Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-    "published": "Thu, 05 Nov 2026 17:00:00 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+    "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
+    "published": "Thu, 05 Nov 2026 13:29:40 +0000"
    }
   ]
  },
  {
-  "id": "fa4d7995ada11919",
-  "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
+  "id": "8e11eecf60a88eb1",
+  "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
   "topic": "bitcoin",
-  "story": "zcash-nu7-upgrade",
-  "score": 10,
-  "raw_score": 10,
-  "weight": 1.0,
-  "reason": "Zcash implements the NU7 upgrade, significantly speeding up private payments and reducing work.",
+  "story": "binance-hack",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Major security breach details revealing 8 weeks of access, significantly impacting trust in exchange security.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-    "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
-    "published": "Fri, 06 Nov 2026 05:14:48 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg\" alt=\"Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates \" class=\"type:primaryImage\"></p><p>The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.</p>",
+    "published": "Fri, 06 Nov 2026 11:26:30 +0000"
    }
   ]
  }
