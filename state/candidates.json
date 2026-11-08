@@ -286,572 +286,6 @@
   ]
  },
  {
-  "id": "dc28e50dc477079d",
-  "title": "Window Sweaters",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/saragordic/window-sweaters",
-    "summary": "<p>Article URL: <a href=\"https://github.com/saragordic/window-sweaters\">https://github.com/saragordic/window-sweaters</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381383\">https://news.ycombinator.com/item?id=50381383</a></p> <p>Points: 208</p> <p># Comments: 75</p>",
-    "published": "Thu, 05 Nov 2026 16:50:14 +0000"
-   }
-  ]
- },
- {
-  "id": "4cf2fe57a030deff",
-  "title": "My psychophysics as a bilateral cochlear implant user",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-    "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\">https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381033\">https://news.ycombinator.com/item?id=50381033</a></p> <p>Points: 149</p> <p># Comments: 47</p>",
-    "published": "Thu, 05 Nov 2026 16:21:12 +0000"
-   }
-  ]
- },
- {
-  "id": "0fa55f858ecb7593",
-  "title": "The Stacks Project, Formalized in Lean",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-    "summary": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p> <p>Points: 60</p> <p># Comments: 14</p>",
-    "published": "Thu, 05 Nov 2026 16:16:59 +0000"
-   }
-  ]
- },
- {
-  "id": "ead45f6819dfe884",
-  "title": "Motorola Signature 27 with GrapheneOS support",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://motorolanews.com/motorola-signature-27-2/",
-    "summary": "<p>Article URL: <a href=\"https://motorolanews.com/motorola-signature-27-2/\">https://motorolanews.com/motorola-signature-27-2/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380810\">https://news.ycombinator.com/item?id=50380810</a></p> <p>Points: 367</p> <p># Comments: 270</p>",
-    "published": "Thu, 05 Nov 2026 16:01:34 +0000"
-   }
-  ]
- },
- {
-  "id": "9f3290e2cae29a6d",
-  "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/AGGIB/Stroq",
-    "summary": "<p>Article URL: <a href=\"https://github.com/AGGIB/Stroq\">https://github.com/AGGIB/Stroq</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380704\">https://news.ycombinator.com/item?id=50380704</a></p> <p>Points: 60</p> <p># Comments: 11</p>",
-    "published": "Thu, 05 Nov 2026 15:54:41 +0000"
-   }
-  ]
- },
- {
-  "id": "79d39aa19e75e1a7",
-  "title": "We can do better than line-buffered output",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://nullprogram.com/blog/2026/11/05/",
-    "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2026/11/05/\">https://nullprogram.com/blog/2026/11/05/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380268\">https://news.ycombinator.com/item?id=50380268</a></p> <p>Points: 84</p> <p># Comments: 8</p>",
-    "published": "Thu, 05 Nov 2026 15:25:22 +0000"
-   }
-  ]
- },
- {
-  "id": "4c714204846c2551",
-  "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-    "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379704\">https://news.ycombinator.com/item?id=50379704</a></p> <p>Points: 541</p> <p># Comments: 106</p>",
-    "published": "Thu, 05 Nov 2026 14:44:20 +0000"
-   }
-  ]
- },
- {
-  "id": "01af2f668adeb82b",
-  "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "published": "Thu, 05 Nov 2026 22:40:55 +0000"
-   }
-  ]
- },
- {
-  "id": "20c66b35275dc3e5",
-  "title": "Serve Robotics launches new business to become the AWS for robots",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-    "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-    "published": "Thu, 05 Nov 2026 21:15:00 +0000"
-   }
-  ]
- },
- {
-  "id": "9d6202c03434e451",
-  "title": "Meta says US users can now video chat with their Muse AI avatar",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "published": "Thu, 05 Nov 2026 19:48:28 +0000"
-   }
-  ]
- },
- {
-  "id": "ea881b03ae961dac",
-  "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "published": "Thu, 05 Nov 2026 19:12:39 +0000"
-   }
-  ]
- },
- {
-  "id": "8f7798ef97e41335",
-  "title": "OpenAI released a new cybersecurity model. Is that enough?",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-    "published": "Thu, 05 Nov 2026 19:06:12 +0000"
-   }
-  ]
- },
- {
-  "id": "1187877bbc536b6c",
-  "title": "US government warns of \u2018ongoing cyber threat\u2019 amid mass hacks of industrial retail and military freezers",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-    "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-    "published": "Thu, 05 Nov 2026 18:48:34 +0000"
-   }
-  ]
- },
- {
-  "id": "bf7e9a38adde5887",
-  "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "published": "Thu, 05 Nov 2026 18:02:27 +0000"
-   }
-  ]
- },
- {
-  "id": "7f7ad02b026457de",
-  "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-    "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-    "published": "Thu, 05 Nov 2026 18:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "b0e121b3a461c115",
-  "title": "Claude can now analyze your spending with its new Personal Finance tool",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "published": "Thu, 05 Nov 2026 18:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "e174163944b16a9f",
-  "title": "Harbinger raises $240M after expanding into defense",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-    "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-    "published": "Thu, 05 Nov 2026 17:52:44 +0000"
-   }
-  ]
- },
- {
-  "id": "5e96a35d94b6ea6d",
-  "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-    "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-    "published": "Thu, 05 Nov 2026 17:11:48 +0000"
-   }
-  ]
- },
- {
-  "id": "c2788911aa715e52",
-  "title": "Axiom Math wants to keep AI slop out of mathematics",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
-    "published": "Thu, 05 Nov 2026 16:16:45 +0000"
-   }
-  ]
- },
- {
-  "id": "6ed30a2ea2e01e46",
-  "title": "Bluesky hit peak usage for the year on election night",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-    "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
-    "published": "Thu, 05 Nov 2026 15:44:58 +0000"
-   }
-  ]
- },
- {
-  "id": "5c7ffb4c519e0d62",
-  "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-    "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-    "published": "Thu, 05 Nov 2026 15:40:34 +0000"
-   }
-  ]
- },
- {
-  "id": "b3db1a25757bafb3",
-  "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-    "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
-    "published": "Thu, 05 Nov 2026 15:33:58 +0000"
-   }
-  ]
- },
- {
-  "id": "6dad7a604d398d82",
-  "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "published": "Thu, 05 Nov 2026 15:19:05 +0000"
-   }
-  ]
- },
- {
-  "id": "4903344a90138b1d",
-  "title": "Instagram brings Edits to desktop to take on CapCut",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-    "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-    "published": "Thu, 05 Nov 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "68e0dfb6fa301d8e",
-  "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-    "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
-    "published": "Thu, 05 Nov 2026 15:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "0f2052ea73f7a4c1",
-  "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "published": "Thu, 05 Nov 2026 14:42:00 +0000"
-   }
-  ]
- },
- {
-  "id": "63c3d56bc72bc9e8",
-  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "blog-google-ai",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\">Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-    "published": "Thu, 05 Nov 2026 17:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "b58fee4edbbb5f7a",
-  "title": "Australian universities are creating AI-native graduates",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "published": "Thu, 05 Nov 2026 17:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "c88b52d0b21039c7",
-  "title": "Cult.fit builds operational muscle with Codex",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/cultfit-builds-with-codex",
-    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-    "published": "Thu, 05 Nov 2026 20:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "1f9981de57006417",
-  "title": "Flipsnack grows product signups with conversion optimization",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/ads/customers/flipsnack",
-    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-    "published": "Thu, 05 Nov 2026 00:45:15 GMT"
-   }
-  ]
- },
- {
-  "id": "c0d7b0808284d182",
-  "title": "Franklin Templeton uses OpenAI to support investment research",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/franklin-templeton",
-    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-    "published": "Thu, 05 Nov 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "b6343becd0d5ed41",
-  "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-    "summary": "The unemployment rate unexpectedly fell to 4.1% as the labor market bounced back in a big way from a soft September showing.",
-    "published": "Fri, 06 Nov 2026 13:31:54 +0000"
-   }
-  ]
- },
- {
-  "id": "7630fd6aea3d349a",
-  "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-    "summary": "Your day-ahead look for Nov. 6, 2026",
-    "published": "Fri, 06 Nov 2026 12:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "443f1112db8558dc",
-  "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-    "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
-    "published": "Fri, 06 Nov 2026 11:58:40 +0000"
-   }
-  ]
- },
- {
-  "id": "ad421c92f5788d4f",
-  "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-    "summary": "Bitcoin bounced from around $75,200 after Thursday\u2019s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
-    "published": "Fri, 06 Nov 2026 11:49:35 +0000"
-   }
-  ]
- },
- {
-  "id": "967650dd1f5b8cd2",
-  "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-    "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
-    "published": "Fri, 06 Nov 2026 09:53:27 +0000"
-   }
-  ]
- },
- {
-  "id": "abd92cfad8807096",
-  "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-    "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
-    "published": "Fri, 06 Nov 2026 08:47:42 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg\" alt=\"Greece approves 10% tax on crypto gains starting in 2027\" class=\"type:primaryImage\"></p><p>Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.</p>",
-    "published": "Fri, 06 Nov 2026 11:05:36 +0000"
-   }
-  ]
- },
- {
-  "id": "dade5ba34815d7ba",
-  "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-    "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
-    "published": "Fri, 06 Nov 2026 08:04:52 +0000"
-   }
-  ]
- },
- {
-  "id": "fa4d7995ada11919",
-  "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-    "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
-    "published": "Fri, 06 Nov 2026 05:14:48 +0000"
-   }
-  ]
- },
- {
-  "id": "b9e88a95ad934d24",
-  "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-    "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
-    "published": "Fri, 06 Nov 2026 02:24:23 +0000"
-   }
-  ]
- },
- {
   "id": "3672368a49c11f42",
   "title": "Bitcoin developer proposes \u2018landmines\u2019 to make quantum thieves lose their own BTC",
   "topic": "bitcoin",
@@ -2307,13 +1741,19 @@
   "id": "594105e3c51985ed",
   "title": "The Components of Agent Memory",
   "topic": "both",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "hn",
     "url": "https://www.anthropic.com/research/components-of-agent-memory",
     "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p> <p>Points: 66</p> <p># Comments: 32</p>",
     "published": "Sat, 07 Nov 2026 06:39:04 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "summary": "<p>Article URL: <a href=\"https://www.lorekit.io/blog/open-agent-memory-format\">https://www.lorekit.io/blog/open-agent-memory-format</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411467\">https://news.ycombinator.com/item?id=50411467</a></p> <p>Points: 67</p> <p># Comments: 62</p>",
+    "published": "Sun, 08 Nov 2026 08:40:23 +0000"
    }
   ]
  },
@@ -2818,6 +2258,236 @@
     "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
     "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
     "published": "Sat, 07 Nov 2026 17:18:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cce0d75cdc0ec5ab",
+  "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg\" alt=\"Amsterdam protesters break into Microsoft data center construction site: Report\" class=\"type:primaryImage\"></p><p>Dutch police said they detained 150-200 people for trespassing during the protest.</p>",
+    "published": "Sun, 08 Nov 2026 09:48:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a0ea195071ccf3b5",
+  "title": "Binance\u2019s finance chief Kaiser Ng to leave company, report says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png\" alt=\"Binance\u2019s finance chief Kaiser Ng to leave company, report says\" class=\"type:primaryImage\"></p><p>Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.</p>",
+    "published": "Sun, 08 Nov 2026 08:12:56 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e2a2deda24829975",
+  "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+    "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+    "published": "Sat, 07 Nov 2026 21:57:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f95665d6d8f6efc3",
+  "title": "Person of Interest",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://krthr.co/person-of-interest/",
+    "summary": "<p>Article URL: <a href=\"https://krthr.co/person-of-interest/\">https://krthr.co/person-of-interest/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412318\">https://news.ycombinator.com/item?id=50412318</a></p> <p>Points: 73</p> <p># Comments: 33</p>",
+    "published": "Sun, 08 Nov 2026 11:23:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7cbf7714d7200cce",
+  "title": "Petered (what happens after the Peter Principle)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://aworkinglibrary.com/writing/petered",
+    "summary": "<p>Article URL: <a href=\"https://aworkinglibrary.com/writing/petered\">https://aworkinglibrary.com/writing/petered</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412152\">https://news.ycombinator.com/item?id=50412152</a></p> <p>Points: 37</p> <p># Comments: 18</p>",
+    "published": "Sun, 08 Nov 2026 10:56:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "72e210e2af7ebe53",
+  "title": "JIT bitmap text rendering for microcontrollers",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://linebender.org/blog/jit-bitmap-text/",
+    "summary": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p> <p>Points: 18</p> <p># Comments: 1</p>",
+    "published": "Sun, 08 Nov 2026 10:42:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5e9d3fd0e59ccb77",
+  "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "summary": "<p>Article URL: <a href=\"https://github.com/synchopate/llama-modchip\">https://github.com/synchopate/llama-modchip</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411961\">https://news.ycombinator.com/item?id=50411961</a></p> <p>Points: 11</p> <p># Comments: 7</p>",
+    "published": "Sun, 08 Nov 2026 10:22:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b63a575fe3faab76",
+  "title": "GitHub Down Again?",
+  "topic": "both",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/torvalds/linux",
+    "summary": "<p>Article URL: <a href=\"https://github.com/torvalds/linux\">https://github.com/torvalds/linux</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411818\">https://news.ycombinator.com/item?id=50411818</a></p> <p>Points: 106</p> <p># Comments: 102</p>",
+    "published": "Sun, 08 Nov 2026 09:56:07 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "summary": "<p>Article URL: <a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50407882\">https://news.ycombinator.com/item?id=50407882</a></p> <p>Points: 440</p> <p># Comments: 300</p>",
+    "published": "Sat, 07 Nov 2026 20:45:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "41e5a95620dc1dd4",
+  "title": "WaveDudeNext 2D Wave Simulator",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/graealex/WaveDudeNext",
+    "summary": "<p>Article URL: <a href=\"https://github.com/graealex/WaveDudeNext\">https://github.com/graealex/WaveDudeNext</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411083\">https://news.ycombinator.com/item?id=50411083</a></p> <p>Points: 26</p> <p># Comments: 4</p>",
+    "published": "Sun, 08 Nov 2026 07:09:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2b15b1cc1697e8a3",
+  "title": "Kirlian Photography: Building Your Own Equipment",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "summary": "<p>Article URL: <a href=\"https://imagesco.com/articles/kirlian/kirlian-photography.html\">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410359\">https://news.ycombinator.com/item?id=50410359</a></p> <p>Points: 55</p> <p># Comments: 14</p>",
+    "published": "Sun, 08 Nov 2026 04:14:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3ad26f087baba09b",
+  "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/dmunozv04/isponsorblocktv",
+    "summary": "<p>Article URL: <a href=\"https://github.com/dmunozv04/isponsorblocktv\">https://github.com/dmunozv04/isponsorblocktv</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410249\">https://news.ycombinator.com/item?id=50410249</a></p> <p>Points: 61</p> <p># Comments: 12</p>",
+    "published": "Sun, 08 Nov 2026 03:47:19 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e66f4eeac8f3ba07",
+  "title": "Goodbye Claude, Hello Pi",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "summary": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p> <p>Points: 386</p> <p># Comments: 240</p>",
+    "published": "Sun, 08 Nov 2026 03:11:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "354e09e1e07bff61",
+  "title": "Consumer brain wave headsets threaten privacy",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F\">https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50409856\">https://news.ycombinator.com/item?id=50409856</a></p> <p>Points: 71</p> <p># Comments: 36</p>",
+    "published": "Sun, 08 Nov 2026 02:02:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a91cf3926bcc636e",
+  "title": "GitHub New pull request overview page in public preview",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408931\">https://news.ycombinator.com/item?id=50408931</a></p> <p>Points: 150</p> <p># Comments: 101</p>",
+    "published": "Sat, 07 Nov 2026 23:09:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b62a0605589fbd5d",
+  "title": "Making any integer with four 2s (2025)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "summary": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408713\">https://news.ycombinator.com/item?id=50408713</a></p> <p>Points: 156</p> <p># Comments: 38</p>",
+    "published": "Sat, 07 Nov 2026 22:38:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ed263cbbe1a45523",
+  "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "published": "Sat, 07 Nov 2026 22:07:22 +0000"
    }
   ]
  }

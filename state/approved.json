@@ -1,37 +1,37 @@
 [
  {
-  "id": "53c56afbaf05f856",
-  "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+  "id": "63c3d56bc72bc9e8",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
   "topic": "ai",
-  "story": "gpt-6-cyber",
-  "score": 9,
-  "raw_score": 9,
+  "story": "gemini-omni-1-2-flash",
+  "score": 10,
+  "raw_score": 10,
   "weight": 1.0,
-  "reason": "Frontier lab releasing a dedicated cybersecurity model \u2014 frontier-shifting and distinct from the recent Linux flaws post.",
+  "reason": "Google releases Gemini Omni 1.2 Flash with native 15-second video generation and editing capabilities.",
   "sources": [
    {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-gpt-6-cyber",
-    "summary": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-    "published": "Thu, 05 Nov 2026 09:00:00 GMT"
+    "source": "blog-google-ai",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\">Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+    "published": "Thu, 05 Nov 2026 17:00:00 +0000"
    }
   ]
  },
  {
-  "id": "5bb93d25e70a45ca",
-  "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+  "id": "fa4d7995ada11919",
+  "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
   "topic": "bitcoin",
-  "story": "soter-funding",
-  "score": 7,
-  "raw_score": 7,
+  "story": "zcash-nu7-upgrade",
+  "score": 10,
+  "raw_score": 10,
   "weight": 1.0,
-  "reason": "Significant funding round with named institutional backers (Standard Chartered, SBI) plus large in-kind BTC/ETH commitments.",
+  "reason": "Zcash implements the NU7 upgrade, significantly speeding up private payments and reducing work.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-    "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
-    "published": "Thu, 05 Nov 2026 16:49:08 +0000"
+    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+    "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+    "published": "Fri, 06 Nov 2026 05:14:48 +0000"
    }
   ]
  }
