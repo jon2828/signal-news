@@ -1,37 +1,37 @@
 [
  {
-  "id": "63cc698ae6e98bd8",
-  "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+  "id": "f283b5855fcebf47",
+  "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
   "topic": "bitcoin",
-  "story": "web3auth-hack",
+  "story": "coinbase-trust-charter",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "Major security breach involving $5.6M and named entities, high importance for security-conscious readers.",
+  "reason": "Major regulatory milestone for the largest US exchange, elevating status to full federal charter.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
-    "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
-    "published": "Sun, 08 Nov 2026 18:32:11 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "summary": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
+    "published": "Mon, 09 Nov 2026 10:00:00 +0000"
    }
   ]
  },
  {
-  "id": "a24fdfddefa6b5e4",
-  "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-  "topic": "both",
-  "story": "nvidia-board-investigation",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Major corporate governance crisis at the leading AI chipmaker, potentially market-moving.",
+  "id": "5f65c5631083bb10",
+  "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+  "topic": "bitcoin",
+  "story": "zcash-block-time",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Significant protocol change proposal for a major PoW coin, backed by early performance data.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-    "summary": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416801\">https://news.ycombinator.com/item?id=50416801</a></p> <p>Points: 178</p> <p># Comments: 136</p>",
-    "published": "Sun, 08 Nov 2026 20:26:43 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+    "summary": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
+    "published": "Mon, 09 Nov 2026 10:52:49 +0000"
    }
   ]
  }
