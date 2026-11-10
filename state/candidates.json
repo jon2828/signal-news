@@ -1,577 +1,5 @@
 [
  {
-  "id": "d275be2a1267c8e7",
-  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "published": "Fri, 06 Nov 2026 15:54:47 +0000"
-   }
-  ]
- },
- {
-  "id": "ab4846bbc512d790",
-  "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "published": "Fri, 06 Nov 2026 14:10:00 +0000"
-   }
-  ]
- },
- {
-  "id": "141f769fa81ba4a4",
-  "title": "US sanctions Canadian money-exchange firms over Iran ties",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg\" alt=\"US sanctions Canadian money-exchange firms over Iran ties\" class=\"type:primaryImage\"></p><p>US also offers as much as $20 million and possible relocation for information about Iran\u2019s nuclear program.</p>",
-    "published": "Sat, 07 Nov 2026 11:10:47 +0000"
-   }
-  ]
- },
- {
-  "id": "ddc8938b7d714b9d",
-  "title": "Suspicious prediction market activity seen before election poll release: NYT",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg\" alt=\"Suspicious prediction market activity seen before election poll release: NYT\" class=\"type:primaryImage\"></p><p>Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.</p>",
-    "published": "Sat, 07 Nov 2026 09:10:35 +0000"
-   }
-  ]
- },
- {
-  "id": "9b6655e1630921e6",
-  "title": "Nvidia may face a more hostile post-election Washington: Report",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg\" alt=\"Nvidia may face a more hostile post-election Washington: Report\" class=\"type:primaryImage\"></p><p>CEO Jensen Huang\u2019s relationship with President Donald Trump probably won\u2019t save the company from a more adversarial Washington, Semafor says.</p>",
-    "published": "Sat, 07 Nov 2026 07:45:24 +0000"
-   }
-  ]
- },
- {
-  "id": "f37f6b1be2804cde",
-  "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-    "summary": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/\">https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403507\">https://news.ycombinator.com/item?id=50403507</a></p> <p>Points: 16</p> <p># Comments: 1</p>",
-    "published": "Sat, 07 Nov 2026 11:11:15 +0000"
-   }
-  ]
- },
- {
-  "id": "7562ac2fd2f3b384",
-  "title": "Upload Your RAM",
-  "topic": "both",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://uploadyourram.org",
-    "summary": "<p>Article URL: <a href=\"https://uploadyourram.org\">https://uploadyourram.org</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403214\">https://news.ycombinator.com/item?id=50403214</a></p> <p>Points: 99</p> <p># Comments: 62</p>",
-    "published": "Sat, 07 Nov 2026 10:15:26 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-    "summary": "<p>Article URL: <a href=\"https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/\">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415172\">https://news.ycombinator.com/item?id=50415172</a></p> <p>Points: 155</p> <p># Comments: 54</p>",
-    "published": "Sun, 08 Nov 2026 17:20:29 +0000"
-   }
-  ]
- },
- {
-  "id": "5ec03af4da1d836d",
-  "title": "Every Mac comes with an (undocumented) family member classifier",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-    "summary": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p> <p>Points: 149</p> <p># Comments: 64</p>",
-    "published": "Sat, 07 Nov 2026 09:46:03 +0000"
-   }
-  ]
- },
- {
-  "id": "c1dca4124c8afda5",
-  "title": "Running a law firm on Free software",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-    "summary": "<p>Article URL: <a href=\"https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/\">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403066\">https://news.ycombinator.com/item?id=50403066</a></p> <p>Points: 4</p> <p># Comments: 0</p>",
-    "published": "Sat, 07 Nov 2026 09:39:06 +0000"
-   }
-  ]
- },
- {
-  "id": "fde131457e0ea631",
-  "title": "Port 0: The Port That Does Not Exist",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-    "summary": "<p>Article URL: <a href=\"https://acid.vegas/blog/the-port-that-does-not-exist/\">https://acid.vegas/blog/the-port-that-does-not-exist/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403063\">https://news.ycombinator.com/item?id=50403063</a></p> <p>Points: 12</p> <p># Comments: 4</p>",
-    "published": "Sat, 07 Nov 2026 09:38:26 +0000"
-   }
-  ]
- },
- {
-  "id": "822aa1f84e507d81",
-  "title": "Need for Speed Underground 2 online in the browser",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://nfsu2.xyz/",
-    "summary": "<p>Article URL: <a href=\"https://nfsu2.xyz/\">https://nfsu2.xyz/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403052\">https://news.ycombinator.com/item?id=50403052</a></p> <p>Points: 71</p> <p># Comments: 19</p>",
-    "published": "Sat, 07 Nov 2026 09:36:36 +0000"
-   }
-  ]
- },
- {
-  "id": "594105e3c51985ed",
-  "title": "The Components of Agent Memory",
-  "topic": "both",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.anthropic.com/research/components-of-agent-memory",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p> <p>Points: 66</p> <p># Comments: 32</p>",
-    "published": "Sat, 07 Nov 2026 06:39:04 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-    "summary": "<p>Article URL: <a href=\"https://www.lorekit.io/blog/open-agent-memory-format\">https://www.lorekit.io/blog/open-agent-memory-format</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411467\">https://news.ycombinator.com/item?id=50411467</a></p> <p>Points: 67</p> <p># Comments: 62</p>",
-    "published": "Sun, 08 Nov 2026 08:40:23 +0000"
-   }
-  ]
- },
- {
-  "id": "1039f331aefca6a5",
-  "title": "Asahi Linux Progress Linux 7.3",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-    "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/11/progress-report-7-3/\">https://asahilinux.org/2026/11/progress-report-7-3/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401867\">https://news.ycombinator.com/item?id=50401867</a></p> <p>Points: 204</p> <p># Comments: 170</p>",
-    "published": "Sat, 07 Nov 2026 05:20:18 +0000"
-   }
-  ]
- },
- {
-  "id": "d482c20de9cd112d",
-  "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals\">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401740\">https://news.ycombinator.com/item?id=50401740</a></p> <p>Points: 122</p> <p># Comments: 88</p>",
-    "published": "Sat, 07 Nov 2026 04:54:36 +0000"
-   }
-  ]
- },
- {
-  "id": "4e82298f18d8c5ab",
-  "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-    "summary": "<p>Article URL: <a href=\"https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399991\">https://news.ycombinator.com/item?id=50399991</a></p> <p>Points: 137</p> <p># Comments: 71</p>",
-    "published": "Fri, 06 Nov 2026 23:37:19 +0000"
-   }
-  ]
- },
- {
-  "id": "68be897c8b54bcd7",
-  "title": "Libghostty 1.0",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mitchellh.com/writing/libghostty-1-0",
-    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p> <p>Points: 718</p> <p># Comments: 116</p>",
-    "published": "Fri, 06 Nov 2026 23:30:52 +0000"
-   }
-  ]
- },
- {
-  "id": "e8ad3aaf9c4e3939",
-  "title": "GitHub's new Git storage architecture",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "summary": "<p>Article URL: <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397099\">https://news.ycombinator.com/item?id=50397099</a></p> <p>Points: 157</p> <p># Comments: 35</p>",
-    "published": "Fri, 06 Nov 2026 19:24:21 +0000"
-   }
-  ]
- },
- {
-  "id": "26c3f6131480b010",
-  "title": "Notes on San Marino",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-    "summary": "<p>Article URL: <a href=\"https://mattlakeman.org/2026/11/05/notes-on-san-marino/\">https://mattlakeman.org/2026/11/05/notes-on-san-marino/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395183\">https://news.ycombinator.com/item?id=50395183</a></p> <p>Points: 81</p> <p># Comments: 27</p>",
-    "published": "Fri, 06 Nov 2026 17:12:05 +0000"
-   }
-  ]
- },
- {
-  "id": "48ae0d68c3dee931",
-  "title": "Sequoia shutting down its Scouts program marks the end of an era",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-    "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-    "published": "Sat, 07 Nov 2026 05:01:54 +0000"
-   }
-  ]
- },
- {
-  "id": "a556ec6077950a4f",
-  "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-    "published": "Sat, 07 Nov 2026 04:16:43 +0000"
-   }
-  ]
- },
- {
-  "id": "36231604b2886429",
-  "title": "Crusoe sells troubled Wyoming data center project to Google",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
-    "published": "Sat, 07 Nov 2026 01:40:28 +0000"
-   }
-  ]
- },
- {
-  "id": "314bd089789a0995",
-  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "published": "Fri, 06 Nov 2026 22:53:46 +0000"
-   }
-  ]
- },
- {
-  "id": "2a70a9bf3c53b7cb",
-  "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-    "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-    "published": "Sat, 07 Nov 2026 19:13:16 +0000"
-   }
-  ]
- },
- {
-  "id": "90f0649e191d3927",
-  "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-    "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-    "published": "Sat, 07 Nov 2026 16:51:00 +0000"
-   }
-  ]
- },
- {
-  "id": "20555ea260b10af7",
-  "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg\" alt=\"Ex-FBI counterintelligence agent stole almost $2.5M in crypto\" class=\"type:primaryImage\"></p><p>Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.</p>",
-    "published": "Sat, 07 Nov 2026 14:16:00 +0000"
-   }
-  ]
- },
- {
-  "id": "f09d7416022d4031",
-  "title": "Bitcoin holders have received eCash \u2014 What can you do with it?",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png\" alt=\"Bitcoin holders have received eCash \u2014 What can you do with it?\" class=\"type:primaryImage\"></p><p>Bitcoin\u2019s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.</p>",
-    "published": "Sat, 07 Nov 2026 13:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "d76bb7b419f8e9ec",
-  "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
-    "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
-    "published": "Sat, 07 Nov 2026 20:59:47 +0000"
-   }
-  ]
- },
- {
-  "id": "8c9ba8df454b397e",
-  "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-    "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
-    "published": "Sat, 07 Nov 2026 16:46:02 +0000"
-   }
-  ]
- },
- {
-  "id": "e8b5a79d39e4adef",
-  "title": "Shadow of the Sun",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-    "summary": "<p>Article URL: <a href=\"https://mattlakeman.org/2021/07/27/shadow-of-the-sun/\">https://mattlakeman.org/2021/07/27/shadow-of-the-sun/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408104\">https://news.ycombinator.com/item?id=50408104</a></p> <p>Points: 3</p> <p># Comments: 2</p>",
-    "published": "Sat, 07 Nov 2026 21:11:05 +0000"
-   }
-  ]
- },
- {
-  "id": "7aec4829f796f0f0",
-  "title": "Show HN: Where Were We",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://wherewerewe.app/",
-    "summary": "<p>A little web game I made as an anniversary present for my wife.<p>Upload vacation photos and make them into a game.<p>WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408082\">https://news.ycombinator.com/item?id=50408082</a></p> <p>Points: 7</p> <p># Comments: 3</p>",
-    "published": "Sat, 07 Nov 2026 21:08:35 +0000"
-   }
-  ]
- },
- {
-  "id": "b2196d54740f007f",
-  "title": "What I run on my $10 USD OpenStick homelab",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.bosscher.ch/posts/openstick/",
-    "summary": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p> <p>Points: 173</p> <p># Comments: 41</p>",
-    "published": "Sat, 07 Nov 2026 18:12:12 +0000"
-   }
-  ]
- },
- {
-  "id": "1eeaf5457cb1a01a",
-  "title": "The end of Microsoft Research's AI Frontiers group",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://hunch.net/?p=13764006",
-    "summary": "<p><a href=\"https://archive.is/AaY5O\" rel=\"nofollow\">https://archive.is/AaY5O</a><p><a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\" rel=\"nofollow\">https://businessexaminer.ca/victoria-articles/item/microsoft...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406563\">https://news.ycombinator.com/item?id=50406563</a></p> <p>Points: 237</p> <p># Comments: 136</p>",
-    "published": "Sat, 07 Nov 2026 18:02:17 +0000"
-   }
-  ]
- },
- {
-  "id": "c38557adbea19537",
-  "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-    "summary": "<p>Article URL: <a href=\"https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor\">https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406502\">https://news.ycombinator.com/item?id=50406502</a></p> <p>Points: 22</p> <p># Comments: 3</p>",
-    "published": "Sat, 07 Nov 2026 17:54:56 +0000"
-   }
-  ]
- },
- {
-  "id": "e2ddf63848ab6457",
-  "title": "Five memorable books about programming (2008)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://prog21.dadgum.com/19.html",
-    "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406319\">https://news.ycombinator.com/item?id=50406319</a></p> <p>Points: 53</p> <p># Comments: 25</p>",
-    "published": "Sat, 07 Nov 2026 17:30:49 +0000"
-   }
-  ]
- },
- {
-  "id": "75033d6b18a04101",
-  "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "summary": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It\u2019s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.<p>Things tha",
-    "published": "Sat, 07 Nov 2026 17:27:30 +0000"
-   }
-  ]
- },
- {
-  "id": "152675bb701862f3",
-  "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "summary": "<p>Article URL: <a href=\"https://maxxbench.unlap.ai/research/why-maxxbench/\">https://maxxbench.unlap.ai/research/why-maxxbench/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406222\">https://news.ycombinator.com/item?id=50406222</a></p> <p>Points: 121</p> <p># Comments: 31</p>",
-    "published": "Sat, 07 Nov 2026 17:19:00 +0000"
-   }
-  ]
- },
- {
-  "id": "9c95d9f4cc46cae2",
-  "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you\">https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406111\">https://news.ycombinator.com/item?id=50406111</a></p> <p>Points: 220</p> <p># Comments: 139</p>",
-    "published": "Sat, 07 Nov 2026 17:06:36 +0000"
-   }
-  ]
- },
- {
-  "id": "a83c33866c41f13d",
-  "title": "How long can life wait?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-    "summary": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/how-long-can-life-wait\">https://mceglowski.substack.com/p/how-long-can-life-wait</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405789\">https://news.ycombinator.com/item?id=50405789</a></p> <p>Points: 96</p> <p># Comments: 53</p>",
-    "published": "Sat, 07 Nov 2026 16:22:59 +0000"
-   }
-  ]
- },
- {
-  "id": "d7778c9e4e9e6af1",
-  "title": "Every processor die anyone has photographed and given away",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://sheets.works/data-viz/cpu-dies",
-    "summary": "<p>Article URL: <a href=\"https://sheets.works/data-viz/cpu-dies\">https://sheets.works/data-viz/cpu-dies</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405782\">https://news.ycombinator.com/item?id=50405782</a></p> <p>Points: 52</p> <p># Comments: 12</p>",
-    "published": "Sat, 07 Nov 2026 16:21:36 +0000"
-   }
-  ]
- },
- {
-  "id": "205f4e514c1c3f88",
-  "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://kevinboone.me/tpwin.html",
-    "summary": "<p>Article URL: <a href=\"https://kevinboone.me/tpwin.html\">https://kevinboone.me/tpwin.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405678\">https://news.ycombinator.com/item?id=50405678</a></p> <p>Points: 162</p> <p># Comments: 90</p>",
-    "published": "Sat, 07 Nov 2026 16:06:27 +0000"
-   }
-  ]
- },
- {
   "id": "8c245c685254a75b",
   "title": "Terry Pratchett's Study",
   "topic": "both",
@@ -1357,13 +785,19 @@
   "id": "be05809028a6c43b",
   "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
   "topic": "bitcoin",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "coindesk",
     "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
     "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
     "published": "Mon, 09 Nov 2026 15:00:44 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg\" alt=\"North Korean hackers create memecoins to launder funds from Binance hack: Elliptic\" class=\"type:primaryImage\"></p><p>The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.</p>",
+    "published": "Mon, 09 Nov 2026 20:26:34 +0000"
    }
   ]
  },
@@ -2180,6 +1614,810 @@
     "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
     "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that\u2019s engaging and productive.",
     "published": "Sun, 08 Nov 2026 22:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9c331579e229757a",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "published": "Mon, 09 Nov 2026 19:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "f37b680abcf7adcb",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/control-room",
+    "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "published": "Mon, 09 Nov 2026 13:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "23b94c697622500f",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "932fe34bad728f30",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/kuken",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "a7e09581d02898c1",
+  "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+    "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+    "published": "Mon, 09 Nov 2026 22:56:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ea0e58439c3e9e50",
+  "title": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+    "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+    "published": "Mon, 09 Nov 2026 19:36:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5e3fe8fed6e54613",
+  "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "summary": "The AntPool block came within 984 transactions of Bitcoin\u2019s 2015 record, even as fees made up less than 0.1% of the miner\u2019s payout.",
+    "published": "Mon, 09 Nov 2026 16:19:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0f6c76881b18df5d",
+  "title": "Google\u2019s AI chip push adds more pressure on Nvidia",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+    "summary": "Google\u2019s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
+    "published": "Mon, 09 Nov 2026 15:20:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6297b739cbf539e7",
+  "title": "HIVE\u2019s Bitcoin output jumps 49%, but mining revenue still falls",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg\" alt=\"HIVE\u2019s Bitcoin output jumps 49%, but mining revenue still falls\" class=\"type:primaryImage\"></p><p>HIVE\u2019s mining revenue fell 7.4% despite higher production, while its AI hosting business grew 71%.</p>",
+    "published": "Tue, 10 Nov 2026 00:42:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5f7bac20c21ce3d4",
+  "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png\" alt=\"Should you leave Australia to avoid paying 47% tax on crypto gains?\" class=\"type:primaryImage\"></p><p>Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.</p>",
+    "published": "Mon, 09 Nov 2026 21:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "38f809ba5328e599",
+  "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png\" alt=\"Formation Securities plans Solana stock trading venue under SEC exemption\" class=\"type:primaryImage\"></p><p>The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.</p>",
+    "published": "Mon, 09 Nov 2026 19:52:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "97baf26109e8246e",
+  "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg\" alt=\"Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals\" class=\"type:primaryImage\"></p><p>Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.</p>",
+    "published": "Mon, 09 Nov 2026 18:25:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5ecb39e6948150e2",
+  "title": "PNC Bank tests turning USDC payments into dollar deposits",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png\" alt=\"PNC Bank tests turning USDC payments into dollar deposits\" class=\"type:primaryImage\"></p><p>The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.</p>",
+    "published": "Mon, 09 Nov 2026 17:48:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cd689cc9698df475",
+  "title": "Avalanche\u2019s AVAX leads crypto gains following NYSE tokenization deal",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png\" alt=\"Avalanche\u2019s AVAX leads crypto gains following NYSE tokenization deal\" class=\"type:primaryImage\"></p><p>Avalanche\u2019s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.</p>",
+    "published": "Mon, 09 Nov 2026 17:41:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8d4278d12f0db07e",
+  "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp\" alt=\"Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target\" class=\"type:primaryImage\"></p><p>Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.</p>",
+    "published": "Mon, 09 Nov 2026 17:13:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "115883e09f3b22e6",
+  "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+    "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
+    "published": "Mon, 09 Nov 2026 22:07:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0329f98a51cece4b",
+  "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+    "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
+    "published": "Mon, 09 Nov 2026 20:04:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a16f67ce30109fba",
+  "title": "Ethereum Foundation, Vitalik Buterin sued over firing after \u2018suicide pledge\u2019 dispute",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+    "summary": "Fulton\u2019s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
+    "published": "Mon, 09 Nov 2026 18:30:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fd85c67c0543f95c",
+  "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464",
+    "summary": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels.",
+    "published": "Mon, 09 Nov 2026 16:07:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "29506fe437a031f5",
+  "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+    "summary": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
+    "published": "Mon, 09 Nov 2026 16:01:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c606da2044e0c968",
+  "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+    "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
+    "published": "Mon, 09 Nov 2026 15:54:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "857915d5a19d6bc3",
+  "title": "Ethereum treasury Sharplink\u2019s Q3 net income hits $751 million on unrealized ether gains",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
+    "summary": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
+    "published": "Mon, 09 Nov 2026 15:40:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c5380c1fb93a1ce8",
+  "title": "Horible public key tricks",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://maurycyz.com/projects/badcert/",
+    "summary": "<p>Article URL: <a href=\"https://maurycyz.com/projects/badcert/\">https://maurycyz.com/projects/badcert/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434264\">https://news.ycombinator.com/item?id=50434264</a></p> <p>Points: 7</p> <p># Comments: 1</p>",
+    "published": "Tue, 10 Nov 2026 00:07:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ffa9f549808befb5",
+  "title": "Fable 5.2 one-shotted my nephew's dream game",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "summary": "<p>Article URL: <a href=\"https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game\">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433659\">https://news.ycombinator.com/item?id=50433659</a></p> <p>Points: 82</p> <p># Comments: 56</p>",
+    "published": "Mon, 09 Nov 2026 23:08:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3c40bebd52407729",
+  "title": "Exact \u2013 a new cross platform UI framework by the Expo team",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/expo/exact",
+    "summary": "<p>Article URL: <a href=\"https://github.com/expo/exact\">https://github.com/expo/exact</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433541\">https://news.ycombinator.com/item?id=50433541</a></p> <p>Points: 29</p> <p># Comments: 13</p>",
+    "published": "Mon, 09 Nov 2026 22:59:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b80b839128c1902e",
+  "title": "A year after the 100% AI mandate nobody understands our code",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "summary": "<p><a href=\"https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/\" rel=\"nofollow\">https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_...</a></p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433079\">https://news.ycombinator.com/item?id=50433079</a></p> <p>Points: 95</p> <p># Comments: 98</p>",
+    "published": "Mon, 09 Nov 2026 22:19:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d38ba6f8d5314abc",
+  "title": "TPU 8tx and TPU 8i Max",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50432831\">https://news.ycombinator.com/item?id=50432831</a></p> <p>Points: 188</p> <p># Comments: 39</p>",
+    "published": "Mon, 09 Nov 2026 21:56:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "255b56db4a4a44d0",
+  "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+  "topic": "both",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">https://artificialanalysis.ai/models/claude-fable-5-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431144\">https://news.ycombinator.com/item?id=50431144</a></p> <p>Points: 272</p> <p># Comments: 192</p>",
+    "published": "Mon, 09 Nov 2026 20:04:55 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429906\">https://news.ycombinator.com/item?id=50429906</a></p> <p>Points: 915</p> <p># Comments: 553</p>",
+    "published": "Mon, 09 Nov 2026 18:56:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1130d877dd4cae01",
+  "title": "USPS now offers official ZIP Code boundary polygons",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://postalpro.usps.com/zcb",
+    "summary": "<p>Article URL: <a href=\"https://postalpro.usps.com/zcb\">https://postalpro.usps.com/zcb</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431058\">https://news.ycombinator.com/item?id=50431058</a></p> <p>Points: 442</p> <p># Comments: 218</p>",
+    "published": "Mon, 09 Nov 2026 19:58:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dc00d8f8c3be0777",
+  "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://parkgraph.com/parking-app-fees",
+    "summary": "<p>Article URL: <a href=\"https://parkgraph.com/parking-app-fees\">https://parkgraph.com/parking-app-fees</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50430991\">https://news.ycombinator.com/item?id=50430991</a></p> <p>Points: 50</p> <p># Comments: 29</p>",
+    "published": "Mon, 09 Nov 2026 19:55:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0e1d88b03a66e0c7",
+  "title": "CUI \u2013 Native UI components for C",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://yappologistic.github.io/CUI/",
+    "summary": "<p>Article URL: <a href=\"https://yappologistic.github.io/CUI/\">https://yappologistic.github.io/CUI/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50430621\">https://news.ycombinator.com/item?id=50430621</a></p> <p>Points: 144</p> <p># Comments: 76</p>",
+    "published": "Mon, 09 Nov 2026 19:35:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8cf24e3bb1c9e7dc",
+  "title": "E-means: Outperforming k-means in one-tenth the epochs",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://e-means.github.io/",
+    "summary": "<p>Article URL: <a href=\"https://e-means.github.io/\">https://e-means.github.io/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429734\">https://news.ycombinator.com/item?id=50429734</a></p> <p>Points: 259</p> <p># Comments: 17</p>",
+    "published": "Mon, 09 Nov 2026 18:45:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f0a7364ef803e186",
+  "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://meowdisplay.app/",
+    "summary": "<p>Hey HN and Cats, thank you for checking this out!<p>Github: <a href=\"https://github.com/raiseCatError/meowdisplay\" rel=\"nofollow\">https://github.com/raiseCatError/meowdisplay</a><p>EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: <a href=\"https://github.com/peetzweg/opendisplay\" rel=\"nofollow\">https://github.com/peetzweg/opendisplay</a> which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credit",
+    "published": "Mon, 09 Nov 2026 18:39:22 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e18cab0e30e95e16",
+  "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "summary": "<p>Article URL: <a href=\"https://www.infineon.com/press-release/2026/infpr202611-028\">https://www.infineon.com/press-release/2026/infpr202611-028</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429430\">https://news.ycombinator.com/item?id=50429430</a></p> <p>Points: 95</p> <p># Comments: 60</p>",
+    "published": "Mon, 09 Nov 2026 18:25:01 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fea55cef604184d4",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "summary": "<p>Article URL: <a href=\"https://github.com/thisisme6598/gemini_files/\">https://github.com/thisisme6598/gemini_files/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429426\">https://news.ycombinator.com/item?id=50429426</a></p> <p>Points: 374</p> <p># Comments: 95</p>",
+    "published": "Mon, 09 Nov 2026 18:24:38 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a4e01cee6aaca4a9",
+  "title": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Dodaios/ste80-humanizer\">https://github.com/Dodaios/ste80-humanizer</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429144\">https://news.ycombinator.com/item?id=50429144</a></p> <p>Points: 52</p> <p># Comments: 13</p>",
+    "published": "Mon, 09 Nov 2026 18:05:44 +0000"
+   }
+  ]
+ },
+ {
+  "id": "feb2ba2115590aaf",
+  "title": "Our Smallest, Most Efficient Model: Muse Ember",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-ember\">https://research.meta.ai/blog/muse-ember</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429024\">https://news.ycombinator.com/item?id=50429024</a></p> <p>Points: 238</p> <p># Comments: 98</p>",
+    "published": "Mon, 09 Nov 2026 17:58:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "020c05e5c6f65ee4",
+  "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.watched.earth",
+    "summary": "<p>hey HN, i built this because i wanted to know what had actually photographed my street.<p>type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes.<p>some fun bits: - the pass search can't skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed - all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame - Sentinel-2 timestamps are often 5-10 mi",
+    "published": "Mon, 09 Nov 2026 17:51:31 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9af3433ae0a8bbf8",
+  "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer\">https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428266\">https://news.ycombinator.com/item?id=50428266</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
+    "published": "Mon, 09 Nov 2026 17:00:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3ef732dd0eb2ada6",
+  "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "summary": "<p>Article URL: <a href=\"https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy\">https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427362\">https://news.ycombinator.com/item?id=50427362</a></p> <p>Points: 453</p> <p># Comments: 256</p>",
+    "published": "Mon, 09 Nov 2026 16:00:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "13bdf291560a5d69",
+  "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "published": "Mon, 09 Nov 2026 23:28:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fffcae2ee0fe3118",
+  "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+    "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+    "published": "Mon, 09 Nov 2026 23:03:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f469998b0ebdf825",
+  "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "published": "Mon, 09 Nov 2026 22:46:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "05d31a5bc4a78da3",
+  "title": "The race is on to sue Nvidia",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+    "published": "Mon, 09 Nov 2026 22:23:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4f9c8174d84b7a75",
+  "title": "Fervo now has $12B in orders for its geothermal power tech",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+    "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+    "published": "Mon, 09 Nov 2026 20:55:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "39befa3379491d53",
+  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "published": "Mon, 09 Nov 2026 20:09:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9c760cbdfbd6ace7",
+  "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+    "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+    "published": "Mon, 09 Nov 2026 19:39:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2b128ff095485e1c",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "published": "Mon, 09 Nov 2026 19:24:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c237a70ffb269162",
+  "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+    "published": "Mon, 09 Nov 2026 19:21:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f31ca517d735187f",
+  "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+    "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+    "published": "Mon, 09 Nov 2026 19:19:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "20ff528b54959b19",
+  "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+    "published": "Mon, 09 Nov 2026 18:09:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fe9001b06ea620d4",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "published": "Mon, 09 Nov 2026 18:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8814f9d2297c7d77",
+  "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+    "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+    "published": "Mon, 09 Nov 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ea1cff75717bdba9",
+  "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "published": "Mon, 09 Nov 2026 16:56:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ad058ec7fa053fd0",
+  "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "Mon, 09 Nov 2026 16:12:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "071f696706a49202",
+  "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+    "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers \u2014 even if they use an adult birthday.",
+    "published": "Mon, 09 Nov 2026 15:32:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "651db95342bb4687",
+  "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+    "published": "Mon, 09 Nov 2026 15:24:59 +0000"
    }
   ]
  }

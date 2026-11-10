@@ -26028,5 +26028,305 @@
   "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
   "title": "Apps to distract you from the endless cycle of doomscrolling",
   "first_seen": "2026-11-09T15:14:32.277084+00:00"
+ },
+ "9c331579e229757a": {
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "first_seen": "2026-11-10T01:20:37.103079+00:00"
+ },
+ "f37b680abcf7adcb": {
+  "url": "https://openai.com/index/control-room",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "first_seen": "2026-11-10T01:20:37.103104+00:00"
+ },
+ "23b94c697622500f": {
+  "url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "first_seen": "2026-11-10T01:20:37.103109+00:00"
+ },
+ "932fe34bad728f30": {
+  "url": "https://openai.com/index/kuken",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "first_seen": "2026-11-10T01:20:37.103112+00:00"
+ },
+ "a7e09581d02898c1": {
+  "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+  "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+  "first_seen": "2026-11-10T01:20:37.796701+00:00"
+ },
+ "ea0e58439c3e9e50": {
+  "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+  "title": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
+  "first_seen": "2026-11-10T01:20:37.796794+00:00"
+ },
+ "5e3fe8fed6e54613": {
+  "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+  "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+  "first_seen": "2026-11-10T01:20:37.796803+00:00"
+ },
+ "0f6c76881b18df5d": {
+  "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+  "title": "Google\u2019s AI chip push adds more pressure on Nvidia",
+  "first_seen": "2026-11-10T01:20:37.796810+00:00"
+ },
+ "6297b739cbf539e7": {
+  "url": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "HIVE\u2019s Bitcoin output jumps 49%, but mining revenue still falls",
+  "first_seen": "2026-11-10T01:20:37.962954+00:00"
+ },
+ "5f7bac20c21ce3d4": {
+  "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+  "first_seen": "2026-11-10T01:20:37.962970+00:00"
+ },
+ "e6e64f08c4100e22": {
+  "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+  "first_seen": "2026-11-10T01:20:37.962975+00:00"
+ },
+ "38f809ba5328e599": {
+  "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+  "first_seen": "2026-11-10T01:20:37.962979+00:00"
+ },
+ "97baf26109e8246e": {
+  "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+  "first_seen": "2026-11-10T01:20:37.962983+00:00"
+ },
+ "5ecb39e6948150e2": {
+  "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "PNC Bank tests turning USDC payments into dollar deposits",
+  "first_seen": "2026-11-10T01:20:37.962986+00:00"
+ },
+ "cd689cc9698df475": {
+  "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Avalanche\u2019s AVAX leads crypto gains following NYSE tokenization deal",
+  "first_seen": "2026-11-10T01:20:37.962989+00:00"
+ },
+ "8d4278d12f0db07e": {
+  "url": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+  "first_seen": "2026-11-10T01:20:37.962993+00:00"
+ },
+ "115883e09f3b22e6": {
+  "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+  "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+  "first_seen": "2026-11-10T01:20:38.007101+00:00"
+ },
+ "0329f98a51cece4b": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+  "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+  "first_seen": "2026-11-10T01:20:38.007116+00:00"
+ },
+ "a16f67ce30109fba": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+  "title": "Ethereum Foundation, Vitalik Buterin sued over firing after \u2018suicide pledge\u2019 dispute",
+  "first_seen": "2026-11-10T01:20:38.007120+00:00"
+ },
+ "fd85c67c0543f95c": {
+  "url": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464",
+  "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+  "first_seen": "2026-11-10T01:20:38.007123+00:00"
+ },
+ "29506fe437a031f5": {
+  "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+  "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+  "first_seen": "2026-11-10T01:20:38.007127+00:00"
+ },
+ "c606da2044e0c968": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+  "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+  "first_seen": "2026-11-10T01:20:38.007130+00:00"
+ },
+ "857915d5a19d6bc3": {
+  "url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
+  "title": "Ethereum treasury Sharplink\u2019s Q3 net income hits $751 million on unrealized ether gains",
+  "first_seen": "2026-11-10T01:20:38.007133+00:00"
+ },
+ "c5380c1fb93a1ce8": {
+  "url": "https://maurycyz.com/projects/badcert/",
+  "title": "Horible public key tricks",
+  "first_seen": "2026-11-10T01:20:38.502890+00:00"
+ },
+ "ffa9f549808befb5": {
+  "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+  "title": "Fable 5.2 one-shotted my nephew's dream game",
+  "first_seen": "2026-11-10T01:20:38.502906+00:00"
+ },
+ "3c40bebd52407729": {
+  "url": "https://github.com/expo/exact",
+  "title": "Exact \u2013 a new cross platform UI framework by the Expo team",
+  "first_seen": "2026-11-10T01:20:38.502911+00:00"
+ },
+ "b80b839128c1902e": {
+  "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+  "title": "A year after the 100% AI mandate nobody understands our code",
+  "first_seen": "2026-11-10T01:20:38.502915+00:00"
+ },
+ "d38ba6f8d5314abc": {
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "title": "TPU 8tx and TPU 8i Max",
+  "first_seen": "2026-11-10T01:20:38.502919+00:00"
+ },
+ "255b56db4a4a44d0": {
+  "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+  "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+  "first_seen": "2026-11-10T01:20:38.502923+00:00"
+ },
+ "1130d877dd4cae01": {
+  "url": "https://postalpro.usps.com/zcb",
+  "title": "USPS now offers official ZIP Code boundary polygons",
+  "first_seen": "2026-11-10T01:20:38.502926+00:00"
+ },
+ "dc00d8f8c3be0777": {
+  "url": "https://parkgraph.com/parking-app-fees",
+  "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+  "first_seen": "2026-11-10T01:20:38.502929+00:00"
+ },
+ "0e1d88b03a66e0c7": {
+  "url": "https://yappologistic.github.io/CUI/",
+  "title": "CUI \u2013 Native UI components for C",
+  "first_seen": "2026-11-10T01:20:38.502934+00:00"
+ },
+ "796a7f7ee338b70f": {
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "first_seen": "2026-11-10T01:20:38.502937+00:00"
+ },
+ "3b1b162411870651": {
+  "url": "https://someonewashere.app/",
+  "title": "Show HN: Someone Was Here \u2013 Find out who used your Mac while you were away",
+  "first_seen": "2026-11-10T01:20:38.502941+00:00"
+ },
+ "8cf24e3bb1c9e7dc": {
+  "url": "https://e-means.github.io/",
+  "title": "E-means: Outperforming k-means in one-tenth the epochs",
+  "first_seen": "2026-11-10T01:20:38.502944+00:00"
+ },
+ "f0a7364ef803e186": {
+  "url": "https://meowdisplay.app/",
+  "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+  "first_seen": "2026-11-10T01:20:38.502947+00:00"
+ },
+ "e18cab0e30e95e16": {
+  "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+  "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+  "first_seen": "2026-11-10T01:20:38.502951+00:00"
+ },
+ "fea55cef604184d4": {
+  "url": "https://github.com/thisisme6598/gemini_files/",
+  "title": "Google Gemini routes personal Drive files and emails to human annotators",
+  "first_seen": "2026-11-10T01:20:38.502954+00:00"
+ },
+ "a4e01cee6aaca4a9": {
+  "url": "https://github.com/Dodaios/ste80-humanizer",
+  "title": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
+  "first_seen": "2026-11-10T01:20:38.502957+00:00"
+ },
+ "feb2ba2115590aaf": {
+  "url": "https://research.meta.ai/blog/muse-ember",
+  "title": "Our Smallest, Most Efficient Model: Muse Ember",
+  "first_seen": "2026-11-10T01:20:38.502961+00:00"
+ },
+ "020c05e5c6f65ee4": {
+  "url": "https://www.watched.earth",
+  "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+  "first_seen": "2026-11-10T01:20:38.502963+00:00"
+ },
+ "9af3433ae0a8bbf8": {
+  "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+  "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+  "first_seen": "2026-11-10T01:20:38.502967+00:00"
+ },
+ "3ef732dd0eb2ada6": {
+  "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+  "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+  "first_seen": "2026-11-10T01:20:38.502971+00:00"
+ },
+ "13bdf291560a5d69": {
+  "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+  "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+  "first_seen": "2026-11-10T01:20:38.573837+00:00"
+ },
+ "fffcae2ee0fe3118": {
+  "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+  "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+  "first_seen": "2026-11-10T01:20:38.573850+00:00"
+ },
+ "f469998b0ebdf825": {
+  "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+  "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+  "first_seen": "2026-11-10T01:20:38.573855+00:00"
+ },
+ "05d31a5bc4a78da3": {
+  "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+  "title": "The race is on to sue Nvidia",
+  "first_seen": "2026-11-10T01:20:38.573858+00:00"
+ },
+ "4f9c8174d84b7a75": {
+  "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+  "title": "Fervo now has $12B in orders for its geothermal power tech",
+  "first_seen": "2026-11-10T01:20:38.573862+00:00"
+ },
+ "39befa3379491d53": {
+  "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+  "first_seen": "2026-11-10T01:20:38.573865+00:00"
+ },
+ "9c760cbdfbd6ace7": {
+  "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+  "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+  "first_seen": "2026-11-10T01:20:38.573868+00:00"
+ },
+ "2b128ff095485e1c": {
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "first_seen": "2026-11-10T01:20:38.573872+00:00"
+ },
+ "c237a70ffb269162": {
+  "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+  "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+  "first_seen": "2026-11-10T01:20:38.573876+00:00"
+ },
+ "f31ca517d735187f": {
+  "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+  "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+  "first_seen": "2026-11-10T01:20:38.573879+00:00"
+ },
+ "20ff528b54959b19": {
+  "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+  "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+  "first_seen": "2026-11-10T01:20:38.573883+00:00"
+ },
+ "fe9001b06ea620d4": {
+  "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "first_seen": "2026-11-10T01:20:38.573887+00:00"
+ },
+ "8814f9d2297c7d77": {
+  "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+  "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+  "first_seen": "2026-11-10T01:20:38.573890+00:00"
+ },
+ "ea1cff75717bdba9": {
+  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+  "first_seen": "2026-11-10T01:20:38.573893+00:00"
+ },
+ "ad058ec7fa053fd0": {
+  "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+  "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+  "first_seen": "2026-11-10T01:20:38.573896+00:00"
+ },
+ "071f696706a49202": {
+  "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+  "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+  "first_seen": "2026-11-10T01:20:38.573899+00:00"
+ },
+ "651db95342bb4687": {
+  "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+  "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+  "first_seen": "2026-11-10T01:20:38.573902+00:00"
  }
 }
