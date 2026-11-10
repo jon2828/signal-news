@@ -1,37 +1,37 @@
 [
  {
-  "id": "314bd089789a0995",
-  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-  "topic": "ai",
-  "story": "openai-funding-round",
+  "id": "63cc698ae6e98bd8",
+  "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+  "topic": "bitcoin",
+  "story": "web3auth-hack",
   "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Major funding round for a frontier AI lab at a record valuation, indicating significant market shifts.",
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Major security breach involving $5.6M and named entities, high importance for security-conscious readers.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "published": "Fri, 06 Nov 2026 22:53:46 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+    "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+    "published": "Sun, 08 Nov 2026 18:32:11 +0000"
    }
   ]
  },
  {
-  "id": "2a70a9bf3c53b7cb",
-  "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-  "topic": "bitcoin",
-  "story": "binance-europe-exit",
+  "id": "a24fdfddefa6b5e4",
+  "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+  "topic": "both",
+  "story": "nvidia-board-investigation",
   "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Major exchange withdrawing from key European markets, impacting user access and regulatory landscape.",
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Major corporate governance crisis at the leading AI chipmaker, potentially market-moving.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-    "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-    "published": "Sat, 07 Nov 2026 19:13:16 +0000"
+    "source": "hn",
+    "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "summary": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416801\">https://news.ycombinator.com/item?id=50416801</a></p> <p>Points: 178</p> <p># Comments: 136</p>",
+    "published": "Sun, 08 Nov 2026 20:26:43 +0000"
    }
   ]
  }
