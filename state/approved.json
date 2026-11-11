@@ -1,37 +1,37 @@
 [
  {
-  "id": "f283b5855fcebf47",
-  "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-  "topic": "bitcoin",
-  "story": "coinbase-trust-charter",
-  "score": 8,
+  "id": "805dafe9e9847598",
+  "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
+  "topic": "ai",
+  "story": "binance-cfo-departure",
+  "score": 7,
   "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Major regulatory milestone for the largest US exchange, elevating status to full federal charter.",
+  "weight": 0.9,
+  "reason": "CFO exit at the largest crypto exchange days after a record $6.3B hack is clearly publishable and market-relevant, with a named executive and named outlet.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-    "summary": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
-    "published": "Mon, 09 Nov 2026 10:00:00 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+    "published": "Sat, 07 Nov 2026 17:24:07 +0000"
    }
   ]
  },
  {
-  "id": "5f65c5631083bb10",
-  "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+  "id": "e2a2deda24829975",
+  "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
   "topic": "bitcoin",
-  "story": "zcash-block-time",
+  "story": "binance-cfo-departure",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Significant protocol change proposal for a major PoW coin, backed by early performance data.",
+  "reason": "Third outlet on the same CFO exit; the co-CEO's 'planned six months ago' claim is a useful detail but not enough to lift it above the original.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-    "summary": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
-    "published": "Mon, 09 Nov 2026 10:52:49 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+    "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+    "published": "Sat, 07 Nov 2026 21:57:58 +0000"
    }
   ]
  }
