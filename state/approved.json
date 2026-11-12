@@ -1,37 +1,49 @@
 [
  {
-  "id": "805dafe9e9847598",
-  "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
-  "topic": "ai",
-  "story": "binance-cfo-departure",
-  "score": 7,
-  "raw_score": 8,
+  "id": "255b56db4a4a44d0",
+  "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+  "topic": "both",
+  "story": "claude-fable-5-2",
+  "score": 8,
+  "raw_score": 9,
   "weight": 0.9,
-  "reason": "CFO exit at the largest crypto exchange days after a record $6.3B hack is clearly publishable and market-relevant, with a named executive and named outlet.",
+  "reason": "Frontier lab model release with a top benchmark score, sourced to Anthropic and corroborated by multiple HN threads.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-    "published": "Sat, 07 Nov 2026 17:24:07 +0000"
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">https://artificialanalysis.ai/models/claude-fable-5-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431144\">https://news.ycombinator.com/item?id=50431144</a></p> <p>Points: 272</p> <p># Comments: 192</p>",
+    "published": "Mon, 09 Nov 2026 20:04:55 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429906\">https://news.ycombinator.com/item?id=50429906</a></p> <p>Points: 915</p> <p># Comments: 553</p>",
+    "published": "Mon, 09 Nov 2026 18:56:29 +0000"
    }
   ]
  },
  {
-  "id": "e2a2deda24829975",
-  "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-  "topic": "bitcoin",
-  "story": "binance-cfo-departure",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Third outlet on the same CFO exit; the co-CEO's 'planned six months ago' claim is a useful detail but not enough to lift it above the original.",
+  "id": "39befa3379491d53",
+  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+  "topic": "ai",
+  "story": "huang-spy-scandal",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Escalation to reported board preparations to oust the Nvidia CEO is frontier-shifting for the AI industry, with multiple sources.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-    "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
-    "published": "Sat, 07 Nov 2026 21:57:58 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "published": "Mon, 09 Nov 2026 20:09:06 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459703\">https://news.ycombinator.com/item?id=50459703</a></p> <p>Points: 329</p> <p># Comments: 307</p>",
+    "published": "Wed, 11 Nov 2026 22:31:06 +0000"
    }
   ]
  }
