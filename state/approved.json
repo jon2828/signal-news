@@ -1,49 +1,43 @@
 [
  {
-  "id": "255b56db4a4a44d0",
-  "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-  "topic": "both",
-  "story": "claude-fable-5-2",
+  "id": "20ff528b54959b19",
+  "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+  "topic": "ai",
+  "story": "nvidia-china-spy-scrutiny",
   "score": 8,
   "raw_score": 9,
   "weight": 0.9,
-  "reason": "Frontier lab model release with a top benchmark score, sourced to Anthropic and corroborated by multiple HN threads.",
+  "reason": "Major regulatory and geopolitical risk to a key AI infrastructure company with direct impact on chip export policy.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">https://artificialanalysis.ai/models/claude-fable-5-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431144\">https://news.ycombinator.com/item?id=50431144</a></p> <p>Points: 272</p> <p># Comments: 192</p>",
-    "published": "Mon, 09 Nov 2026 20:04:55 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+    "published": "Mon, 09 Nov 2026 18:09:52 +0000"
    },
    {
-    "source": "hn",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429906\">https://news.ycombinator.com/item?id=50429906</a></p> <p>Points: 915</p> <p># Comments: 553</p>",
-    "published": "Mon, 09 Nov 2026 18:56:29 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "published": "Wed, 11 Nov 2026 19:22:22 +0000"
    }
   ]
  },
  {
-  "id": "39befa3379491d53",
-  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-  "topic": "ai",
-  "story": "huang-spy-scandal",
+  "id": "28b20b9d472ca6e0",
+  "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+  "topic": "bitcoin",
+  "story": "us-cpi-inflation-data",
   "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Escalation to reported board preparations to oust the Nvidia CEO is frontier-shifting for the AI industry, with multiple sources.",
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Macro economic data directly influencing Fed policy and risk assets like Bitcoin and AI stocks.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "published": "Mon, 09 Nov 2026 20:09:06 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459703\">https://news.ycombinator.com/item?id=50459703</a></p> <p>Points: 329</p> <p># Comments: 307</p>",
-    "published": "Wed, 11 Nov 2026 22:31:06 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+    "summary": "A December rate hike appears completely assured, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
+    "published": "Tue, 10 Nov 2026 13:32:09 +0000"
    }
   ]
  }

@@ -27588,5 +27588,315 @@
   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
   "first_seen": "2026-11-12T00:18:01.893675+00:00"
+ },
+ "0990939c7d6ea9f7": {
+  "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "title": "Holiday Extras is rethinking what it can build with Codex",
+  "first_seen": "2026-11-12T14:39:24.056113+00:00"
+ },
+ "b06379671ede1f62": {
+  "url": "https://openai.com/index/children-first-declaration",
+  "title": "Supporting research on AI and children\u2019s safety",
+  "first_seen": "2026-11-12T14:39:24.056133+00:00"
+ },
+ "7b7d1f77c266f6e2": {
+  "url": "https://tldr.tech/ai/2026-11-12",
+  "title": "Grok Bot 1.0 \ud83e\udd16, AlphaGenome 2 \ud83e\uddec, Gemini Decisions \ud83e\udde0",
+  "first_seen": "2026-11-12T14:39:24.203981+00:00"
+ },
+ "476a83b590c026bd": {
+  "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+  "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+  "first_seen": "2026-11-12T14:39:24.963115+00:00"
+ },
+ "ed809052da33e860": {
+  "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+  "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
+  "first_seen": "2026-11-12T14:39:24.963131+00:00"
+ },
+ "2e1450b943cd64b5": {
+  "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+  "title": "Bitcoin weakness erases September's bullish signal",
+  "first_seen": "2026-11-12T14:39:24.963135+00:00"
+ },
+ "1b9400f198191e6b": {
+  "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+  "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+  "first_seen": "2026-11-12T14:39:24.963138+00:00"
+ },
+ "47a5666574edc89e": {
+  "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+  "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+  "first_seen": "2026-11-12T14:39:24.963141+00:00"
+ },
+ "80c1b15e41c398a6": {
+  "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+  "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+  "first_seen": "2026-11-12T14:39:24.963143+00:00"
+ },
+ "e60ef7368d1484bc": {
+  "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+  "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+  "first_seen": "2026-11-12T14:39:24.963146+00:00"
+ },
+ "eef4c7c19933c66e": {
+  "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+  "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+  "first_seen": "2026-11-12T14:39:24.963148+00:00"
+ },
+ "68375809e506095a": {
+  "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+  "title": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+  "first_seen": "2026-11-12T14:39:24.963150+00:00"
+ },
+ "3762232b967cc654": {
+  "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+  "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+  "first_seen": "2026-11-12T14:39:24.963152+00:00"
+ },
+ "de521e29622075ed": {
+  "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+  "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+  "first_seen": "2026-11-12T14:39:24.963155+00:00"
+ },
+ "eb627795b81843ba": {
+  "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+  "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+  "first_seen": "2026-11-12T14:39:24.963157+00:00"
+ },
+ "1d8fb9322b497adf": {
+  "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+  "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+  "first_seen": "2026-11-12T14:39:24.963160+00:00"
+ },
+ "34dba119c82b79bf": {
+  "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+  "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+  "first_seen": "2026-11-12T14:39:24.963162+00:00"
+ },
+ "25eb087409675081": {
+  "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+  "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+  "first_seen": "2026-11-12T14:39:24.963165+00:00"
+ },
+ "8402cf57f05f4ce2": {
+  "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+  "title": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
+  "first_seen": "2026-11-12T14:39:24.963168+00:00"
+ },
+ "8eeefc2de83d3754": {
+  "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+  "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+  "first_seen": "2026-11-12T14:39:24.963170+00:00"
+ },
+ "a6867ca27dbcb40c": {
+  "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge 13%",
+  "first_seen": "2026-11-12T14:39:25.024568+00:00"
+ },
+ "440c4b41643a9551": {
+  "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+  "first_seen": "2026-11-12T14:39:25.024582+00:00"
+ },
+ "f34e57c4ff223913": {
+  "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+  "first_seen": "2026-11-12T14:39:25.024585+00:00"
+ },
+ "a04a390289a9a6ec": {
+  "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente",
+  "first_seen": "2026-11-12T14:39:25.024588+00:00"
+ },
+ "98234771331b87d4": {
+  "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+  "first_seen": "2026-11-12T14:39:25.024591+00:00"
+ },
+ "9c6877c95fa434e5": {
+  "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Uber\u2019s UK banking partner Griffin raises $20M for stablecoin services",
+  "first_seen": "2026-11-12T14:39:25.024594+00:00"
+ },
+ "2be1aee3bf9c949a": {
+  "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+  "first_seen": "2026-11-12T14:39:25.024597+00:00"
+ },
+ "29e735dfd64088af": {
+  "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+  "first_seen": "2026-11-12T14:39:25.024599+00:00"
+ },
+ "ee01cef085b0f0a2": {
+  "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+  "first_seen": "2026-11-12T14:39:25.024601+00:00"
+ },
+ "44befa2f5312e155": {
+  "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Ethlabs drops Hegot\u00e1 slot proposal in push for 2027 quantum readiness",
+  "first_seen": "2026-11-12T14:39:25.024604+00:00"
+ },
+ "62e3c1850d3584b7": {
+  "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+  "first_seen": "2026-11-12T14:39:25.024606+00:00"
+ },
+ "3ceb4e3cebef5355": {
+  "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+  "first_seen": "2026-11-12T14:39:25.024610+00:00"
+ },
+ "6f57150166baa51a": {
+  "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+  "first_seen": "2026-11-12T14:39:25.024612+00:00"
+ },
+ "34a52f39c4727cab": {
+  "url": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
+  "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
+  "first_seen": "2026-11-12T14:39:25.062106+00:00"
+ },
+ "a96fab22fb5b7569": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+  "title": "Securitize and Ethena\u2019s $100 million BlackRock BUIDL liquidity facility goes live",
+  "first_seen": "2026-11-12T14:39:25.062117+00:00"
+ },
+ "007ab92c39ec8c5c": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
+  "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
+  "first_seen": "2026-11-12T14:39:25.062120+00:00"
+ },
+ "2d11fd78fd1ccc1b": {
+  "url": "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538",
+  "title": "BNY taps Figment to support staking on its digital asset custody platform",
+  "first_seen": "2026-11-12T14:39:25.062123+00:00"
+ },
+ "3bf0f3aa3c0f9e16": {
+  "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+  "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
+  "first_seen": "2026-11-12T14:39:25.062126+00:00"
+ },
+ "04718123cc4c5f41": {
+  "url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
+  "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
+  "first_seen": "2026-11-12T14:39:25.062128+00:00"
+ },
+ "af4338fa0d2ec396": {
+  "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
+  "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
+  "first_seen": "2026-11-12T14:39:25.062131+00:00"
+ },
+ "58ed13bbb65784de": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
+  "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
+  "first_seen": "2026-11-12T14:39:25.062133+00:00"
+ },
+ "b8bb9cc968799f4e": {
+  "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+  "title": "Ethlabs proposes advancing Ethereum\u2019s post-quantum to 2027, citing AI acceleration",
+  "first_seen": "2026-11-12T14:39:25.062135+00:00"
+ },
+ "49fa9a930b853f91": {
+  "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+  "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+  "first_seen": "2026-11-12T14:39:25.062138+00:00"
+ },
+ "67a9a10dcab241e8": {
+  "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+  "title": "\u2018Milestone quarter\u2019: Solana Company reports Q3 revenue growth driven by staking rewards",
+  "first_seen": "2026-11-12T14:39:25.062140+00:00"
+ },
+ "b8945a9388378cca": {
+  "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+  "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+  "first_seen": "2026-11-12T14:39:25.062142+00:00"
+ },
+ "0ecc21d01c244243": {
+  "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+  "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+  "first_seen": "2026-11-12T14:39:27.280623+00:00"
+ },
+ "19edf142065b40b1": {
+  "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+  "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+  "first_seen": "2026-11-12T14:39:27.280639+00:00"
+ },
+ "53d6f0630c021d09": {
+  "url": "https://spectrum.ieee.org/electric-ship-batteries",
+  "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+  "first_seen": "2026-11-12T14:39:27.280642+00:00"
+ },
+ "ccd5118fa6f503c6": {
+  "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+  "title": "Jane Street \u2013 Our software engineering interviews are changing (a little)",
+  "first_seen": "2026-11-12T14:39:27.280645+00:00"
+ },
+ "73437c2bc5fb7fec": {
+  "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+  "title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+  "first_seen": "2026-11-12T14:39:27.280648+00:00"
+ },
+ "60e059808c60bcae": {
+  "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+  "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+  "first_seen": "2026-11-12T14:39:27.280651+00:00"
+ },
+ "5ead419930583acc": {
+  "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+  "title": "Jensen Huang resigns as Nvidia CEO immediately",
+  "first_seen": "2026-11-12T14:39:27.280653+00:00"
+ },
+ "b8785a000ca8f940": {
+  "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+  "title": "NVIDIA Announces CEO Transition",
+  "first_seen": "2026-11-12T14:39:27.280656+00:00"
+ },
+ "56c83c766ce13439": {
+  "url": "https://ipo.anthropic.com/us/",
+  "title": "Anthropic IPO",
+  "first_seen": "2026-11-12T14:39:27.280659+00:00"
+ },
+ "64089dbff01cf533": {
+  "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+  "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+  "first_seen": "2026-11-12T14:39:27.280662+00:00"
+ },
+ "cbc9a645a65eb9f9": {
+  "url": "https://pron.github.io/posts/correctness-and-complexity",
+  "title": "Why Writing Correct Software Is Hard",
+  "first_seen": "2026-11-12T14:39:27.280664+00:00"
+ },
+ "3d807e9b88a9e3fe": {
+  "url": "https://www.getlazarus.org/forums/topic/17/",
+  "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+  "first_seen": "2026-11-12T14:39:27.280667+00:00"
+ },
+ "5b070766ec4dadda": {
+  "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+  "title": "Critical RCE Vulnerability in Apache HTTP Server",
+  "first_seen": "2026-11-12T14:39:27.280669+00:00"
+ },
+ "5e5f306d785f1157": {
+  "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "first_seen": "2026-11-12T14:39:27.314138+00:00"
+ },
+ "84726a0527db89d8": {
+  "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+  "title": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+  "first_seen": "2026-11-12T14:39:27.314149+00:00"
+ },
+ "7ed9c1c82c2d456e": {
+  "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+  "title": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
+  "first_seen": "2026-11-12T14:39:27.314152+00:00"
+ },
+ "48e6c41241423249": {
+  "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+  "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+  "first_seen": "2026-11-12T14:39:27.314155+00:00"
  }
 }
