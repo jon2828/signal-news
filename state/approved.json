@@ -1,43 +1,37 @@
 [
  {
-  "id": "20ff528b54959b19",
-  "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
-  "topic": "ai",
-  "story": "nvidia-china-spy-scrutiny",
+  "id": "428ac4b42c0b5f39",
+  "title": "AlphaProof Code",
+  "topic": "both",
+  "story": "alphaproof-code",
   "score": 8,
   "raw_score": 9,
   "weight": 0.9,
-  "reason": "Major regulatory and geopolitical risk to a key AI infrastructure company with direct impact on chip export policy.",
+  "reason": "New release from a frontier lab (DeepMind) via its official blog, squarely in frontier-shifting territory.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
-    "published": "Mon, 09 Nov 2026 18:09:52 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-    "published": "Wed, 11 Nov 2026 19:22:22 +0000"
+    "source": "hn",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/introducing-alphaproof-code/\">https://deepmind.google/blog/introducing-alphaproof-code/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439193\">https://news.ycombinator.com/item?id=50439193</a></p> <p>Points: 198</p> <p># Comments: 82</p>",
+    "published": "Tue, 10 Nov 2026 12:11:12 +0000"
    }
   ]
  },
  {
-  "id": "28b20b9d472ca6e0",
-  "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+  "id": "02a5a337a29924d8",
+  "title": "Moody\u2019s and Chainlink test cross-chain credit ratings distribution",
   "topic": "bitcoin",
-  "story": "us-cpi-inflation-data",
-  "score": 8,
-  "raw_score": 8,
+  "story": "moodys-chainlink-ccip",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Macro economic data directly influencing Fed policy and risk assets like Bitcoin and AI stocks.",
+  "reason": "Named major ratings agency piloting onchain credit data distribution is a notable TradFi-crypto infrastructure milestone, though single-source testnet only.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
-    "summary": "A December rate hike appears completely assured, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
-    "published": "Tue, 10 Nov 2026 13:32:09 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+    "summary": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
+    "published": "Tue, 10 Nov 2026 15:49:59 +0000"
    }
   ]
  }
