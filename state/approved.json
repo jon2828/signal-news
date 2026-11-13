@@ -1,37 +1,19 @@
 [
  {
-  "id": "5fc865e5da2f1280",
-  "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+  "id": "b5859cdd2ddb87ff",
+  "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
   "topic": "bitcoin",
-  "story": "project-faro-stablecoin",
+  "story": "bitcoin-core-vulnerabilities",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Goldman Sachs and Citi committing $270 million to a stablecoin venture is a significant institutional adoption milestone with named sources.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-    "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
-    "published": "Tue, 10 Nov 2026 17:32:22 +0000"
-   }
-  ]
- },
- {
-  "id": "12cb370d3a742a83",
-  "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
-  "topic": "bitcoin",
-  "story": "alta-series-a",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "A $47.5 million Series A for an institutional blockchain is a significant funding round with named details.",
+  "reason": "Disclosure of patched Bitcoin Core flaws including a high-severity mining bug is important protocol security news that Bitcoin-focused readers need to know.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
-    "summary": "Alta\u2019s blockchain will combine privacy and compliance controls for banks and other financial firms.",
-    "published": "Tue, 10 Nov 2026 16:19:16 +0000"
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+    "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
+    "published": "Wed, 11 Nov 2026 12:50:08 +0000"
    }
   ]
  }

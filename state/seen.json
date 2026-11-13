@@ -28458,5 +28458,255 @@
   "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
   "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
   "first_seen": "2026-11-13T13:57:25.843263+00:00"
+ },
+ "5bf4951adbe9698d": {
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "title": "Introducing ChatGPT Wallet",
+  "first_seen": "2026-11-13T23:24:20.455959+00:00"
+ },
+ "a49fd02deff54818": {
+  "url": "https://tldr.tech/ai/2026-11-13",
+  "title": "Gemini 4 Hydrogen \ud83d\ude80, self-hosted Claude agents \ud83d\udd12, Replit agent commerce \ud83d\uded2",
+  "first_seen": "2026-11-13T23:24:20.615767+00:00"
+ },
+ "ddd1fcb7aab1aad4": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+  "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+  "first_seen": "2026-11-13T23:24:21.124730+00:00"
+ },
+ "7200d5a7c56159c5": {
+  "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+  "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+  "first_seen": "2026-11-13T23:24:21.124748+00:00"
+ },
+ "82b739f24b42db14": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+  "title": "Bitcoin heads for sixth weekly loss as Anthropic\u2019s blockbuster IPO looms",
+  "first_seen": "2026-11-13T23:24:21.124752+00:00"
+ },
+ "01752792d9dd6cb0": {
+  "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+  "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+  "first_seen": "2026-11-13T23:24:21.124756+00:00"
+ },
+ "2feca863a4629bb4": {
+  "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+  "first_seen": "2026-11-13T23:24:21.170910+00:00"
+ },
+ "24677f3980d19d3f": {
+  "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+  "first_seen": "2026-11-13T23:24:21.170925+00:00"
+ },
+ "5be016a1fd4568d8": {
+  "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+  "first_seen": "2026-11-13T23:24:21.170930+00:00"
+ },
+ "2c6ba7b64f98c739": {
+  "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+  "first_seen": "2026-11-13T23:24:21.170934+00:00"
+ },
+ "e3383764d742c56b": {
+  "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+  "first_seen": "2026-11-13T23:24:21.170937+00:00"
+ },
+ "81df1470fd5675d5": {
+  "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+  "first_seen": "2026-11-13T23:24:21.170941+00:00"
+ },
+ "48b6c4753927676c": {
+  "url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+  "title": "Meta tests prediction market app using \u2018cred\u2019 points instead of cash: WSJ",
+  "first_seen": "2026-11-13T23:24:21.220616+00:00"
+ },
+ "2c65aa31fc671f9e": {
+  "url": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
+  "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+  "first_seen": "2026-11-13T23:24:21.220632+00:00"
+ },
+ "c4d45f4975d9c700": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+  "title": "House Oversight Chair calls for possible ban on government officials\u2019 prediction market bets over insider trading concerns",
+  "first_seen": "2026-11-13T23:24:21.220637+00:00"
+ },
+ "6b4b33a6c4de2d05": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
+  "title": "CFTC\u2019s Selig accuses states of trying to \u2018lock up\u2019 prediction market founders",
+  "first_seen": "2026-11-13T23:24:21.220641+00:00"
+ },
+ "cd2933904b2e1f1b": {
+  "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+  "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+  "first_seen": "2026-11-13T23:24:21.220644+00:00"
+ },
+ "bd1f26a6dccd57bf": {
+  "url": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
+  "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
+  "first_seen": "2026-11-13T23:24:21.220647+00:00"
+ },
+ "125a0c24f13907cb": {
+  "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+  "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+  "first_seen": "2026-11-13T23:24:21.220651+00:00"
+ },
+ "8d92d1f3d7af1f1d": {
+  "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+  "title": "Ethereum and Layer 1s Explained",
+  "first_seen": "2026-11-13T23:24:21.220654+00:00"
+ },
+ "d25e210f3f7b1fa6": {
+  "url": "https://www.joshka.net/cell-borders/",
+  "title": "Terminal borders that don't cost a cell",
+  "first_seen": "2026-11-13T23:24:22.654612+00:00"
+ },
+ "21ab7432dba474e0": {
+  "url": "https://claude.com/resources/articles/claude-meetings",
+  "title": "Claude Meetings",
+  "first_seen": "2026-11-13T23:24:22.654628+00:00"
+ },
+ "d8179c5b0e6054eb": {
+  "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+  "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+  "first_seen": "2026-11-13T23:24:22.654632+00:00"
+ },
+ "117b7aeaaeee9acb": {
+  "url": "https://orcasairband.com/",
+  "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+  "first_seen": "2026-11-13T23:24:22.654635+00:00"
+ },
+ "729635c933e3da18": {
+  "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+  "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+  "first_seen": "2026-11-13T23:24:22.654639+00:00"
+ },
+ "a99b67c91f9fefc7": {
+  "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+  "title": "All US airports are currently ground stopped",
+  "first_seen": "2026-11-13T23:24:22.654643+00:00"
+ },
+ "6c01cbd04af3a909": {
+  "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+  "title": "FAA Issues National Ground Stop",
+  "first_seen": "2026-11-13T23:24:22.654647+00:00"
+ },
+ "d11365f0dd8c900d": {
+  "url": "https://atg.science/careers",
+  "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+  "first_seen": "2026-11-13T23:24:22.654650+00:00"
+ },
+ "326c642066101046": {
+  "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+  "title": "Big tech is here to let us down",
+  "first_seen": "2026-11-13T23:24:22.654653+00:00"
+ },
+ "504572814b78bd29": {
+  "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+  "title": "Live-migration support in FreeBSD and bhyve coming",
+  "first_seen": "2026-11-13T23:24:22.654656+00:00"
+ },
+ "f0632826eee2438b": {
+  "url": "https://www.slopmanifesto.com/",
+  "title": "No AI Slop: A Manifesto",
+  "first_seen": "2026-11-13T23:24:22.654659+00:00"
+ },
+ "b99b3bf0ad66bc14": {
+  "url": "https://www.nature.com/articles/d41586-026-03638-3",
+  "title": "Found: A protein that drives ageing without unleashing inflammation",
+  "first_seen": "2026-11-13T23:24:22.654663+00:00"
+ },
+ "18188c8ad3a84a54": {
+  "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+  "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+  "first_seen": "2026-11-13T23:24:22.654666+00:00"
+ },
+ "9ce677af608292ed": {
+  "url": "https://open.m-vave.com/fm1-workbench",
+  "title": "FM-1 Workbench",
+  "first_seen": "2026-11-13T23:24:22.654669+00:00"
+ },
+ "406adb72e8949f5d": {
+  "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+  "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+  "first_seen": "2026-11-13T23:24:22.654672+00:00"
+ },
+ "853e3d7c54536274": {
+  "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+  "title": "Models can now transmit viruses in weight-space",
+  "first_seen": "2026-11-13T23:24:22.654676+00:00"
+ },
+ "f63d448960e496f1": {
+  "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+  "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+  "first_seen": "2026-11-13T23:24:22.654679+00:00"
+ },
+ "604d9eeaf0f49cbe": {
+  "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+  "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+  "first_seen": "2026-11-13T23:24:22.654682+00:00"
+ },
+ "3d3e0a33fa9ece80": {
+  "url": "https://isometricsf.com/",
+  "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+  "first_seen": "2026-11-13T23:24:22.654684+00:00"
+ },
+ "ea0776201252f8c6": {
+  "url": "https://haddyalchaer.com/jepa",
+  "title": "After 600 experiments, here's what I discovered about JEPA world models",
+  "first_seen": "2026-11-13T23:24:22.654687+00:00"
+ },
+ "57ae9f9b1f7656d9": {
+  "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+  "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
+  "first_seen": "2026-11-13T23:24:22.681852+00:00"
+ },
+ "ec577d4c46a6d8ce": {
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+  "first_seen": "2026-11-13T23:24:22.681866+00:00"
+ },
+ "0c34c8f3387b63b7": {
+  "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+  "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+  "first_seen": "2026-11-13T23:24:22.681871+00:00"
+ },
+ "c407c87afb3e1969": {
+  "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+  "title": "This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",
+  "first_seen": "2026-11-13T23:24:22.681874+00:00"
+ },
+ "645e798427f902eb": {
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "first_seen": "2026-11-13T23:24:22.681877+00:00"
+ },
+ "3dc626ea28ff3a7d": {
+  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
+  "first_seen": "2026-11-13T23:24:22.681881+00:00"
+ },
+ "c231d25e54b9ad3f": {
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+  "first_seen": "2026-11-13T23:24:22.681884+00:00"
+ },
+ "59c58e3f39cc6e58": {
+  "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "first_seen": "2026-11-13T23:24:22.681886+00:00"
+ },
+ "a351355edf69d9b0": {
+  "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+  "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
+  "first_seen": "2026-11-13T23:24:22.681889+00:00"
+ },
+ "744da6a2871c93b3": {
+  "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+  "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+  "first_seen": "2026-11-13T23:24:22.681892+00:00"
  }
 }
