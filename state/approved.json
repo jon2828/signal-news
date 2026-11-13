@@ -1,37 +1,37 @@
 [
  {
-  "id": "428ac4b42c0b5f39",
-  "title": "AlphaProof Code",
-  "topic": "both",
-  "story": "alphaproof-code",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "New release from a frontier lab (DeepMind) via its official blog, squarely in frontier-shifting territory.",
+  "id": "5fc865e5da2f1280",
+  "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+  "topic": "bitcoin",
+  "story": "project-faro-stablecoin",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Goldman Sachs and Citi committing $270 million to a stablecoin venture is a significant institutional adoption milestone with named sources.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/introducing-alphaproof-code/\">https://deepmind.google/blog/introducing-alphaproof-code/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50439193\">https://news.ycombinator.com/item?id=50439193</a></p> <p>Points: 198</p> <p># Comments: 82</p>",
-    "published": "Tue, 10 Nov 2026 12:11:12 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
+    "published": "Tue, 10 Nov 2026 17:32:22 +0000"
    }
   ]
  },
  {
-  "id": "02a5a337a29924d8",
-  "title": "Moody\u2019s and Chainlink test cross-chain credit ratings distribution",
+  "id": "12cb370d3a742a83",
+  "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
   "topic": "bitcoin",
-  "story": "moodys-chainlink-ccip",
+  "story": "alta-series-a",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Named major ratings agency piloting onchain credit data distribution is a notable TradFi-crypto infrastructure milestone, though single-source testnet only.",
+  "reason": "A $47.5 million Series A for an institutional blockchain is a significant funding round with named details.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
-    "summary": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
-    "published": "Tue, 10 Nov 2026 15:49:59 +0000"
+    "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+    "summary": "Alta\u2019s blockchain will combine privacy and compliance controls for banks and other financial firms.",
+    "published": "Tue, 10 Nov 2026 16:19:16 +0000"
    }
   ]
  }

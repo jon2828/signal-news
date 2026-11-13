@@ -28223,5 +28223,240 @@
   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
   "first_seen": "2026-11-12T23:22:12.587470+00:00"
+ },
+ "5b0f73df89a6e310": {
+  "url": "https://openai.com/business/customer-stories/amplitude",
+  "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+  "first_seen": "2026-11-13T13:57:24.269334+00:00"
+ },
+ "dd2c1d5bae533e87": {
+  "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+  "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+  "first_seen": "2026-11-13T13:57:25.196410+00:00"
+ },
+ "4b6d18197b0a430d": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+  "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+  "first_seen": "2026-11-13T13:57:25.196423+00:00"
+ },
+ "cf6de2d2e1e7e53a": {
+  "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+  "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+  "first_seen": "2026-11-13T13:57:25.196428+00:00"
+ },
+ "f60812551964f551": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+  "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+  "first_seen": "2026-11-13T13:57:25.196431+00:00"
+ },
+ "2f34e556993a55e7": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+  "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+  "first_seen": "2026-11-13T13:57:25.196434+00:00"
+ },
+ "5b07f09552a06732": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+  "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+  "first_seen": "2026-11-13T13:57:25.196438+00:00"
+ },
+ "e0384f5c33c1ef33": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+  "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+  "first_seen": "2026-11-13T13:57:25.196441+00:00"
+ },
+ "aecaef79d2788762": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+  "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+  "first_seen": "2026-11-13T13:57:25.196444+00:00"
+ },
+ "cdb792b7afbaa02a": {
+  "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
+  "first_seen": "2026-11-13T13:57:25.299399+00:00"
+ },
+ "58fbf2699cdc8d3d": {
+  "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+  "first_seen": "2026-11-13T13:57:25.299408+00:00"
+ },
+ "eefd7ef66239eb4a": {
+  "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+  "first_seen": "2026-11-13T13:57:25.299412+00:00"
+ },
+ "be0d89cbb43d678e": {
+  "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+  "first_seen": "2026-11-13T13:57:25.299416+00:00"
+ },
+ "7d505f6d35335064": {
+  "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+  "first_seen": "2026-11-13T13:57:25.299419+00:00"
+ },
+ "7461920ce5687aea": {
+  "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+  "first_seen": "2026-11-13T13:57:25.299422+00:00"
+ },
+ "87946a0780749093": {
+  "url": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+  "first_seen": "2026-11-13T13:57:25.299425+00:00"
+ },
+ "97685abc701325cb": {
+  "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+  "first_seen": "2026-11-13T13:57:25.299427+00:00"
+ },
+ "d096f509d40204c9": {
+  "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+  "first_seen": "2026-11-13T13:57:25.299432+00:00"
+ },
+ "258338f17d240e83": {
+  "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+  "first_seen": "2026-11-13T13:57:25.299435+00:00"
+ },
+ "5bdda674a58b5fe6": {
+  "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+  "first_seen": "2026-11-13T13:57:25.299438+00:00"
+ },
+ "882455621ec1909f": {
+  "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Gemini\u2019s quarterly retail trading volume sinks to 3-year low",
+  "first_seen": "2026-11-13T13:57:25.299441+00:00"
+ },
+ "468ad87c4c0dc7dc": {
+  "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+  "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+  "first_seen": "2026-11-13T13:57:25.422431+00:00"
+ },
+ "d4c65ddb93bb7dbd": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+  "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+  "first_seen": "2026-11-13T13:57:25.422441+00:00"
+ },
+ "56b7e38be9522105": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+  "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
+  "first_seen": "2026-11-13T13:57:25.422445+00:00"
+ },
+ "c3172ed329295863": {
+  "url": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+  "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock\u2019s bitcoin ETF",
+  "first_seen": "2026-11-13T13:57:25.422448+00:00"
+ },
+ "c36aedbbac6a1aa5": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
+  "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+  "first_seen": "2026-11-13T13:57:25.422452+00:00"
+ },
+ "395593ae55d63eed": {
+  "url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+  "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+  "first_seen": "2026-11-13T13:57:25.422456+00:00"
+ },
+ "e974bf4d7bd5718f": {
+  "url": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+  "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+  "first_seen": "2026-11-13T13:57:25.422459+00:00"
+ },
+ "3341fa81c8b1ffb4": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+  "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+  "first_seen": "2026-11-13T13:57:25.422462+00:00"
+ },
+ "38d0312ac1ae5db4": {
+  "url": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+  "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+  "first_seen": "2026-11-13T13:57:25.422465+00:00"
+ },
+ "8029dd7b9ffd30a5": {
+  "url": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
+  "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+  "first_seen": "2026-11-13T13:57:25.726674+00:00"
+ },
+ "fb5f7b47b18d46e8": {
+  "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+  "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+  "first_seen": "2026-11-13T13:57:25.726683+00:00"
+ },
+ "22bcd83804c6c356": {
+  "url": "https://status.claude.com/history",
+  "title": "Claude Is Down",
+  "first_seen": "2026-11-13T13:57:25.726687+00:00"
+ },
+ "44da454e7900959c": {
+  "url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "first_seen": "2026-11-13T13:57:25.726692+00:00"
+ },
+ "844a7a446148ff22": {
+  "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+  "title": "Is there a 'right amount' of AI?",
+  "first_seen": "2026-11-13T13:57:25.726695+00:00"
+ },
+ "3e34be39425b02b3": {
+  "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+  "title": "The Dawn of the Data Intelligence Engineer",
+  "first_seen": "2026-11-13T13:57:25.726698+00:00"
+ },
+ "35eb1824f5c6cbfa": {
+  "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+  "title": "Global Microsoft Outage",
+  "first_seen": "2026-11-13T13:57:25.726702+00:00"
+ },
+ "488c556d35dd19ca": {
+  "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+  "title": "Microsoft Outlook/365 still down after 12 hours",
+  "first_seen": "2026-11-13T13:57:25.726705+00:00"
+ },
+ "726f9b131488483c": {
+  "url": "https://ice-wm.org/",
+  "title": "IceWM",
+  "first_seen": "2026-11-13T13:57:25.726708+00:00"
+ },
+ "0df0f55399f95fa5": {
+  "url": "https://folklore.org/Switcher.html",
+  "title": "Switcher (2004)",
+  "first_seen": "2026-11-13T13:57:25.726711+00:00"
+ },
+ "3dbcade2c7aa5510": {
+  "url": "https://brave.com/blog/search-api-agentic-payments/",
+  "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+  "first_seen": "2026-11-13T13:57:25.726714+00:00"
+ },
+ "33783a15d7ad239d": {
+  "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+  "title": "Nvidia employees petition to bring back Jensen Huang",
+  "first_seen": "2026-11-13T13:57:25.726718+00:00"
+ },
+ "f980cc1f1e212524": {
+  "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+  "first_seen": "2026-11-13T13:57:25.726721+00:00"
+ },
+ "7ce0ed0221181516": {
+  "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+  "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+  "first_seen": "2026-11-13T13:57:25.726726+00:00"
+ },
+ "ab323bb591ac51e4": {
+  "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+  "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+  "first_seen": "2026-11-13T13:57:25.843249+00:00"
+ },
+ "f240bb31094b1ee3": {
+  "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+  "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+  "first_seen": "2026-11-13T13:57:25.843259+00:00"
+ },
+ "025949940b1ff6f3": {
+  "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+  "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+  "first_seen": "2026-11-13T13:57:25.843263+00:00"
  }
 }
