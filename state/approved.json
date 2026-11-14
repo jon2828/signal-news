@@ -1,55 +1,55 @@
 [
  {
-  "id": "7dd639f1b6fd3c5d",
-  "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+  "id": "ed809052da33e860",
+  "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
   "topic": "bitcoin",
-  "story": "nvidia-huang-ouster",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Multiple sources including WSJ and Reuters report the board may oust the CEO of the most important AI chip company, a market-moving story.",
+  "story": "nvidia-huang-resigns",
+  "score": 10,
+  "raw_score": 10,
+  "weight": 1.0,
+  "reason": "Immediate resignation of Nvidia's CEO and a 10% share plunge is market-moving and corroborated by four sources.",
   "sources": [
    {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+    "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, sending shares down 10% to $156.",
+    "published": "Thu, 12 Nov 2026 13:57:53 +0000"
+   },
+   {
     "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg\" alt=\"Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ\" class=\"type:primaryImage\"></p><p>The report about Huang\u2019s possible departure came after the New York Times reported that he had a second extramarital affair.</p>",
-    "published": "Wed, 11 Nov 2026 22:44:47 +0000"
+    "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg\" alt=\"Jensen Huang resigns as Nvidia CEO, exits board; shares plunge 13%\" class=\"type:primaryImage\"></p><p>Colette Kress will remain Nvidia\u2019s chief financial officer while serving as interim CEO as the board searches for a permanent successor.</p>",
+    "published": "Thu, 12 Nov 2026 13:59:02 +0000"
    },
    {
     "source": "hn",
-    "url": "https://twitter.com/watcherguru/status/2120645607866188008",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/watcherguru/status/2120645607866188008\">https://twitter.com/watcherguru/status/2120645607866188008</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459776\">https://news.ycombinator.com/item?id=50459776</a></p> <p>Points: 143</p> <p># Comments: 58</p>",
-    "published": "Wed, 11 Nov 2026 22:36:35 +0000"
+    "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402\">https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467191\">https://news.ycombinator.com/item?id=50467191</a></p> <p>Points: 16</p> <p># Comments: 9</p>",
+    "published": "Thu, 12 Nov 2026 14:00:54 +0000"
    },
    {
     "source": "hn",
-    "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/\">https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467132\">https://news.ycombinator.com/item?id=50467132</a></p> <p>Points: 139</p> <p># Comments: 50</p>",
-    "published": "Thu, 12 Nov 2026 13:56:11 +0000"
+    "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/live/c6zjry11v8w1t\">https://www.bbc.co.uk/news/live/c6zjry11v8w1t</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467139\">https://news.ycombinator.com/item?id=50467139</a></p> <p>Points: 61</p> <p># Comments: 28</p>",
+    "published": "Thu, 12 Nov 2026 13:56:38 +0000"
    }
   ]
  },
  {
-  "id": "046ba1eb79082b8a",
-  "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+  "id": "47a5666574edc89e",
+  "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
   "topic": "bitcoin",
-  "story": "msci-index-exclusion",
-  "score": 8,
-  "raw_score": 8,
+  "story": "ethereum-quantum-defense",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Loss of MSCI index membership for major Bitcoin treasury companies has direct implications for passive fund flows and market structure.",
+  "reason": "A concrete protocol research direction toward quantum-resistant accounts is an important infrastructure development.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
-    "summary": "Strategy had opposed MSCI\u2019s rules, arguing exclusion would harm its reputation as a neutral provider.",
-    "published": "Wed, 11 Nov 2026 23:09:23 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
-    "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
-    "published": "Fri, 13 Nov 2026 04:20:00 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+    "summary": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
+    "published": "Thu, 12 Nov 2026 11:43:41 +0000"
    }
   ]
  }
