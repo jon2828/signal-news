@@ -1,19 +1,55 @@
 [
  {
-  "id": "b5859cdd2ddb87ff",
-  "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+  "id": "7dd639f1b6fd3c5d",
+  "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
   "topic": "bitcoin",
-  "story": "bitcoin-core-vulnerabilities",
-  "score": 7,
-  "raw_score": 7,
+  "story": "nvidia-huang-ouster",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Multiple sources including WSJ and Reuters report the board may oust the CEO of the most important AI chip company, a market-moving story.",
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg\" alt=\"Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ\" class=\"type:primaryImage\"></p><p>The report about Huang\u2019s possible departure came after the New York Times reported that he had a second extramarital affair.</p>",
+    "published": "Wed, 11 Nov 2026 22:44:47 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/watcherguru/status/2120645607866188008\">https://twitter.com/watcherguru/status/2120645607866188008</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459776\">https://news.ycombinator.com/item?id=50459776</a></p> <p>Points: 143</p> <p># Comments: 58</p>",
+    "published": "Wed, 11 Nov 2026 22:36:35 +0000"
+   },
+   {
+    "source": "hn",
+    "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/\">https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467132\">https://news.ycombinator.com/item?id=50467132</a></p> <p>Points: 139</p> <p># Comments: 50</p>",
+    "published": "Thu, 12 Nov 2026 13:56:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "046ba1eb79082b8a",
+  "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+  "topic": "bitcoin",
+  "story": "msci-index-exclusion",
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "Disclosure of patched Bitcoin Core flaws including a high-severity mining bug is important protocol security news that Bitcoin-focused readers need to know.",
+  "reason": "Loss of MSCI index membership for major Bitcoin treasury companies has direct implications for passive fund flows and market structure.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
-    "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
-    "published": "Wed, 11 Nov 2026 12:50:08 +0000"
+    "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
+    "summary": "Strategy had opposed MSCI\u2019s rules, arguing exclusion would harm its reputation as a neutral provider.",
+    "published": "Wed, 11 Nov 2026 23:09:23 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+    "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+    "published": "Fri, 13 Nov 2026 04:20:00 +0000"
    }
   ]
  }

@@ -28708,5 +28708,100 @@
   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
   "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
   "first_seen": "2026-11-13T23:24:22.681892+00:00"
+ },
+ "d1318183fe172893": {
+  "url": "https://openai.com/business/customer-stories/shield",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "first_seen": "2026-11-14T12:58:59.663824+00:00"
+ },
+ "11d1aef5934d07aa": {
+  "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+  "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+  "first_seen": "2026-11-14T12:59:00.673824+00:00"
+ },
+ "54fea6baff5854b4": {
+  "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+  "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+  "first_seen": "2026-11-14T12:59:00.673836+00:00"
+ },
+ "5694955e7c2517ec": {
+  "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+  "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+  "first_seen": "2026-11-14T12:59:00.673839+00:00"
+ },
+ "053dee40682183ca": {
+  "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+  "first_seen": "2026-11-14T12:59:00.706170+00:00"
+ },
+ "efc138c587ee6818": {
+  "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+  "first_seen": "2026-11-14T12:59:00.706178+00:00"
+ },
+ "0ebaf72e5187561d": {
+  "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11",
+  "first_seen": "2026-11-14T12:59:00.706183+00:00"
+ },
+ "0bb88d19cd0f0e2b": {
+  "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+  "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+  "first_seen": "2026-11-14T12:59:00.796014+00:00"
+ },
+ "a33801e4ff465f4a": {
+  "url": "https://monkeyisland.pages.dev/",
+  "title": "Monkey Island: all 13 versions side by side",
+  "first_seen": "2026-11-14T12:59:04.090742+00:00"
+ },
+ "c6caa4d4f0b0e545": {
+  "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+  "first_seen": "2026-11-14T12:59:04.090754+00:00"
+ },
+ "6c41dcbf34a2266d": {
+  "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "title": "Ggml v1.0.0",
+  "first_seen": "2026-11-14T12:59:04.090758+00:00"
+ },
+ "f98d19f282ecca8b": {
+  "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+  "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+  "first_seen": "2026-11-14T12:59:04.090762+00:00"
+ },
+ "18713f91f2958739": {
+  "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+  "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+  "first_seen": "2026-11-14T12:59:04.090765+00:00"
+ },
+ "10c60fc60c0f0765": {
+  "url": "https://unsloth.ai/docs/models/qwen3.8",
+  "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+  "first_seen": "2026-11-14T12:59:04.090768+00:00"
+ },
+ "dcab381c8b78ddb1": {
+  "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+  "title": "What happened to 3Com?",
+  "first_seen": "2026-11-14T12:59:04.090771+00:00"
+ },
+ "7ab113adec142f4d": {
+  "url": "https://grounds.top/",
+  "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+  "first_seen": "2026-11-14T12:59:04.090774+00:00"
+ },
+ "7c3d0a079b98e2a2": {
+  "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+  "title": "How Not to Build a Music Player",
+  "first_seen": "2026-11-14T12:59:04.090778+00:00"
+ },
+ "9c247e0875927c87": {
+  "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+  "title": "FAA issues national ground stop \u2013 lifted 4.5 hours later",
+  "first_seen": "2026-11-14T12:59:04.090782+00:00"
+ },
+ "1c7c9c7c67256961": {
+  "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+  "first_seen": "2026-11-14T12:59:04.090792+00:00"
  }
 }
