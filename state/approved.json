@@ -1,43 +1,37 @@
 [
  {
-  "id": "b8785a000ca8f940",
-  "title": "NVIDIA Announces CEO Transition",
-  "topic": "both",
-  "story": "nvidia-ceo-crisis",
+  "id": "e9253ae6619ecd71",
+  "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+  "topic": "ai",
+  "story": "nvidia-ceo-ouster",
   "score": 8,
   "raw_score": 9,
   "weight": 0.9,
-  "reason": "Official confirmation of a CEO transition at the company central to AI infrastructure is frontier-shifting.",
+  "reason": "Potential removal of Nvidia's CEO is a massive corporate governance event with direct implications for the AI hardware market.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "summary": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467087\">https://news.ycombinator.com/item?id=50467087</a></p> <p>Points: 541</p> <p># Comments: 387</p>",
-    "published": "Thu, 12 Nov 2026 13:52:29 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+    "published": "Wed, 11 Nov 2026 23:28:45 +0000"
    }
   ]
  },
  {
-  "id": "84726a0527db89d8",
-  "title": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-  "topic": "ai",
-  "story": "nvidia-ceo-crisis",
+  "id": "7b04d3ccad91be96",
+  "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+  "topic": "bitcoin",
+  "story": "binance-hack-seizure",
   "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Confirmed resignation of Nvidia's CEO with a named interim successor across two sources is market-moving for AI and crypto alike.",
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "DOJ seizure of $1.2B in stolen crypto and takedown of North Korean infrastructure is a major regulatory and security enforcement action.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-    "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-    "published": "Thu, 12 Nov 2026 14:10:34 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-    "published": "Thu, 12 Nov 2026 15:37:29 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
+    "published": "Thu, 12 Nov 2026 22:55:52 +0000"
    }
   ]
  }
