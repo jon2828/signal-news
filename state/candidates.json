@@ -286,578 +286,6 @@
   ]
  },
  {
-  "id": "34dba119c82b79bf",
-  "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-    "summary": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
-    "published": "Thu, 12 Nov 2026 05:49:44 +0000"
-   }
-  ]
- },
- {
-  "id": "25eb087409675081",
-  "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-    "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
-    "published": "Thu, 12 Nov 2026 05:22:31 +0000"
-   }
-  ]
- },
- {
-  "id": "8402cf57f05f4ce2",
-  "title": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-    "summary": "Lending support among the ledger\u2019s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
-    "published": "Thu, 12 Nov 2026 05:18:43 +0000"
-   }
-  ]
- },
- {
-  "id": "8eeefc2de83d3754",
-  "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-    "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
-    "published": "Thu, 12 Nov 2026 04:03:47 +0000"
-   }
-  ]
- },
- {
-  "id": "440c4b41643a9551",
-  "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg\" alt=\"Bit Digital stock falls 5% in pre-market after Q3 revenue miss\" class=\"type:primaryImage\"></p><p>Bit Digital\u2019s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.</p>",
-    "published": "Thu, 12 Nov 2026 13:52:39 +0000"
-   }
-  ]
- },
- {
-  "id": "f34e57c4ff223913",
-  "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77Y7BBV3T43FJ34BFN7FBGA/thailand-sec-1.jpg\" alt=\"Thailand proposes $148K daily cap on stablecoin deposits and withdrawals\" class=\"type:primaryImage\"></p><p>Thailand\u2019s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.</p>",
-    "published": "Thu, 12 Nov 2026 13:44:03 +0000"
-   }
-  ]
- },
- {
-  "id": "a04a390289a9a6ec",
-  "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg\" alt=\"Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente\" class=\"type:primaryImage\"></p><p>Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK\u2019s research director.</p>",
-    "published": "Thu, 12 Nov 2026 13:31:59 +0000"
-   }
-  ]
- },
- {
-  "id": "98234771331b87d4",
-  "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg\" alt=\"Are Alt-L1s over? Security, costs drive smaller chains to Ethereum\" class=\"type:primaryImage\"></p><p>L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.</p>",
-    "published": "Thu, 12 Nov 2026 13:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "9c6877c95fa434e5",
-  "title": "Uber\u2019s UK banking partner Griffin raises $20M for stablecoin services",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77X80E70Q4QE80S3V89N4XY/hi-ceo-of-firm-that-blocked-customer-crypto-owns-25000-btc-may-be-liable2.jpg\" alt=\"Uber\u2019s UK banking partner Griffin raises $20M for stablecoin services\" class=\"type:primaryImage\"></p><p>The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.</p>",
-    "published": "Thu, 12 Nov 2026 13:21:56 +0000"
-   }
-  ]
- },
- {
-  "id": "2be1aee3bf9c949a",
-  "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg\" alt=\"EU DeFi proposals could push users to riskier platforms, says Coinbase exec\" class=\"type:primaryImage\"></p><p>Coinbase\u2019s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.</p>",
-    "published": "Thu, 12 Nov 2026 12:21:43 +0000"
-   }
-  ]
- },
- {
-  "id": "29e735dfd64088af",
-  "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77PBKEXBYJDHXJ50138KP8T/article-covers-259182-tether-may-delay-fundraising-500b-valuation-demand-report-1280x853.webp\" alt=\"Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022\" class=\"type:primaryImage\"></p><p>Crypto markets were left with \u201cless fuel\u201d to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.</p>",
-    "published": "Thu, 12 Nov 2026 11:38:50 +0000"
-   }
-  ]
- },
- {
-  "id": "ee01cef085b0f0a2",
-  "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg\" alt=\"Tron and Tether bring in Chainalysis after T3 crime unit folds\" class=\"type:primaryImage\"></p><p>The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.</p>",
-    "published": "Thu, 12 Nov 2026 11:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "44befa2f5312e155",
-  "title": "Ethlabs drops Hegot\u00e1 slot proposal in push for 2027 quantum readiness",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77HNTV6D5P7J0G2ASP711HK/hi-quantum-computer-and-ethereum.jpg\" alt=\"Ethlabs drops Hegot\u00e1 slot proposal in push for 2027 quantum readiness\" class=\"type:primaryImage\"></p><p>Ethlabs\u2019 roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.</p>",
-    "published": "Thu, 12 Nov 2026 10:30:29 +0000"
-   }
-  ]
- },
- {
-  "id": "62e3c1850d3584b7",
-  "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77BC08M1JK1359QWDPVF1FQ/blackrock-2-billion.png\" alt=\"BlackRock Bitcoin ETF outflows hit $2B over nine sessions\" class=\"type:primaryImage\"></p><p>US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.</p>",
-    "published": "Thu, 12 Nov 2026 08:06:48 +0000"
-   }
-  ]
- },
- {
-  "id": "3ceb4e3cebef5355",
-  "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg\" alt=\"South Korea to permit crypto withdrawal freezes during hacking threats\" class=\"type:primaryImage\"></p><p>The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX\u2019s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.</p>",
-    "published": "Thu, 12 Nov 2026 05:54:48 +0000"
-   }
-  ]
- },
- {
-  "id": "6f57150166baa51a",
-  "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg\" alt=\"Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack\" class=\"type:primaryImage\"></p><p>In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange\u2019s record-breaking hack.</p>",
-    "published": "Thu, 12 Nov 2026 05:07:11 +0000"
-   }
-  ]
- },
- {
-  "id": "34a52f39c4727cab",
-  "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
-    "summary": "DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu.",
-    "published": "Thu, 12 Nov 2026 14:23:11 +0000"
-   }
-  ]
- },
- {
-  "id": "a96fab22fb5b7569",
-  "title": "Securitize and Ethena\u2019s $100 million BlackRock BUIDL liquidity facility goes live",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-    "summary": "Securitize &amp; Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
-    "published": "Thu, 12 Nov 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "007ab92c39ec8c5c",
-  "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-    "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
-    "published": "Thu, 12 Nov 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2d11fd78fd1ccc1b",
-  "title": "BNY taps Figment to support staking on its digital asset custody platform",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538",
-    "summary": "Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.",
-    "published": "Thu, 12 Nov 2026 13:05:02 +0000"
-   }
-  ]
- },
- {
-  "id": "3bf0f3aa3c0f9e16",
-  "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
-    "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.",
-    "published": "Thu, 12 Nov 2026 12:35:02 +0000"
-   }
-  ]
- },
- {
-  "id": "04718123cc4c5f41",
-  "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
-    "summary": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities.",
-    "published": "Thu, 12 Nov 2026 11:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "af4338fa0d2ec396",
-  "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-    "summary": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%\u201310% annual returns paid in ETH.",
-    "published": "Thu, 12 Nov 2026 10:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "58ed13bbb65784de",
-  "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
-    "summary": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords.",
-    "published": "Thu, 12 Nov 2026 08:39:57 +0000"
-   }
-  ]
- },
- {
-  "id": "b8bb9cc968799f4e",
-  "title": "Ethlabs proposes advancing Ethereum\u2019s post-quantum to 2027, citing AI acceleration",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
-    "summary": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing.",
-    "published": "Thu, 12 Nov 2026 07:27:24 +0000"
-   }
-  ]
- },
- {
-  "id": "67a9a10dcab241e8",
-  "title": "\u2018Milestone quarter\u2019: Solana Company reports Q3 revenue growth driven by staking rewards",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-    "summary": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-    "published": "Thu, 12 Nov 2026 02:25:14 +0000"
-   }
-  ]
- },
- {
-  "id": "b8945a9388378cca",
-  "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-    "summary": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
-    "published": "Thu, 12 Nov 2026 02:23:45 +0000"
-   }
-  ]
- },
- {
-  "id": "0ecc21d01c244243",
-  "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-    "summary": "<p>Article URL: <a href=\"https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64\">https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467618\">https://news.ycombinator.com/item?id=50467618</a></p> <p>Points: 6</p> <p># Comments: 0</p>",
-    "published": "Thu, 12 Nov 2026 14:18:49 +0000"
-   }
-  ]
- },
- {
-  "id": "19edf142065b40b1",
-  "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at\">https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467460\">https://news.ycombinator.com/item?id=50467460</a></p> <p>Points: 3</p> <p># Comments: 0</p>",
-    "published": "Thu, 12 Nov 2026 14:12:37 +0000"
-   }
-  ]
- },
- {
-  "id": "53d6f0630c021d09",
-  "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://spectrum.ieee.org/electric-ship-batteries",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/electric-ship-batteries\">https://spectrum.ieee.org/electric-ship-batteries</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467305\">https://news.ycombinator.com/item?id=50467305</a></p> <p>Points: 3</p> <p># Comments: 0</p>",
-    "published": "Thu, 12 Nov 2026 14:06:03 +0000"
-   }
-  ]
- },
- {
-  "id": "ccd5118fa6f503c6",
-  "title": "Jane Street \u2013 Our software engineering interviews are changing (a little)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-    "summary": "<p>Article URL: <a href=\"https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/\">https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467297\">https://news.ycombinator.com/item?id=50467297</a></p> <p>Points: 4</p> <p># Comments: 0</p>",
-    "published": "Thu, 12 Nov 2026 14:05:28 +0000"
-   }
-  ]
- },
- {
-  "id": "b8785a000ca8f940",
-  "title": "NVIDIA Announces CEO Transition",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "summary": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467087\">https://news.ycombinator.com/item?id=50467087</a></p> <p>Points: 541</p> <p># Comments: 387</p>",
-    "published": "Thu, 12 Nov 2026 13:52:29 +0000"
-   }
-  ]
- },
- {
-  "id": "64089dbff01cf533",
-  "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-    "summary": "<p>Article URL: <a href=\"https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/\">https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465453\">https://news.ycombinator.com/item?id=50465453</a></p> <p>Points: 45</p> <p># Comments: 17</p>",
-    "published": "Thu, 12 Nov 2026 10:46:20 +0000"
-   }
-  ]
- },
- {
-  "id": "cbc9a645a65eb9f9",
-  "title": "Why Writing Correct Software Is Hard",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://pron.github.io/posts/correctness-and-complexity",
-    "summary": "<p>Article URL: <a href=\"https://pron.github.io/posts/correctness-and-complexity\">https://pron.github.io/posts/correctness-and-complexity</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465352\">https://news.ycombinator.com/item?id=50465352</a></p> <p>Points: 179</p> <p># Comments: 75</p>",
-    "published": "Thu, 12 Nov 2026 10:28:26 +0000"
-   }
-  ]
- },
- {
-  "id": "3d807e9b88a9e3fe",
-  "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.getlazarus.org/forums/topic/17/",
-    "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/forums/topic/17/\">https://www.getlazarus.org/forums/topic/17/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463540\">https://news.ycombinator.com/item?id=50463540</a></p> <p>Points: 86</p> <p># Comments: 30</p>",
-    "published": "Thu, 12 Nov 2026 05:49:34 +0000"
-   }
-  ]
- },
- {
-  "id": "5b070766ec4dadda",
-  "title": "Critical RCE Vulnerability in Apache HTTP Server",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50462177\">https://news.ycombinator.com/item?id=50462177</a></p> <p>Points: 295</p> <p># Comments: 137</p>",
-    "published": "Thu, 12 Nov 2026 02:11:11 +0000"
-   }
-  ]
- },
- {
-  "id": "84726a0527db89d8",
-  "title": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-    "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-    "published": "Thu, 12 Nov 2026 14:10:34 +0000"
-   },
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-    "published": "Thu, 12 Nov 2026 15:37:29 +0000"
-   }
-  ]
- },
- {
-  "id": "7ed9c1c82c2d456e",
-  "title": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
-    "published": "Thu, 12 Nov 2026 13:26:25 +0000"
-   }
-  ]
- },
- {
-  "id": "48e6c41241423249",
-  "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
-    "published": "Thu, 12 Nov 2026 03:13:10 +0000"
-   }
-  ]
- },
- {
-  "id": "372847c9499451eb",
-  "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
-  "topic": "ai",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/amplitude",
-    "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "published": "Thu, 12 Nov 2026 20:00:00 GMT"
-   },
-   {
-    "source": "openai",
-    "url": "https://openai.com/business/customer-stories/amplitude",
-    "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "published": "Thu, 12 Nov 2026 20:00:00 GMT"
-   }
-  ]
- },
- {
   "id": "90d79223706ea3ab",
   "title": "Gondola doubles revenue as its team builds more with Codex",
   "topic": "ai",
@@ -3700,6 +3128,272 @@
     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
     "published": "Sat, 14 Nov 2026 16:34:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "439321df36583b4a",
+  "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+    "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+    "published": "Sun, 15 Nov 2026 02:50:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5e8404f2326536b8",
+  "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg\" alt=\"Bitcoin falls to four-month low near $62K as crypto selloff deepens\" class=\"type:primaryImage\"></p><p>The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.</p>",
+    "published": "Sun, 15 Nov 2026 10:23:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bfd4ef0724ce4fb6",
+  "title": "Coinone warns of phishing, identity theft after customer data breach",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png\" alt=\"Coinone warns of phishing, identity theft after customer data breach\" class=\"type:primaryImage\"></p><p>The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.</p>",
+    "published": "Sun, 15 Nov 2026 08:07:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0371d9c90720006f",
+  "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg\" alt=\"RWA protocol stUSDT winds down three years after $2.3B TVL peak\" class=\"type:primaryImage\"></p><p>The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.</p>",
+    "published": "Sun, 15 Nov 2026 06:27:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3ce3646c46f5b034",
+  "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+    "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+    "published": "Sat, 14 Nov 2026 23:07:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "768d7342d58866f1",
+  "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html\">https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506180\">https://news.ycombinator.com/item?id=50506180</a></p> <p>Points: 15</p> <p># Comments: 1</p>",
+    "published": "Sun, 15 Nov 2026 11:40:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "91e375cc559dcd99",
+  "title": "Why did some Apollo missions carry a grenade launcher?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://space.stackexchange.com/questions/37775",
+    "summary": "<p>Article URL: <a href=\"https://space.stackexchange.com/questions/37775\">https://space.stackexchange.com/questions/37775</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50505271\">https://news.ycombinator.com/item?id=50505271</a></p> <p>Points: 83</p> <p># Comments: 51</p>",
+    "published": "Sun, 15 Nov 2026 09:06:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d9ed407767db02f6",
+  "title": "Book list for streetfighting computer scientists",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+    "summary": "<p>Article URL: <a href=\"https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists\">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504718\">https://news.ycombinator.com/item?id=50504718</a></p> <p>Points: 50</p> <p># Comments: 16</p>",
+    "published": "Sun, 15 Nov 2026 07:08:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7ca073d79e2cca2f",
+  "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://netbsd.org/~nia/disk-encrypt/",
+    "summary": "<p>Article URL: <a href=\"https://netbsd.org/~nia/disk-encrypt/\">https://netbsd.org/~nia/disk-encrypt/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504277\">https://news.ycombinator.com/item?id=50504277</a></p> <p>Points: 57</p> <p># Comments: 10</p>",
+    "published": "Sun, 15 Nov 2026 05:29:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6e99cd2a6aeba568",
+  "title": "Kiri \u2013 The Modern Container Runtime",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://runkiri.com/",
+    "summary": "<p>Article URL: <a href=\"https://runkiri.com/\">https://runkiri.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504077\">https://news.ycombinator.com/item?id=50504077</a></p> <p>Points: 68</p> <p># Comments: 31</p>",
+    "published": "Sun, 15 Nov 2026 04:40:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ad99aa62f0ef8eaf",
+  "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Tthanh2k6/turbo-browser-mcp\">https://github.com/Tthanh2k6/turbo-browser-mcp</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503930\">https://news.ycombinator.com/item?id=50503930</a></p> <p>Points: 40</p> <p># Comments: 8</p>",
+    "published": "Sun, 15 Nov 2026 04:09:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7a08a67eadce039b",
+  "title": "My favourite modern NES games",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "summary": "<p>Article URL: <a href=\"https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/\">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503465\">https://news.ycombinator.com/item?id=50503465</a></p> <p>Points: 126</p> <p># Comments: 12</p>",
+    "published": "Sun, 15 Nov 2026 02:41:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4f0ce258a369f239",
+  "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503255\">https://news.ycombinator.com/item?id=50503255</a></p> <p>Points: 267</p> <p># Comments: 72</p>",
+    "published": "Sun, 15 Nov 2026 02:00:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "14ba8d16905942f3",
+  "title": "Court denies motion to dismiss DRAM price fixing case",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "summary": "<p>Article URL: <a href=\"https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502988\">https://news.ycombinator.com/item?id=50502988</a></p> <p>Points: 266</p> <p># Comments: 98</p>",
+    "published": "Sun, 15 Nov 2026 01:18:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cce942626afe3b38",
+  "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://retrocomputing.stackexchange.com/questions/17957",
+    "summary": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/17957\">https://retrocomputing.stackexchange.com/questions/17957</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501594\">https://news.ycombinator.com/item?id=50501594</a></p> <p>Points: 244</p> <p># Comments: 129</p>",
+    "published": "Sat, 14 Nov 2026 22:22:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1838248a60d90440",
+  "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+    "summary": "<p>Article URL: <a href=\"https://projectzero.google/2026/11/disclosure-policy.html\">https://projectzero.google/2026/11/disclosure-policy.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496051\">https://news.ycombinator.com/item?id=50496051</a></p> <p>Points: 274</p> <p># Comments: 154</p>",
+    "published": "Sat, 14 Nov 2026 11:13:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6962888a776b59bc",
+  "title": "Semicircle Packing",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://rorz.io/writing/semicircle-packing",
+    "summary": "<p>Article URL: <a href=\"https://rorz.io/writing/semicircle-packing\">https://rorz.io/writing/semicircle-packing</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484234\">https://news.ycombinator.com/item?id=50484234</a></p> <p>Points: 49</p> <p># Comments: 5</p>",
+    "published": "Fri, 13 Nov 2026 14:42:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "84e17160f877de17",
+  "title": "500 Lines or Less A 3D Modeller",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+    "summary": "<p>Article URL: <a href=\"https://aosabook.org/en/500L/a-3d-modeller.html\">https://aosabook.org/en/500L/a-3d-modeller.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483431\">https://news.ycombinator.com/item?id=50483431</a></p> <p>Points: 75</p> <p># Comments: 11</p>",
+    "published": "Fri, 13 Nov 2026 13:47:42 +0000"
+   }
+  ]
+ },
+ {
+  "id": "acaf00569e865f08",
+  "title": "Where was Nvidia\u2019s security team?",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "published": "Sun, 15 Nov 2026 00:08:07 +0000"
    }
   ]
  }

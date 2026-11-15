@@ -1,55 +1,43 @@
 [
  {
-  "id": "ed809052da33e860",
-  "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
-  "topic": "bitcoin",
-  "story": "nvidia-huang-resigns",
-  "score": 10,
-  "raw_score": 10,
-  "weight": 1.0,
-  "reason": "Immediate resignation of Nvidia's CEO and a 10% share plunge is market-moving and corroborated by four sources.",
+  "id": "b8785a000ca8f940",
+  "title": "NVIDIA Announces CEO Transition",
+  "topic": "both",
+  "story": "nvidia-ceo-crisis",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Official confirmation of a CEO transition at the company central to AI infrastructure is frontier-shifting.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-    "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, sending shares down 10% to $156.",
-    "published": "Thu, 12 Nov 2026 13:57:53 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg\" alt=\"Jensen Huang resigns as Nvidia CEO, exits board; shares plunge 13%\" class=\"type:primaryImage\"></p><p>Colette Kress will remain Nvidia\u2019s chief financial officer while serving as interim CEO as the board searches for a permanent successor.</p>",
-    "published": "Thu, 12 Nov 2026 13:59:02 +0000"
-   },
-   {
     "source": "hn",
-    "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
-    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402\">https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467191\">https://news.ycombinator.com/item?id=50467191</a></p> <p>Points: 16</p> <p># Comments: 9</p>",
-    "published": "Thu, 12 Nov 2026 14:00:54 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/live/c6zjry11v8w1t\">https://www.bbc.co.uk/news/live/c6zjry11v8w1t</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467139\">https://news.ycombinator.com/item?id=50467139</a></p> <p>Points: 61</p> <p># Comments: 28</p>",
-    "published": "Thu, 12 Nov 2026 13:56:38 +0000"
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "summary": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467087\">https://news.ycombinator.com/item?id=50467087</a></p> <p>Points: 541</p> <p># Comments: 387</p>",
+    "published": "Thu, 12 Nov 2026 13:52:29 +0000"
    }
   ]
  },
  {
-  "id": "47a5666574edc89e",
-  "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-  "topic": "bitcoin",
-  "story": "ethereum-quantum-defense",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "A concrete protocol research direction toward quantum-resistant accounts is an important infrastructure development.",
+  "id": "84726a0527db89d8",
+  "title": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+  "topic": "ai",
+  "story": "nvidia-ceo-crisis",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Confirmed resignation of Nvidia's CEO with a named interim successor across two sources is market-moving for AI and crypto alike.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-    "summary": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
-    "published": "Thu, 12 Nov 2026 11:43:41 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+    "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
+    "published": "Thu, 12 Nov 2026 14:10:34 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+    "published": "Thu, 12 Nov 2026 15:37:29 +0000"
    }
   ]
  }
