@@ -1,37 +1,37 @@
 [
  {
-  "id": "e9253ae6619ecd71",
-  "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+  "id": "023d1c79ca20cb05",
+  "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
   "topic": "ai",
-  "story": "nvidia-ceo-ouster",
-  "score": 8,
-  "raw_score": 9,
+  "story": "fireworks-ai-breach",
+  "score": 7,
+  "raw_score": 8,
   "weight": 0.9,
-  "reason": "Potential removal of Nvidia's CEO is a massive corporate governance event with direct implications for the AI hardware market.",
+  "reason": "A security breach exposing customer data at a major AI inference provider is a significant trust and security event.",
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "published": "Wed, 11 Nov 2026 23:28:45 +0000"
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "summary": "This is Fireworks' second data breach in as many months.",
+    "published": "Thu, 12 Nov 2026 15:02:28 +0000"
    }
   ]
  },
  {
-  "id": "7b04d3ccad91be96",
-  "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+  "id": "2f34e556993a55e7",
+  "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
   "topic": "bitcoin",
-  "story": "binance-hack-seizure",
-  "score": 8,
-  "raw_score": 8,
+  "story": "nakamoto-kraken-debt",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "DOJ seizure of $1.2B in stolen crypto and takedown of North Korean infrastructure is a major regulatory and security enforcement action.",
+  "reason": "A major treasury firm owing more than its market cap is a significant solvency risk indicator for the sector.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-    "published": "Thu, 12 Nov 2026 22:55:52 +0000"
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+    "summary": "About 70% of the bitcoin treasury firm\u2019s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
+    "published": "Fri, 13 Nov 2026 06:03:41 +0000"
    }
   ]
  }
