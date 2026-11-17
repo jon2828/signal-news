@@ -1,37 +1,31 @@
 [
  {
-  "id": "023d1c79ca20cb05",
-  "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+  "id": "5bf4951adbe9698d",
+  "title": "Introducing ChatGPT Wallet",
   "topic": "ai",
-  "story": "fireworks-ai-breach",
-  "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "A security breach exposing customer data at a major AI inference provider is a significant trust and security event.",
+  "story": "chatgpt-wallet",
+  "score": 9,
+  "raw_score": 9,
+  "weight": 1.0,
+  "reason": "Frontier-lab product launch with multi-source coverage introducing agentic payments, a frontier-shifting release for AI readers.",
   "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+   },
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "summary": "This is Fireworks' second data breach in as many months.",
-    "published": "Thu, 12 Nov 2026 15:02:28 +0000"
-   }
-  ]
- },
- {
-  "id": "2f34e556993a55e7",
-  "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-  "topic": "bitcoin",
-  "story": "nakamoto-kraken-debt",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "A major treasury firm owing more than its market cap is a significant solvency risk indicator for the sector.",
-  "sources": [
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "published": "Fri, 13 Nov 2026 16:00:12 +0000"
+   },
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-    "summary": "About 70% of the bitcoin treasury firm\u2019s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
-    "published": "Fri, 13 Nov 2026 06:03:41 +0000"
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-11-16",
+    "summary": "",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
    }
   ]
  }
