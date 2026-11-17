@@ -29928,5 +29928,340 @@
   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
   "first_seen": "2026-11-17T01:45:20.017404+00:00"
+ },
+ "590cb0b9c5dd23f2": {
+  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "first_seen": "2026-11-17T15:30:40.112696+00:00"
+ },
+ "58da9c66b1456ac9": {
+  "url": "https://openai.com/index/introducing-openai-for-chile",
+  "title": "Introducing OpenAI for Chile",
+  "first_seen": "2026-11-17T15:30:40.112718+00:00"
+ },
+ "f054a54f8228cfac": {
+  "url": "https://openai.com/business/customer-stories/revolut",
+  "title": "How Revolut raises ambition without lowering the bar",
+  "first_seen": "2026-11-17T15:30:40.112724+00:00"
+ },
+ "a4592d1417f24a16": {
+  "url": "https://tldr.tech/ai/2026-11-17",
+  "title": "Perplexity Research \ud83e\uddea, NVIDIA Rubin HPC \ud83d\udda5\ufe0f, OpenAI safety assessments \ud83d\udc68\u200d\ud83d\udcbb",
+  "first_seen": "2026-11-17T15:30:40.309624+00:00"
+ },
+ "f52a89b6ad602ad2": {
+  "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+  "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+  "first_seen": "2026-11-17T15:30:40.624305+00:00"
+ },
+ "4f11c6cfd92ae155": {
+  "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+  "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+  "first_seen": "2026-11-17T15:30:40.624322+00:00"
+ },
+ "664d0b263c2dddfa": {
+  "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+  "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+  "first_seen": "2026-11-17T15:30:40.624325+00:00"
+ },
+ "94d9edb0aed18c74": {
+  "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+  "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+  "first_seen": "2026-11-17T15:30:40.624328+00:00"
+ },
+ "cf18150afd5eb4f6": {
+  "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+  "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+  "first_seen": "2026-11-17T15:30:40.624330+00:00"
+ },
+ "f946f06d33740919": {
+  "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+  "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+  "first_seen": "2026-11-17T15:30:40.624332+00:00"
+ },
+ "b98a0b66f35b6361": {
+  "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+  "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+  "first_seen": "2026-11-17T15:30:40.624334+00:00"
+ },
+ "8c44755f843f5bd2": {
+  "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+  "title": "New DeFi-yield generation targets \u2018scam-like\u2019 bank accounts that keep all the interest",
+  "first_seen": "2026-11-17T15:30:40.624336+00:00"
+ },
+ "54c0b1894825b2c3": {
+  "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+  "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+  "first_seen": "2026-11-17T15:30:40.624338+00:00"
+ },
+ "922eeb9cebe7de63": {
+  "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+  "title": "Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings",
+  "first_seen": "2026-11-17T15:30:40.624340+00:00"
+ },
+ "7abecec3449e3378": {
+  "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+  "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+  "first_seen": "2026-11-17T15:30:40.624342+00:00"
+ },
+ "785251690dffbecb": {
+  "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
+  "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
+  "first_seen": "2026-11-17T15:30:40.624344+00:00"
+ },
+ "64e1acdfe314ba60": {
+  "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+  "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+  "first_seen": "2026-11-17T15:30:40.624347+00:00"
+ },
+ "df6e54f27c61c3f4": {
+  "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+  "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+  "first_seen": "2026-11-17T15:30:40.624349+00:00"
+ },
+ "7dbbc41db2fbcc41": {
+  "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+  "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+  "first_seen": "2026-11-17T15:30:40.624351+00:00"
+ },
+ "cf2ac92fc18a01a0": {
+  "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+  "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+  "first_seen": "2026-11-17T15:30:40.624353+00:00"
+ },
+ "6742f9b5d8e6af5f": {
+  "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+  "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+  "first_seen": "2026-11-17T15:30:40.624355+00:00"
+ },
+ "e0cb0179bad1c8ee": {
+  "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+  "first_seen": "2026-11-17T15:30:40.709936+00:00"
+ },
+ "a6a2578df4b4128f": {
+  "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin to $1M by 2030? \u2018Almost certainly not,\u2019 says Dragonfly\u2019s Qureshi",
+  "first_seen": "2026-11-17T15:30:40.709951+00:00"
+ },
+ "19fa2c69c0dd3ebe": {
+  "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "ARK sells $85M in Nvidia shares ahead of chipmaker\u2019s Q3 earnings results",
+  "first_seen": "2026-11-17T15:30:40.709954+00:00"
+ },
+ "c432808565a2f1e7": {
+  "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+  "first_seen": "2026-11-17T15:30:40.709956+00:00"
+ },
+ "693ac26c11cee19a": {
+  "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+  "first_seen": "2026-11-17T15:30:40.709959+00:00"
+ },
+ "4136aae98ace0420": {
+  "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "BlackRock\u2019s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+  "first_seen": "2026-11-17T15:30:40.709962+00:00"
+ },
+ "f16d89a680dd12f8": {
+  "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+  "first_seen": "2026-11-17T15:30:40.709964+00:00"
+ },
+ "2b827bd4ca57820e": {
+  "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Google says hackers use AI agents to find and exploit software flaws",
+  "first_seen": "2026-11-17T15:30:40.709967+00:00"
+ },
+ "35de3005531ec6e7": {
+  "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+  "first_seen": "2026-11-17T15:30:40.709969+00:00"
+ },
+ "b1513f1e57123510": {
+  "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+  "first_seen": "2026-11-17T15:30:40.709972+00:00"
+ },
+ "fa585239ad75c01c": {
+  "url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+  "first_seen": "2026-11-17T15:30:40.709975+00:00"
+ },
+ "2ea3d3526dd41056": {
+  "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Trezor customer data exposed in 3rd partner breach this year",
+  "first_seen": "2026-11-17T15:30:40.709977+00:00"
+ },
+ "e388fcf8f43a8f24": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+  "title": "Solana\u2019s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
+  "first_seen": "2026-11-17T15:30:40.780300+00:00"
+ },
+ "88469f2821c7db2c": {
+  "url": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
+  "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+  "first_seen": "2026-11-17T15:30:40.780314+00:00"
+ },
+ "bb75eb1b225bb349": {
+  "url": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
+  "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+  "first_seen": "2026-11-17T15:30:40.780317+00:00"
+ },
+ "13bd1894b9fff5d8": {
+  "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
+  "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+  "first_seen": "2026-11-17T15:30:40.780319+00:00"
+ },
+ "c53d0aeabc99ba37": {
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+  "title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
+  "first_seen": "2026-11-17T15:30:40.780321+00:00"
+ },
+ "e192c503efb17e30": {
+  "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+  "title": "Lighter reopens withdrawals after trader\u2019s API key leak, returns about $5 million in USDC",
+  "first_seen": "2026-11-17T15:30:40.780323+00:00"
+ },
+ "d2ae99129c92c926": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+  "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+  "first_seen": "2026-11-17T15:30:40.780325+00:00"
+ },
+ "76e329de0314d9e4": {
+  "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+  "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+  "first_seen": "2026-11-17T15:30:40.780327+00:00"
+ },
+ "6ef43831e84e522b": {
+  "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+  "title": "Grayscale says crypto pullback offers \u2018compelling entry points\u2019 as bitcoin falls to $64,000",
+  "first_seen": "2026-11-17T15:30:40.780329+00:00"
+ },
+ "ba4a716fd58a4e47": {
+  "url": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+  "title": "Cathie Wood\u2019s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+  "first_seen": "2026-11-17T15:30:40.780331+00:00"
+ },
+ "e5a5758d6a16ec0a": {
+  "url": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+  "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+  "first_seen": "2026-11-17T15:30:40.780333+00:00"
+ },
+ "17e5362950214653": {
+  "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+  "title": "Pentagon fails 9th financial audit in a row",
+  "first_seen": "2026-11-17T15:30:42.861861+00:00"
+ },
+ "91103a513ae50e7d": {
+  "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+  "title": "We don't need more apps. We need better open source",
+  "first_seen": "2026-11-17T15:30:42.861879+00:00"
+ },
+ "b392a8b728c943a1": {
+  "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+  "title": "Loopholes Are for Assholes",
+  "first_seen": "2026-11-17T15:30:42.861882+00:00"
+ },
+ "357aa42f9e6729e7": {
+  "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+  "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+  "first_seen": "2026-11-17T15:30:42.861885+00:00"
+ },
+ "51ac6b135f222bcd": {
+  "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+  "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+  "first_seen": "2026-11-17T15:30:42.861887+00:00"
+ },
+ "76e95097d0610936": {
+  "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+  "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+  "first_seen": "2026-11-17T15:30:42.861890+00:00"
+ },
+ "567d2c83df20a534": {
+  "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+  "title": "How the Claude Code team thinks about verification",
+  "first_seen": "2026-11-17T15:30:42.861892+00:00"
+ },
+ "dd357f81ff0fdbc0": {
+  "url": "https://support.apple.com/en-us/149699",
+  "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+  "first_seen": "2026-11-17T15:30:42.861894+00:00"
+ },
+ "808d70f3f21bb57b": {
+  "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+  "title": "Why 3dfx 1 cards had such a washed out color output?",
+  "first_seen": "2026-11-17T15:30:42.861896+00:00"
+ },
+ "44692743b794c872": {
+  "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+  "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+  "first_seen": "2026-11-17T15:30:42.861902+00:00"
+ },
+ "048976bfa01b4f9c": {
+  "url": "https://trmnl.com/blog/introducing-frame",
+  "title": "Frame \u2013 31.5\" color ePaper display",
+  "first_seen": "2026-11-17T15:30:42.861907+00:00"
+ },
+ "f7882b4c21bad3f1": {
+  "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+  "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+  "first_seen": "2026-11-17T15:30:42.861909+00:00"
+ },
+ "5a12ee8825b732b3": {
+  "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+  "title": "Uber and Zipline\u2019s drone delivery service takes off in Texas, with dozens of cities to follow",
+  "first_seen": "2026-11-17T15:30:42.904025+00:00"
+ },
+ "45f18158044fff30": {
+  "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+  "title": "Meta launches Direct, a standalone messaging app for Instagram",
+  "first_seen": "2026-11-17T15:30:42.904038+00:00"
+ },
+ "27f55ceac5142fd1": {
+  "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+  "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+  "first_seen": "2026-11-17T15:30:42.904041+00:00"
+ },
+ "6cb4d094922f9b1f": {
+  "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+  "title": "Instagram\u2019s new tool for creators targets unauthorized reposts and AI-modified videos",
+  "first_seen": "2026-11-17T15:30:42.904043+00:00"
+ },
+ "3ddd561d3db586e7": {
+  "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+  "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+  "first_seen": "2026-11-17T15:30:42.904046+00:00"
+ },
+ "bcc5080f4e5647dc": {
+  "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+  "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
+  "first_seen": "2026-11-17T15:30:42.904048+00:00"
+ },
+ "1632fb5fec801cff": {
+  "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+  "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
+  "first_seen": "2026-11-17T15:30:42.904050+00:00"
+ },
+ "38c9e25051247959": {
+  "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+  "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
+  "first_seen": "2026-11-17T15:30:42.904052+00:00"
+ },
+ "04d3ec1b70b8a2ff": {
+  "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+  "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+  "first_seen": "2026-11-17T15:30:42.904054+00:00"
+ },
+ "fbf783f99ae494c4": {
+  "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+  "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+  "first_seen": "2026-11-17T15:30:42.904057+00:00"
+ },
+ "1ffef78e4654b298": {
+  "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+  "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+  "first_seen": "2026-11-17T15:30:42.904060+00:00"
  }
 }
