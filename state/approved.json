@@ -1,37 +1,37 @@
 [
  {
-  "id": "a4a92fbcda03532a",
-  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-  "topic": "ai",
-  "story": "nvidia-huang-exit",
+  "id": "366e7dfafc88dc00",
+  "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+  "topic": "bitcoin",
+  "story": "singapore-germany-zk-payments",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Petition regarding Nvidia CEO's exit is a major corporate governance event affecting the AI chip market.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Named central-bank-adjacent cross-border settlement test using zero-knowledge proofs, a real infrastructure milestone.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "published": "Sat, 14 Nov 2026 21:41:22 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+    "summary": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
+    "published": "Mon, 16 Nov 2026 11:47:12 +0000"
    }
   ]
  },
  {
-  "id": "075bbfb634c2a8a5",
-  "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
-  "topic": "ai",
-  "story": "nvidia-huang-exit",
+  "id": "e69284e75f091ae7",
+  "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+  "topic": "bitcoin",
+  "story": "jpmorgan-dbs-tokenized-deposits",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Government reactions to Nvidia CEO exit are significant geopolitical and supply chain developments.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Major banks connecting blockchain deposit networks for 24/7 tokenized dollar transfers is a significant institutional infrastructure development.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "published": "Sat, 14 Nov 2026 16:34:15 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+    "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
+    "published": "Mon, 16 Nov 2026 08:46:00 +0000"
    }
   ]
  }

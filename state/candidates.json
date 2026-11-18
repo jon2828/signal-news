@@ -1,383 +1,5 @@
 [
  {
-  "id": "2b65f49987c721d5",
-  "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-    "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
-    "published": "Sun, 15 Nov 2026 14:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2bed2cca4d10f984",
-  "title": "Enterprise blockchain is going to come back from the dead",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg\" alt=\"Enterprise blockchain is going to come back from the dead\" class=\"type:primaryImage\"></p><p>With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.</p>",
-    "published": "Sun, 15 Nov 2026 14:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "78d292d3bc01b214",
-  "title": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
-    "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
-    "published": "Sun, 15 Nov 2026 20:33:17 +0000"
-   }
-  ]
- },
- {
-  "id": "a2ad9f1b1eb8baf6",
-  "title": "Old Bitly Links Are Being Hijacked",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-    "summary": "<p>Article URL: <a href=\"https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/\">https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511395\">https://news.ycombinator.com/item?id=50511395</a></p> <p>Points: 3</p> <p># Comments: 1</p>",
-    "published": "Sun, 15 Nov 2026 22:11:43 +0000"
-   }
-  ]
- },
- {
-  "id": "35f1024a1f760898",
-  "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/\">https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511072\">https://news.ycombinator.com/item?id=50511072</a></p> <p>Points: 10</p> <p># Comments: 4</p>",
-    "published": "Sun, 15 Nov 2026 21:38:11 +0000"
-   }
-  ]
- },
- {
-  "id": "d4704bee957cff08",
-  "title": "Your Agent Will Pick the Hackable One",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-    "summary": "<p>Article URL: <a href=\"https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/\">https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510799\">https://news.ycombinator.com/item?id=50510799</a></p> <p>Points: 35</p> <p># Comments: 15</p>",
-    "published": "Sun, 15 Nov 2026 21:10:39 +0000"
-   }
-  ]
- },
- {
-  "id": "a850a5bee1633730",
-  "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-    "summary": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch\">https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510442\">https://news.ycombinator.com/item?id=50510442</a></p> <p>Points: 50</p> <p># Comments: 15</p>",
-    "published": "Sun, 15 Nov 2026 20:37:28 +0000"
-   }
-  ]
- },
- {
-  "id": "b4260db782b8f2ad",
-  "title": "WebGL Flight Simulator with seed generated terrain",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://baron.by.dai.studio/",
-    "summary": "<p>Article URL: <a href=\"https://baron.by.dai.studio/\">https://baron.by.dai.studio/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510296\">https://news.ycombinator.com/item?id=50510296</a></p> <p>Points: 18</p> <p># Comments: 5</p>",
-    "published": "Sun, 15 Nov 2026 20:20:05 +0000"
-   }
-  ]
- },
- {
-  "id": "363403846a59849b",
-  "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://arkanumdata.com/research/house-trades",
-    "summary": "<p>Article URL: <a href=\"https://arkanumdata.com/research/house-trades\">https://arkanumdata.com/research/house-trades</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510005\">https://news.ycombinator.com/item?id=50510005</a></p> <p>Points: 90</p> <p># Comments: 88</p>",
-    "published": "Sun, 15 Nov 2026 19:46:02 +0000"
-   }
-  ]
- },
- {
-  "id": "8b7dc9abe9ccc38e",
-  "title": "Handwriting, as a Font",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://ductus.sorenblank.com",
-    "summary": "<p>Article URL: <a href=\"https://ductus.sorenblank.com\">https://ductus.sorenblank.com</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509972\">https://news.ycombinator.com/item?id=50509972</a></p> <p>Points: 25</p> <p># Comments: 2</p>",
-    "published": "Sun, 15 Nov 2026 19:42:13 +0000"
-   }
-  ]
- },
- {
-  "id": "4d28c30f6f5518f3",
-  "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://bruceroettgers.eu/blog/protomaps/",
-    "summary": "<p>Article URL: <a href=\"https://bruceroettgers.eu/blog/protomaps/\">https://bruceroettgers.eu/blog/protomaps/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509837\">https://news.ycombinator.com/item?id=50509837</a></p> <p>Points: 56</p> <p># Comments: 11</p>",
-    "published": "Sun, 15 Nov 2026 19:26:22 +0000"
-   }
-  ]
- },
- {
-  "id": "7c17e587ee6a2519",
-  "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/eclipse-mosquitto/mosquitto",
-    "summary": "<p>Article URL: <a href=\"https://github.com/eclipse-mosquitto/mosquitto\">https://github.com/eclipse-mosquitto/mosquitto</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509416\">https://news.ycombinator.com/item?id=50509416</a></p> <p>Points: 48</p> <p># Comments: 16</p>",
-    "published": "Sun, 15 Nov 2026 18:36:40 +0000"
-   }
-  ]
- },
- {
-  "id": "357c9f3ea7eef160",
-  "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-    "summary": "<p>Article URL: <a href=\"https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html\">https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509411\">https://news.ycombinator.com/item?id=50509411</a></p> <p>Points: 251</p> <p># Comments: 126</p>",
-    "published": "Sun, 15 Nov 2026 18:36:10 +0000"
-   }
-  ]
- },
- {
-  "id": "e6d6305ab1ab5a5e",
-  "title": "A short explainer on how El Ni\u00f1o works [video]",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=7_JF3etiAv8\">https://www.youtube.com/watch?v=7_JF3etiAv8</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509308\">https://news.ycombinator.com/item?id=50509308</a></p> <p>Points: 121</p> <p># Comments: 31</p>",
-    "published": "Sun, 15 Nov 2026 18:23:21 +0000"
-   }
-  ]
- },
- {
-  "id": "b99586870c44b266",
-  "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html\">https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509023\">https://news.ycombinator.com/item?id=50509023</a></p> <p>Points: 104</p> <p># Comments: 81</p>",
-    "published": "Sun, 15 Nov 2026 17:53:31 +0000"
-   }
-  ]
- },
- {
-  "id": "22acf745ec2426ba",
-  "title": "Clice v1.0 Released: Welcome to Modern C++",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://ykiko.me/en/articles/2105384023094834022/",
-    "summary": "<p>Article URL: <a href=\"https://ykiko.me/en/articles/2105384023094834022/\">https://ykiko.me/en/articles/2105384023094834022/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50508715\">https://news.ycombinator.com/item?id=50508715</a></p> <p>Points: 60</p> <p># Comments: 36</p>",
-    "published": "Sun, 15 Nov 2026 17:22:32 +0000"
-   }
-  ]
- },
- {
-  "id": "6547103c15026fd3",
-  "title": "Emacs Is My Browser",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-    "summary": "<p>Article URL: <a href=\"https://joshblais.com/blog/emacs-as-my-browser/\">https://joshblais.com/blog/emacs-as-my-browser/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507553\">https://news.ycombinator.com/item?id=50507553</a></p> <p>Points: 153</p> <p># Comments: 80</p>",
-    "published": "Sun, 15 Nov 2026 15:21:21 +0000"
-   }
-  ]
- },
- {
-  "id": "df7a37179ad8aadd",
-  "title": "All AI-generated code should be Open Source",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "summary": "<p>Article URL: <a href=\"https://jakub.jankiewicz.org/blog/ai-code-open-source/\">https://jakub.jankiewicz.org/blog/ai-code-open-source/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507303\">https://news.ycombinator.com/item?id=50507303</a></p> <p>Points: 989</p> <p># Comments: 549</p>",
-    "published": "Sun, 15 Nov 2026 14:46:58 +0000"
-   }
-  ]
- },
- {
-  "id": "dc388aee58abf2aa",
-  "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://prog21.dadgum.com/116.html",
-    "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/116.html\">https://prog21.dadgum.com/116.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506894\">https://news.ycombinator.com/item?id=50506894</a></p> <p>Points: 171</p> <p># Comments: 84</p>",
-    "published": "Sun, 15 Nov 2026 13:44:16 +0000"
-   }
-  ]
- },
- {
-  "id": "edccaa36305e4c5b",
-  "title": "The MacBook Pro's OLED PWM problem",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-    "summary": "<p>Article URL: <a href=\"https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/\">https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506719\">https://news.ycombinator.com/item?id=50506719</a></p> <p>Points: 369</p> <p># Comments: 195</p>",
-    "published": "Sun, 15 Nov 2026 13:15:22 +0000"
-   }
-  ]
- },
- {
-  "id": "96e1a1a80255c947",
-  "title": "A NES emulator written in Odin",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://lucypero.com/lucynes.html",
-    "summary": "<p>Article URL: <a href=\"https://lucypero.com/lucynes.html\">https://lucypero.com/lucynes.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506588\">https://news.ycombinator.com/item?id=50506588</a></p> <p>Points: 94</p> <p># Comments: 34</p>",
-    "published": "Sun, 15 Nov 2026 12:51:47 +0000"
-   }
-  ]
- },
- {
-  "id": "950ac38f23f2d5a7",
-  "title": "Understanding Positional Embeddings in Modern LLMs",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/understanding-positional-embeddings\">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506376\">https://news.ycombinator.com/item?id=50506376</a></p> <p>Points: 180</p> <p># Comments: 22</p>",
-    "published": "Sun, 15 Nov 2026 12:14:06 +0000"
-   }
-  ]
- },
- {
-  "id": "9e3d554c6cb56d83",
-  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "published": "Sun, 15 Nov 2026 21:56:35 +0000"
-   }
-  ]
- },
- {
-  "id": "d9bb72c7b4b43418",
-  "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week\u2019s episode gave the cast a chance to show off all their impressions at once.",
-    "published": "Sun, 15 Nov 2026 20:20:57 +0000"
-   }
-  ]
- },
- {
-  "id": "8327947f6831195e",
-  "title": "Flaming Hydra\u2019s new Kickstarter campaign rethinks e-book ownership and digital lending",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-    "summary": "A new Kickstarter campaign aims to usher in the \u201creturn of the human internet.\u201d",
-    "published": "Sun, 15 Nov 2026 18:29:14 +0000"
-   }
-  ]
- },
- {
-  "id": "0e3d88607bd3362c",
-  "title": "TechCrunch Mobility: The Nvidia backup plan for China\u2019s self-driving industry",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "published": "Sun, 15 Nov 2026 17:05:00 +0000"
-   }
-  ]
- },
- {
-  "id": "84e57f9fb52388b4",
-  "title": "The tech products we enthusiastically recommend this holiday season",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-    "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
-    "published": "Sun, 15 Nov 2026 16:00:00 +0000"
-   }
-  ]
- },
- {
   "id": "91e58e2ea930c2fa",
   "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
   "topic": "ai",
@@ -388,174 +10,6 @@
     "url": "https://openai.com/index/lvmh-media-division-partnership",
     "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
     "published": "Mon, 16 Nov 2026 09:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "e3915f7e4cf071c4",
-  "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/the-kings-trust-and-openai",
-    "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "bf5f256d61e9794f",
-  "title": "Solana drops \u2018beta\u2019 label after more than six years",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-    "summary": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
-    "published": "Mon, 16 Nov 2026 13:03:16 +0000"
-   }
-  ]
- },
- {
-  "id": "c9fcdfa989119c21",
-  "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-    "summary": "CZ says Binance isn\u2019t selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange\u2019s role in successive October crashes.",
-    "published": "Mon, 16 Nov 2026 12:55:46 +0000"
-   }
-  ]
- },
- {
-  "id": "72fdaf46d4e76715",
-  "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
-    "summary": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally.",
-    "published": "Mon, 16 Nov 2026 12:09:00 +0000"
-   }
-  ]
- },
- {
-  "id": "366e7dfafc88dc00",
-  "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
-    "summary": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
-    "published": "Mon, 16 Nov 2026 11:47:12 +0000"
-   }
-  ]
- },
- {
-  "id": "0636cc1df71edc7c",
-  "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-    "summary": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
-    "published": "Mon, 16 Nov 2026 11:03:14 +0000"
-   }
-  ]
- },
- {
-  "id": "c19994397ecccdb4",
-  "title": "Live updates: Bitcoin holding weekend plunge as November losses deepen to 17%",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-    "summary": "Strategy and Strive might be the only buyers left, and each \u2014 constrained by weak stock prices \u2014 made only modest purchases last week.",
-    "published": "Mon, 16 Nov 2026 09:34:18 +0000"
-   }
-  ]
- },
- {
-  "id": "ef1d4da9302d6b52",
-  "title": "FOMC minutes, Nvidia earnings, Russia\u2019s retail crypto rules: Crypto Week Ahead",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-    "summary": "Your look at what\u2019s coming in the week starting Nov. 16.",
-    "published": "Mon, 16 Nov 2026 09:23:07 +0000"
-   }
-  ]
- },
- {
-  "id": "e69284e75f091ae7",
-  "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-    "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
-    "published": "Mon, 16 Nov 2026 08:46:00 +0000"
-   }
-  ]
- },
- {
-  "id": "dff19a6269cc8d81",
-  "title": "Vitalik Buterin flips to \u2018total bull\u2019 on a faster route to quantum-safe Ethereum",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-    "summary": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
-    "published": "Mon, 16 Nov 2026 08:18:03 +0000"
-   }
-  ]
- },
- {
-  "id": "9aa2110251c88474",
-  "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-    "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
-    "published": "Mon, 16 Nov 2026 07:51:15 +0000"
-   }
-  ]
- },
- {
-  "id": "a8755514927dd993",
-  "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
-    "summary": "Toto Finance\u2019s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano\u2019s seven constitutional committee members voted yes.",
-    "published": "Mon, 16 Nov 2026 06:27:42 +0000"
    }
   ]
  },
@@ -3495,13 +2949,19 @@
   "id": "975ce675e1e92401",
   "title": "Coinbase expands onchain crypto loans to New York via Morpho",
   "topic": "bitcoin",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "theblock",
     "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
     "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.",
     "published": "Tue, 17 Nov 2026 18:00:02 +0000"
+   },
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
+    "summary": "In today's newsletter, Ark Invest buys crypto stocks while selling $85 million in Nvidia; Coinbase expands onchain crypto loans to New York via Morpho; and more.",
+    "published": "Wed, 18 Nov 2026 05:01:00 +0000"
    }
   ]
  },
@@ -4068,6 +3528,748 @@
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp\">Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
     "published": "Tue, 17 Nov 2026 17:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6cab9c8cd38347e3",
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "81d28d103b785612",
+  "title": "GPT-6.2 Astra \ud83e\udde0, Microsoft\u2019s seven models \ud83d\ude80, Replit Missions \ud83e\udd16",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-11-18",
+    "summary": "",
+    "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "7385bda8fbde2d5e",
+  "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+    "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
+    "published": "Wed, 18 Nov 2026 12:53:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fe9984c7f4e36fcb",
+  "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+    "summary": "The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin.",
+    "published": "Wed, 18 Nov 2026 12:41:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "478a12905b3111f8",
+  "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+    "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
+    "published": "Wed, 18 Nov 2026 12:25:14 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c5b36512878d01d9",
+  "title": "Blaming Anthropic\u2019s IPO for bitcoin\u2019s slide is 'easy to believe,' but flawed, analysts say",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+    "summary": "Your day-ahead look for Nov. 18, 2026",
+    "published": "Wed, 18 Nov 2026 12:15:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ca872d7b37d43f1f",
+  "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+    "summary": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
+    "published": "Wed, 18 Nov 2026 11:42:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f51d65222e439a80",
+  "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+    "summary": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.",
+    "published": "Wed, 18 Nov 2026 10:58:36 +0000"
+   }
+  ]
+ },
+ {
+  "id": "66b65aa078cc2636",
+  "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+    "summary": "Aksel Kibar, who has tracked Bitcoin\u2019s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy\u2019s (MSTR) daily chart.",
+    "published": "Wed, 18 Nov 2026 09:31:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a752f9bdec9e3bf2",
+  "title": "Hyundai tests AI agent commerce on JPMorgan\u2019s Kinexys blockchain",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+    "summary": "The exploration of AI agents with JPMorgan builds on Hyundai\u2019s recent stablecoin-based cross-border remittance pilot.",
+    "published": "Wed, 18 Nov 2026 09:14:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7a0a726141809176",
+  "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+    "summary": "Google spots an AI that can find and exploit software flaws on its own, no human needed.",
+    "published": "Wed, 18 Nov 2026 07:37:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "98548b43dfdcd214",
+  "title": "Live updates: Bitcoin slides towards $63,000 as U.S. stocks fall and Nvidia erases gains",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+    "summary": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto\u2019s favorite carry trade now pays about the same as U.S. Treasuries.",
+    "published": "Wed, 18 Nov 2026 07:27:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "020a15a1edf23116",
+  "title": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government\u2019s first criminal case over the practice known as MEV.",
+    "published": "Wed, 18 Nov 2026 05:30:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5645e63938edc2e0",
+  "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here\u2019s what happened next.",
+    "published": "Wed, 18 Nov 2026 04:34:21 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1740becdd44b8927",
+  "title": "XRP whales moved $270 million during the selloff. The coins didn\u2019t go to exchanges",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+    "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit.",
+    "published": "Wed, 18 Nov 2026 04:28:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c1dc3a4a9a8465ef",
+  "title": "Bitcoin Covenants Part 6: FE Covenants \u2014 Enforcing covenants through cryptographically restricted signing keys",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg\" alt=\"Bitcoin Covenants Part 6: FE Covenants \u2014 Enforcing covenants through cryptographically restricted signing keys\" class=\"type:primaryImage\"></p><p>FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed. </p>",
+    "published": "Wed, 18 Nov 2026 14:04:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a061268606ba8170",
+  "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg\" alt=\"CoinShares sells all treasury ETH, halves SOL holdings for buybacks\" class=\"type:primaryImage\"></p><p>The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.</p>",
+    "published": "Wed, 18 Nov 2026 13:42:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "767bfe30eb100fef",
+  "title": "Sanctions fears loom over Russia\u2019s regulated crypto trading launch",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q75JXEH3W3H0DFN6HB6KQR/contemplative-coin-character.png\" alt=\"Sanctions fears loom over Russia\u2019s regulated crypto trading launch\" class=\"type:primaryImage\"></p><p>Russia\u2019s crypto trading rollout faces uncertainty as companies weigh sanctions exposure, while Moscow Exchange prepares to launch crypto trading in December.</p>",
+    "published": "Wed, 18 Nov 2026 13:32:19 +0000"
+   }
+  ]
+ },
+ {
+  "id": "99ca5e1134861d4a",
+  "title": "How to preserve wealth and access funds during a national emergency",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NTHS8XZJPX88HFGPM5APW7/toned-down-explosion.png\" alt=\"How to preserve wealth and access funds during a national emergency\" class=\"type:primaryImage\"></p><p>As geopolitical and technological threats multiply, the big question is whether you can hold on to your wealth and access funds when the system fails.</p>",
+    "published": "Wed, 18 Nov 2026 13:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d8a0e243c5aed603",
+  "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang\u2019s exit",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q7NKG0EFP1GGQ9YBYJNTQS/hi-nvidia-becomes-its-own-chip-maker.jpg\" alt=\"Tokenized Nvidia market cap surges 159% amid Jensen Huang\u2019s exit\" class=\"type:primaryImage\"></p><p>Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang stepped down and the chipmaker posted record quarterly revenue.</p>",
+    "published": "Wed, 18 Nov 2026 12:53:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2074cf021cdc3820",
+  "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q2P5HGE3ZFSJ3N0EK6V580/zcash-etf.png\" alt=\"Bitwise seeks Texas Stock Exchange listing for Zcash ETF\" class=\"type:primaryImage\"></p><p>Coinbase Custody would safeguard the fund\u2019s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor.</p>",
+    "published": "Wed, 18 Nov 2026 10:33:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c2af4948e5d8e298",
+  "title": "Bitcoin steadies after Nvidia\u2019s earnings beat as $60K bids stand out",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp\" alt=\"Bitcoin steadies after Nvidia\u2019s earnings beat as $60K bids stand out\" class=\"type:primaryImage\"></p><p>Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea\u2019s tech-heavy KOSPI reclaiming 5,000 points.</p>",
+    "published": "Wed, 18 Nov 2026 10:31:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "91a735d393b12845",
+  "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg\" alt=\"World Bank partners with Circle, Citi to explore stablecoins for payments\" class=\"type:primaryImage\"></p><p>The initiative builds on the World Bank\u2019s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.</p>",
+    "published": "Wed, 18 Nov 2026 09:17:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "07367d4a76e0fd1c",
+  "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png\" alt=\"SOL comes out of Breakpoint 7% higher as Solana exits beta\" class=\"type:primaryImage\"></p><p>Solana\u2019s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch.</p>",
+    "published": "Wed, 18 Nov 2026 08:41:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "36637e8825672b8e",
+  "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg\" alt=\"Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase\" class=\"type:primaryImage\"></p><p>Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase.</p>",
+    "published": "Wed, 18 Nov 2026 08:09:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c62ab588a59bafac",
+  "title": "Ledger hardware implant saga reaches Dubai\u2019s Virgin Megastore",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg\" alt=\"Ledger hardware implant saga reaches Dubai\u2019s Virgin Megastore\" class=\"type:primaryImage\"></p><p>Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.</p>",
+    "published": "Wed, 18 Nov 2026 02:39:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ccea917e0f58237e",
+  "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+    "summary": "The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization.",
+    "published": "Wed, 18 Nov 2026 14:49:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "421742b73842a9b0",
+  "title": "\u2018Gift from the market\u2019: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+    "summary": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection.",
+    "published": "Wed, 18 Nov 2026 14:01:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "68b7779b57d875c5",
+  "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
+    "summary": "TD Cowen said staking rewards drove a modest increase in Sharplink\u2019s ETH holdings as it took a more conservative view of ether\u2019s price path.",
+    "published": "Wed, 18 Nov 2026 11:08:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "eab6c7f3334df303",
+  "title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+    "summary": "DBS and Circle are expanding institutional access to USDC with direct minting, redemption and 24/7 dollar settlement.",
+    "published": "Wed, 18 Nov 2026 09:28:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7144e477928c9b92",
+  "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+    "summary": "HKMA Executive Director Raymond Chan said AI could help analyze both onchain transfers and offchain customer transactions to flag anomalies.",
+    "published": "Wed, 18 Nov 2026 08:43:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "490db46d22e5ffbd",
+  "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+    "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
+    "published": "Wed, 18 Nov 2026 04:21:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4d0b16b8e3de0cdc",
+  "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+    "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+    "published": "Wed, 18 Nov 2026 02:47:51 +0000"
+   }
+  ]
+ },
+ {
+  "id": "04f85f12c3ebf17a",
+  "title": "What\u2019s happening to crypto startup valuations?",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+    "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+    "published": "Wed, 18 Nov 2026 02:40:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f45c67f96747d3eb",
+  "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "summary": "<p>Article URL: <a href=\"https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026\">https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546914\">https://news.ycombinator.com/item?id=50546914</a></p> <p>Points: 26</p> <p># Comments: 3</p>",
+    "published": "Wed, 18 Nov 2026 14:43:52 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5fec164962b8a94f",
+  "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+    "summary": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/11/261110042543.htm\">https://www.sciencedaily.com/releases/2026/11/261110042543.htm</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546465\">https://news.ycombinator.com/item?id=50546465</a></p> <p>Points: 17</p> <p># Comments: 7</p>",
+    "published": "Wed, 18 Nov 2026 14:03:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "21e5e6e44521c041",
+  "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+    "summary": "<p>Article URL: <a href=\"https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf\">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546312\">https://news.ycombinator.com/item?id=50546312</a></p> <p>Points: 42</p> <p># Comments: 36</p>",
+    "published": "Wed, 18 Nov 2026 13:51:03 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b1281458bec0d6cf",
+  "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "summary": "<p>Article URL: <a href=\"https://techstackups.com/articles/quad9-leaves-france-dns-blocking/\">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50545958\">https://news.ycombinator.com/item?id=50545958</a></p> <p>Points: 181</p> <p># Comments: 37</p>",
+    "published": "Wed, 18 Nov 2026 13:18:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2904a25fde7ad528",
+  "title": "Evidence (YC S21) Is Hiring",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead\">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50545238\">https://news.ycombinator.com/item?id=50545238</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
+    "published": "Wed, 18 Nov 2026 12:00:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7320a2f0d567d0f9",
+  "title": "Show HN: Type Fighter 2",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://typefighter2.com/",
+    "summary": "<p>Type Fighter II is an arcade inspired game for people learning to touch type.<p>Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.</p> <hr> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50544821\">https://news.ycombinator.com/item?id=50544821</a></p> <p>Points: 45</p> <p># Comments: 19</p>",
+    "published": "Wed, 18 Nov 2026 11:11:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "23a6e8d38fa0e0cc",
+  "title": "Energy-Based Reasoners: 385x more efficient inference",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://energy-based-reasoners.github.io/",
+    "summary": "<p>Article URL: <a href=\"https://energy-based-reasoners.github.io/\">https://energy-based-reasoners.github.io/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50543989\">https://news.ycombinator.com/item?id=50543989</a></p> <p>Points: 199</p> <p># Comments: 29</p>",
+    "published": "Wed, 18 Nov 2026 09:29:32 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f1feb2e4bb485c20",
+  "title": "AI is killing All About Berlin",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "summary": "<p>Article URL: <a href=\"https://nicolasbouliane.com/blog/death-by-ai\">https://nicolasbouliane.com/blog/death-by-ai</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542705\">https://news.ycombinator.com/item?id=50542705</a></p> <p>Points: 613</p> <p># Comments: 574</p>",
+    "published": "Wed, 18 Nov 2026 06:47:26 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8a08cadf9fa3263b",
+  "title": "Why is Gemini 4 Carbon taking so long?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "summary": "<p>Article URL: <a href=\"https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/\">https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541790\">https://news.ycombinator.com/item?id=50541790</a></p> <p>Points: 202</p> <p># Comments: 100</p>",
+    "published": "Wed, 18 Nov 2026 04:14:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9ab622ee82f843c3",
+  "title": "Claude was trained on protein sequences at scale",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "summary": "<p>Article URL: <a href=\"http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/\">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541619\">https://news.ycombinator.com/item?id=50541619</a></p> <p>Points: 117</p> <p># Comments: 53</p>",
+    "published": "Wed, 18 Nov 2026 03:47:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b62bd855be3d35d2",
+  "title": "ID.me terms required for IRS sign-in",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+    "summary": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540437\">https://news.ycombinator.com/item?id=50540437</a></p> <p>Points: 422</p> <p># Comments: 221</p>",
+    "published": "Wed, 18 Nov 2026 00:51:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f2df59b272b9017b",
+  "title": "Google's AI answers reducing search traffic by 40%",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "summary": "<p>Article URL: <a href=\"https://revscope.co/blog/search-seo-geo-2026/\">https://revscope.co/blog/search-seo-geo-2026/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540178\">https://news.ycombinator.com/item?id=50540178</a></p> <p>Points: 590</p> <p># Comments: 446</p>",
+    "published": "Wed, 18 Nov 2026 00:17:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5c441d68610c0b14",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "summary": "<p>Article URL: <a href=\"https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\">https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538303\">https://news.ycombinator.com/item?id=50538303</a></p> <p>Points: 260</p> <p># Comments: 350</p>",
+    "published": "Tue, 17 Nov 2026 21:16:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9610a86cb8015f07",
+  "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+    "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+    "published": "Wed, 18 Nov 2026 14:55:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5d3a453ab03ddae1",
+  "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014keep financing neoclouds",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "published": "Wed, 18 Nov 2026 13:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "620756f297e99f3c",
+  "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "published": "Wed, 18 Nov 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "996c920e2c06362c",
+  "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "published": "Wed, 18 Nov 2026 11:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "59b4b7589a725568",
+  "title": "China dominates battery graphite, but this startup could break the monopoly",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+    "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+    "published": "Wed, 18 Nov 2026 11:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d652f478feeed9d6",
+  "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future deals in doubt",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "published": "Wed, 18 Nov 2026 01:44:21 +0000"
    }
   ]
  }
