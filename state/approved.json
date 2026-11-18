@@ -1,37 +1,37 @@
 [
  {
-  "id": "ec577d4c46a6d8ce",
-  "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+  "id": "a4a92fbcda03532a",
+  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
   "topic": "ai",
-  "story": "jensen-huang-resignation",
-  "score": 8,
-  "raw_score": 9,
+  "story": "nvidia-huang-exit",
+  "score": 7,
+  "raw_score": 8,
   "weight": 0.9,
-  "reason": "Departure of Nvidia's CEO is a major market-moving event with significant implications for AI infrastructure and funding.",
+  "reason": "Petition regarding Nvidia CEO's exit is a major corporate governance event affecting the AI chip market.",
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "published": "Fri, 13 Nov 2026 22:43:00 +0000"
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "published": "Sat, 14 Nov 2026 21:41:22 +0000"
    }
   ]
  },
  {
-  "id": "3dc626ea28ff3a7d",
-  "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
+  "id": "075bbfb634c2a8a5",
+  "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
   "topic": "ai",
-  "story": "china-nvidia-chips",
+  "story": "nvidia-huang-exit",
   "score": 7,
   "raw_score": 8,
   "weight": 0.9,
-  "reason": "Reveals potential failure of US export controls, a critical geopolitical and regulatory issue for AI.",
+  "reason": "Government reactions to Nvidia CEO exit are significant geopolitical and supply chain developments.",
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "published": "Fri, 13 Nov 2026 18:40:30 +0000"
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "published": "Sat, 14 Nov 2026 16:34:15 +0000"
    }
   ]
  }

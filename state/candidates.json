@@ -1,841 +1,5 @@
 [
  {
-  "id": "2feca863a4629bb4",
-  "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png\" alt=\"OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex\" class=\"type:primaryImage\"></p><p>OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.</p>",
-    "published": "Fri, 13 Nov 2026 22:01:03 +0000"
-   }
-  ]
- },
- {
-  "id": "8d92d1f3d7af1f1d",
-  "title": "Ethereum and Layer 1s Explained",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-    "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-    "published": "Fri, 13 Nov 2026 14:12:23 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
-    "summary": "Layer 2 101 explains why blockchains need to scale and how Layer 2s help. It covers rollups, sidechains and appchains, monolithic vs modular design, Layer 2 tokens and incentives, and the trade-offs between speed, cost and security.",
-    "published": "Mon, 16 Nov 2026 14:56:48 +0000"
-   }
-  ]
- },
- {
-  "id": "d25e210f3f7b1fa6",
-  "title": "Terminal borders that don't cost a cell",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.joshka.net/cell-borders/",
-    "summary": "<p>Article URL: <a href=\"https://www.joshka.net/cell-borders/\">https://www.joshka.net/cell-borders/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491423\">https://news.ycombinator.com/item?id=50491423</a></p> <p>Points: 4</p> <p># Comments: 0</p>",
-    "published": "Fri, 13 Nov 2026 23:06:40 +0000"
-   }
-  ]
- },
- {
-  "id": "21ab7432dba474e0",
-  "title": "Claude Meetings",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://claude.com/resources/articles/claude-meetings",
-    "summary": "<p>Article URL: <a href=\"https://claude.com/resources/articles/claude-meetings\">https://claude.com/resources/articles/claude-meetings</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491097\">https://news.ycombinator.com/item?id=50491097</a></p> <p>Points: 32</p> <p># Comments: 16</p>",
-    "published": "Fri, 13 Nov 2026 22:39:15 +0000"
-   }
-  ]
- },
- {
-  "id": "d8179c5b0e6054eb",
-  "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
-  "topic": "both",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
-    "summary": "<p>Article URL: <a href=\"https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage\">https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490778\">https://news.ycombinator.com/item?id=50490778</a></p> <p>Points: 58</p> <p># Comments: 13</p>",
-    "published": "Fri, 13 Nov 2026 22:16:11 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-    "summary": "<p>Article URL: <a href=\"https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111\">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489641\">https://news.ycombinator.com/item?id=50489641</a></p> <p>Points: 934</p> <p># Comments: 549</p>",
-    "published": "Fri, 13 Nov 2026 21:05:53 +0000"
-   }
-  ]
- },
- {
-  "id": "117b7aeaaeee9acb",
-  "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://orcasairband.com/",
-    "summary": "<p>Article URL: <a href=\"https://orcasairband.com/\">https://orcasairband.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490593\">https://news.ycombinator.com/item?id=50490593</a></p> <p>Points: 56</p> <p># Comments: 21</p>",
-    "published": "Fri, 13 Nov 2026 22:04:24 +0000"
-   }
-  ]
- },
- {
-  "id": "729635c933e3da18",
-  "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-  "topic": "both",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-    "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/11/13/faa-nationwide-ground-stop\">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489678\">https://news.ycombinator.com/item?id=50489678</a></p> <p>Points: 92</p> <p># Comments: 26</p>",
-    "published": "Fri, 13 Nov 2026 21:08:49 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-    "summary": "<p>Article URL: <a href=\"https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\">https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492315\">https://news.ycombinator.com/item?id=50492315</a></p> <p>Points: 172</p> <p># Comments: 63</p>",
-    "published": "Sat, 14 Nov 2026 00:52:29 +0000"
-   }
-  ]
- },
- {
-  "id": "a99b67c91f9fefc7",
-  "title": "All US airports are currently ground stopped",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/flightradar24/status/2121347654714077605\">https://twitter.com/flightradar24/status/2121347654714077605</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489652\">https://news.ycombinator.com/item?id=50489652</a></p> <p>Points: 112</p> <p># Comments: 23</p>",
-    "published": "Fri, 13 Nov 2026 21:06:52 +0000"
-   }
-  ]
- },
- {
-  "id": "d11365f0dd8c900d",
-  "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://atg.science/careers",
-    "summary": "<p>Article URL: <a href=\"https://atg.science/careers\">https://atg.science/careers</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489589\">https://news.ycombinator.com/item?id=50489589</a></p> <p>Points: 0</p> <p># Comments: 0</p>",
-    "published": "Fri, 13 Nov 2026 21:01:11 +0000"
-   }
-  ]
- },
- {
-  "id": "326c642066101046",
-  "title": "Big tech is here to let us down",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-    "summary": "<p>Article URL: <a href=\"https://blog.jsweeting.me/big-tech-is-here-to-let-us-down\">https://blog.jsweeting.me/big-tech-is-here-to-let-us-down</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489083\">https://news.ycombinator.com/item?id=50489083</a></p> <p>Points: 166</p> <p># Comments: 156</p>",
-    "published": "Fri, 13 Nov 2026 20:20:30 +0000"
-   }
-  ]
- },
- {
-  "id": "504572814b78bd29",
-  "title": "Live-migration support in FreeBSD and bhyve coming",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-    "summary": "<p>Article URL: <a href=\"https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/\">https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488835\">https://news.ycombinator.com/item?id=50488835</a></p> <p>Points: 46</p> <p># Comments: 5</p>",
-    "published": "Fri, 13 Nov 2026 19:58:42 +0000"
-   }
-  ]
- },
- {
-  "id": "f0632826eee2438b",
-  "title": "No AI Slop: A Manifesto",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.slopmanifesto.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.slopmanifesto.com/\">https://www.slopmanifesto.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488769\">https://news.ycombinator.com/item?id=50488769</a></p> <p>Points: 156</p> <p># Comments: 90</p>",
-    "published": "Fri, 13 Nov 2026 19:51:56 +0000"
-   }
-  ]
- },
- {
-  "id": "b99b3bf0ad66bc14",
-  "title": "Found: A protein that drives ageing without unleashing inflammation",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.nature.com/articles/d41586-026-03638-3",
-    "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-03638-3\">https://www.nature.com/articles/d41586-026-03638-3</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488470\">https://news.ycombinator.com/item?id=50488470</a></p> <p>Points: 75</p> <p># Comments: 16</p>",
-    "published": "Fri, 13 Nov 2026 19:25:21 +0000"
-   }
-  ]
- },
- {
-  "id": "18188c8ad3a84a54",
-  "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-    "summary": "<p>Article URL: <a href=\"https://www.perplexity.ai/hub/blog/perplexity-decider\">https://www.perplexity.ai/hub/blog/perplexity-decider</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488464\">https://news.ycombinator.com/item?id=50488464</a></p> <p>Points: 79</p> <p># Comments: 17</p>",
-    "published": "Fri, 13 Nov 2026 19:24:47 +0000"
-   }
-  ]
- },
- {
-  "id": "9ce677af608292ed",
-  "title": "FM-1 Workbench",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://open.m-vave.com/fm1-workbench",
-    "summary": "<p>Article URL: <a href=\"https://open.m-vave.com/fm1-workbench\">https://open.m-vave.com/fm1-workbench</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488325\">https://news.ycombinator.com/item?id=50488325</a></p> <p>Points: 147</p> <p># Comments: 88</p>",
-    "published": "Fri, 13 Nov 2026 19:14:02 +0000"
-   }
-  ]
- },
- {
-  "id": "406adb72e8949f5d",
-  "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-    "summary": "<p>Article URL: <a href=\"https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas\">https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487864\">https://news.ycombinator.com/item?id=50487864</a></p> <p>Points: 250</p> <p># Comments: 135</p>",
-    "published": "Fri, 13 Nov 2026 18:40:44 +0000"
-   }
-  ]
- },
- {
-  "id": "853e3d7c54536274",
-  "title": "Models can now transmit viruses in weight-space",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-    "summary": "<p>Article URL: <a href=\"https://www.alphaxiv.org/abs/2611.weight-space-misfolding\">https://www.alphaxiv.org/abs/2611.weight-space-misfolding</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487762\">https://news.ycombinator.com/item?id=50487762</a></p> <p>Points: 124</p> <p># Comments: 45</p>",
-    "published": "Fri, 13 Nov 2026 18:33:35 +0000"
-   }
-  ]
- },
- {
-  "id": "f63d448960e496f1",
-  "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-    "summary": "<p>Article URL: <a href=\"https://toninoble.com/post/ctrlc-ctrlv-ctrlcve\">https://toninoble.com/post/ctrlc-ctrlv-ctrlcve</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487605\">https://news.ycombinator.com/item?id=50487605</a></p> <p>Points: 53</p> <p># Comments: 24</p>",
-    "published": "Fri, 13 Nov 2026 18:23:49 +0000"
-   }
-  ]
- },
- {
-  "id": "604d9eeaf0f49cbe",
-  "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/\">https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487522\">https://news.ycombinator.com/item?id=50487522</a></p> <p>Points: 226</p> <p># Comments: 113</p>",
-    "published": "Fri, 13 Nov 2026 18:18:37 +0000"
-   }
-  ]
- },
- {
-  "id": "3d3e0a33fa9ece80",
-  "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://isometricsf.com/",
-    "summary": "<p>Technical Write-up: <a href=\"https://www.justinchavez.com/blog/isometric-sf-how/\" rel=\"nofollow\">https://www.justinchavez.com/blog/isometric-sf-how/</a><p>Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley.<p>The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final ma",
-    "published": "Fri, 13 Nov 2026 17:58:37 +0000"
-   }
-  ]
- },
- {
-  "id": "1907856967701e7b",
-  "title": "How to Create Your Own Decentralized Messenger Protocol",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
-    "summary": "<p>Article URL: <a href=\"https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol\">https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498073\">https://news.ycombinator.com/item?id=50498073</a></p> <p>Points: 46</p> <p># Comments: 8</p>",
-    "published": "Sat, 14 Nov 2026 16:01:04 +0000"
-   }
-  ]
- },
- {
-  "id": "85898c0796640ac4",
-  "title": "PyPI's redesigned project pages with clearer security signals are now live",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-    "summary": "<p>Article URL: <a href=\"https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497892\">https://news.ycombinator.com/item?id=50497892</a></p> <p>Points: 173</p> <p># Comments: 78</p>",
-    "published": "Sat, 14 Nov 2026 15:40:52 +0000"
-   }
-  ]
- },
- {
-  "id": "4dfaa369637f0c6d",
-  "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax\">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497589\">https://news.ycombinator.com/item?id=50497589</a></p> <p>Points: 118</p> <p># Comments: 7</p>",
-    "published": "Sat, 14 Nov 2026 15:04:15 +0000"
-   }
-  ]
- },
- {
-  "id": "6cef2aaaf2f7d57e",
-  "title": "Demystifying phone unlocking tools: A technical overview",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-    "summary": "<p>Article URL: <a href=\"https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/\">https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497416\">https://news.ycombinator.com/item?id=50497416</a></p> <p>Points: 49</p> <p># Comments: 1</p>",
-    "published": "Sat, 14 Nov 2026 14:44:28 +0000"
-   }
-  ]
- },
- {
-  "id": "3f060b226b666014",
-  "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/paul-nameless/agweb",
-    "summary": "<p>Article URL: <a href=\"https://github.com/paul-nameless/agweb\">https://github.com/paul-nameless/agweb</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497147\">https://news.ycombinator.com/item?id=50497147</a></p> <p>Points: 77</p> <p># Comments: 21</p>",
-    "published": "Sat, 14 Nov 2026 14:08:12 +0000"
-   }
-  ]
- },
- {
-  "id": "72a071207df16de5",
-  "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/FURSOY/fursoy-cpu",
-    "summary": "<p>Article URL: <a href=\"https://github.com/FURSOY/fursoy-cpu\">https://github.com/FURSOY/fursoy-cpu</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497137\">https://news.ycombinator.com/item?id=50497137</a></p> <p>Points: 61</p> <p># Comments: 19</p>",
-    "published": "Sat, 14 Nov 2026 14:06:34 +0000"
-   }
-  ]
- },
- {
-  "id": "5bfa2e37b7da2747",
-  "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://gitlab.com/snipedbywifi/terminactory",
-    "summary": "<p>Hey HN readers!<p>I'm snipedbywifi (<a href=\"https://gitlab.com/snipedbywifi\" rel=\"nofollow\">https://gitlab.com/snipedbywifi</a>), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish!<p>The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some",
-    "published": "Sat, 14 Nov 2026 14:05:54 +0000"
-   }
-  ]
- },
- {
-  "id": "b02211b1de7e74be",
-  "title": "Italy fines Meta $887M over Android users' data access",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/\">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497009\">https://news.ycombinator.com/item?id=50497009</a></p> <p>Points: 277</p> <p># Comments: 184</p>",
-    "published": "Sat, 14 Nov 2026 13:48:06 +0000"
-   }
-  ]
- },
- {
-  "id": "037a38fb5a471b4c",
-  "title": "KDE: The documentary [video]",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "summary": "<p>Article URL: <a href=\"https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c\">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496976\">https://news.ycombinator.com/item?id=50496976</a></p> <p>Points: 321</p> <p># Comments: 70</p>",
-    "published": "Sat, 14 Nov 2026 13:43:28 +0000"
-   }
-  ]
- },
- {
-  "id": "a7ab4e0023a4dc87",
-  "title": "A visual explanation of reinforcement learning",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://aatishb.com/myriad/how-brains-learn/",
-    "summary": "<p>Article URL: <a href=\"https://aatishb.com/myriad/how-brains-learn/\">https://aatishb.com/myriad/how-brains-learn/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496885\">https://news.ycombinator.com/item?id=50496885</a></p> <p>Points: 94</p> <p># Comments: 6</p>",
-    "published": "Sat, 14 Nov 2026 13:31:06 +0000"
-   }
-  ]
- },
- {
-  "id": "90d40fe08702a974",
-  "title": "Advancing science and engineering with Antigravity's /teamwork",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "summary": "<p>Article URL: <a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496811\">https://news.ycombinator.com/item?id=50496811</a></p> <p>Points: 138</p> <p># Comments: 33</p>",
-    "published": "Sat, 14 Nov 2026 13:20:43 +0000"
-   }
-  ]
- },
- {
-  "id": "f67a5ae71b6ef2be",
-  "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again\">https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496602\">https://news.ycombinator.com/item?id=50496602</a></p> <p>Points: 394</p> <p># Comments: 151</p>",
-    "published": "Sat, 14 Nov 2026 12:45:45 +0000"
-   }
-  ]
- },
- {
-  "id": "a4a92fbcda03532a",
-  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "published": "Sat, 14 Nov 2026 21:41:22 +0000"
-   }
-  ]
- },
- {
-  "id": "0f3c66386c82c288",
-  "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-    "published": "Sat, 14 Nov 2026 20:04:44 +0000"
-   }
-  ]
- },
- {
-  "id": "08ed142fce60c02f",
-  "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-    "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-    "published": "Sat, 14 Nov 2026 18:00:00 +0000"
-   }
-  ]
- },
- {
-  "id": "2aae0ad36a1c0089",
-  "title": "Transportation secretary blames \u2018routine\u2019 equipment upgrade for grounding flights nationwide",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-    "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-    "published": "Sat, 14 Nov 2026 17:45:04 +0000"
-   }
-  ]
- },
- {
-  "id": "7134e7e1ad670b60",
-  "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "published": "Sat, 14 Nov 2026 17:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "075bbfb634c2a8a5",
-  "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "published": "Sat, 14 Nov 2026 16:34:15 +0000"
-   }
-  ]
- },
- {
-  "id": "439321df36583b4a",
-  "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-    "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-    "published": "Sun, 15 Nov 2026 02:50:57 +0000"
-   }
-  ]
- },
- {
-  "id": "5e8404f2326536b8",
-  "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-  "topic": "bitcoin",
-  "source_count": 2,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg\" alt=\"Bitcoin falls to four-month low near $62K as crypto selloff deepens\" class=\"type:primaryImage\"></p><p>The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.</p>",
-    "published": "Sun, 15 Nov 2026 10:23:17 +0000"
-   },
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-    "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
-    "published": "Sun, 15 Nov 2026 21:57:53 +0000"
-   }
-  ]
- },
- {
-  "id": "bfd4ef0724ce4fb6",
-  "title": "Coinone warns of phishing, identity theft after customer data breach",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png\" alt=\"Coinone warns of phishing, identity theft after customer data breach\" class=\"type:primaryImage\"></p><p>The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.</p>",
-    "published": "Sun, 15 Nov 2026 08:07:58 +0000"
-   }
-  ]
- },
- {
-  "id": "0371d9c90720006f",
-  "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg\" alt=\"RWA protocol stUSDT winds down three years after $2.3B TVL peak\" class=\"type:primaryImage\"></p><p>The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.</p>",
-    "published": "Sun, 15 Nov 2026 06:27:26 +0000"
-   }
-  ]
- },
- {
-  "id": "3ce3646c46f5b034",
-  "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-    "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-    "published": "Sat, 14 Nov 2026 23:07:35 +0000"
-   }
-  ]
- },
- {
-  "id": "768d7342d58866f1",
-  "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html\">https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506180\">https://news.ycombinator.com/item?id=50506180</a></p> <p>Points: 15</p> <p># Comments: 1</p>",
-    "published": "Sun, 15 Nov 2026 11:40:51 +0000"
-   }
-  ]
- },
- {
-  "id": "91e375cc559dcd99",
-  "title": "Why did some Apollo missions carry a grenade launcher?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://space.stackexchange.com/questions/37775",
-    "summary": "<p>Article URL: <a href=\"https://space.stackexchange.com/questions/37775\">https://space.stackexchange.com/questions/37775</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50505271\">https://news.ycombinator.com/item?id=50505271</a></p> <p>Points: 83</p> <p># Comments: 51</p>",
-    "published": "Sun, 15 Nov 2026 09:06:43 +0000"
-   }
-  ]
- },
- {
-  "id": "d9ed407767db02f6",
-  "title": "Book list for streetfighting computer scientists",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-    "summary": "<p>Article URL: <a href=\"https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists\">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504718\">https://news.ycombinator.com/item?id=50504718</a></p> <p>Points: 50</p> <p># Comments: 16</p>",
-    "published": "Sun, 15 Nov 2026 07:08:50 +0000"
-   }
-  ]
- },
- {
-  "id": "7ca073d79e2cca2f",
-  "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://netbsd.org/~nia/disk-encrypt/",
-    "summary": "<p>Article URL: <a href=\"https://netbsd.org/~nia/disk-encrypt/\">https://netbsd.org/~nia/disk-encrypt/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504277\">https://news.ycombinator.com/item?id=50504277</a></p> <p>Points: 57</p> <p># Comments: 10</p>",
-    "published": "Sun, 15 Nov 2026 05:29:54 +0000"
-   }
-  ]
- },
- {
-  "id": "6e99cd2a6aeba568",
-  "title": "Kiri \u2013 The Modern Container Runtime",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://runkiri.com/",
-    "summary": "<p>Article URL: <a href=\"https://runkiri.com/\">https://runkiri.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504077\">https://news.ycombinator.com/item?id=50504077</a></p> <p>Points: 68</p> <p># Comments: 31</p>",
-    "published": "Sun, 15 Nov 2026 04:40:41 +0000"
-   }
-  ]
- },
- {
-  "id": "ad99aa62f0ef8eaf",
-  "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Tthanh2k6/turbo-browser-mcp\">https://github.com/Tthanh2k6/turbo-browser-mcp</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503930\">https://news.ycombinator.com/item?id=50503930</a></p> <p>Points: 40</p> <p># Comments: 8</p>",
-    "published": "Sun, 15 Nov 2026 04:09:11 +0000"
-   }
-  ]
- },
- {
-  "id": "7a08a67eadce039b",
-  "title": "My favourite modern NES games",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-    "summary": "<p>Article URL: <a href=\"https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/\">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503465\">https://news.ycombinator.com/item?id=50503465</a></p> <p>Points: 126</p> <p># Comments: 12</p>",
-    "published": "Sun, 15 Nov 2026 02:41:25 +0000"
-   }
-  ]
- },
- {
-  "id": "4f0ce258a369f239",
-  "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503255\">https://news.ycombinator.com/item?id=50503255</a></p> <p>Points: 267</p> <p># Comments: 72</p>",
-    "published": "Sun, 15 Nov 2026 02:00:54 +0000"
-   }
-  ]
- },
- {
-  "id": "14ba8d16905942f3",
-  "title": "Court denies motion to dismiss DRAM price fixing case",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "summary": "<p>Article URL: <a href=\"https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502988\">https://news.ycombinator.com/item?id=50502988</a></p> <p>Points: 266</p> <p># Comments: 98</p>",
-    "published": "Sun, 15 Nov 2026 01:18:36 +0000"
-   }
-  ]
- },
- {
-  "id": "cce942626afe3b38",
-  "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://retrocomputing.stackexchange.com/questions/17957",
-    "summary": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/17957\">https://retrocomputing.stackexchange.com/questions/17957</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501594\">https://news.ycombinator.com/item?id=50501594</a></p> <p>Points: 244</p> <p># Comments: 129</p>",
-    "published": "Sat, 14 Nov 2026 22:22:49 +0000"
-   }
-  ]
- },
- {
-  "id": "1838248a60d90440",
-  "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-    "summary": "<p>Article URL: <a href=\"https://projectzero.google/2026/11/disclosure-policy.html\">https://projectzero.google/2026/11/disclosure-policy.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496051\">https://news.ycombinator.com/item?id=50496051</a></p> <p>Points: 274</p> <p># Comments: 154</p>",
-    "published": "Sat, 14 Nov 2026 11:13:17 +0000"
-   }
-  ]
- },
- {
-  "id": "acaf00569e865f08",
-  "title": "Where was Nvidia\u2019s security team?",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "published": "Sun, 15 Nov 2026 00:08:07 +0000"
-   }
-  ]
- },
- {
-  "id": "87d7014c15ee68a3",
-  "title": "A step toward defining the Standard Model on a lattice",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "published": "Sun, 15 Nov 2026 22:00:01 GMT"
-   }
-  ]
- },
- {
-  "id": "4b0fc5b701ffd77d",
-  "title": "Our new blog for science",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "openai",
-    "url": "https://openai.com/index/our-new-blog-for-science",
-    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-    "published": "Sun, 15 Nov 2026 22:00:00 GMT"
-   }
-  ]
- },
- {
-  "id": "a672f528b43195cf",
-  "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-    "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
-    "published": "Sun, 15 Nov 2026 19:30:00 +0000"
-   }
-  ]
- },
- {
   "id": "2b65f49987c721d5",
   "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
   "topic": "bitcoin",
@@ -2125,13 +1289,19 @@
   "id": "b0ded74e06b06613",
   "title": "Advancing computer-use agents for healthcare teams",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "openai",
     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "summary": "",
     "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/advancing-computer-use-for-healthcare-teams/\">https://openai.com/index/advancing-computer-use-for-healthcare-teams/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535898\">https://news.ycombinator.com/item?id=50535898</a></p> <p>Points: 38</p> <p># Comments: 25</p>",
+    "published": "Tue, 17 Nov 2026 18:26:05 +0000"
    }
   ]
  },
@@ -2963,13 +2133,19 @@
   "id": "d1bee759e86a69db",
   "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
   "topic": "ai",
-  "source_count": 1,
+  "source_count": 2,
   "sources": [
    {
     "source": "techcrunch",
     "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
     "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
     "published": "Mon, 16 Nov 2026 19:12:02 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+    "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+    "published": "Tue, 17 Nov 2026 22:42:27 +0000"
    }
   ]
  },
@@ -4040,6 +3216,858 @@
     "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
     "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
     "published": "Tue, 17 Nov 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "549a77347d5e1e5f",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "topic": "ai",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "published": "Tue, 17 Nov 2026 17:45:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p> <p>Points: 1056</p> <p># Comments: 666</p>",
+    "published": "Tue, 17 Nov 2026 17:46:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c6c361c53bc4ce2d",
+  "title": "Introducing ChatGPT for Sales",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "published": "Tue, 17 Nov 2026 08:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "0604bc2b50fc0c3b",
+  "title": "Astra for Law leads in legal intelligence",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "id": "54f0526860704a49",
+  "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+    "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+    "published": "Wed, 18 Nov 2026 00:46:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f4fb60cc37868744",
+  "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+    "summary": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
+    "published": "Tue, 17 Nov 2026 21:25:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "cb9e5e1e82d957fd",
+  "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+    "summary": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
+    "published": "Tue, 17 Nov 2026 19:45:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7f55f70c30faaf63",
+  "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+    "summary": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
+    "published": "Tue, 17 Nov 2026 19:16:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "510b33224ac051bd",
+  "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+    "summary": "The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications.",
+    "published": "Tue, 17 Nov 2026 17:42:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "27483e25e4975db9",
+  "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+    "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
+    "published": "Tue, 17 Nov 2026 17:00:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "849c5eaa2b357177",
+  "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg\" alt=\"Nvidia board rejects Huang comeback despite record $116B quarter\" class=\"type:primaryImage\"></p><p>Nvidia beat Wall Street\u2019s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang\u2019s reinstatement.</p>",
+    "published": "Wed, 18 Nov 2026 00:16:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4b31abcd81004d8c",
+  "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NNKAA0TZDN6AEJDCQCDBHM/hi-comparison-us-elections-1.png\" alt=\"CFTC halts some Kalshi Trump mention markets over manipulation concerns\" class=\"type:primaryImage\"></p><p>The CFTC stayed Kalshi\u2019s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts.</p>",
+    "published": "Tue, 17 Nov 2026 22:20:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9e801a878f374541",
+  "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NF6KGF5937HFV5G808MCSV/maple-branded-header.png\" alt=\"Maple Finance CEO targets up to $15B in assets by the end of 2027\" class=\"type:primaryImage\"></p><p>Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance.</p>",
+    "published": "Tue, 17 Nov 2026 21:56:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "80e194434d4ff45e",
+  "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png\" alt=\"Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins\" class=\"type:primaryImage\"></p><p>Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.</p>",
+    "published": "Tue, 17 Nov 2026 20:05:04 +0000"
+   }
+  ]
+ },
+ {
+  "id": "53b7509275edbe49",
+  "title": "Lighter incident exposes risks beyond withdrawal controls",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg\" alt=\"Lighter incident exposes risks beyond withdrawal controls\" class=\"type:primaryImage\"></p><p>Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools.</p>",
+    "published": "Tue, 17 Nov 2026 17:51:53 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5acddaecac67a75d",
+  "title": "Fed\u2019s Waller cites Binance hack in warning over tokenized finance",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png\" alt=\"Fed\u2019s Waller cites Binance hack in warning over tokenized finance\" class=\"type:primaryImage\"></p><p>Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.</p>",
+    "published": "Tue, 17 Nov 2026 17:39:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "34b5628fe9c1c9d7",
+  "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N46854SJGNK5GMN2W9MWH0/article-covers-256498-bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves-960x640.webp\" alt=\"Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings\" class=\"type:primaryImage\"></p><p>Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.</p>",
+    "published": "Tue, 17 Nov 2026 16:39:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "89ed1f45e942fae4",
+  "title": "Trump\u2019s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+    "summary": "President Donald Trump\u2019s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
+    "published": "Tue, 17 Nov 2026 23:32:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "dc6e1e04d5dc7c70",
+  "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+    "summary": "Robinhood brushes off Kalshi\u2019s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
+    "published": "Tue, 17 Nov 2026 22:23:29 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f8b448376e2279cc",
+  "title": "Jito\u2019s Lucas Bruder says crypto builders need to \u2018slow down\u2019 and fix security weaknesses",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+    "summary": "Jito\u2019s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.",
+    "published": "Tue, 17 Nov 2026 19:29:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "975ce675e1e92401",
+  "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+    "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.",
+    "published": "Tue, 17 Nov 2026 18:00:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a90128425e602d12",
+  "title": "Fomo pays creators $30 million, sharing \u2018lion\u2019s share\u2019 of revenue, Se Yong Park says",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332",
+    "summary": "Fomo rewards traders who hold the assets they discuss and share the reasoning behind their investments.",
+    "published": "Tue, 17 Nov 2026 17:41:02 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3985ceab37092ab0",
+  "title": "Everyone is Trading Tokenized Nvidia Derivatives",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818",
+    "summary": "NVDA Speculatooors onchain On the off chance you haven\u2019t heard, Nvidia CEO and co-founder Jensen Huang resigned from his post after admitting he was unfaithful to his wife. Needless to say, markets have reacted violently. Onchain perpetuals traded $8.7 billion on Nov. 12, the day Jensen Huang resigned as CEO, roughly 20x the daily average [\u2026]",
+    "published": "Tue, 17 Nov 2026 17:15:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c788390af25a9ee5",
+  "title": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667",
+    "summary": "Alpaca co-founder Hitoshi Harada said its Instant Tokenization Network has surpassed $10 billion in cumulative minting and redemption volume.",
+    "published": "Tue, 17 Nov 2026 16:35:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "49350897c59868e6",
+  "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
+    "summary": "Anchorage clients can pledge bitcoin and stablecoins held at its federally chartered bank as margin on Kalshi Prime's CFTC-regulated venue.",
+    "published": "Tue, 17 Nov 2026 15:53:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "fd3a3cdcd772a85f",
+  "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "summary": "<p>Article URL: <a href=\"https://wiki.archiveteam.org/index.php/Apple_Discussions\">https://wiki.archiveteam.org/index.php/Apple_Discussions</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50539747\">https://news.ycombinator.com/item?id=50539747</a></p> <p>Points: 33</p> <p># Comments: 5</p>",
+    "published": "Tue, 17 Nov 2026 23:32:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1f0a78839277701c",
+  "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/onnxruntime\">https://github.com/microsoft/onnxruntime</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50539610\">https://news.ycombinator.com/item?id=50539610</a></p> <p>Points: 67</p> <p># Comments: 12</p>",
+    "published": "Tue, 17 Nov 2026 23:18:49 +0000"
+   }
+  ]
+ },
+ {
+  "id": "697507affc8361ce",
+  "title": "Latent Lattice Language Models",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+    "summary": "<p>Article URL: <a href=\"https://shivamduggal4.github.io/latent-lattice-language-models/\">https://shivamduggal4.github.io/latent-lattice-language-models/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50539039\">https://news.ycombinator.com/item?id=50539039</a></p> <p>Points: 11</p> <p># Comments: 3</p>",
+    "published": "Tue, 17 Nov 2026 22:17:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "797d638b0571d8f1",
+  "title": "Quad9's withdrawal from France: A canary in the coal mine",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/quad9-withdrawal-from-france/\">https://blog.cloudflare.com/quad9-withdrawal-from-france/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538994\">https://news.ycombinator.com/item?id=50538994</a></p> <p>Points: 210</p> <p># Comments: 54</p>",
+    "published": "Tue, 17 Nov 2026 22:13:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4d9c0f5d92605284",
+  "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://calif.io/java4shell/",
+    "summary": "<p>Article URL: <a href=\"https://calif.io/java4shell/\">https://calif.io/java4shell/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538240\">https://news.ycombinator.com/item?id=50538240</a></p> <p>Points: 446</p> <p># Comments: 115</p>",
+    "published": "Tue, 17 Nov 2026 21:11:28 +0000"
+   }
+  ]
+ },
+ {
+  "id": "43861bf73cbf6162",
+  "title": "Tencent Hy4 Flash",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "summary": "<p>Article URL: <a href=\"https://hy.tencent.ai/research/hy4-flash\">https://hy.tencent.ai/research/hy4-flash</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538184\">https://news.ycombinator.com/item?id=50538184</a></p> <p>Points: 35</p> <p># Comments: 8</p>",
+    "published": "Tue, 17 Nov 2026 21:06:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "724bc174af09dec6",
+  "title": "Web Browser Engineering (2021)",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://browser.engineering/",
+    "summary": "<p>Article URL: <a href=\"https://browser.engineering/\">https://browser.engineering/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537290\">https://news.ycombinator.com/item?id=50537290</a></p> <p>Points: 114</p> <p># Comments: 20</p>",
+    "published": "Tue, 17 Nov 2026 20:01:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6f099656459b9bfa",
+  "title": "jQuery 4.1.0",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "summary": "<p>Article URL: <a href=\"https://github.com/jquery/jquery/releases/tag/4.1.0\">https://github.com/jquery/jquery/releases/tag/4.1.0</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537156\">https://news.ycombinator.com/item?id=50537156</a></p> <p>Points: 237</p> <p># Comments: 129</p>",
+    "published": "Tue, 17 Nov 2026 19:50:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "8975118590d35daf",
+  "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://arxiv.org/abs/2611.09827",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2611.09827\">https://arxiv.org/abs/2611.09827</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537120\">https://news.ycombinator.com/item?id=50537120</a></p> <p>Points: 71</p> <p># Comments: 42</p>",
+    "published": "Tue, 17 Nov 2026 19:46:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "7400913a4dc82e07",
+  "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "summary": "<p>Article URL: <a href=\"https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969\">https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536813\">https://news.ycombinator.com/item?id=50536813</a></p> <p>Points: 226</p> <p># Comments: 72</p>",
+    "published": "Tue, 17 Nov 2026 19:25:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ad7d3ed495e3c46f",
+  "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://starsling.dev",
+    "summary": "<p>We\u2019re Yonas and Daniel and we\u2019re building StarSling (<a href=\"https://starsling.dev\">https://starsling.dev</a>), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.<p>Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We\u2019re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that\u2019s tuned to improve your CI speed and reduce ",
+    "published": "Tue, 17 Nov 2026 19:01:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6165d219d32048b8",
+  "title": "Solid 2.0",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+    "summary": "<p>Article URL: <a href=\"https://www.solidjs.com/blog/solid-2-0-the-long-hold/\">https://www.solidjs.com/blog/solid-2-0-the-long-hold/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536387\">https://news.ycombinator.com/item?id=50536387</a></p> <p>Points: 208</p> <p># Comments: 55</p>",
+    "published": "Tue, 17 Nov 2026 18:56:17 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0818b59eab9ac65f",
+  "title": "Phrack 73 Released",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "summary": "<p>Article URL: <a href=\"https://phrack.org/issues/73/introduction_md\">https://phrack.org/issues/73/introduction_md</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535992\">https://news.ycombinator.com/item?id=50535992</a></p> <p>Points: 257</p> <p># Comments: 28</p>",
+    "published": "Tue, 17 Nov 2026 18:31:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "930d2827a809551f",
+  "title": "MAI Code 2 and Code 2 Flash",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "summary": "<p>Article URL: <a href=\"https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535885\">https://news.ycombinator.com/item?id=50535885</a></p> <p>Points: 271</p> <p># Comments: 126</p>",
+    "published": "Tue, 17 Nov 2026 18:25:13 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b8930a9a56df63fc",
+  "title": "Not Everything Needs an LLM",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "summary": "<p>Article URL: <a href=\"https://newsletter.posthog.com/p/decision-models\">https://newsletter.posthog.com/p/decision-models</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535740\">https://news.ycombinator.com/item?id=50535740</a></p> <p>Points: 79</p> <p># Comments: 33</p>",
+    "published": "Tue, 17 Nov 2026 18:16:18 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9fe7768ba9776618",
+  "title": "Apple Services Down",
+  "topic": "both",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://developer.apple.com/system-status/",
+    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/system-status/\">https://developer.apple.com/system-status/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535238\">https://news.ycombinator.com/item?id=50535238</a></p> <p>Points: 618</p> <p># Comments: 341</p>",
+    "published": "Tue, 17 Nov 2026 17:47:14 +0000"
+   },
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+    "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+    "published": "Tue, 17 Nov 2026 18:55:40 +0000"
+   }
+  ]
+ },
+ {
+  "id": "640196fafe853b8a",
+  "title": "Who Builds the Machines That Build the Machines?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+    "summary": "<p>Article URL: <a href=\"https://read.corematter.com/p/section-232-us-machine-tools\">https://read.corematter.com/p/section-232-us-machine-tools</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535208\">https://news.ycombinator.com/item?id=50535208</a></p> <p>Points: 87</p> <p># Comments: 27</p>",
+    "published": "Tue, 17 Nov 2026 17:45:39 +0000"
+   }
+  ]
+ },
+ {
+  "id": "851193cad36bf6af",
+  "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf\">https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534631\">https://news.ycombinator.com/item?id=50534631</a></p> <p>Points: 370</p> <p># Comments: 179</p>",
+    "published": "Tue, 17 Nov 2026 17:12:06 +0000"
+   }
+  ]
+ },
+ {
+  "id": "83a48772429ae199",
+  "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "published": "Wed, 18 Nov 2026 00:16:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d3a2efc316771890",
+  "title": "Stripe backer Atomico calls for Europe to own its success stories",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+    "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+    "published": "Wed, 18 Nov 2026 00:01:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "28509d8a3a743ac7",
+  "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "published": "Tue, 17 Nov 2026 23:37:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3feac09277102c22",
+  "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "published": "Tue, 17 Nov 2026 23:04:35 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6908e71926e8ed83",
+  "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "published": "Tue, 17 Nov 2026 22:29:05 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6e2564c29c662909",
+  "title": "SEC reportedly investigating Nvidia amid Huang exit",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "320959dca20ca092",
+  "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "published": "Tue, 17 Nov 2026 21:34:50 +0000"
+   }
+  ]
+ },
+ {
+  "id": "122115e1f3c93c37",
+  "title": "Waymo suspends freeway rides nationwide after California DMV order",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+    "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+    "published": "Tue, 17 Nov 2026 19:49:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d9a047affb028160",
+  "title": "Model ML raises $250M to automate investment banking grunt work",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "published": "Tue, 17 Nov 2026 19:32:11 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0fc744e43d6095d8",
+  "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "published": "Tue, 17 Nov 2026 19:02:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "560e703561a25cd9",
+  "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+    "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+    "published": "Tue, 17 Nov 2026 18:48:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f4982bcb3ccbe841",
+  "title": "As decision model use skyrockets, is customization the next frontier?",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "published": "Tue, 17 Nov 2026 18:10:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b145ab91c01065c7",
+  "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "published": "Tue, 17 Nov 2026 18:04:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "42c4fd05f3f446d0",
+  "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "published": "Tue, 17 Nov 2026 17:32:25 +0000"
+   }
+  ]
+ },
+ {
+  "id": "447a475adcedf3c1",
+  "title": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "published": "Tue, 17 Nov 2026 17:20:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5fbc7d8ce285cc02",
+  "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+    "published": "Tue, 17 Nov 2026 16:44:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f70b9be328657a7e",
+  "title": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "published": "Tue, 17 Nov 2026 16:32:55 +0000"
+   }
+  ]
+ },
+ {
+  "id": "357d085ae06f4ca2",
+  "title": "Put Gemini to work for you",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "blog-google-ai",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp\">Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+    "published": "Tue, 17 Nov 2026 17:00:00 +0000"
    }
   ]
  }
