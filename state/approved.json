@@ -1,37 +1,37 @@
 [
  {
-  "id": "366e7dfafc88dc00",
-  "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+  "id": "390de9b30a2ccd83",
+  "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
   "topic": "bitcoin",
-  "story": "singapore-germany-zk-payments",
+  "story": "ai-national-champions",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Named central-bank-adjacent cross-border settlement test using zero-knowledge proofs, a real infrastructure milestone.",
+  "reason": "Significant regulatory and geopolitical development involving major AI firms, though currently unconfirmed.",
   "sources": [
    {
     "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
-    "summary": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
-    "published": "Mon, 16 Nov 2026 11:47:12 +0000"
+    "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+    "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+    "published": "Mon, 16 Nov 2026 06:01:41 +0000"
    }
   ]
  },
  {
-  "id": "e69284e75f091ae7",
-  "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+  "id": "dee72bd49d6b7a74",
+  "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
   "topic": "bitcoin",
-  "story": "jpmorgan-dbs-tokenized-deposits",
+  "story": "jensen-huang-return",
   "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Major banks connecting blockchain deposit networks for 24/7 tokenized dollar transfers is a significant institutional infrastructure development.",
+  "raw_score": 8,
+  "weight": 0.9,
+  "reason": "Major leadership development at a frontier AI chip company, potentially impacting the entire sector.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-    "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
-    "published": "Mon, 16 Nov 2026 08:46:00 +0000"
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg\" alt=\"Jensen Huang weighs Nvidia comeback days after shock exit: FT\" class=\"type:primaryImage\"></p><p>Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support. </p>",
+    "published": "Sun, 15 Nov 2026 23:47:45 +0000"
    }
   ]
  }
