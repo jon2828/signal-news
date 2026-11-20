@@ -1,37 +1,43 @@
 [
  {
-  "id": "b16b5f3f20484c92",
-  "title": "California state AG sues OpenAI over rogue agent incidents",
+  "id": "549a77347d5e1e5f",
+  "title": "Introducing GPT-6.2 Astra and Sol",
   "topic": "ai",
-  "story": "california-openai-lawsuit",
-  "score": 8,
+  "story": "gpt-6-astra",
+  "score": 9,
   "raw_score": 9,
-  "weight": 0.9,
-  "reason": "First state AG lawsuit holding an AI lab legally accountable for a rogue agent incident is frontier-shifting regulatory action.",
+  "weight": 1.0,
+  "reason": "Frontier model release from OpenAI, corroborated by two sources, is frontier-shifting.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "published": "Mon, 16 Nov 2026 20:07:13 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "published": "Tue, 17 Nov 2026 17:45:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p> <p>Points: 1056</p> <p># Comments: 666</p>",
+    "published": "Tue, 17 Nov 2026 17:46:43 +0000"
    }
   ]
  },
  {
-  "id": "4f11c6cfd92ae155",
-  "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+  "id": "e192c503efb17e30",
+  "title": "Lighter reopens withdrawals after trader\u2019s API key leak, returns about $5 million in USDC",
   "topic": "bitcoin",
-  "story": "ethereum-glamsterdam",
-  "score": 8,
-  "raw_score": 8,
+  "story": "lighter-security-breach",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "A major Ethereum upgrade risking breakage of up to 15,000 apps with audit findings and a near-term developer decision is significant protocol news.",
+  "reason": "Security incident with a named exchange and specific financial impact ($5M), relevant to Bitcoin/crypto security readers.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-    "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
-    "published": "Tue, 17 Nov 2026 13:02:56 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+    "summary": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader.",
+    "published": "Tue, 17 Nov 2026 12:00:41 +0000"
    }
   ]
  }
