@@ -1,43 +1,37 @@
 [
  {
-  "id": "549a77347d5e1e5f",
-  "title": "Introducing GPT-6.2 Astra and Sol",
+  "id": "6e2564c29c662909",
+  "title": "SEC reportedly investigating Nvidia amid Huang exit",
   "topic": "ai",
-  "story": "gpt-6-astra",
+  "story": "nvidia-sec-investigation",
   "score": 9,
-  "raw_score": 9,
-  "weight": 1.0,
-  "reason": "Frontier model release from OpenAI, corroborated by two sources, is frontier-shifting.",
+  "raw_score": 10,
+  "weight": 0.9,
+  "reason": "SEC investigation into Nvidia following CEO scandal is a major regulatory and market-moving event.",
   "sources": [
    {
-    "source": "openai",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "published": "Tue, 17 Nov 2026 17:45:00 GMT"
-   },
-   {
-    "source": "hn",
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p> <p>Points: 1056</p> <p># Comments: 666</p>",
-    "published": "Tue, 17 Nov 2026 17:46:43 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "published": "Tue, 17 Nov 2026 21:48:07 +0000"
    }
   ]
  },
  {
-  "id": "e192c503efb17e30",
-  "title": "Lighter reopens withdrawals after trader\u2019s API key leak, returns about $5 million in USDC",
-  "topic": "bitcoin",
-  "story": "lighter-security-breach",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Security incident with a named exchange and specific financial impact ($5M), relevant to Bitcoin/crypto security readers.",
+  "id": "28509d8a3a743ac7",
+  "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+  "topic": "ai",
+  "story": "nvidia-china-exit",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Nvidia abandoning the Chinese market is a massive geopolitical and market shift.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
-    "summary": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader.",
-    "published": "Tue, 17 Nov 2026 12:00:41 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "published": "Tue, 17 Nov 2026 23:37:48 +0000"
    }
   ]
  }
