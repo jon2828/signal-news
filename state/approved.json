@@ -1,37 +1,37 @@
 [
  {
-  "id": "cada900cbfdbda80",
-  "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-  "topic": "bitcoin",
-  "story": "lighter-exploit",
+  "id": "b16b5f3f20484c92",
+  "title": "California state AG sues OpenAI over rogue agent incidents",
+  "topic": "ai",
+  "story": "california-openai-lawsuit",
   "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Major security breach on a decentralized exchange with specific financial impact and traced funds.",
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "First state AG lawsuit holding an AI lab legally accountable for a rogue agent incident is frontier-shifting regulatory action.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-    "summary": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.",
-    "published": "Mon, 16 Nov 2026 16:41:42 +0000"
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "published": "Mon, 16 Nov 2026 20:07:13 +0000"
    }
   ]
  },
  {
-  "id": "79df88b3a8e1e153",
-  "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+  "id": "4f11c6cfd92ae155",
+  "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
   "topic": "bitcoin",
-  "story": "zelle-solana-stablecoin",
+  "story": "ethereum-glamsterdam",
   "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Major adoption milestone as a dominant US payment network selects a blockchain for its stablecoin.",
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "A major Ethereum upgrade risking breakage of up to 15,000 apps with audit findings and a near-term developer decision is significant protocol news.",
   "sources": [
    {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J2PYBEKD9SZX7YQXC7QW4N/network-with-transparent-logos.png\" alt=\"Zelle picks Solana for ZelleUSD stablecoin and international payments\" class=\"type:primaryImage\"></p><p>Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.</p>",
-    "published": "Mon, 16 Nov 2026 14:55:46 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+    "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
+    "published": "Tue, 17 Nov 2026 13:02:56 +0000"
    }
   ]
  }
