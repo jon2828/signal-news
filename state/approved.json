@@ -1,37 +1,37 @@
 [
  {
-  "id": "6e2564c29c662909",
-  "title": "SEC reportedly investigating Nvidia amid Huang exit",
-  "topic": "ai",
-  "story": "nvidia-sec-investigation",
-  "score": 9,
-  "raw_score": 10,
-  "weight": 0.9,
-  "reason": "SEC investigation into Nvidia following CEO scandal is a major regulatory and market-moving event.",
+  "id": "020a15a1edf23116",
+  "title": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
+  "topic": "bitcoin",
+  "story": "mit-brothers-acquittal",
+  "score": 8,
+  "raw_score": 8,
+  "weight": 1.0,
+  "reason": "Federal acquittal in the first criminal MEV prosecution sets a meaningful legal precedent with named parties and a clear ruling.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-    "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government\u2019s first criminal case over the practice known as MEV.",
+    "published": "Wed, 18 Nov 2026 05:30:10 +0000"
    }
   ]
  },
  {
-  "id": "28509d8a3a743ac7",
-  "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+  "id": "5fbc7d8ce285cc02",
+  "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
   "topic": "ai",
-  "story": "nvidia-china-exit",
-  "score": 8,
-  "raw_score": 9,
+  "story": "huang-resignation",
+  "score": 7,
+  "raw_score": 8,
   "weight": 0.9,
-  "reason": "Nvidia abandoning the Chinese market is a massive geopolitical and market shift.",
+  "reason": "The first public statement from Jensen Huang since his Nvidia resignation is a major development at the most important AI infrastructure company.",
   "sources": [
    {
     "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-    "published": "Tue, 17 Nov 2026 23:37:48 +0000"
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+    "published": "Tue, 17 Nov 2026 16:44:15 +0000"
    }
   ]
  }
