@@ -1,33 +1,5 @@
 [
  {
-  "id": "db253b67c20cc7e9",
-  "title": "Inside Deutsche Bank",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://www.inside-db.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.inside-db.com/\">https://www.inside-db.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547620\">https://news.ycombinator.com/item?id=50547620</a></p> <p>Points: 515</p> <p># Comments: 182</p>",
-    "published": "Wed, 18 Nov 2026 15:38:33 +0000"
-   }
-  ]
- },
- {
-  "id": "a4a8d2325502b0b1",
-  "title": "F-22 Next-Generation micro\u2013Data Transfer Cartridge (mDTC)",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-    "summary": "<p>Article URL: <a href=\"https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view\">https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547583\">https://news.ycombinator.com/item?id=50547583</a></p> <p>Points: 138</p> <p># Comments: 103</p>",
-    "published": "Wed, 18 Nov 2026 15:35:44 +0000"
-   }
-  ]
- },
- {
   "id": "44255eb49d7cccbd",
   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
   "topic": "ai",
@@ -58,230 +30,6 @@
     "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
     "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
     "published": "Thu, 19 Nov 2026 00:40:49 +0000"
-   }
-  ]
- },
- {
-  "id": "ebee197c44b51a8c",
-  "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "published": "Wed, 18 Nov 2026 23:17:28 +0000"
-   }
-  ]
- },
- {
-  "id": "f7885a7f892bd839",
-  "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "published": "Wed, 18 Nov 2026 22:58:11 +0000"
-   }
-  ]
- },
- {
-  "id": "6b4b11d8558c175e",
-  "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-    "published": "Wed, 18 Nov 2026 22:11:15 +0000"
-   }
-  ]
- },
- {
-  "id": "df751380d9ea4643",
-  "title": "Palmer Luckey doesn\u2019t deny that he\u2019s a prepper",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-    "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine \u2014 just in case.",
-    "published": "Wed, 18 Nov 2026 22:04:03 +0000"
-   }
-  ]
- },
- {
-  "id": "4544035da65a5fc4",
-  "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-    "published": "Wed, 18 Nov 2026 21:57:40 +0000"
-   }
-  ]
- },
- {
-  "id": "48feb3ab27c887a6",
-  "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "published": "Wed, 18 Nov 2026 21:34:13 +0000"
-   }
-  ]
- },
- {
-  "id": "8ad47877f742298c",
-  "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-    "published": "Wed, 18 Nov 2026 21:31:21 +0000"
-   }
-  ]
- },
- {
-  "id": "89dc61422b35766e",
-  "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "published": "Wed, 18 Nov 2026 20:07:01 +0000"
-   }
-  ]
- },
- {
-  "id": "93ec3dad35d6b3e6",
-  "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-    "published": "Wed, 18 Nov 2026 19:56:39 +0000"
-   }
-  ]
- },
- {
-  "id": "371d4074c9b59327",
-  "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-    "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-    "published": "Wed, 18 Nov 2026 19:29:41 +0000"
-   }
-  ]
- },
- {
-  "id": "890e2f7b3ac9f81c",
-  "title": "Google\u2019s AI feature in Search gets its own incognito mode",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-    "published": "Wed, 18 Nov 2026 18:04:05 +0000"
-   }
-  ]
- },
- {
-  "id": "708e52618cd98258",
-  "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-    "published": "Wed, 18 Nov 2026 17:32:10 +0000"
-   }
-  ]
- },
- {
-  "id": "c0eb00cd59507bdc",
-  "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
-    "summary": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
-    "published": "Wed, 18 Nov 2026 17:30:56 +0000"
-   }
-  ]
- },
- {
-  "id": "3439be5ca6040b72",
-  "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-    "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-    "published": "Wed, 18 Nov 2026 16:59:00 +0000"
-   }
-  ]
- },
- {
-  "id": "f816757e046db752",
-  "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-    "published": "Wed, 18 Nov 2026 16:14:09 +0000"
-   }
-  ]
- },
- {
-  "id": "36ee48faa08cb048",
-  "title": "Sony\u2019s updated turntable is an easy entry into the world of vinyl",
-  "topic": "ai",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-    "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-    "published": "Wed, 18 Nov 2026 16:00:00 +0000"
    }
   ]
  },
@@ -1034,20 +782,6 @@
     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
     "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">https://www.anthropic.com/news/anthropic-prices-initial-public-offering</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553843\">https://news.ycombinator.com/item?id=50553843</a></p> <p>Points: 333</p> <p># Comments: 616</p>",
     "published": "Wed, 18 Nov 2026 23:30:09 +0000"
-   }
-  ]
- },
- {
-  "id": "7534063c1d3cb240",
-  "title": "We taught robots to carve marble sculptures",
-  "topic": "both",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "hn",
-    "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-    "summary": "<p>Article URL: <a href=\"https://eleanorwiesler.com/blog/robotic-stone-carving/\">https://eleanorwiesler.com/blog/robotic-stone-carving/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548808\">https://news.ycombinator.com/item?id=50548808</a></p> <p>Points: 60</p> <p># Comments: 41</p>",
-    "published": "Wed, 18 Nov 2026 17:03:53 +0000"
    }
   ]
  },
@@ -3800,20 +3534,6 @@
   ]
  },
  {
-  "id": "ac4a3b8ddf611021",
-  "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
-  "topic": "bitcoin",
-  "source_count": 1,
-  "sources": [
-   {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
-    "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
-    "published": "Wed, 18 Nov 2026 19:40:25 +0000"
-   }
-  ]
- },
- {
   "id": "ffae009bc0b11ae7",
   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
   "topic": "bitcoin",
@@ -4034,6 +3754,474 @@
     "url": "https://www.pandex.io",
     "summary": "<p>Article URL: <a href=\"https://www.pandex.io\">https://www.pandex.io</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593481\">https://news.ycombinator.com/item?id=50593481</a></p> <p>Points: 113</p> <p># Comments: 29</p>",
     "published": "Sat, 21 Nov 2026 20:47:41 +0000"
+   }
+  ]
+ },
+ {
+  "id": "de5cd1a6d51dc917",
+  "title": "Perplexity and Intelligence",
+  "topic": "ai",
+  "source_count": 2,
+  "sources": [
+   {
+    "source": "openai",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p> <p>Points: 434</p> <p># Comments: 294</p>",
+    "published": "Sun, 22 Nov 2026 17:06:27 +0000"
+   }
+  ]
+ },
+ {
+  "id": "940e55205b44222d",
+  "title": "More on the pending oversight hearings: State of Crypto",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/",
+    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration \u2014 and the crypto collateral that may be swept up.",
+    "published": "Sun, 22 Nov 2026 19:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "0e90985b959159a1",
+  "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+    "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+    "published": "Sat, 21 Nov 2026 14:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "26b5743fab646cbd",
+  "title": "Will Bitcoin\u2019s big rebound hold? More tampered Ledgers found: Hodler\u2019s Digest",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82HY5BRFTHNBV47HXBFNCPV/nov-23.jpg\" alt=\"Will Bitcoin\u2019s big rebound hold? More tampered Ledgers found: Hodler\u2019s Digest\" class=\"type:primaryImage\"></p><p>Bitcoin rebounded sharply from its new cycle low, but is $55,110 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.</p>",
+    "published": "Sun, 22 Nov 2026 22:47:09 +0000"
+   }
+  ]
+ },
+ {
+  "id": "1b75374a8b461d34",
+  "title": "The future of onchain FX could start with users, not institutional liquidity",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg\" alt=\"The future of onchain FX could start with users, not institutional liquidity\" class=\"type:primaryImage\"></p><p>Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.</p>",
+    "published": "Sun, 22 Nov 2026 14:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a79e8b82803b7efd",
+  "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist\u2019s ACE bridge",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+    "summary": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
+    "published": "Sun, 22 Nov 2026 23:17:08 +0000"
+   }
+  ]
+ },
+ {
+  "id": "b24568265a76b28e",
+  "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+    "summary": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
+    "published": "Sun, 22 Nov 2026 20:58:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "2507a52e30d1c829",
+  "title": "Chainflip\u2019s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+  "topic": "bitcoin",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+    "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
+    "published": "Sun, 22 Nov 2026 18:58:57 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d7077896ac5b1c60",
+  "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605045\">https://news.ycombinator.com/item?id=50605045</a></p> <p>Points: 5</p> <p># Comments: 0</p>",
+    "published": "Sun, 22 Nov 2026 23:12:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "d3dc326c4e3f20a1",
+  "title": "GL.iNet Security Notice 2026-11-20",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "summary": "<p>Article URL: <a href=\"https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604988\">https://news.ycombinator.com/item?id=50604988</a></p> <p>Points: 7</p> <p># Comments: 0</p>",
+    "published": "Sun, 22 Nov 2026 23:06:37 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5a80222bbbe1e362",
+  "title": "Do Not Accept",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://donotaccept.ai/",
+    "summary": "<p>Article URL: <a href=\"https://donotaccept.ai/\">https://donotaccept.ai/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604959\">https://news.ycombinator.com/item?id=50604959</a></p> <p>Points: 13</p> <p># Comments: 6</p>",
+    "published": "Sun, 22 Nov 2026 23:02:20 +0000"
+   }
+  ]
+ },
+ {
+  "id": "89318bed08137205",
+  "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://philpapers.org/rec/NIEIOT-2",
+    "summary": "<p>Article URL: <a href=\"https://philpapers.org/rec/NIEIOT-2\">https://philpapers.org/rec/NIEIOT-2</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604742\">https://news.ycombinator.com/item?id=50604742</a></p> <p>Points: 23</p> <p># Comments: 3</p>",
+    "published": "Sun, 22 Nov 2026 22:41:33 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a1cdd90e25347d09",
+  "title": "The Usefulness of Useless Knowledge [pdf]",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "summary": "<p>Article URL: <a href=\"https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604472\">https://news.ycombinator.com/item?id=50604472</a></p> <p>Points: 17</p> <p># Comments: 1</p>",
+    "published": "Sun, 22 Nov 2026 22:10:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "ce223767ccc95af8",
+  "title": "Agent swarm trying to solve P vs. NP",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://pequalnp.com/",
+    "summary": "<p>Article URL: <a href=\"https://pequalnp.com/\">https://pequalnp.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604314\">https://news.ycombinator.com/item?id=50604314</a></p> <p>Points: 38</p> <p># Comments: 29</p>",
+    "published": "Sun, 22 Nov 2026 21:53:45 +0000"
+   }
+  ]
+ },
+ {
+  "id": "097d621263323e97",
+  "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+    "summary": "<p>Article URL: <a href=\"https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/\">https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604123\">https://news.ycombinator.com/item?id=50604123</a></p> <p>Points: 13</p> <p># Comments: 3</p>",
+    "published": "Sun, 22 Nov 2026 21:33:12 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bc3046ed5b1c6f9e",
+  "title": "Will the first approved psychedelic become a blockbuster?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+    "summary": "<p>Article URL: <a href=\"https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/\">https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603962\">https://news.ycombinator.com/item?id=50603962</a></p> <p>Points: 9</p> <p># Comments: 5</p>",
+    "published": "Sun, 22 Nov 2026 21:13:10 +0000"
+   }
+  ]
+ },
+ {
+  "id": "4f0ed76760ef2783",
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "summary": "<p>Article URL: <a href=\"https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603845\">https://news.ycombinator.com/item?id=50603845</a></p> <p>Points: 99</p> <p># Comments: 28</p>",
+    "published": "Sun, 22 Nov 2026 21:01:16 +0000"
+   }
+  ]
+ },
+ {
+  "id": "94d2ce2c1ff7e7a5",
+  "title": "I did a meditation and it sort of changed my personality?!",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.benkuhn.net/meditation/",
+    "summary": "<p>Article URL: <a href=\"https://www.benkuhn.net/meditation/\">https://www.benkuhn.net/meditation/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603674\">https://news.ycombinator.com/item?id=50603674</a></p> <p>Points: 24</p> <p># Comments: 12</p>",
+    "published": "Sun, 22 Nov 2026 20:41:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5f31db758389d425",
+  "title": "A miniature San Francisco with live buses, planes and boats",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://smallsf.com/",
+    "summary": "<p>Article URL: <a href=\"https://smallsf.com/\">https://smallsf.com/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603589\">https://news.ycombinator.com/item?id=50603589</a></p> <p>Points: 85</p> <p># Comments: 35</p>",
+    "published": "Sun, 22 Nov 2026 20:33:23 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5da3c4b89fb71e70",
+  "title": "Nyx, the Oldest Internet Service Provider",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://nyx.net/",
+    "summary": "<p>Article URL: <a href=\"https://nyx.net/\">https://nyx.net/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603465\">https://news.ycombinator.com/item?id=50603465</a></p> <p>Points: 69</p> <p># Comments: 8</p>",
+    "published": "Sun, 22 Nov 2026 20:15:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c97d8a0ed206ebab",
+  "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html\">https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603232\">https://news.ycombinator.com/item?id=50603232</a></p> <p>Points: 72</p> <p># Comments: 27</p>",
+    "published": "Sun, 22 Nov 2026 19:51:46 +0000"
+   }
+  ]
+ },
+ {
+  "id": "f0e6fc08936174b5",
+  "title": "Assume People Are Not Interested in Your Blog Post",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "summary": "<p>Article URL: <a href=\"https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/\">https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603143\">https://news.ycombinator.com/item?id=50603143</a></p> <p>Points: 15</p> <p># Comments: 9</p>",
+    "published": "Sun, 22 Nov 2026 19:41:30 +0000"
+   }
+  ]
+ },
+ {
+  "id": "a3b886b1bbb10742",
+  "title": "What Happened to Silicon Valley?",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "summary": "<p>Article URL: <a href=\"https://www.oreilly.com/radar/what-happened-to-silicon-valley/\">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50602947\">https://news.ycombinator.com/item?id=50602947</a></p> <p>Points: 316</p> <p># Comments: 162</p>",
+    "published": "Sun, 22 Nov 2026 19:20:15 +0000"
+   }
+  ]
+ },
+ {
+  "id": "e02a3f3a918fb26c",
+  "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "summary": "<p>Article URL: <a href=\"https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife\">https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50602843\">https://news.ycombinator.com/item?id=50602843</a></p> <p>Points: 270</p> <p># Comments: 109</p>",
+    "published": "Sun, 22 Nov 2026 19:10:34 +0000"
+   }
+  ]
+ },
+ {
+  "id": "bad80196e664f3f8",
+  "title": "Harvard CS 2881R AI Safety",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://boazbk.github.io/mltheoryseminar/",
+    "summary": "<p>Article URL: <a href=\"https://boazbk.github.io/mltheoryseminar/\">https://boazbk.github.io/mltheoryseminar/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50602153\">https://news.ycombinator.com/item?id=50602153</a></p> <p>Points: 23</p> <p># Comments: 1</p>",
+    "published": "Sun, 22 Nov 2026 18:01:54 +0000"
+   }
+  ]
+ },
+ {
+  "id": "3809f828d19aef52",
+  "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+    "summary": "<p>Article URL: <a href=\"https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/\">https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600838\">https://news.ycombinator.com/item?id=50600838</a></p> <p>Points: 55</p> <p># Comments: 25</p>",
+    "published": "Sun, 22 Nov 2026 15:59:59 +0000"
+   }
+  ]
+ },
+ {
+  "id": "6e784715f54f729a",
+  "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+  "topic": "both",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/\">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600622\">https://news.ycombinator.com/item?id=50600622</a></p> <p>Points: 113</p> <p># Comments: 29</p>",
+    "published": "Sun, 22 Nov 2026 15:35:24 +0000"
+   }
+  ]
+ },
+ {
+  "id": "9d561cc7e83a99d7",
+  "title": "\u2018You Can See Everything\u2019 has made more than $100M worldwide",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+    "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+    "published": "Sun, 22 Nov 2026 21:42:48 +0000"
+   }
+  ]
+ },
+ {
+  "id": "716c53fa8fcebb04",
+  "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "published": "Sun, 22 Nov 2026 21:14:07 +0000"
+   }
+  ]
+ },
+ {
+  "id": "66ae122a2b7c38f5",
+  "title": "The best apps to make new friends right now",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+    "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+    "published": "Sun, 22 Nov 2026 21:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "74f939e081ec8d04",
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "published": "Sun, 22 Nov 2026 18:08:43 +0000"
+   }
+  ]
+ },
+ {
+  "id": "269744fa7aca652e",
+  "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+    "published": "Sun, 22 Nov 2026 17:06:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "07194b1926178bf8",
+  "title": "Can a TV be too large? An investigation",
+  "topic": "ai",
+  "source_count": 1,
+  "sources": [
+   {
+    "source": "techcrunch",
+    "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+    "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+    "published": "Sun, 22 Nov 2026 15:00:00 +0000"
    }
   ]
  }
