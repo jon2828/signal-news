@@ -32498,5 +32498,85 @@
   "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
   "title": "Alaska, your next governor is a Wikipedia nerd",
   "first_seen": "2026-11-21T22:55:45.775612+00:00"
+ },
+ "ffae009bc0b11ae7": {
+  "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+  "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+  "first_seen": "2026-11-22T14:04:39.302729+00:00"
+ },
+ "5aeb43de53746983": {
+  "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+  "first_seen": "2026-11-22T14:04:39.389825+00:00"
+ },
+ "13dbccc7a54fc085": {
+  "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+  "first_seen": "2026-11-22T14:04:39.389843+00:00"
+ },
+ "7f559ad229a237dc": {
+  "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+  "first_seen": "2026-11-22T14:04:39.389846+00:00"
+ },
+ "a71bee1732b1c5e1": {
+  "url": "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows",
+  "title": "Blackberry releases secure browser for Windows",
+  "first_seen": "2026-11-22T14:04:39.858172+00:00"
+ },
+ "bd891512041a1726": {
+  "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+  "title": "Prisons get OK to jam contraband phones",
+  "first_seen": "2026-11-22T14:04:39.858189+00:00"
+ },
+ "58875da916c27faf": {
+  "url": "https://simonwillison.net/2026/Nov/21/muru/",
+  "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
+  "first_seen": "2026-11-22T14:04:39.858193+00:00"
+ },
+ "bf1d56f79e0821ae": {
+  "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "first_seen": "2026-11-22T14:04:39.858195+00:00"
+ },
+ "d26d10b87f22641b": {
+  "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+  "title": "Notes on the discrete Fourier transform (DFT)",
+  "first_seen": "2026-11-22T14:04:39.858197+00:00"
+ },
+ "1fd500df4662cd47": {
+  "url": "https://github.com/tamnd/riemann-handbook",
+  "title": "Show HN: The Riemann Proof Handbook",
+  "first_seen": "2026-11-22T14:04:39.858199+00:00"
+ },
+ "30ca3e0fc9a07f6b": {
+  "url": "https://github.com/EL4CTEO/fast-anything",
+  "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+  "first_seen": "2026-11-22T14:04:39.858201+00:00"
+ },
+ "9212cb3d4e2e02d4": {
+  "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+  "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+  "first_seen": "2026-11-22T14:04:39.858203+00:00"
+ },
+ "7893687ce6315731": {
+  "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+  "title": "Data Processing Incidents on Inference Providers",
+  "first_seen": "2026-11-22T14:04:39.858206+00:00"
+ },
+ "78ed71768c6fceaa": {
+  "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+  "title": "The Mythology of Conscious AI",
+  "first_seen": "2026-11-22T14:04:39.858207+00:00"
+ },
+ "c4a226a4ddc42b3f": {
+  "url": "https://stulle.app/",
+  "title": "Sandwich Simulator",
+  "first_seen": "2026-11-22T14:04:39.858210+00:00"
+ },
+ "cfea722a5658dd4e": {
+  "url": "https://www.pandex.io",
+  "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+  "first_seen": "2026-11-22T14:04:39.858214+00:00"
  }
 }

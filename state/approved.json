@@ -1,43 +1,43 @@
 [
  {
-  "id": "ac4a3b8ddf611021",
-  "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
-  "topic": "bitcoin",
-  "story": "binance-freeze-order",
-  "score": 8,
-  "raw_score": 8,
+  "id": "c7d3ecb006439a13",
+  "title": "Advancing chip design with OpenAI models",
+  "topic": "ai",
+  "story": "openai-chip-design",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Same freezing-order event as the other Binance candidate, now confirmed by a second source, keeping it a clearly publishable hack-recovery story.",
+  "reason": "Significant application of frontier AI models to hardware design, indicating a new capability area for OpenAI.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
-    "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
-    "published": "Wed, 18 Nov 2026 19:40:25 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "summary": "OpenAI models optimized circuits used in Jalape\u00f1o silicon and improved RISC\u2011V core designs, showing progress in AI-assisted chip design with GPT\u20116 Astra.",
+    "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/advancing-chip-design-with-our-models/\">https://openai.com/index/advancing-chip-design-with-our-models/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549493\">https://news.ycombinator.com/item?id=50549493</a></p> <p>Points: 145</p> <p># Comments: 84</p>",
+    "published": "Wed, 18 Nov 2026 17:45:47 +0000"
    }
   ]
  },
  {
-  "id": "e2b6407cfa6894d3",
-  "title": "Gemini 4 Neon",
-  "topic": "both",
-  "story": "gemini-4-neon",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "A new model release from frontier lab Google, corroborated by two sources, is frontier-shifting for AI readers.",
+  "id": "931551d044daef4a",
+  "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+  "topic": "bitcoin",
+  "story": "variational-funding",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Major funding round for a competitor to Hyperliquid, signaling significant capital inflow into onchain trading infrastructure.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50552424\">https://news.ycombinator.com/item?id=50552424</a></p> <p>Points: 329</p> <p># Comments: 314</p>",
-    "published": "Wed, 18 Nov 2026 21:34:07 +0000"
-   },
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-11-19",
-    "summary": "",
-    "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+    "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
+    "published": "Wed, 18 Nov 2026 17:22:03 +0000"
    }
   ]
  }
