@@ -33138,5 +33138,240 @@
   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
   "title": "A more tailored Google Search that\u2019s uniquely yours",
   "first_seen": "2026-11-23T17:26:24.475352+00:00"
+ },
+ "1d0c151fefed0dea": {
+  "url": "https://openai.com/index/introducing-shirudo",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "first_seen": "2026-11-24T03:54:16.452077+00:00"
+ },
+ "f8a4e02f42124693": {
+  "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "title": "Connected intelligence for in-house legal",
+  "first_seen": "2026-11-24T03:54:16.452100+00:00"
+ },
+ "680b35173b971311": {
+  "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "first_seen": "2026-11-24T03:54:16.452105+00:00"
+ },
+ "3deb6d38d153235d": {
+  "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+  "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+  "first_seen": "2026-11-24T03:54:17.238220+00:00"
+ },
+ "f3b5a30b97f035b4": {
+  "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+  "title": "New York judge declines to block Kalshi from operating in the state for now",
+  "first_seen": "2026-11-24T03:54:17.238234+00:00"
+ },
+ "015ff7febd990a37": {
+  "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+  "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+  "first_seen": "2026-11-24T03:54:17.238238+00:00"
+ },
+ "f556e142325631bb": {
+  "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+  "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+  "first_seen": "2026-11-24T03:54:17.238241+00:00"
+ },
+ "a76bf260eaa86af3": {
+  "url": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Google wants to make you the star of your own AI slop movies",
+  "first_seen": "2026-11-24T03:54:17.379079+00:00"
+ },
+ "338821854b5719e9": {
+  "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+  "first_seen": "2026-11-24T03:54:17.379094+00:00"
+ },
+ "18e636f56cde3911": {
+  "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+  "first_seen": "2026-11-24T03:54:17.379098+00:00"
+ },
+ "17bae0dcc0a1c3ed": {
+  "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+  "first_seen": "2026-11-24T03:54:17.379102+00:00"
+ },
+ "df182038457b21ff": {
+  "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Kalshi secures temporary win in New York gambling law dispute",
+  "first_seen": "2026-11-24T03:54:17.379105+00:00"
+ },
+ "b355dca568f87b6b": {
+  "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+  "first_seen": "2026-11-24T03:54:17.379108+00:00"
+ },
+ "3e7fb8e1dd18f7e8": {
+  "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+  "first_seen": "2026-11-24T03:54:17.379111+00:00"
+ },
+ "77fb641ce1082d6c": {
+  "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+  "first_seen": "2026-11-24T03:54:17.379113+00:00"
+ },
+ "e292bc79ca78d7f9": {
+  "url": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+  "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+  "first_seen": "2026-11-24T03:54:17.468368+00:00"
+ },
+ "f0f2b8a01fadc9d1": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+  "title": "CFTC staff say bitcoin, ether can count toward derivatives firms\u2019 operating expenses",
+  "first_seen": "2026-11-24T03:54:17.468383+00:00"
+ },
+ "fbce9eea0ad529b8": {
+  "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
+  "title": "Grayscale says bitcoin and major altcoins look \u2018oversold\u2019 as AI risks cloud near-term outlook",
+  "first_seen": "2026-11-24T03:54:17.468387+00:00"
+ },
+ "aa5e34356fdec50c": {
+  "url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+  "title": "Grayscale\u2019s new 2x leveraged Zcash ETF takes 13% opening day tumble",
+  "first_seen": "2026-11-24T03:54:17.468390+00:00"
+ },
+ "3a911dd320d26501": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
+  "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
+  "first_seen": "2026-11-24T03:54:17.468392+00:00"
+ },
+ "fcb0cdad3796194b": {
+  "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384",
+  "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
+  "first_seen": "2026-11-24T03:54:17.468395+00:00"
+ },
+ "62fda75e70c50b22": {
+  "url": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373",
+  "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry",
+  "first_seen": "2026-11-24T03:54:17.468398+00:00"
+ },
+ "028a4f922290f8f6": {
+  "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+  "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+  "first_seen": "2026-11-24T03:54:17.771766+00:00"
+ },
+ "0dfa2e207c170220": {
+  "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+  "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+  "first_seen": "2026-11-24T03:54:17.771782+00:00"
+ },
+ "7d89f844fb82c83f": {
+  "url": "https://cobalt27.dev/",
+  "title": "The Power of GraphQL, Without GraphQL",
+  "first_seen": "2026-11-24T03:54:17.771786+00:00"
+ },
+ "55dd39720b4f64b4": {
+  "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+  "title": "The search for a top dark matter candidate",
+  "first_seen": "2026-11-24T03:54:17.771789+00:00"
+ },
+ "f91a4f1450e310a9": {
+  "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+  "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+  "first_seen": "2026-11-24T03:54:17.771792+00:00"
+ },
+ "258148fd1ab0b811": {
+  "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+  "title": "Freeing the iPod Nano 5G",
+  "first_seen": "2026-11-24T03:54:17.771794+00:00"
+ },
+ "d5878f2f15b72f81": {
+  "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+  "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+  "first_seen": "2026-11-24T03:54:17.771797+00:00"
+ },
+ "8f20e5199f558b31": {
+  "url": "https://arxiv.org/abs/2602.20031",
+  "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+  "first_seen": "2026-11-24T03:54:17.771800+00:00"
+ },
+ "7e689a2455fd0b6d": {
+  "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+  "title": "VP \u2260 VNP over Every Field",
+  "first_seen": "2026-11-24T03:54:17.771802+00:00"
+ },
+ "d17e7b701323446e": {
+  "url": "https://openai.com/index/introducing-shirudo/",
+  "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+  "first_seen": "2026-11-24T03:54:17.771805+00:00"
+ },
+ "61a485f34ad8af1d": {
+  "url": "https://www.bored.com/",
+  "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+  "first_seen": "2026-11-24T03:54:17.771808+00:00"
+ },
+ "5a38c81d0fbc2d61": {
+  "url": "https://github.com/zed-industries/gpui",
+  "title": "GPUI is getting its own repository",
+  "first_seen": "2026-11-24T03:54:17.771810+00:00"
+ },
+ "e6efe33a083e8a55": {
+  "url": "https://arm.jonpalmisc.com/",
+  "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+  "first_seen": "2026-11-24T03:54:17.771813+00:00"
+ },
+ "109d2f6894af143d": {
+  "url": "https://blog.kagi.com/kagi-mail-public-beta",
+  "title": "Kagi Mail (public beta)",
+  "first_seen": "2026-11-24T03:54:17.771815+00:00"
+ },
+ "3c69fd56490c1622": {
+  "url": "https://twitter.com/ylecun/status/2124550037912920090",
+  "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+  "first_seen": "2026-11-24T03:54:17.771818+00:00"
+ },
+ "df08ab47e08b1ed0": {
+  "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "first_seen": "2026-11-24T03:54:17.771823+00:00"
+ },
+ "1f165a47af18053b": {
+  "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+  "title": "Figma employee sues, alleging company forced her to confront harassers",
+  "first_seen": "2026-11-24T03:54:17.814757+00:00"
+ },
+ "27065c561fbc5a7f": {
+  "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "first_seen": "2026-11-24T03:54:17.814769+00:00"
+ },
+ "0d63fb1e6c01db65": {
+  "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "first_seen": "2026-11-24T03:54:17.814773+00:00"
+ },
+ "ada2460a24f685eb": {
+  "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+  "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+  "first_seen": "2026-11-24T03:54:17.814776+00:00"
+ },
+ "9d1f6a725104cec1": {
+  "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+  "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+  "first_seen": "2026-11-24T03:54:17.814779+00:00"
+ },
+ "2475b067992dd4ab": {
+  "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+  "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+  "first_seen": "2026-11-24T03:54:17.814781+00:00"
+ },
+ "8fb6be28f3f17cef": {
+  "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+  "title": "\u2018Outrageous,\u2019 \u2018reckless,\u2019 \u2018wow\u2019: Here\u2019s what politicians are saying about Jensen Huang\u2019s return to Nvidia",
+  "first_seen": "2026-11-24T03:54:17.814784+00:00"
+ },
+ "7601f68fa236425c": {
+  "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+  "first_seen": "2026-11-24T03:54:17.814787+00:00"
+ },
+ "a2f14d06f82b7f3a": {
+  "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+  "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+  "first_seen": "2026-11-24T03:54:17.814790+00:00"
  }
 }
