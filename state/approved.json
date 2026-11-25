@@ -1,43 +1,31 @@
 [
  {
-  "id": "423b8c753c11c242",
-  "title": "The unfolding Jensen Huang scandal: a timeline",
-  "topic": "ai",
-  "story": "jensen-huang-resignation",
-  "score": 8,
-  "raw_score": 9,
+  "id": "b9db119f86f5ede9",
+  "title": "Inkling 2 Mini",
+  "topic": "both",
+  "story": "inkling-2-mini",
+  "score": 7,
+  "raw_score": 8,
   "weight": 0.9,
-  "reason": "Resignation of Nvidia's CEO is frontier-shifting for AI coverage, though the timeline format and single-outlet sourcing warrant confirmation before treating as fully verified.",
+  "reason": "New model release from a major AI lab (Thinking Machines) corroborated by three sources, clearly publishable though not confirmed frontier-shifting.",
   "sources": [
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "published": "Thu, 19 Nov 2026 20:18:49 +0000"
+    "source": "hn",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p> <p>Points: 540</p> <p># Comments: 89</p>",
+    "published": "Fri, 20 Nov 2026 20:12:19 +0000"
    },
    {
-    "source": "techcrunch",
-    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-    "published": "Mon, 23 Nov 2026 21:47:41 +0000"
-   }
-  ]
- },
- {
-  "id": "5c48c1a28f49d184",
-  "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-  "topic": "bitcoin",
-  "story": "bitcoin-core-ai-bug",
-  "score": 8,
-  "raw_score": 8,
-  "weight": 1.0,
-  "reason": "Significant infrastructure security fix in Bitcoin Core discovered by AI agents, representing a notable intersection of AI and Bitcoin protocol security.",
-  "sources": [
+    "source": "hn",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p> <p>Points: 292</p> <p># Comments: 71</p>",
+    "published": "Sat, 21 Nov 2026 18:02:19 +0000"
+   },
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-    "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block\u2019s Spiral that uses AI agents to examine bitcoin code.",
-    "published": "Sat, 21 Nov 2026 06:16:42 +0000"
+    "source": "tldr-ai",
+    "url": "https://tldr.tech/ai/2026-11-23",
+    "summary": "",
+    "published": "Mon, 23 Nov 2026 00:00:00 GMT"
    }
   ]
  }
