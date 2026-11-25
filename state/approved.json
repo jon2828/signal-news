@@ -1,31 +1,19 @@
 [
  {
-  "id": "b9db119f86f5ede9",
-  "title": "Inkling 2 Mini",
-  "topic": "both",
-  "story": "inkling-2-mini",
+  "id": "50968d3ee1076585",
+  "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+  "topic": "bitcoin",
+  "story": "okx-ice-tokenized-assets",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "New model release from a major AI lab (Thinking Machines) corroborated by three sources, clearly publishable though not confirmed frontier-shifting.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Significant infrastructure milestone with major institutional players launching a 24/7 tokenized securities venue.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p> <p>Points: 540</p> <p># Comments: 89</p>",
-    "published": "Fri, 20 Nov 2026 20:12:19 +0000"
-   },
-   {
-    "source": "hn",
-    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p> <p>Points: 292</p> <p># Comments: 71</p>",
-    "published": "Sat, 21 Nov 2026 18:02:19 +0000"
-   },
-   {
-    "source": "tldr-ai",
-    "url": "https://tldr.tech/ai/2026-11-23",
-    "summary": "",
-    "published": "Mon, 23 Nov 2026 00:00:00 GMT"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+    "summary": "The current lineup of issuers and asset managers includes eToro, Fidelity, Strive, BitGo, Circle, Coinbase, Robinhood, and Strategy.",
+    "published": "Mon, 23 Nov 2026 14:01:02 +0000"
    }
   ]
  }
