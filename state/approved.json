@@ -1,43 +1,19 @@
 [
  {
-  "id": "940e55205b44222d",
-  "title": "More on the pending oversight hearings: State of Crypto",
-  "topic": "bitcoin",
-  "story": "crypto-oversight-hearings",
-  "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "New congressional letters expanding oversight hearings into the administration and crypto collateral are a substantive regulatory development with documented sources.",
-  "sources": [
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/",
-    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration \u2014 and the crypto collateral that may be swept up.",
-    "published": "Sun, 22 Nov 2026 19:30:00 +0000"
-   },
-   {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/policy/2026/11/22/more-on-the-pending-oversight-hearings-state-of-crypto",
-    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration \u2014 and the crypto collateral that may be swept up.",
-    "published": "Sun, 22 Nov 2026 19:30:00 +0000"
-   }
-  ]
- },
- {
-  "id": "c7f455eb1ff20047",
-  "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+  "id": "3a911dd320d26501",
+  "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
   "topic": "bitcoin",
   "story": "binance-hack",
-  "score": 7,
-  "raw_score": 7,
+  "score": 8,
+  "raw_score": 8,
   "weight": 1.0,
-  "reason": "Elliptic's analysis of $247 million in laundering from the Binance hack is a significant, sourced development on a major security breach.",
+  "reason": "DOJ action to recover $1.17B tied to the Binance hack plus possible USDC reissuance is a materially large, sourced development.",
   "sources": [
    {
-    "source": "coindesk",
-    "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
-    "summary": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers.",
-    "published": "Mon, 23 Nov 2026 15:29:01 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
+    "summary": "The U.S. Justice Department is seeking to recover about $1.17 billion in USDC tied to the Oct. 29 Binance hack.",
+    "published": "Mon, 23 Nov 2026 20:00:34 +0000"
    }
   ]
  }
