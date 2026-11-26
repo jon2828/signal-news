@@ -1,19 +1,43 @@
 [
  {
-  "id": "50968d3ee1076585",
-  "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+  "id": "940e55205b44222d",
+  "title": "More on the pending oversight hearings: State of Crypto",
   "topic": "bitcoin",
-  "story": "okx-ice-tokenized-assets",
+  "story": "crypto-oversight-hearings",
   "score": 7,
   "raw_score": 7,
   "weight": 1.0,
-  "reason": "Significant infrastructure milestone with major institutional players launching a 24/7 tokenized securities venue.",
+  "reason": "New congressional letters expanding oversight hearings into the administration and crypto collateral are a substantive regulatory development with documented sources.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
-    "summary": "The current lineup of issuers and asset managers includes eToro, Fidelity, Strive, BitGo, Circle, Coinbase, Robinhood, and Strategy.",
-    "published": "Mon, 23 Nov 2026 14:01:02 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/",
+    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration \u2014 and the crypto collateral that may be swept up.",
+    "published": "Sun, 22 Nov 2026 19:30:00 +0000"
+   },
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/policy/2026/11/22/more-on-the-pending-oversight-hearings-state-of-crypto",
+    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration \u2014 and the crypto collateral that may be swept up.",
+    "published": "Sun, 22 Nov 2026 19:30:00 +0000"
+   }
+  ]
+ },
+ {
+  "id": "c7f455eb1ff20047",
+  "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+  "topic": "bitcoin",
+  "story": "binance-hack",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Elliptic's analysis of $247 million in laundering from the Binance hack is a significant, sourced development on a major security breach.",
+  "sources": [
+   {
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+    "summary": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers.",
+    "published": "Mon, 23 Nov 2026 15:29:01 +0000"
    }
   ]
  }
