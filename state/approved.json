@@ -1,37 +1,43 @@
 [
  {
-  "id": "16431fe72366714b",
-  "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
+  "id": "5f3ed2811b6e0947",
+  "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
   "topic": "bitcoin",
-  "story": "korea-crypto-framework",
+  "story": "blackrock-hk-fund",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "A comprehensive regulatory draft including stablecoin issuance rules is a significant adoption and compliance milestone for the crypto sector.",
+  "reason": "Major adoption milestone from a top-tier asset manager entering a new regional market with tokenized products.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
-    "summary": "The draft is expected to include a licensing regime for crypto businesses and a bank-centered issuance system for local stablecoins.",
-    "published": "Mon, 23 Nov 2026 10:11:58 +0000"
+    "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+    "summary": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
+    "published": "Tue, 24 Nov 2026 13:17:35 +0000"
+   },
+   {
+    "source": "cointelegraph",
+    "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png\" alt=\"BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong\" class=\"type:primaryImage\"></p><p>The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.</p>",
+    "published": "Tue, 24 Nov 2026 18:07:22 +0000"
    }
   ]
  },
  {
-  "id": "5094532b4e2e63d2",
-  "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-  "topic": "both",
-  "story": "glm-5-4-release",
-  "score": 8,
-  "raw_score": 9,
-  "weight": 0.9,
-  "reason": "Release of a new frontier model architecture (Loop Transformer) from a major AI lab is a frontier-shifting event.",
+  "id": "9fe8bb68eb8bbe50",
+  "title": "South Korea\u2019s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
+  "topic": "bitcoin",
+  "story": "south-korea-crypto-bill",
+  "score": 7,
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Duplicate of recent coverage but confirms the legislative path and specific bill details.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://z.ai/blog/glm-5.4",
-    "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.4\">https://z.ai/blog/glm-5.4</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50609685\">https://news.ycombinator.com/item?id=50609685</a></p> <p>Points: 754</p> <p># Comments: 267</p>",
-    "published": "Mon, 23 Nov 2026 10:06:43 +0000"
+    "source": "theblock",
+    "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
+    "summary": "The draft will now head to the legislature, where lawmakers will debate it and potentially merge it with competing proposals.",
+    "published": "Tue, 24 Nov 2026 11:25:24 +0000"
    }
   ]
  }
