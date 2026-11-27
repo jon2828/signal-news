@@ -1,19 +1,37 @@
 [
  {
-  "id": "3a911dd320d26501",
-  "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
+  "id": "16431fe72366714b",
+  "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
   "topic": "bitcoin",
-  "story": "binance-hack",
+  "story": "korea-crypto-framework",
   "score": 8,
   "raw_score": 8,
   "weight": 1.0,
-  "reason": "DOJ action to recover $1.17B tied to the Binance hack plus possible USDC reissuance is a materially large, sourced development.",
+  "reason": "A comprehensive regulatory draft including stablecoin issuance rules is a significant adoption and compliance milestone for the crypto sector.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
-    "summary": "The U.S. Justice Department is seeking to recover about $1.17 billion in USDC tied to the Oct. 29 Binance hack.",
-    "published": "Mon, 23 Nov 2026 20:00:34 +0000"
+    "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
+    "summary": "The draft is expected to include a licensing regime for crypto businesses and a bank-centered issuance system for local stablecoins.",
+    "published": "Mon, 23 Nov 2026 10:11:58 +0000"
+   }
+  ]
+ },
+ {
+  "id": "5094532b4e2e63d2",
+  "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+  "topic": "both",
+  "story": "glm-5-4-release",
+  "score": 8,
+  "raw_score": 9,
+  "weight": 0.9,
+  "reason": "Release of a new frontier model architecture (Loop Transformer) from a major AI lab is a frontier-shifting event.",
+  "sources": [
+   {
+    "source": "hn",
+    "url": "https://z.ai/blog/glm-5.4",
+    "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.4\">https://z.ai/blog/glm-5.4</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50609685\">https://news.ycombinator.com/item?id=50609685</a></p> <p>Points: 754</p> <p># Comments: 267</p>",
+    "published": "Mon, 23 Nov 2026 10:06:43 +0000"
    }
   ]
  }
