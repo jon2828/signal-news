@@ -1,37 +1,43 @@
 [
  {
-  "id": "9a8b0f45adbf3a86",
-  "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-  "topic": "bitcoin",
-  "story": "cleanspark-financials",
-  "score": 7,
-  "raw_score": 7,
+  "id": "3c6728c1bfd19879",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "topic": "ai",
+  "story": "gpt-6-protein-design",
+  "score": 9,
+  "raw_score": 9,
   "weight": 1.0,
-  "reason": "Material financial results for a major miner showing a significant loss and strategic pivot to AI infrastructure.",
+  "reason": "Frontier-lab announcement of GPT-6 protein-design capability with lab-validated binding results is frontier-shifting.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
-    "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
-    "published": "Tue, 24 Nov 2026 22:10:45 +0000"
+    "source": "openai",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "published": "Tue, 24 Nov 2026 13:00:00 GMT"
+   },
+   {
+    "source": "hn",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50634658\">https://news.ycombinator.com/item?id=50634658</a></p> <p>Points: 168</p> <p># Comments: 40</p>",
+    "published": "Tue, 24 Nov 2026 21:02:22 +0000"
    }
   ]
  },
  {
-  "id": "30d03f10571df261",
-  "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-  "topic": "both",
-  "story": "matrix-multiplication-breakthrough",
+  "id": "832b59fd38834106",
+  "title": "Italy\u2019s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+  "topic": "bitcoin",
+  "story": "unicredit-bitcoin-certificate",
   "score": 7,
-  "raw_score": 8,
-  "weight": 0.9,
-  "reason": "Frontier AI research result from OpenAI that could significantly impact computational efficiency.",
+  "raw_score": 7,
+  "weight": 1.0,
+  "reason": "Major bank bringing a bitcoin product to roughly 8 million retail customers is a notable adoption milestone.",
   "sources": [
    {
-    "source": "hn",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "summary": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?id=50637220</a></p> <p>Points: 25</p> <p># Comments: 3</p>",
-    "published": "Wed, 25 Nov 2026 01:19:26 +0000"
+    "source": "coindesk",
+    "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+    "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital.",
+    "published": "Wed, 25 Nov 2026 11:51:54 +0000"
    }
   ]
  }
