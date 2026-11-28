@@ -35128,5 +35128,125 @@
   "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
   "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
   "first_seen": "2026-11-27T16:11:07.697755+00:00"
+ },
+ "69f0b4f4a787cfcf": {
+  "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+  "first_seen": "2026-11-28T01:15:53.278542+00:00"
+ },
+ "1a42fa351b2a08c5": {
+  "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+  "first_seen": "2026-11-28T01:15:53.278565+00:00"
+ },
+ "20a21b3a6daea920": {
+  "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "China sets March 2027 rollout for blockchain identity regulations",
+  "first_seen": "2026-11-28T01:15:53.278570+00:00"
+ },
+ "822c3fdc84cf9f71": {
+  "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+  "first_seen": "2026-11-28T01:15:53.278573+00:00"
+ },
+ "4ff74dbbccd96ef2": {
+  "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+  "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+  "first_seen": "2026-11-28T01:15:53.327051+00:00"
+ },
+ "43d9ed5f4e1a6cb6": {
+  "url": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+  "title": "Painting 1990s anime scenes in Python",
+  "first_seen": "2026-11-28T01:15:53.412506+00:00"
+ },
+ "bcf32450cab1acca": {
+  "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+  "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+  "first_seen": "2026-11-28T01:15:53.412523+00:00"
+ },
+ "edf4fd492324b502": {
+  "url": "https://tabernet.es/",
+  "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+  "first_seen": "2026-11-28T01:15:53.412527+00:00"
+ },
+ "b3a16819e1eee4ff": {
+  "url": "https://frantic.im/git/",
+  "title": "Source Control from Hell",
+  "first_seen": "2026-11-28T01:15:53.412529+00:00"
+ },
+ "7355b1a7b1a8bbb6": {
+  "url": "https://progrium.github.io/9ux/",
+  "title": "9/UX: a Macintosh-inspired desktop for 9front",
+  "first_seen": "2026-11-28T01:15:53.412532+00:00"
+ },
+ "60fe99fe03e07da5": {
+  "url": "https://sessiongraph.ai/",
+  "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+  "first_seen": "2026-11-28T01:15:53.412535+00:00"
+ },
+ "073daf031e6cc7d9": {
+  "url": "https://quad9.net/?url=nginx2root.com#domain-tester",
+  "title": "Quad9 Blocks Nginx2root.com",
+  "first_seen": "2026-11-28T01:15:53.412537+00:00"
+ },
+ "b62610b269a0a071": {
+  "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+  "title": "I am scared: Careless People \u2013 Sarah Wynn-Williams on living under a gag order",
+  "first_seen": "2026-11-28T01:15:53.412540+00:00"
+ },
+ "42792ea1ec910a69": {
+  "url": "https://github.com/skeeto/prospero",
+  "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "first_seen": "2026-11-28T01:15:53.412543+00:00"
+ },
+ "fec1e63520111da1": {
+  "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "first_seen": "2026-11-28T01:15:53.412545+00:00"
+ },
+ "b7f5321c6cb4e24e": {
+  "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+  "title": "The AT&T Unix PC (3B1) VM",
+  "first_seen": "2026-11-28T01:15:53.412548+00:00"
+ },
+ "6acd918e33396a3c": {
+  "url": "https://neuralnetworksanddeeplearning.com/",
+  "title": "Michael Nielsen took down his book on neural nets",
+  "first_seen": "2026-11-28T01:15:53.412551+00:00"
+ },
+ "592bb52db4cfb9b9": {
+  "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+  "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+  "first_seen": "2026-11-28T01:15:53.412553+00:00"
+ },
+ "bd57502d850bf778": {
+  "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+  "title": "Scrapheap America",
+  "first_seen": "2026-11-28T01:15:53.412556+00:00"
+ },
+ "e3fd524c3c50f8bc": {
+  "url": "https://github.com/convex/convex-backend-skill/issues/64",
+  "title": "Convex skills send the user's app idea to a remote server without telling them",
+  "first_seen": "2026-11-28T01:15:53.412559+00:00"
+ },
+ "783463322e3cfb62": {
+  "url": "https://dragdropmath.com/",
+  "title": "Show HN: DragDropMath \u2013 Learn math by feel",
+  "first_seen": "2026-11-28T01:15:53.412561+00:00"
+ },
+ "9b67ad13d3381ff0": {
+  "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+  "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+  "first_seen": "2026-11-28T01:15:53.412563+00:00"
+ },
+ "e20b8c05499c1f61": {
+  "url": "https://cr.yp.to/proofs/falseccp.html",
+  "title": "False computer-checked proofs",
+  "first_seen": "2026-11-28T01:15:53.412566+00:00"
+ },
+ "b5a47895ab2cc9da": {
+  "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+  "title": "Rayshader 1.0: Exit the Matrix",
+  "first_seen": "2026-11-28T01:15:53.412570+00:00"
  }
 }

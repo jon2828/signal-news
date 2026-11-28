@@ -1,43 +1,37 @@
 [
  {
-  "id": "5f3ed2811b6e0947",
-  "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+  "id": "9a8b0f45adbf3a86",
+  "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
   "topic": "bitcoin",
-  "story": "blackrock-hk-fund",
-  "score": 8,
-  "raw_score": 8,
+  "story": "cleanspark-financials",
+  "score": 7,
+  "raw_score": 7,
   "weight": 1.0,
-  "reason": "Major adoption milestone from a top-tier asset manager entering a new regional market with tokenized products.",
+  "reason": "Material financial results for a major miner showing a significant loss and strategic pivot to AI infrastructure.",
   "sources": [
    {
     "source": "theblock",
-    "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
-    "summary": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
-    "published": "Tue, 24 Nov 2026 13:17:35 +0000"
-   },
-   {
-    "source": "cointelegraph",
-    "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png\" alt=\"BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong\" class=\"type:primaryImage\"></p><p>The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.</p>",
-    "published": "Tue, 24 Nov 2026 18:07:22 +0000"
+    "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+    "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
+    "published": "Tue, 24 Nov 2026 22:10:45 +0000"
    }
   ]
  },
  {
-  "id": "9fe8bb68eb8bbe50",
-  "title": "South Korea\u2019s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
-  "topic": "bitcoin",
-  "story": "south-korea-crypto-bill",
+  "id": "30d03f10571df261",
+  "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+  "topic": "both",
+  "story": "matrix-multiplication-breakthrough",
   "score": 7,
-  "raw_score": 7,
-  "weight": 1.0,
-  "reason": "Duplicate of recent coverage but confirms the legislative path and specific bill details.",
+  "raw_score": 8,
+  "weight": 0.9,
+  "reason": "Frontier AI research result from OpenAI that could significantly impact computational efficiency.",
   "sources": [
    {
-    "source": "theblock",
-    "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
-    "summary": "The draft will now head to the legislature, where lawmakers will debate it and potentially merge it with competing proposals.",
-    "published": "Tue, 24 Nov 2026 11:25:24 +0000"
+    "source": "hn",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "summary": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p> <p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?id=50637220</a></p> <p>Points: 25</p> <p># Comments: 3</p>",
+    "published": "Wed, 25 Nov 2026 01:19:26 +0000"
    }
   ]
  }
